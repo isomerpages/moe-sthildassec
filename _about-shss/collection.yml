@@ -2,5 +2,6 @@ collections:
   about-shss:
     output: true
     order:
+      - Principal's Message.md
       - School Info.md
       - History.md
