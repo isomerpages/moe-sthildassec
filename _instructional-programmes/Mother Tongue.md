@@ -13,7 +13,7 @@ MOTHER TONGUE
 
 
 
-Programmes / Enrichment 
+Programmes / Enrichment&nbsp;
 ------------------------
 
 To nurture effectively bilingual speakers and enthusiastic learners of Mother Tongue (MT) language and culture through authentic learning experiences.
@@ -30,14 +30,14 @@ Objectives
 To nurture independent and lifelong learners by cultivating and sustaining students’ interest in the learning of the MT languages.  
   
 
-Programmes / Enrichment 
+Programmes / Enrichment&nbsp;
 ------------------------
 
-**Chinese Language  (CL)**
+**Chinese Language&nbsp; (CL)**
 
   
 
-Mother Tongue Fortnight activities allow authentic usage and exposure to MT language  Students are exposed to a wide range of activities that help them to develop a deeper appreciation of the culture, history and values of the MT languages.
+Mother Tongue Fortnight activities allow authentic usage and exposure to MT language&nbsp; Students are exposed to a wide range of activities that help them to develop a deeper appreciation of the culture, history and values of the MT languages.
 
   
 
@@ -49,7 +49,7 @@ Chinese Language competitions for greater exposure and learning opportunities be
 
   
 
-**Malay Language (ML)** 
+**Malay Language (ML)**&nbsp;
 
 ML Cultural Workshop for the Lower Secondary ML students. Students are exposed to authentic Malay cultural experiences.
 
@@ -62,3 +62,9 @@ TL oratorical, debate and writing competitions provide ample learning opportunit
   
 
 Learning Journeys provide authentic learning experiences to the Tamil Language students.
+
+
+Pictures
+--------
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQc3D9tv1xnmaSPcMFq49sLqRgnDFbawUl_k7PEc5ibC9VfvcNuWD7oY6MKlwebgTiIq1gHFZtP316/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
