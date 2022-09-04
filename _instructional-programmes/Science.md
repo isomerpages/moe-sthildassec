@@ -91,15 +91,23 @@ The team employs the following strategies:
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Lower Secondary Science</label>
 
     <div>
 
-      <p>This is line 1</p>
+      <p>The Lower Secondary Science syllabus has been carefully redesigned to facilitate better alignment to the Upper Secondary Science syllabus and tapping on prior knowledge and skills acquired at primary school. The <a href="/files/Attachment%201.pdf">Lower Secondary Modular Science syllabus (revised) (click here for more details):</a> has been purposefully divided into the three modules, Physics, Chemistry and Biology to provide specialised teaching for students’ learning. Each semester, students are exposed to all 3 modules.
 
-      <p>This is line 2<br>
+With effect from January 2014, the Lower Secondary Science curriculum has been revised from what was previously a 4-week cycle, to an 8-week cycle. This means that each module takes up a duration of 8 weeks to be covered. In addition, prior to the End-of-Year Examination, 1 week of revision lesson is allocated to each module.
 
-        This is line 3</p>
+With more flexibility in the curriculum time, curriculum is redesigned to incorporate the school C.A.R.E. (Collaborative, Applied, Reflective, Enquiry) approach aligning to 21CC. As such, students are exposed to different experiences in the learning of Sciences (both in and beyond classrooms), as well as, being assessed in different modes of assessments The following shows the assessment mode for each module in the revised Lower Secondary Science syllabus. The assessment mode is purposefully structured in alignment to the 21 CC Framework.
+			
+			
+				
+				
+				
+			
+			
+</p>
 
     </div>
 
