@@ -95,3 +95,26 @@ Student Insurance Plan
   </tr>
 </tbody>
 </table>
+
+
+To find out the Insurance Coverage Details, please click [here](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students)
+
+To make a claim, please refer to the claim procedure and download the claim form through the following links
+
+*   **[Claim Form](https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx)**
+
+For quicker claims reimbursement, we encourage parent/guardian to submit his/her child's claim via the online portal below.  
+Parents/guardians can also check the claim status on this portal.
+
+*   **[Claim Portal](https://studentgpa.incomegroupins.com.sg/)**
+
+Lost Property
+-------------
+
+All students are to be responsible for their own belongings. Wallets are to be kept with them at all times. Pupils are strongly encouraged not to bring expensive items (e.g. expensive mobile gadgets, gold chains) or excessive amount of money to school.
+
+*   Report all losses to the General Office immediately.
+*   You will be required to write a statement on how you discovered the loss of the item(s).
+*   The case will be forwarded to the Discipline committee for further action.
+
+Personal items which are found should be handed to the office. Owners of lost property can enquire at the office and make rightful claim to the items.
