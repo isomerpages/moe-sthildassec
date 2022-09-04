@@ -3,4 +3,10 @@ title: History
 permalink: /about-shss/history/
 description: ""
 ---
-Page Empty (To be filled)
+![](/images/School%20Info/History%20Banner.png)
+
+HISTORY
+-------
+
+
+CONTENT FROM ORIGINAL SCHOOL SITE TO BE MIGRATED HERE
