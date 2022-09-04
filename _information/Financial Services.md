@@ -50,3 +50,30 @@ Forms of financial assistance available are:
 
   
 **<u>Eligibility</u>**
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Gross Household Income &amp; Per Capital Income for MOE FAS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Gross Household Income (GHI) not exceeding $2,750 per month</td>
+    <td>Gross Household Income</td>
+  </tr>
+  <tr>
+    <td>Per Capital Income (PCI) not exceeding $690 per month</td>
+    <td>If (GHI) exceeded</td>
+  </tr>
+</tbody>
+</table>
+
+
+*   hose who do not meet the above criterion may be granted subsidy on a case by case basis. 
+*   Pupils must have a record of good conduct. 
+*   All approved MOE FAS pupils will be eligible for the Sec 1 New student package and meal allowance benefits.
+
+**\* This applies only to newly admitted students for the year.**
+
+**\* This benefit is subjected to approval on a case by case basis and availability of resources.**
