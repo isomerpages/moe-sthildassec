@@ -70,17 +70,18 @@ Saturday, 9th July 2022
 
   
 
-The application is free of charge and will be open from **5th May to 1st June 2022**
+The application is free of charge and will be open from <b>5th May to 1st June 2022</b>
 
   
 
-For DSA application, please refer to the following link  - [DSA Application](https://www.moe.gov.sg/secondary/dsa/application)
+For DSA application, please refer to the following link  -
+<a href="https://www.moe.gov.sg/secondary/dsa/application">DSA Application</a>				
 
 For further clarification or inquiry, please contact:
 
-**Mr Kenneth Kwok** : [kwok_yong_koon_kenneth@moe.edu.sg](mailto:kwok_yong_koon_kenneth@moe.edu.sg)
+<b>Mr Kenneth Kwok</b> : <a href="mailto:kwok_yong_koon_kenneth@moe.edu.sg">kwok_yong_koon_kenneth@moe.edu.sg</a>
 
-**Mr Abbas Bin Abdul Karim**: [abbas_abdul_karim@moe.edu.sg](mailto:abbas_abdul_karim@moe.edu.sg)</p>
+<b>Mr Abbas Bin Abdul Karim</b>: <a href="mailto:abbas_abdul_karim@moe.edu.sg">abbas_abdul_karim@moe.edu.sg</a></p>
 
     </div>
 
