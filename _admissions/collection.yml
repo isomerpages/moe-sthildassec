@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Joint Admissions Exercise.md
       - Transfer Forms.md
       - Admissions.md
       - Direct School Admission (DSA).md
