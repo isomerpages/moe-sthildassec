@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - Financial Services.md
       - Students' Services.md
