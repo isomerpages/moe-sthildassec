@@ -2,6 +2,7 @@ collections:
   about-shss:
     output: true
     order:
+      - Staff.md
       - Key Personnel.md
       - School Management Committee.md
       - Vice Principal's Message.md
