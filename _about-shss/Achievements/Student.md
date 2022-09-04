@@ -36,3 +36,31 @@ Student who achieves excellent academic results at the GCE-O Level Examination, 
 <u>**Awards for Pupils**</u>
 
 **[View](/files/Awards.pdf)** our Awards for Pupils.
+
+
+Achievement
+-----------
+
+
+![](/images/School%20Info/Student%20Achievements%201.jpg)
+
+**Joshua Tang**
+  
+
+St. Hilda's Secondary School congratulates our alumnus Mr Joshua Tang for receiving the Asia Pacific Breweries (APB) Foundation Scholarship for Persons with Disabilities! He continues to be an inspiration to his peers and juniors in SHS with his spirit of excellence! Well done, Joshua! The Hildan family is proud of you! 
+
+  
+(The link: [http://www.tnp.sg/news/singapore/trio-awarded-scholarships-people-disabilities](http://www.tnp.sg/news/singapore/trio-awarded-scholarships-people-disabilities))
+
+
+
+![](/images/School%20Info/Student%20Achievements%202.jpg)
+
+
+**Oh Siew May**
+
+St. Hilda's Secondary School congratulates our alumnus Ms Oh Siew May for receiving the Silent Heroes Award! She has inspired peers, students and teachers with her positive attitude and values. Well done Ms Oh! You have done the Hildan family proud! 
+
+  
+
+(The link: [http://www.straitstimes.com/singapore/cerebral-palsy-did-not-stop-her-from-giving-back-to-society?xtor=CS3-18](http://www.straitstimes.com/singapore/cerebral-palsy-did-not-stop-her-from-giving-back-to-society?xtor=CS3-18))
