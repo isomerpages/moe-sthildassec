@@ -70,7 +70,7 @@ Forms of financial assistance available are:
 </table>
 
 
-*   hose who do not meet the above criterion may be granted subsidy on a case by case basis. 
+*   Those who do not meet the above criterion may be granted subsidy on a case by case basis. 
 *   Pupils must have a record of good conduct. 
 *   All approved MOE FAS pupils will be eligible for the Sec 1 New student package and meal allowance benefits.
 
