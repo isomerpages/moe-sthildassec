@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Transfer Forms.md
       - Admissions.md
       - Direct School Admission (DSA).md
