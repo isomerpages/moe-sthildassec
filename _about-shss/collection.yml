@@ -2,18 +2,18 @@ collections:
   about-shss:
     output: true
     order:
-      - Privacy Statement.md
-      - Publicity.md
-      - Facilities.md
+      - School Info.md
+      - History.md
+      - Principal's Message.md
+      - Vice Principal's Message.md
+      - School Management Committee.md
+      - Key Personnel.md
+      - Staff.md
       - Achievements/.keep
       - Achievements/School.md
       - Achievements/Staff.md
       - Achievements/Co Curricular Activities.md
       - Achievements/Student.md
-      - Staff.md
-      - Key Personnel.md
-      - School Management Committee.md
-      - Vice Principal's Message.md
-      - Principal's Message.md
-      - History.md
-      - School Info.md
+      - Facilities.md
+      - Publicity.md
+      - Privacy Statement.md
