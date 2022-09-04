@@ -2,6 +2,6 @@ collections:
   about-shss:
     output: true
     order:
-      - folder-page.md
+      - History.md
       - School Info/.keep
       - School Info/subfolder-page.md
