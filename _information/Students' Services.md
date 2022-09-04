@@ -101,7 +101,7 @@ To find out the Insurance Coverage Details, please click [here](https://www.inc
 
 To make a claim, please refer to the claim procedure and download the claim form through the following links
 
-*   **[Claim Form](https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx)**
+*   **[Claim Form](https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx)** **(BROKEN LINK HERE)**
 
 For quicker claims reimbursement, we encourage parent/guardian to submit his/her child's claim via the online portal below.  
 Parents/guardians can also check the claim status on this portal.
