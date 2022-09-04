@@ -2,6 +2,7 @@ collections:
   about-shss:
     output: true
     order:
+      - School Management Committee.md
       - Vice Principal's Message.md
       - Principal's Message.md
       - History.md
