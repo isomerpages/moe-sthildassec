@@ -139,14 +139,15 @@ For further clarification or inquiry, please contact:
 </tbody>
 </table>
 			
-**Important Information**  
+<b>Important Information</b>  
   
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.   
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.   <br><br>
   
-Meeting all criteria does not guarantee students will be shortlisted/ given an offer.  
+Meeting all criteria does not guarantee students will be shortlisted/ given an offer.  <br><br>
   
-Students who are successfully admitted to the school via <u>DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4</u>.   
-**LETTERS ON OUTCOME OF SELECTION WILL BE ISSUED TO ALL DSA APPLICANTS BY** **12TH SEPT 2022**			
+Students who are successfully admitted to the school via <u>DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4</u>. <br>  <br>
+			
+<b>LETTERS ON OUTCOME OF SELECTION WILL BE ISSUED TO ALL DSA APPLICANTS BY 12TH SEPT 2022</b>			
 
       </p>
 
