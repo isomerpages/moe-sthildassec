@@ -10,5 +10,4 @@ SCHOOL
 ------
 
 ![](/images/School%20Info/School%20Achievements%201.png)
-
 ![](/images/School%20Info/School%20Achievements%202.png)
