@@ -90,59 +90,64 @@ For further clarification or inquiry, please contact:
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Admission Criteria</label>
 
     <div>
 
       <p>
 
-        This is all going
-
-        to become just one line\\n even though there are multiple lines
+<table style="undefined;table-layout: fixed; width: 702px">
+<colgroup>
+<col style="width: 351px">
+<col style="width: 351px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">(A) Academic Performance</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Applicants currently studying in local national schools</td>
+    <td>Obtained a pass in the English Language and at least an overall percentage of 50% for the Primary 6 Mid-year Examinations.</td>
+  </tr>
+  <tr>
+    <td>For applicants not studying in a MOE mainstream primary schools - you will need to apply for a registration number (RG No.) before you can apply through the DSA-Sec portal.<br>For shortlisted international students, you are reminded to take and fulfill the requirements of the AEIS test to be successful in DSA. You can refer to the link <a href="https://www.moe.gov.sg/international-students/aeis">here</a> for more information on AEIS.</td>
+    <td>You can apply for a registration number <a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school">here</a><br><br><br><br><br></td>
+  </tr>
+  <tr>
+    <td colspan="2">(B) Physical Fitness Performance (applies to students currently studying in local national schools)</td>
+  </tr>
+  <tr>
+    <td colspan="2">Achieved at least a Silver Award in the most recent NAPFA Test.<br></td>
+  </tr>
+  <tr>
+    <td colspan="2">(C) Co-Curricular Activities (CCA) Performance</td>
+  </tr>
+  <tr>
+    <td>Preferably fulfilled one of the following:</td>
+    <td>1. Represented School in Competition (Zonal / National) <br><br>2. Member of School Volleyball, Netball, Hockey (Boys), Floorball (Girls) &amp; Badminton (Boys) Team<br><br>3. Represented School in any Sports CCA</td>
+  </tr>
+  <tr>
+    <td colspan="2">(D) Skills and Interview</td>
+  </tr>
+  <tr>
+    <td><br>Applicants will be tested on their skills and physical abilities.<br><br>Applicants will undergo an interview with the respective CCAs they applied for.<br></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+			
+**Important Information**  
+  
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.   
+  
+Meeting all criteria does not guarantee students will be shortlisted/ given an offer.  
+  
+Students who are successfully admitted to the school via <u>DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4</u>.   
+**LETTERS ON OUTCOME OF SELECTION WILL BE ISSUED TO ALL DSA APPLICANTS BY** **12TH SEPT 2022**			
 
       </p>
-
-    </div>
-
-  </li>
-
-  <li>
-
-    <input type="checkbox" id="accordion4">
-
-    <label for="accordion4">Ordered List</label>
-
-    <div>
-
-      <ol>
-
-        <li>Item 1</li>
-
-        <li>Item 2</li>        <li>Item 3</li>
-
-      </ol>
-
-    </div>
-
-  </li>
-
-  <li>
-
-    <input type="checkbox" id="accordion5">
-
-    <label for="accordion5">Unordered List</label>
-
-    <div>
-
-      <ul>
-
-        <li>Item 1</li>
-
-        <li>Item 2</li>
-
-        <li>Item 3</li>
-
-      </ul>
 
     </div>
 
