@@ -1,8 +1,29 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Shss
     collection: about-shss
+  - title: Admissions
+    collection: admissions
+  - title: Information
+    collection: information
+  - title: HILDAN EXPERIENCE
+    url: /hildan-experience/instructional-programmes/english-n-literature
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
+  - title: Contact Us
+    url: /contact-us/
