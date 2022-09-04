@@ -101,7 +101,39 @@ With effect from January 2014, the Lower Secondary Science curriculum has been r
 
 With more flexibility in the curriculum time, curriculum is redesigned to incorporate the school C.A.R.E. (Collaborative, Applied, Reflective, Enquiry) approach aligning to 21CC. As such, students are exposed to different experiences in the learning of Sciences (both in and beyond classrooms), as well as, being assessed in different modes of assessments The following shows the assessment mode for each module in the revised Lower Secondary Science syllabus. The assessment mode is purposefully structured in alignment to the 21 CC Framework.
 			
+<table>
+<thead>
+  <tr>
+    <th>Subject</th>
+    <th colspan="2">Mode of Assessment</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">Each module of Science stands a weighting of 20%</td>
+    <td>Quizzes, Graded Assignments</td>
+    <td>No. of pieces: Minimum 3 Graded Assignments and 1 AfL quiz<br>Weighting: 30%</td>
+  </tr>
+  <tr>
+    <td>Modular Test</td>
+    <td>No. of pieces: 1<br>Weighting: 50%</td>
+  </tr>
+  <tr>
+    <td>Sec 1: Authentic Transfer Task (ATT)<br>Sec 2: Practical Test</td>
+    <td>No. of pieces: 1<br>Weighting: 20%</td>
+  </tr>
+</tbody>
+</table>
 			
+*<b>Please note that there is no Mid-Year Examination for Lower Secondary Science wef 2014</b>
+
+With this distinction among the three modules of Science, our students are better able to familiarize themselves with the subjects and to make more informed decisions when it comes to choosing their Science subject combinations in Upper Secondary.
+
+To further support the learning of students in **Lower Secondary Science** , the following are implemented:
+
+Revision of Common Notes & Worksheets for Physics, Chemistry, Biology modules
+
+\- Structured Science Remedial/ Supplementary Programme (SRSP) after Curriculum time			
 				
 				
 				
