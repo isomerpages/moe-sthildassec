@@ -374,27 +374,27 @@ Administration Office
   <tr>
     <td>Mr Benjamin Yap</td>
     <td>Administration Manager</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>yap_yong_tah_benjamin@moe.edu.sg</td>
+    <td><a href="mailto:yap_yong_tah_benjamin@moe.edu.sg">yap_yong_tah_benjamin@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr Thomas Wong</td>
     <td>Operations Manager</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>wong_huat_leng@moe.edu.sg</td>
+    <td><a href="mailto:wong_huat_leng@moe.edu.sg">wong_huat_leng@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr Abbas Bin Abdul Karim</td>
     <td>Administrative Executive</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>abbas_abdul_karim@moe.edu.sg</td>
+    <td><a href="mailto:abbas_abdul_karim@moe.edu.sg">abbas_abdul_karim@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mdm Goh Cheng Choo</td>
     <td>Management Support Officer (MSO)</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>goh_cheng_choo@moe.edu.sg</td>
+    <td><a href="mailto:goh_cheng_choo@moe.edu.sg">goh_cheng_choo@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mdm Nurlena Binte Ab. Rahman</td>
     <td>Management Support Officer (MSO)</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>nurlena_ab_rahman@moe.edu.sg </td>
+    <td><a href="mailto:nurlena_ab_rahman@moe.edu.sg">nurlena_ab_rahman@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -414,27 +414,27 @@ Counselling and Special Needs
   <tr>
     <td>Ms Denise Poh</td>
     <td>School Counsellor</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>denise_poh_shu_ning@moe.edu.sg</td>
+    <td><a href="mailto:denise_poh_shu_ning@moe.edu.sg">denise_poh_shu_ning@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr Timothy Lee</td>
     <td>School Counsellor</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>timothy_lee@moe.edu.sg</td>
+    <td><a href="mailto:timothy_lee@moe.edu.sg">timothy_lee@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr Shaik Fuad Bin Abdul Jabbar</td>
     <td>Student Welfare Officer (EO)</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>fuad_abdul_jabbar_shaik@moe.edu.sg</td>
+    <td><a href="mailto:fuad_abdul_jabbar_shaik@moe.edu.sg">fuad_abdul_jabbar_shaik@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mrs Shirlyn Ko</td>
     <td>Senior AED (Learning &amp; Behavioral Support)</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>sin_hwee_leng_shirlyn@moe.edu.sg</td>
+    <td><a href="mailto:sin_hwee_leng_shirlyn@moe.edu.sg">sin_hwee_leng_shirlyn@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr Md Hafiz Bin Abas</td>
     <td>AED (Learning &amp; Behavioral Support)</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>mohamad_hafiz_abas@moe.edu.sg</td>
+    <td><a href="mailto:mohamad_hafiz_abas@moe.edu.sg">mohamad_hafiz_abas@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -448,37 +448,37 @@ Level Discipline 
   <tr>
     <td>HOD/Student Management  </td>
     <td>Mrs Diane Ang </td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>koh_mei_lin_diane@moe.edu.sg</td>
+    <td><a href="mailto:koh_mei_lin_diane@moe.edu.sg">koh_mei_lin_diane@moe.edu.sg</a></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="2">SEC 1 LDM</td>
     <td>Mr Kuhendran s/o Varatharajasinga</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>kuhendran_varatharajasinga@moe.edu.sg</td>
+    <td><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg">kuhendran_varatharajasinga@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mdm Lim Bee Fang</td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>lim_bee_fang@moe.edu.sg</td>
+    <td><a href="mailto:lim_bee_fang@moe.edu.sg">lim_bee_fang@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td rowspan="2">SEC 2 LDM</td>
     <td>Mdm Shahroon Jihan d/o Khairoodin (Mrs Khan) </td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>shahroon_jihan_khairoodin@moe.edu.sg</td>
+    <td><a href="mailto:shahroon_jihan_khairoodin@moe.edu.sg">shahroon_jihan_khairoodin@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>Mr Lim Keon Suai </td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>lim_keon_suai@moe.edu.sg</td>
+    <td><a href="mailto:lim_keon_suai@moe.edu.sg">lim_keon_suai@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>SEC 3 LDM</td>
     <td>Mdm Juwaidah Bte Adnan </td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>juwaidah_adnan@moe.edu.sg</td>
+    <td><a href="mailto:juwaidah_adnan@moe.edu.sg">juwaidah_adnan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td>SEC 4/5 LDM</td>
     <td>Mr Abdul Bari Bin Ahmad </td>
-    <td><a href="mailto:yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a>abdul_bari_ahmad@moe.edu.sg</td>
+    <td><a href="mailto:abdul_bari_ahmad@moe.edu.sg">abdul_bari_ahmad@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
