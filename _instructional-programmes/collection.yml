@@ -2,15 +2,15 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Elements of Business Skills.md
-      - Principle of Accounts.md
-      - Food & Consumer Education.md
-      - Design & Technology.md
-      - Computer Applications.md
-      - Aesthetics.md
-      - Physical Education.md
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
-      - Mother Tongue.md
       - English & Literature.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Physical Education.md
+      - Aesthetics.md
+      - Computer Applications.md
+      - Design & Technology.md
+      - Food & Consumer Education.md
+      - Principle of Accounts.md
+      - Elements of Business Skills.md
