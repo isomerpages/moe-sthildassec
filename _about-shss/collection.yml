@@ -2,11 +2,11 @@ collections:
   about-shss:
     output: true
     order:
-      - Achievements/Student.md
-      - Achievements/Co Curricular Activities.md
-      - Achievements/Staff.md
-      - Achievements/School.md
       - Achievements/.keep
+      - Achievements/School.md
+      - Achievements/Staff.md
+      - Achievements/Co Curricular Activities.md
+      - Achievements/Student.md
       - Staff.md
       - Key Personnel.md
       - School Management Committee.md
