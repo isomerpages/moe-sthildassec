@@ -2,8 +2,8 @@ collections:
   information:
     output: true
     order:
-      - Parents Gateway.md
-      - School Terms & Holidays.md
-      - Admin Forms.md
-      - Financial Services.md
       - Students' Services.md
+      - Financial Services.md
+      - Admin Forms.md
+      - School Terms & Holidays.md
+      - Parents Gateway.md
