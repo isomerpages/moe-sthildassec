@@ -2,5 +2,6 @@ collections:
   information:
     output: true
     order:
+      - Admin Forms.md
       - Financial Services.md
       - Students' Services.md
