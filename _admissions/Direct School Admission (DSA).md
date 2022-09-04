@@ -26,11 +26,33 @@ To find out what it's like to be a Hildan Student Athlete, please click [here!]
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Selection Stage</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>Applicants & their guardian/parent will receive an email with details pertaining to the selection stage. All applicants will undergo tests & interviews.
+
+**<u>Due to the COVID-19 Pandemic, schedules and format of the selection processes are subject to change</u>**. Please refer to the schedule below for the projected dates of the selection.
+
+**<u>Selection Schedule</u>**
+
+**Session D1**  
+**Floorball Girls, Hockey & Volleyball Boys**  
+Saturday, 2nd July 2022  
+9.00am to 11.00am
+
+  
+
+**Session D2**  
+**Badminton Boys, Netball & Volleyball Girls**  
+Saturday, 9th July 2022  
+9.00am to 11.00am
+
+  
+
+**_\*All our selection will be face to face at St. Hilda's Secondary School._**				
+			
+</p>
 
     </div>
 
