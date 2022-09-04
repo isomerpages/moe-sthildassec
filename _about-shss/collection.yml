@@ -2,6 +2,7 @@ collections:
   about-shss:
     output: true
     order:
+      - Achievements/School.md
       - Achievements/.keep
       - Staff.md
       - Key Personnel.md
