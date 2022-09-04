@@ -2,4 +2,5 @@ collections:
   about-shss:
     output: true
     order:
+      - School Info.md
       - History.md
