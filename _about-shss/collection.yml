@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - History.md
-      - School Info/.keep
-      - School Info/subfolder-page.md
