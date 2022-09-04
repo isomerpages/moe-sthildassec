@@ -28,28 +28,29 @@ SCIENCE
 
     <div>
 
-      <p>**Mission**  
+			<p>
+<b><u>Mission</u></b>  
 To develop the love for Science by providing quality Science education that is holistic, innovative and creative.
 
-**Vision**
+<b><u>Vision</b></u>
 
 Every Student A Scientist.
 
-**Values**  
+<b><u>Values</b></u>  
 Disciplined, Competent, Caring and Committed.
 
-**Guiding Principles of Science Department**
+<b><u>Guiding Principles of Science Department</b></u>
 
 *   Students’ learning is by design and not by chance.
 *   Provide a quality base for students in engaged learning.
 
-**Objectives**
+<b><u>Objectives</b></u>
 
 The Science team strives to align its curriculum to the 21 st Century Competencies (21CC) Framework, mainly focusing on 2 domains:
 
-**_(i) Critical and Inventive Thinking_**
+<b><i>(i) Critical and Inventive Thinking</i></b>
 
-**_(ii) Collaboration, Communication and Information Skills_**
+<b><i>(ii) Collaboration, Communication and Information Skills</b></i>
 
 Based on this framework, the Science team aims to:
 
@@ -58,15 +59,15 @@ Based on this framework, the Science team aims to:
 *   instill in our students an awareness of the interactions of Science and everyday life
 *   develop abilities and skills in our students for them to be thinking individuals who are able to work independently as well as collaboratively, to communicate effectively and to use ICT to enhance their learning
 
-**Areas of Focus**
+<b><u>Areas of Focus</b></u>
 
 Through the Science Curriculum, the Science team hopes for students to achieve Quality Experience in Science and Quality Results.
 
-*   **Quality Experience in Science**
+*   <b>Quality Experience in Science</b>
 
-The Science team hopes for our students, from all levels and courses, to develop memorable experiences in learning Science by providing them with out-of-classroom contexts and laboratory opportunities through the STEM (Science Through Enrichment Modules) programme. [Click here for more details...](https://sthildassec.moe.edu.sg/qql/slot/u168/docs/internal_pages/hildan_experience/science/STEM_Programmes.pdf)
+The Science team hopes for our students, from all levels and courses, to develop memorable experiences in learning Science by providing them with out-of-classroom contexts and laboratory opportunities through the STEM (Science Through Enrichment Modules) programme. <a href="/files/STEM_Programmes.pdf">Click here for more details...</a>
 
-*   **Quality Results**
+*   <b>Quality Results</b>
 
 The Science team strives to engage our students in meaningful learning through innovative teaching practices, achieving Sustained Value-Addedness in Academic Achievement and more importantly leading them to ownership of knowledge.
 
@@ -145,4 +146,3 @@ The team employs the following strategies:
   </li>
 
 </ul>
-
