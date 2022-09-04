@@ -66,20 +66,20 @@ Saturday, 9th July 2022  <br>
 
     <div>
 
-      <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. More information regarding the DSA can be found on the [MOE DSA Website.](https://www.moe.gov.sg/secondary/dsa)   
+      <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. More information regarding the DSA can be found on the <a href="https://www.moe.gov.sg/secondary/dsa">MOE DSA Website</a> <br> <br>
 
   
 
-The application is free of charge and will be open from <b>5th May to 1st June 2022</b>
+The application is free of charge and will be open from <b>5th May to 1st June 2022</b> <br> <br>
 
   
 
 For DSA application, please refer to the following link  -
-<a href="https://www.moe.gov.sg/secondary/dsa/application">DSA Application</a>				
+<a href="https://www.moe.gov.sg/secondary/dsa/application">DSA Application</a>				<br><br>
 
-For further clarification or inquiry, please contact:
+For further clarification or inquiry, please contact: <br><br>
 
-<b>Mr Kenneth Kwok</b> : <a href="mailto:kwok_yong_koon_kenneth@moe.edu.sg">kwok_yong_koon_kenneth@moe.edu.sg</a>
+<b>Mr Kenneth Kwok</b> : <a href="mailto:kwok_yong_koon_kenneth@moe.edu.sg">kwok_yong_koon_kenneth@moe.edu.sg</a> <br> <br>
 
 <b>Mr Abbas Bin Abdul Karim</b>: <a href="mailto:abbas_abdul_karim@moe.edu.sg">abbas_abdul_karim@moe.edu.sg</a></p>
 
