@@ -2,6 +2,7 @@ collections:
   about-shss:
     output: true
     order:
+      - Publicity.md
       - Facilities.md
       - Achievements/.keep
       - Achievements/School.md
