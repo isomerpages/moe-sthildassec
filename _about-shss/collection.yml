@@ -2,6 +2,7 @@ collections:
   about-shss:
     output: true
     order:
+      - Achievements/Co Curricular Activities.md
       - Achievements/Staff.md
       - Achievements/School.md
       - Achievements/.keep
