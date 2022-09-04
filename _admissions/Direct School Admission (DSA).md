@@ -138,6 +138,8 @@ For further clarification or inquiry, please contact: <br><br>
   </tr>
 </tbody>
 </table>
+
+<br>
 			
 <b>Important Information</b>  
   
