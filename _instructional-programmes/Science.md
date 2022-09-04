@@ -149,15 +149,23 @@ Revision of Common Notes & Worksheets for Physics, Chemistry, Biology modules
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Upper Secondary Science</label>
 
     <div>
 
       <p>
 
-        This is all going
+At the end of Secondary 2, our students are required to choose their Upper Secondary subject combinations according to their Exp/NA/NT courses. <a href="/files/Attachment%202.pdf">(click here for more details):</a>
 
-        to become just one line\\n even though there are multiple lines
+To further support the learning of students in **Upper Secondary Sciences** , the following are implemented:
+
+\- For Secondary 3 Chemistry, Physics & Biology: Re-design of critical topics using Understanding by Design (UbD) Framework, with accompanying Lesson Packages.
+
+\- Revised Common Notes & Worksheets for Physics, Chemistry, Biology
+
+\- For graduating classes (in Semester 1): Structured Science Remedial/ Supplementary Programme (SRSP) after Curriculum time
+
+\- For graduating classes (in Semester 2): Science Banded Programme for Secondary 4 Express and Secondary 5 Normal Academic during Curriculum time
 
       </p>
 
@@ -169,18 +177,28 @@ Revision of Common Notes & Worksheets for Physics, Chemistry, Biology modules
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">Science Through Enrichment Modules (STEM) and Achievements</label>
 
     <div>
 
-      <ol>
+<p>
 
-        <li>Item 1</li>
+The Science department has been organizing and conducting numerous enrichment programmes through STEM, introduced in 2006. The STEM programmes are conducted to expose students to science beyond the textbooks and to enrich the students with the 21 st Century Competencies skills such as in the domains of <b>Critical and Inventive Thinking</b> as well as <b>Information</b> , <b>Collaboration and Communication Skills</b> .
 
-        <li>Item 2</li>        <li>Item 3</li>
+The STEM programme aims to provide a memorable experience for our students and to enhance and sustain their interest and quality learning experience in Science. In addition, STEM provides the opportunities for students to participate in various Science-related competitions at a national level. These platforms build confidence in our students and allow them to gain a measure of their own achievement under the mentorship of our Science teachers, in an external assessment situation, providing them with memorable learning experiences in their secondary school years.
 
-      </ol>
+<a href="/files/STEM_Programmes.pdf">Click here for more details...</a>
 
+1.  Microbial Fuel Cells (MFC) Programme
+2.  PET Rocket
+3.  Forensic Science Workshop by Ngee Ann Polytechnic
+4.  The Amazing Forensic Science Challenge
+5.  Biology Field Trip
+6.  Chemistry Appreciation Programme: Simply Science
+7.  Physics Enrichment Programme: Physics Workshops conducted by the Science Centre	
+
+	
+</p>	
     </div>
 
   </li>
