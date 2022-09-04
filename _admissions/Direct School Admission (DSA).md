@@ -62,15 +62,25 @@ Saturday, 9th July 2022
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Application</label>
 
     <div>
 
-      <p>This is line 1</p>
+      <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. More information regarding the DSA can be found on the [MOE DSA Website.](https://www.moe.gov.sg/secondary/dsa)   
 
-      <p>This is line 2<br>
+  
 
-        This is line 3</p>
+The application is free of charge and will be open from **5th May to 1st June 2022**
+
+  
+
+For DSA application, please refer to the following link  - [DSA Application](https://www.moe.gov.sg/secondary/dsa/application)
+
+For further clarification or inquiry, please contact:
+
+**Mr Kenneth Kwok** : [kwok_yong_koon_kenneth@moe.edu.sg](mailto:kwok_yong_koon_kenneth@moe.edu.sg)
+
+**Mr Abbas Bin Abdul Karim**: [abbas_abdul_karim@moe.edu.sg](mailto:abbas_abdul_karim@moe.edu.sg)</p>
 
     </div>
 
