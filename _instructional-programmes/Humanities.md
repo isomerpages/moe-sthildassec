@@ -84,15 +84,20 @@ Geographical investigation provides students with opportunities to study and app
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Multi-line Block</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Historical Investigations (HI)</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>This is line 1</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+	
+The History unit seeks to develop students to become critical and inventive thinkers, and to cultivate their interests in History by engaging them in the HI process through the inquiry approach.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>This is line 2<br>
+Through the inquiry investigation, the secondary one and two students develop a sense of curiosity by learning to ask relevant questions about the past, and have the opportunity to examine sources critically. Students will develop their ability to organise and form logical conclusions about the inquiry question posed. By working in groups, students co-build knowledge together and learn to leverage the different Information and Communications Technology (ICT) tools to communicate their ideas effectively.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is line 3</p>
+HI provides students with an opportunity for them to learn beyond their classroom, and to develop a deeper understanding of Singapore’s history and heritage.
+	
+</p>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
