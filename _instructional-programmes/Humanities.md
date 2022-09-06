@@ -90,9 +90,9 @@ Geographical investigation provides students with opportunities to study and app
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 	
-The History unit seeks to develop students to become critical and inventive thinkers, and to cultivate their interests in History by engaging them in the HI process through the inquiry approach.  
+The History unit seeks to develop students to become critical and inventive thinkers, and to cultivate their interests in History by engaging them in the HI process through the inquiry approach.   <br> <br>
 
-Through the inquiry investigation, the secondary one and two students develop a sense of curiosity by learning to ask relevant questions about the past, and have the opportunity to examine sources critically. Students will develop their ability to organise and form logical conclusions about the inquiry question posed. By working in groups, students co-build knowledge together and learn to leverage the different Information and Communications Technology (ICT) tools to communicate their ideas effectively.
+Through the inquiry investigation, the secondary one and two students develop a sense of curiosity by learning to ask relevant questions about the past, and have the opportunity to examine sources critically. Students will develop their ability to organise and form logical conclusions about the inquiry question posed. By working in groups, students co-build knowledge together and learn to leverage the different Information and Communications Technology (ICT) tools to communicate their ideas effectively. <br><br>
 
 HI provides students with an opportunity for them to learn beyond their classroom, and to develop a deeper understanding of Singapore’s history and heritage.
 	
@@ -107,15 +107,19 @@ HI provides students with an opportunity for them to learn beyond their classroo
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Multi-line Folded</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Social Studies *(Issue Investigation)</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is all going
+The Social Studies unit seeks to adopt the inquiry approach to guide students in exploring current societal issues and preparing them for the responsibilities they need to exercise as good citizens. <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to become just one line\\n even though there are multiple lines
+Issue investigation provides a platform for our secondary three students to demonstrate the knowledge, skills and values needed for active citizenship. Students will embark on an investigation on a societal issue of meaning to them, they will then extend their inquiry skills by working with their peers. When students undertake issue investigation, they learn to question unexamined assumptions and develop perspective-taking which will contribute towards helping them arrive at informed conclusions. <br><br>
+
+Issue investigation thus provides students with the opportunity to practise and demonstrate the 21st Century Competencies to become informed, concerned and participative citizens.<br><br>
+
+In SHSS, issue investigation is infused in our secondary three integrated programme, in collaboration with the Character & Citizenship Education and the English Language department.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
