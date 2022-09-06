@@ -64,15 +64,15 @@ The Geography unit seeks to develop critical and inventive thinkers through the 
 
 During the course of their investigation, students will use geographical skills acquired in the classroom to conduct investigations and analysis of their observations on current issues. This process helps students to understand contemporary environmental issues and gain in-depth knowledge that allows them to have deeper awareness about sustainable development, and their role as active citizens of the community.<br> <br>
 
-a)    <u>Secondary One Geographical Investigation</u>  
+a)    <u>Secondary One Geographical Investigation</u>  <br> <br>
 
-Our secondary one students will be collecting data on their household usage of water through the administering of a survey, field sketch and calculation of their water footprint. Based on the data collected, they will critically examine the implications of the urgent need for a sustainable use of water as a nation, and the role they play as stewards of the environment.
+Our secondary one students will be collecting data on their household usage of water through the administering of a survey, field sketch and calculation of their water footprint. Based on the data collected, they will critically examine the implications of the urgent need for a sustainable use of water as a nation, and the role they play as stewards of the environment. <br><br>
 
-b)    <u>Secondary Two Geographical Investigation</u>  
+b)    <u>Secondary Two Geographical Investigation</u>  <br><br>
 
-Our secondary two students will be investigating the issue of providing inclusive living spaces for residents in Tampines. Using the inquiry approach, students will learn how to collect and analyse primary data, and make sense of it to examine how inclusive housing is important in building a sense of belonging in local residents.
+Our secondary two students will be investigating the issue of providing inclusive living spaces for residents in Tampines. Using the inquiry approach, students will learn how to collect and analyse primary data, and make sense of it to examine how inclusive housing is important in building a sense of belonging in local residents. <br><br>
 
-c)     <u>Upper Secondary Geographical Investigation \[Humanities (Geography) and Geography\]</u>
+c)     <u>Upper Secondary Geographical Investigation \[Humanities (Geography) and Geography\]</u> <br><br>
 
 Geographical investigation provides students with opportunities to study and apply their learning of Geography to real world phenomena and related issues. Progressing from lower to upper secondary, students will continue to be exposed to the inquiry based approach through GI. They will experience out-of-class geographical investigation that includes the collecting of data at microsites within the school, and visit the East Coast Park for the study of coastal processes. The experience of outdoor fieldwork provides our students an opportunity to apply the knowledge/concepts learned in the classroom to real world context, and through it, acquire new knowledge/concepts.</p>
 
