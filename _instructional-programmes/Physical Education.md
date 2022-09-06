@@ -107,3 +107,35 @@ Over the past four years, our Outdoor Education (OE) lessons take on an collabor
   
 
 For Sec 1 Geographic Investigation (GI) learning journey to Pasir Ris Park, OE collaboration includes applying map reading ‘theory’ in Geography lessons into the ‘real world’ – specifically map scales, distances, map orientation, plotting and reading 6-figure grid references.  OE also helps to guide the overall safety & conduct of the event.
+
+![](/images/Instructional%20Programmes/PE%207.jpg)
+
+![](/images/Instructional%20Programmes/PE%208.jpg)
+
+
+**MOE-OBS Challenge** 
+
+As part of the National Outdoor Adventure Education Masterplan, the MOE-OBS Challenge Programme seeks to develop ruggedness, resilience, and build cohesion amongst Secondary 3 students. The programme comprises a series of school-based Physical Education and Character and Citizenship Education lessons facilitated by teachers as well as a five-day expeditionary course at Outward Bound Singapore (OBS).
+
+![](/images/Instructional%20Programmes/PE%209.jpg)
+
+![](/images/Instructional%20Programmes/PE%2010.jpg)
+
+**Inclusive PE Programme**
+
+  
+
+This year, the department partnered with Singapore Disability Sports Council on Project ParABLE, to foster the spirit of empathy among our Hildans as they engage in customized lessons for their school mates with physical disabilities. A customized 4-week Table Tennis module programme in Term 3 was implemented for our students with physical disabilities and for their classmates to learn the sport of Para Table Tennis. Students from these classes had a chance to be coached under the watchful eyes of Coach Goh (Table Tennis Association for the Disabled), and had fun sparring with National Para Athletes. We are appreciative of the support from SDSC, and will explore more opportunities to create meaningful PE experiences for our Hildans.
+
+![](/images/Instructional%20Programmes/PE%2011.jpg)
+
+**Game for Life Programme (GFL)**
+
+  
+
+Our school is partnering with SportSG to implement the ‘Game for Life’ (GFL) toolkit for our PE lessons to intentionally infuse positive values during PE lessons. The toolkit provides a structure for developing character through sports and outdoor education. It features the use of game activities that enable teachers to create teachable moments where learning values can be infused into the lesson experience for every student.
+
+
+![](/images/Instructional%20Programmes/PE%2012.jpg)
+
+![](/images/Instructional%20Programmes/PE%2013.jpg)
