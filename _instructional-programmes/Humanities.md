@@ -131,12 +131,16 @@ In SHSS, issue investigation is infused in our secondary three integrated progra
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Ordered List</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Humanities Talent Programme</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
-	
+The NMP (Humanities) is specially designed for secondary two students who have demonstrated strong aptitude and keen interest in History. <br><br>
+
+This stretched programme provides opportunities for students to undertake authentic historical investigation that promotes the development of critical thinking skills and 21st century competencies (21CC). The 10-week programme enables students to embark on a research journey to explore Singapore’s heritage and see history come alive as they learn to explore and interpret historical sources before arriving at a conclusion based on the inquiry question. Students will also be equipped with skills to conduct oral interviews and to develop perspective-taking on historical issues. <br><br>
+
+Through NMP (Humanities), students will be able to apply evaluative thinking skills as they make connections with the past and present, deepening their appreciation for Singapore’s historical journey since independence.	
 	
 </p>	
 
@@ -148,12 +152,20 @@ In SHSS, issue investigation is infused in our secondary three integrated progra
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Unordered List</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">Humanities External Competition</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>
-	
+Humanities students also have the opportunity to participate in a variety of external programmes and competition platforms to enhance their interest in the humanities. Some of the external platforms include: <br><br>
+
+1.     Student Archivist Project <br>
+
+2.     History Challenge<br>
+
+3.     Junior Water Challenge<br> <br>
+
+NUS Geography Challenge	
 	
 </p>	
 
