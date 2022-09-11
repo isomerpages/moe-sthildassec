@@ -2,4 +2,5 @@ collections:
   character-education:
     output: true
     order:
+      - China Exchange Programme.md
       - Character & Citizenship Education.md
