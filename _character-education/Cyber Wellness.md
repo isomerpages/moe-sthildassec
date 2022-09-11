@@ -55,15 +55,23 @@ Programme
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">MOE Resources on Cyber Wellness</label>
 
     <div>
 
-      <p>This is line 1</p>
+      <p>Click the links below to find out more about Cyber Wellness.</p>
 
-      <p>This is line 2<br>
+<ul>
 
-        This is line 3</p>
+<li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)">Cyber Wellness 101</a></li>	
+	
+<li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-educators">For Educators</a></li>
+	
+<li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students">For Students</a></li>
+	
+<li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents">For Parents</a></li>	
+	
+</ul>	
 
     </div>
 
