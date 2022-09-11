@@ -2,4 +2,5 @@ collections:
   hildan-matters:
     output: true
     order:
+      - Time Table.md
       - Booklist.md
