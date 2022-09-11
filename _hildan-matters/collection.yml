@@ -2,6 +2,7 @@ collections:
   hildan-matters:
     output: true
     order:
+      - Teachers.md
       - SWN@SSOE Login Guide.md
       - ICT Account Help Form.md
       - Library Catalogue.md
