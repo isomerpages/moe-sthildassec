@@ -8,6 +8,8 @@ description: ""
 TIME TABLE
 ----------
 
+**TIMETABLES ARE MISSING**
+
 <img src="/images/Hildan%20Matters/St%20Hildas%20Logo.jpg"  
      style="width:65%">
 
