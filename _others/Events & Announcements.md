@@ -58,15 +58,12 @@ Youtube: <a href="https://www.youtube.com/singaporeyouthfestivalSYF">Singaporey
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">JAE</label>
 
     <div>
 
-      <p>This is line 1</p>
+  <p><a href="/files/JAE_2019.pdf">JAE 2019</a></p>
 
-      <p>This is line 2<br>
-
-        This is line 3</p>
 
     </div>
 
