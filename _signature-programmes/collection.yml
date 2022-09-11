@@ -2,9 +2,9 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Learning for Life Programme.md
-      - Learning Beyond Classroom.md
-      - Applied Learning Programme.md
-      - Nellie Mitchell Programme.md
-      - DARE Programme.md
       - STEP.md
+      - DARE Programme.md
+      - Nellie Mitchell Programme.md
+      - Applied Learning Programme.md
+      - Learning Beyond Classroom.md
+      - Learning for Life Programme.md
