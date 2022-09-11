@@ -2,6 +2,7 @@ collections:
   signature-programmes:
     output: true
     order:
+      - Learning for Life Programme.md
       - Learning Beyond Classroom.md
       - Applied Learning Programme.md
       - Nellie Mitchell Programme.md
