@@ -59,7 +59,7 @@ SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/charact
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">CCE Through Christian Education</label>
+    <label for="accordion2">CCE through Christian Education</label>
 
     <div>
 
@@ -77,7 +77,7 @@ SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/charact
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">CCE Through National Education</label>
+    <label for="accordion3">CCE through National Education</label>
 
     <div>
 
@@ -111,12 +111,30 @@ Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">CCE through Values in Action</label>
 
     <div>
 
 <p>
-	
+Objective: To nurture our pupils to become concerned citizens and active contributors of our nation
+
+*   <b>Service Learning / Community Involvement Programme</b>
+
+Sec 1: Service to the Classroom / School Environment
+
+Sec 2: Service to the School / External Environment
+
+Sec 3: Service to the Community (VWOs)
+
+Sec 4/5: National Day CIP (Environment related projects)
+
+*   <b>Requirements</b>
+
+All pupils must fulfil a minimum of 6 hours of service in the school CIP.
+
+Students with 100 hours of CIP will account for a maximum of 5 points in the CCA LEAPS grading system.
+
+Students with 100 hours of CIP in the same year will be nominated for EAGLES Award.	
 	
 	
 </p>
@@ -129,15 +147,33 @@ Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">CCE through Aesthetics Education</label>
 
     <div>
 
-<p>
+ <ul>
+
+<li>Sec 1 Drama Education Programme (DEP)</li>
+
+<li>Sec 1 and 2 General Music Programme</li>
+
+<li>Sec 1 and 2 Visual Art Programme</li>
+	 
+<li>Sec 3 Dance Programme</li>
+
+<li>AEP Assembly Programmes: Exposure to music, dance and theatre performance
+</li>
+	 
+<li>AEP Enrichment Programmes: Arts Experience Programmes & Arts Treat! a.k.a. Arts Appreciation Day
+</li>
+	 
+<li>Arts Extension Programme: Arts Excursion, Synergy Night, Impression and M.A.D (Mad About Drama) Production
+</li>	 
 	
-	
-	
-</p>
+<li>Participation in school-based or external competitions and exhibitions
+</li>	 
+	 
+      </ul>
 
     </div>
 
