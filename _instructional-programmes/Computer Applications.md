@@ -51,3 +51,7 @@ Beside learning computing topics in the computer labs, the CPA Department also o
 **Learning Opportunities**
 
 Students that displayed a strong interest and ability in programming were encouraged to participate in external ICT competitions to stretch their programming potential, and hone their communications and, critical and inventive thinking skills.
+
+![](/images/Instructional%20Programmes/Computer%20Applications%203.png)
+
+![](/images/Instructional%20Programmes/Computer%20Applications%204.png)
