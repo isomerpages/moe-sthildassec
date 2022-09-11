@@ -89,9 +89,9 @@ SEL / <a href="https://sthildassec.moe.edu.sg/hildan-experience/character-educat
 
       <p>
 
- Objective: To develop the national cohesion, the instinct for survival and confidence in the future of Singapore
+Objective: To develop the national cohesion, the instinct for survival and confidence in the future of Singapore <br><br>
 
-<b>Commemoration of NE Days</b>
+<b>Commemoration of NE Days</b> <br><br>
 
 Total Defence Day <br><br>
 
@@ -101,7 +101,7 @@ Racial Harmony Day<br><br>
 
 National Day<br><br>
 
-<b>Learning Journeys</b>
+<b>Learning Journeys</b> <br><br>
 
 Sec 1: Integrated Learning Journey to Local Destination<br><br>
 
@@ -122,7 +122,7 @@ Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)
     <div>
 
 <p>
-Objective: To nurture our pupils to become concerned citizens and active contributors of our nation
+Objective: To nurture our pupils to become concerned citizens and active contributors of our nation<br><br>
 
 <b>Service Learning / Community Involvement Programme</b><br><br>
 
@@ -215,7 +215,7 @@ Health and Fitness Programme<br><br>
 
 Sports Carnival<br><br>
 
-<b>Outdoor Education Programme</b>
+<b>Outdoor Education Programme</b> <br><br>
 
 Sec 3 OBS Leadership Training<br><br>
 
