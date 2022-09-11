@@ -2,8 +2,8 @@ collections:
   hildan-partners:
     output: true
     order:
-      - Anglican Diocese of Singapore.md
-      - Partnership with Sports Singapore.md
-      - St Hilda's Chaplaincy.md
-      - Alumni.md
       - Parents' Support Group.md
+      - Alumni.md
+      - St Hilda's Chaplaincy.md
+      - Partnership with Sports Singapore.md
+      - Anglican Diocese of Singapore.md
