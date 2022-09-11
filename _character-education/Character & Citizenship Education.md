@@ -3,8 +3,7 @@ title: Character & Citizenship Education
 permalink: /hildan-experience/character-education/character-n-citizenship-education/
 description: ""
 ---
-![](/images/Instructional%20Programmes/CCE%20Banner.jpg)
-
+![](/images/Character%20Education/CCE%20Banner.jpg)
 
 CHARACTER & CITIZENSHIP EDUCATION
 ---------------------------------
@@ -17,8 +16,7 @@ CHARACTER & CITIZENSHIP EDUCATION
 Framework
 ---------
 
-![](/images/Instructional%20Programmes/CCE%201.jpg)
-
+![](/images/Character%20Education/CCE%201.jpg)
 
 Environment
 -----------
