@@ -101,3 +101,38 @@ Nominees are invited to an interview after which shortlisted candidates will the
   </li>
 
 </ul>
+
+
+Mission
+-------
+
+  
+
+Every Hildan an ambassador and leader of influence for the common good.
+
+  
+
+---
+
+Mission
+-------
+
+To develop and train up leaders for the future
+
+Objectives 
+-----------
+
+The objectives of the Student Council are as follows:  
+
+1.  Uphold the School’s Mission and Vision.
+2.  To build the School Spirit through various school projects.
+3.  To provide a platform for Student Leaders to acquire leadership skills.
+4.  To nurture a heart of service within student leaders
+5.  To work closely with teachers and pupils in all aspects of school development and improvement
+
+Pictures
+--------
+
+To empower our student leaders to lead and make changes, our newly elected Student Council Executive Committee members took on new initiatives as part of the fulfilment of their election pledges. These new initiatives include conducting Peer Support talks to all Secondary 1 classes during the post-exam period to prepare the students for life in the next year, providing platforms for talented Hildans amongst us to showcase their talents through ‘Hildans Got Talent’ and organising VIA activities for students interested in giving back to the community.
+
+![](/images/Hildan%20Experience/Leadership%20Development%201.jpg)
