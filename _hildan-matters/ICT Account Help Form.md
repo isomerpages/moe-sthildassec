@@ -16,7 +16,7 @@ New Reset Password will be sent to your email. If you do not receive the confirm
 
   
 
-SLS QUICK GUIDE FOR SELF-RESET & SETTING UP OF ACCOUNT
+### SLS QUICK GUIDE FOR SELF-RESET & SETTING UP OF ACCOUNT
 
 You are required to set up and enable the security questions and email for your SLS account. This allows you to do an instant self reset if you have forgotten your password.   
 
