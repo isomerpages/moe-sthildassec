@@ -29,7 +29,7 @@ Programmes
 ----------
 
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
   <li>
 
@@ -273,4 +273,3 @@ b.    Character and Citizenship Education (CCE)
 
 
 <center>Secondary 1</center>
-
