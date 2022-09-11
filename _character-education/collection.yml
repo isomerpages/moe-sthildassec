@@ -2,6 +2,7 @@ collections:
   character-education:
     output: true
     order:
+      - Service Learning.md
       - National Education Programme.md
       - New Zealand Exchange.md
       - China Exchange Programme.md
