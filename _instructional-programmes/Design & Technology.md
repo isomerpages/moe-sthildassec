@@ -57,3 +57,9 @@ The Secondary Three enrichment programme by Design Rete equips and exposes stude
 
 ## A) Pencil Holder cum Handphone Holder
 
+![](/images/Instructional%20Programmes/D&T%204.jpg)
+
+## B) Display for Toy Plane      
+
+![](/images/Instructional%20Programmes/D&T%205.jpg)
+
