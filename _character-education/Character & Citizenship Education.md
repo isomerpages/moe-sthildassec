@@ -74,7 +74,7 @@ SEL / <a href="https://sthildassec.moe.edu.sg/hildan-experience/character-educat
 <li>Praise and Fellowship Week</li>
 
 	
-<ul>	
+</ul>	
     </div>
 
   </li>
