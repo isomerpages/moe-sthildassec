@@ -470,10 +470,10 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://sthildassec.moe.edu.sg/qql/slot/u168/Sex%20Ed/Sexuality%20Education%20-%20Annex%20A.pdf). The completed form is to be submitted by 11/03/2022.
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](/files/Sexuality%20Education%20-%20Annex%20A.pdf). The completed form is to be submitted by 11/03/2022.
 
-12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://sthildassec.moe.edu.sg/qql/slot/u168/Sex%20Ed/Sexuality%20Education%202022%20-%20Annex%20B.pdf) (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by 11/03/2022.
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](/files/Sexuality%20Education%202022%20-%20Annex%20B.pdf) (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by 11/03/2022.
 
 13.      Parents can contact the school at 6305 5277 or [shss@moe.edu.sg](mailto:shss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
-14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.		
+14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
