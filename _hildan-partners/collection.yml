@@ -1,0 +1,4 @@
+collections:
+  hildan-partners:
+    output: true
+    order: []
