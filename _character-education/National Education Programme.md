@@ -66,3 +66,17 @@ It belongs to Mr Chew Chyle Leng of D&T Department who has a hobby of making lan
   </li>
 
 </ul>
+
+<br>
+
+
+Total Defence Day
+-----------------
+
+To drive the NE message home, the commemoration of Total Defence Day and the Lunar New New Eve celebrations were held concurrently. Despite the festive mood, the day began solemnly with the blast of air raid sirens. A ‘radio broadcaster’ announced over the PA system that Singapore had fallen, reenacting how it was 73 years ago. Teachers brought the students down memory lane through videos, stories and photos, recalling the tough three years of our Singapore’s history. To further re-live the Japanese Occupation periods, students experienced food rationing where they had to share sweet potatoes. Teachers then facilitated a discussion on they felt as a citizen. Through this experiential process, students learnt that peace and prosperity should never be taken for granted, and to always count their blessings.
+
+Written by the NE Committee
+
+![](/images/Character%20Education/NE%204.jpg)
+
+![](/images/Character%20Education/NE%205.jpg)
