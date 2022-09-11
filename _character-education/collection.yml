@@ -2,9 +2,9 @@ collections:
   character-education:
     output: true
     order:
-      - Cyber Wellness.md
-      - Service Learning.md
-      - National Education Programme.md
-      - New Zealand Exchange.md
-      - China Exchange Programme.md
       - Character & Citizenship Education.md
+      - China Exchange Programme.md
+      - New Zealand Exchange.md
+      - National Education Programme.md
+      - Service Learning.md
+      - Cyber Wellness.md
