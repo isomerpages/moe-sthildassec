@@ -23,18 +23,24 @@ Racial Harmony
 
 
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
   <li>
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Racial Harmony Day Instagram Competition 2015</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
-
+      <p>On 21 July 2015, Racial Harmony Day, our school held an Instagram Competition. Students were given a whole day to take photographs with their friends and teachers in ethnic costumes.  Here are the four winning entries:</p>
+			
+<p>
+<img src="/images/Character%20Education/NE%202.jpg"  
+     style="width:75%">
+	
+	
+</p>
     </div>
 
 </li>  
