@@ -196,30 +196,30 @@ Students with 100 hours of CIP in the same year will be nominated for EAGLES Awa
 
 <p>
 
-*   <b>PE Lessons</b>
-*   <b>Sports & Games Programmes</b>
+<li><b>PE Lessons</b></li>
+<li><b>Sports & Games Programmes</b></li>
 
-Inter class Games
+Inter class Games <br><br>
 
-Inter CCA Games
+Inter CCA Games<br><br>
 
-Sports Education Programme
+Sports Education Programme<br><br>
 
-*   <b>Physical & Fitness Programme</b>
+<li><b>Physical & Fitness Programme</b></li>
 
-NAPFA Challenge
+NAPFA Challenge<br><br>
 
-Sports Day
+Sports Day<br><br>
 
-Cross Country Day
+Cross Country Day<br><br>
 
-Health and Fitness Programme
+Health and Fitness Programme<br><br>
 
-Sports Carnival
+Sports Carnival<br><br>
 
-*   <b>Outdoor Education Programme</b>
+<li><b>Outdoor Education Programme</b></li>
 
-Sec 3 OBS Leadership Training
+Sec 3 OBS Leadership Training<br><br>
 
 Uniformed Group’s Overseas Expedition	
 	
