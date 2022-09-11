@@ -39,16 +39,17 @@ Programmes
 
     <div>
 
-      <p>Objective: To equip pupils with Social and Emotional Competencies and inculcate values
+      <p>Objective: To equip pupils with Social and Emotional Competencies and inculcate values <br> <br>
 
-*   [CCE Education Lesson](http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-secondary.pdf) (Sec 1-5)
+*   <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-secondary.pdf">CCE Education Lesson</a> (Sec 1 - 5) <br> <br>
 
-SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/character-education/cyber-wellness) / Sexuality Education / [Education Career Guidance](http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf) Lessons
 
-*   Assembly Programme
-*   My Classroom, My Pride
-*   Outstanding Class Award
-*   Most Valued Classmate
+SEL / <a href="https://sthildassec.moe.edu.sg/hildan-experience/character-education/cyber-wellness">Cyber Wellness</a> / Sexuality Education / <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf">Education Career Guidance</a> Lessons  <br> <br>
+
+*   Assembly Programme <br>
+*   My Classroom, My Pride <br>
+*   Outstanding Class Award <br>
+*   Most Valued Classmate <br>
 *   Wednesdays with Form Teachers</p>
 
     </div>
