@@ -59,4 +59,4 @@ Chapel of Christ the Redeemer Office Number: +65 6782 6582
 
 Email: [redeemer@ccr-redeemer.org.sg](mailto:redeemer@ccr-redeemer.org.sg)  
 
-[Chapel of Christ The Redeemer website link](http://www.ccr-redeemer.org/) **BROKEN LINK**
+[Chapel of Christ The Redeemer website link](http://www.ccr-redeemer.org/)
