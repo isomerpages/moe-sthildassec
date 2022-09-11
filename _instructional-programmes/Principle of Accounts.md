@@ -18,7 +18,7 @@ PRINCIPLES OF ACCOUNTS
 Overview
 --------
 
-Through the learning of Principles of Accounts, students will acquire an understanding of how businesses measure and communicate their performance and consider the use of accounting and non-accounting information to make decisions. These transferable skills of organising and analyzing information for decision-making enhance the development of 21st century competencies by employing critical and inventive thinking and applying communication and information skills in a rapidly globalised and technologically advanced landscape.
+Through the learning of Principles of Accounts, students will acquire an understanding of how businesses measure and communicate their performance and consider the use of accounting and non-accounting information to make decisions. These transferable skills of organising and analyzing information for decision-making enhance the development of 21st&nbsp;century competencies by employing critical and inventive thinking and applying communication and information skills in a rapidly globalised and technologically advanced landscape.
 
 Vision
 ------
@@ -47,3 +47,4 @@ Pictures
 --------
 
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2zPy37WCjtiFEGd2tQthvmH0PavDOxHzeWqZ5hZcEtpss9hDRmM16nOcuy27iyTprlsiXW4922wGi/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
