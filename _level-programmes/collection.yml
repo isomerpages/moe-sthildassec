@@ -1,4 +1,5 @@
 collections:
   level-programmes:
     output: true
-    order: []
+    order:
+      - Lower Secondary Level.md
