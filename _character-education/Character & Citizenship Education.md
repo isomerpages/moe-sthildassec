@@ -126,7 +126,7 @@ Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)
 <p>
 Objective: To nurture our pupils to become concerned citizens and active contributors of our nation
 
-<b>Service Learning / Community Involvement Programme</b>
+<b>Service Learning / Community Involvement Programme</b><br><br>
 
 Sec 1: Service to the Classroom / School Environment <br><br>
 
@@ -136,7 +136,7 @@ Sec 3: Service to the Community (VWOs)<br><br>
 
 Sec 4/5: National Day CIP (Environment related projects)<br><br>
 
-<b>Requirements</b>
+<b>Requirements</b><br><br>
 
 All pupils must fulfil a minimum of 6 hours of service in the school CIP.<br><br>
 
@@ -196,8 +196,8 @@ Students with 100 hours of CIP in the same year will be nominated for EAGLES Awa
 
 <p>
 
-<b>PE Lessons</b>
-<b>Sports & Games Programmes</b>
+<b>PE Lessons</b><br><br>
+<b>Sports & Games Programmes</b><br><br>
 
 Inter class Games <br><br>
 
@@ -205,7 +205,7 @@ Inter CCA Games<br><br>
 
 Sports Education Programme<br><br>
 
-<b>Physical & Fitness Programme</b>
+<b>Physical & Fitness Programme</b><br><br>
 
 NAPFA Challenge<br><br>
 
