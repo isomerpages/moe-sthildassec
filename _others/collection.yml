@@ -2,5 +2,5 @@ collections:
   others:
     output: true
     order:
-      - Useful Links.md
       - Events & Announcements.md
+      - Useful Links.md
