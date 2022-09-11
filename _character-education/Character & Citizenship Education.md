@@ -443,3 +443,37 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At St. Hilda’s Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+		
+<table>
+<thead>
+  <tr>
+    <th>Topics/Lessons</th>
+    <th>Programme Learning Objectives</th>
+    <th>Time Period<br>(e.g. Term 3 Week 9)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mass Talk by HPB appointed vendor</td>
+    <td>·       Awareness of the different STIs and HIV/AIDS<br>·       Modes of transmission<br>·       Modes of protection, specifically on how the condom is used<br>·       Consequences and impact of STIs/HIV<br> </td>
+    <td>Term 4 Week 1</td>
+  </tr>
+  <tr>
+    <td>Classroom-based Lesson</td>
+    <td>·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td>
+    <td>Term 4 Week 1</td>
+  </tr>
+</tbody>
+</table>
+		
+**Information for Parents**
+
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://sthildassec.moe.edu.sg/qql/slot/u168/Sex%20Ed/Sexuality%20Education%20-%20Annex%20A.pdf). The completed form is to be submitted by 11/03/2022.
+
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://sthildassec.moe.edu.sg/qql/slot/u168/Sex%20Ed/Sexuality%20Education%202022%20-%20Annex%20B.pdf) (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by 11/03/2022.
+
+13.      Parents can contact the school at 6305 5277 or [shss@moe.edu.sg](mailto:shss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.		
