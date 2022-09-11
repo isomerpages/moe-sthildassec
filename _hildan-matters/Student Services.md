@@ -55,7 +55,14 @@ The sale of school uniform will be available at our school bookshop during the b
 School Canteen
 --------------
 
-<table border="0" cellpadding="1" cellspacing="1" style="margin: 0px; outline: 0px; padding: 0px; width: 750px; border-collapse: separate; border-spacing: 1px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1px; width: 169.938px;">Vendor Name:</td><td style="margin: 0px; outline: 0px; padding: 1px; width: 573.662px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Pat &amp; Chris Gourment</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 1px;">&nbsp;</td></tr></tbody></table>
+<table>
+<thead>
+  <tr>
+    <td>Vendor Name:</td>
+    <td>Pat &amp; Chris Gourment</td>
+  </tr>
+</thead>
+</table>
 
 There are a total of 11 stalls serving Chinese and Malay food and drinks. 
 
