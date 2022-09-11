@@ -71,7 +71,24 @@ Visitors who wish to make use of the school canteen should seek permission from 
 Student Insurance Plan
 ----------------------
 
-<table border="0" cellpadding="1" cellspacing="1" style="margin: 0px; outline: 0px; padding: 0px; width: 750px; border-collapse: separate; border-spacing: 1px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1px; width: 169.938px;">Vendor Name:</td><td style="margin: 0px; outline: 0px; padding: 1px; width: 573.662px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">NTUC Income Insurance Co-operative Ltd</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1px;">Contact No:</td><td style="margin: 0px; outline: 0px; padding: 1px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">6346 2663</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1px;">Fax:</td><td style="margin: 0px; outline: 0px; padding: 1px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">6338 1500</strong></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="2" style="margin: 0px; outline: 0px; padding: 1px;">&nbsp;</td></tr></tbody></table>
+<table>
+<thead>
+  <tr>
+    <td>Vendor Name:</td>
+    <th>NTUC Income Insurance Co-operative Ltd</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Contact No:</td>
+    <th>6346 2663</th>
+  </tr>
+  <tr>
+    <td>Fax:</td>
+    <th>6338 1500</th>
+  </tr>
+</tbody>
+</table>
 
 To find out the Insurance Coverage Details, please click [here](http://www.income.com.sg/insurance/SPP/index.asp)
 
