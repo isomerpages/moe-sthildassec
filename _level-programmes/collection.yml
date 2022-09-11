@@ -2,4 +2,5 @@ collections:
   level-programmes:
     output: true
     order:
+      - Upper Secondary Level.md
       - Lower Secondary Level.md
