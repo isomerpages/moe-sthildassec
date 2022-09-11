@@ -42,7 +42,7 @@ Programmes
 *   <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-secondary.pdf">CCE Education Lesson</a> (Sec 1 - 5) <br> <br>
 
 
-SEL / <a href="https://sthildassec.moe.edu.sg/hildan-experience/character-education/cyber-wellness">Cyber Wellness</a> / Sexuality Education / <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf">Education Career Guidance</a> Lessons  <br> <br>
+SEL / <a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/character-education/cyber-wellness/">Cyber Wellness</a> / Sexuality Education / <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf">Education Career Guidance</a> Lessons  <br> <br>
 
 </p>				
 <ul>
