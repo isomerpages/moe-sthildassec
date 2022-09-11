@@ -60,7 +60,7 @@ Programme
     <div>
 
       <p>Click the links below to find out more about Cyber Wellness. 
-<br><br>**LINKS BELOW DO NOT WORK**</p>
+<br><br><b>LINKS BELOW DO NOT WORK<b></p>
 
 <ul>
 
@@ -89,7 +89,7 @@ Programme
       <p>
 
 Click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness">here</a> to view MOE Cyber Wellness Curriculum 
-**LINK DOESNT WORK**
+<b>LINK DOESNT WORK</b>
 
       </p>
 
