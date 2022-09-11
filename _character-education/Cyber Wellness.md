@@ -88,7 +88,8 @@ Programme
 
       <p>
 
-Click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness">here</a> to view MOE Cyber Wellness Curriculum
+Click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness">here</a> to view MOE Cyber Wellness Curriculum 
+**LINK DOESNT WORK**
 
       </p>
 
