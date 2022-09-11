@@ -39,10 +39,10 @@ Programmes
 
       <p>Objective: To equip pupils with Social and Emotional Competencies and inculcate values <br> <br>
 
-*   <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-secondary.pdf">CCE Education Lesson</a> (Sec 1 - 5) <br> <br>
+*   <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-secondary.pdf">CCE Education Lesson</a> (Sec 1 - 5) **(MISSING PDF FILE HERE)**<br> <br>
 
 
-SEL / <a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/character-education/cyber-wellness/">Cyber Wellness</a> / Sexuality Education / <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf">Education Career Guidance</a> Lessons  <br> <br>
+SEL / <a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/character-education/cyber-wellness/">Cyber Wellness</a> / Sexuality Education / <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf">Education Career Guidance **(MISSING PDF FILE HERE)** </a> Lessons  <br> <br>
 
 </p>				
 <ul>
