@@ -1,4 +1,5 @@
 collections:
   hildan-partners:
     output: true
-    order: []
+    order:
+      - Parents' Support Group.md
