@@ -182,12 +182,38 @@ Students with 100 hours of CIP in the same year will be nominated for EAGLES Awa
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">Unordered List</label>
+    <label for="accordion6">CCE through Physical Education (PE)</label>
 
     <div>
 
 <p>
-	
+
+*   <b>PE Lessons</b>
+*   <b>Sports & Games Programmes</b>
+
+Inter class Games
+
+Inter CCA Games
+
+Sports Education Programme
+
+*   <b>Physical & Fitness Programme</b>
+
+NAPFA Challenge
+
+Sports Day
+
+Cross Country Day
+
+Health and Fitness Programme
+
+Sports Carnival
+
+*   <b>Outdoor Education Programme</b>
+
+Sec 3 OBS Leadership Training
+
+Uniformed Group’s Overseas Expedition	
 	
 </p>
     </div>
