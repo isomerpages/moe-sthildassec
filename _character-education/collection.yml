@@ -2,5 +2,6 @@ collections:
   character-education:
     output: true
     order:
+      - New Zealand Exchange.md
       - China Exchange Programme.md
       - Character & Citizenship Education.md
