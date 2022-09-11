@@ -35,11 +35,21 @@ Programmes
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">CCE Core Curriculum</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>Objective: To equip pupils with Social and Emotional Competencies and inculcate values
+
+*   [CCE Education Lesson](http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-character-citizenship-education-secondary.pdf) (Sec 1-5)
+
+SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/character-education/cyber-wellness) / Sexuality Education / [Education Career Guidance](http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf) Lessons
+
+*   Assembly Programme
+*   My Classroom, My Pride
+*   Outstanding Class Award
+*   Most Valued Classmate
+*   Wednesdays with Form Teachers</p>
 
     </div>
 
