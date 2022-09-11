@@ -64,7 +64,7 @@ Programme
 
 <ul>
 
-<li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)">Cyber Wellness 101</a></li>	
+<li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101">Cyber Wellness 101</a></li>	
 	
 <li> <a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-educators">For Educators</a></li>
 	
