@@ -77,7 +77,13 @@ SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/charact
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">CCE Through National EducationObjective: To develop the national cohesion, the instinct for survival and confidence in the future of Singapore
+    <label for="accordion3">CCE Through National Education</label>
+
+    <div>
+
+      <p>
+
+        Objective: To develop the national cohesion, the instinct for survival and confidence in the future of Singapore
 
 *   <b>Commemoration of NE Days</b>
 
@@ -93,15 +99,7 @@ National Day
 
 Sec 1: Integrated Learning Journey to Local Destination
 
-Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)</label>
-
-    <div>
-
-      <p>
-
-        This is all going
-
-        to become just one line\\n even though there are multiple lines
+Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)
 
       </p>
 
