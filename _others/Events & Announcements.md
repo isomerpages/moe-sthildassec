@@ -73,16 +73,29 @@ Youtube: <a href="https://www.youtube.com/singaporeyouthfestivalSYF">Singaporey
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">New Zealand Exchange Program 2020</label>
 
     <div>
 
       <p>
 
-        This is all going
-
-        to become just one line\\n even though there are multiple lines
-
+<b>The New Zealand Exchange Program 2020 is now opened for application.</b>  <br><br>
+  
+It is 9-day New Zealand Exchange Program from 1 June 2020 to 10 June 2020.  <br>
+The objectives of the trip are as follows:  <br><br>
+  
+1\. To broaden pupils’ global understanding through learning and interacting with pupils from different cultures  <br>
+2\. To provide opportunities for pupils to be ambassadors for Singapore.  <br><br>
+  
+Besides visiting the school and places of interests, our students will also be required to host their New Zealand friends when they visit us in October 2020.  <br><br>
+  
+Click **[here](https://sthildassec.moe.edu.sg/qql/slot/u168/events%20and%20announcements/2020%20Invitation%20to%20Participate%20Parents%20Letter.pdf)** to view and download the invitation letter.  <br><br>
+  
+If there are any queries, please contact our teachers-in-charge:  
+1. <b>Mr. Chan Chee Keong</b> (General Office: 6305 5277 or e-mail: [chan_chee_keong@moe.edu.sg](mailto:chan_chee_keong@moe.edu.sg)) or  <br>
+2. <b>Mr. Richard Lian</b> (General Office: 6305 5277 or email: [lian_cheng_yong_richard@moe.edu.sg](mailto:lian_cheng_yong_richard@moe.edu.sg)).  
+  
+Thank you.
       </p>
 
     </div>
