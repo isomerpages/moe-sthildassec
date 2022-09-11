@@ -86,5 +86,4 @@ Proverbs 22:6 (ESV) “Train up a child in the way he should go; even when he i
 [2) How to handle different transition phases of children](https://drive.google.com/file/d/0B8AW6sEZ9OalUWpBdy05d3ZyeFU/view) **BROKEN LINK**
 
   
-[Click here to join the **Parents Support Group Facebook** today!](https://www.facebook.com/shss.psg)		 
-		 
+[Click here to join the **Parents Support Group Facebook** today!](https://www.facebook.com/shss.psg)
