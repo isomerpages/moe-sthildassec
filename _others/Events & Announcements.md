@@ -89,7 +89,7 @@ The objectives of the trip are as follows:  <br><br>
   
 Besides visiting the school and places of interests, our students will also be required to host their New Zealand friends when they visit us in October 2020.  <br><br>
   
-Click **[here](https://sthildassec.moe.edu.sg/qql/slot/u168/events%20and%20announcements/2020%20Invitation%20to%20Participate%20Parents%20Letter.pdf)** to view and download the invitation letter.  <br><br>
+Click <a href="/files/2020%20Invitation%20to%20Participate%20Parents%20Letter.pdf">here</a> to view and download the invitation letter.  <br><br>
   
 If there are any queries, please contact our teachers-in-charge:  
 1. <b>Mr. Chan Chee Keong</b> (General Office: 6305 5277 or e-mail: [chan_chee_keong@moe.edu.sg](mailto:chan_chee_keong@moe.edu.sg)) or  <br>
