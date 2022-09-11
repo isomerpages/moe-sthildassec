@@ -68,12 +68,15 @@ SEL / <a href="https://sthildassec.moe.edu.sg/hildan-experience/character-educat
 
     <div>
 
-      <p>Objective: To nurture pupils with good moral values through Christian Principles
+<p>Objective: To nurture pupils with good moral values through Christian Principles</p>
 
-*   Morning Devotion & Singspiration
-*   Chapel Periods
-*   Praise and Fellowship Week</p>
+<ul>			
+<li>Morning Devotion & Singspiration</li>
+<li>Chapel Periods</li>
+<li>Praise and Fellowship Week</li>
 
+	
+<ul>	
     </div>
 
   </li>
