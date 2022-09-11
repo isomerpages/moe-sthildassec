@@ -46,12 +46,16 @@ Programmes
 
 SEL / <a href="https://sthildassec.moe.edu.sg/hildan-experience/character-education/cyber-wellness">Cyber Wellness</a> / Sexuality Education / <a href="http://www.moe.gov.sg/education/syllabuses/character-citizenship-education/files/2014-education-career-guidance.pdf">Education Career Guidance</a> Lessons  <br> <br>
 
-*   Assembly Programme <br>
-*   My Classroom, My Pride <br>
-*   Outstanding Class Award <br>
-*   Most Valued Classmate <br>
-*   Wednesdays with Form Teachers</p>
+</p>				
+<ul>
+			
+<li>Assembly Programme</li> 
+<li>My Classroom, My Pride</li>
+<li>Outstanding Class Award</li>
+<li>Most Valued Classmate</li>
+<li>Wednesdays with Form Teachers</li>
 
+</ul>	
     </div>
 
 </li>  
