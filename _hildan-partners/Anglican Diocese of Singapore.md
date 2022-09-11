@@ -9,4 +9,4 @@ ANGLICAN DIOCESE OF SINGAPORE
 -----------------------------
 
 [Diocese of Singapore](http://www.anglican.org.sg/)  
-[ Singapore Anglican Community Services](http://www.sacs.org.sg/)
+[Singapore Anglican Community Services](http://www.sacs.org.sg/)
