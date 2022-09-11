@@ -2,5 +2,6 @@ collections:
   hildan-partners:
     output: true
     order:
+      - St Hilda's Chaplaincy.md
       - Alumni.md
       - Parents' Support Group.md
