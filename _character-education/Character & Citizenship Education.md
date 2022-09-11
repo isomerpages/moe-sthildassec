@@ -126,21 +126,21 @@ Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)
 <p>
 Objective: To nurture our pupils to become concerned citizens and active contributors of our nation
 
-*   <b>Service Learning / Community Involvement Programme</b>
+<li><b>Service Learning / Community Involvement Programme</b></li>
 
-Sec 1: Service to the Classroom / School Environment
+Sec 1: Service to the Classroom / School Environment <br><br>
 
-Sec 2: Service to the School / External Environment
+Sec 2: Service to the School / External Environment<br><br>
 
-Sec 3: Service to the Community (VWOs)
+Sec 3: Service to the Community (VWOs)<br><br>
 
-Sec 4/5: National Day CIP (Environment related projects)
+Sec 4/5: National Day CIP (Environment related projects)<br><br>
 
-*   <b>Requirements</b>
+<li><b>Requirements</b></li>
 
-All pupils must fulfil a minimum of 6 hours of service in the school CIP.
+All pupils must fulfil a minimum of 6 hours of service in the school CIP.<br><br>
 
-Students with 100 hours of CIP will account for a maximum of 5 points in the CCA LEAPS grading system.
+Students with 100 hours of CIP will account for a maximum of 5 points in the CCA LEAPS grading system.<br><br>
 
 Students with 100 hours of CIP in the same year will be nominated for EAGLES Award.	
 	
