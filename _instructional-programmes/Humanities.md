@@ -107,7 +107,7 @@ HI provides students with an opportunity for them to learn beyond their classroo
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Social Studies *(Issue Investigation)</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Social Studies (Issue Investigation)</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
