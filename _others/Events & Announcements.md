@@ -43,10 +43,10 @@ Please Vote for your Favourite Hildan Teachers by 14 August.
 </p>			
 
 <p>			
-Find out more! Visit the SYF website @ <a href="http://singaporeyouthfestival.sg](http://singaporeyouthfestival.sg/">http://singaporeyouthfestival.sg/</a> 
-Facebook: **<a href="https://www.facebook.com/SgYouthFest">SgYouthFest</a>**[](https://www.facebook.com/SgYouthFest) [SgYouthFest](https://www.facebook.com/SgYouthFest)  
-Instagram: [](https://www.instagram.com/sgyouthfest/) [IG SG Youth Fest](https://www.instagram.com/sgyouthfest/)   
-Youtube: [](https://www.youtube.com/singaporeyouthfestivalSYF) [SingaporeyouthfestivalSYF](https://www.youtube.com/singaporeyouthfestivalSYF)			
+Find out more! Visit the SYF website @ <a href="http://singaporeyouthfestival.sg](http://singaporeyouthfestival.sg/">http://singaporeyouthfestival.sg/</a> <br>
+Facebook: <a href="https://www.facebook.com/SgYouthFest">SgYouthFest</a> <br>
+Instagram: <a href="https://www.instagram.com/sgyouthfest/">IG SG Youth Fest</a><br>
+Youtube: <a href="https://www.youtube.com/singaporeyouthfestivalSYF">SingaporeyouthfestivalSYF</a>	
 
 </p>	
 	
