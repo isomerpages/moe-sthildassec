@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/St Hilda Logo.jpg
 colors:
   primary-color: "#262f5a"
-  secondary-color: "#ffffff"
+  secondary-color: "#262f5a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
