@@ -82,15 +82,13 @@ Programme
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Cyber Wellness Curriculum</label>
 
     <div>
 
       <p>
 
-        This is all going
-
-        to become just one line\\n even though there are multiple lines
+Click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness">here</a> to view MOE Cyber Wellness Curriculum
 
       </p>
 
