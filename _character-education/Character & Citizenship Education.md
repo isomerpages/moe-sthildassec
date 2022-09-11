@@ -59,15 +59,15 @@ SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/charact
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">CCE Through Christian Education</label>
 
     <div>
 
-      <p>This is line 1</p>
+      <p>Objective: To nurture pupils with good moral values through Christian Principles
 
-      <p>This is line 2<br>
-
-        This is line 3</p>
+*   Morning Devotion & Singspiration
+*   Chapel Periods
+*   Praise and Fellowship Week</p>
 
     </div>
 
@@ -77,7 +77,23 @@ SEL / [Cyber Wellness](https://sthildassec.moe.edu.sg/hildan-experience/charact
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">CCE Through National EducationObjective: To develop the national cohesion, the instinct for survival and confidence in the future of Singapore
+
+*   <b>Commemoration of NE Days</b>
+
+Total Defence Day
+
+International Friendship Day
+
+Racial Harmony Day
+
+National Day
+
+*   <b>Learning Journeys</b>
+
+Sec 1: Integrated Learning Journey to Local Destination
+
+Sec 2: Overseas Integrated Learning Journey (Muar / Malacca)</label>
 
     <div>
 
