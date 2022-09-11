@@ -2,7 +2,7 @@ collections:
   hildan-matters:
     output: true
     order:
-      - Example Title.md
+      - Library Catalogue.md
       - Exam & Assessment.md
       - Student Services.md
       - Time Table.md
