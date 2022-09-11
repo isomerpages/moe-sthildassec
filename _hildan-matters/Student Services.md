@@ -90,9 +90,22 @@ Student Insurance Plan
 </tbody>
 </table>
 
-To find out the Insurance Coverage Details, please click [here](http://www.income.com.sg/insurance/SPP/index.asp)
+To find out the Insurance Coverage Details, please click [here](http://www.income.com.sg/insurance/SPP/index.asp) **BROKEN LINK**
 
 To make a claim, please refer to the claim procedure and download the claim form through the following links
 
- **[![](https://sthildassec.moe.edu.sg/rs/cc/icon/onyx/link.png) Claim Procedure](http://www.income.com.sg/insurance/SPP/index.asp)**  
- **[![](https://sthildassec.moe.edu.sg/rs/cc/icon/onyx/link.png) Claim Form](https://sthildassec.moe.edu.sg/qql/slot/u168/docs/internal_pages/information/ntuc_student_insurance_claim_form.pdf)**
+[Claim Procedure](http://www.income.com.sg/insurance/SPP/index.asp) **BROKEN LINK**
+
+[Claim Form](/files/Hildan%20Matters/ntuc_student_insurance_claim_form.pdf)
+
+
+Lost Property
+-------------
+
+All students are to be responsible for their own belongings. Wallets and mobile phones are to be kept with them at all times. Pupils are strongly encouraged not to bring expensive items (e.g. portable game consoles, jewellery ) or excessive amount of money to school.
+
+*   Report all losses to the General Office immediately.
+*   You will be required to write a statement on how you discovered the loss of the item(s).
+*   The case will be forwarded to the Discipline committee for further action.
+
+Personal items which are found should be handed to the office. Owners of lost property can enquire at the office and make rightful claim to the items.
