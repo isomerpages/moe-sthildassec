@@ -36,5 +36,55 @@ The PSG mission is embodied in the 4 directions of a compass: N, S, E, W; and st
 
 <img src="/images/Hildan%20Partners/PSG%204.jpg"  
      style="width:65%">
+		 
+### The SHSS/PSG Model:
 
+Proverbs 22:6 (ESV) “Train up a child in the way he should go; even when he is old he will not depart from it.”
 
+1.     Communication for mutual partnership with school.
+
+        a.     Strong communication between the parents and school enhance  understanding between both parties
+
+        b.     Strong communication encourages transparency
+
+        c.     Strong communication encourages trust between parents and school
+
+2.     Collaboration with the school.
+
+        a.     Serving and involvement in school’s programme help parents understand the school’s approaches for our children’s development
+
+        b.     Set an example for our children on servanthood (Service to school)
+
+        c.     Simply just being part of the school community
+
+3.     Cultivating good parenting
+
+        a.     Strengthen relationship among parents
+
+        b.     Supporting fellow parents in the journey as we bring up teenagers
+
+        c.     Sharing of good practices in parenting
+
+ **<u>Collaboration with school programme</u>**
+
+ These are the programmes that parents can come in and support the school.
+
+·       Sports Day
+
+·       Racial Harmony Day
+
+·       Teachers' Day
+
+·       Hildans Night Study Programme
+
+**<u>Cultivating good parenting skills</u>**
+
+ Parenting journey can be pleasant for some and monstrous for others. Often our children changes as they grow up but as parents, we do not catch up with their growth. We wonder what happen to our children. Through the PSG, we hope to create an environment where the home compliments what the school is doing and the school reinforces honour in the family. 
+
+[1) Build resilience for children](https://drive.google.com/file/d/0B8AW6sEZ9OalOTdQdkRPQ2s0cjA/view)  **BROKEN LINK**
+
+[2) How to handle different transition phases of children](https://drive.google.com/file/d/0B8AW6sEZ9OalUWpBdy05d3ZyeFU/view) **BROKEN LINK**
+
+  
+[Click here to join the **Parents Support Group Facebook** today!](https://www.facebook.com/shss.psg)		 
+		 
