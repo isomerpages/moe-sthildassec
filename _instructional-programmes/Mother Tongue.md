@@ -9,6 +9,9 @@ description: ""
 MOTHER TONGUE
 -------------
 
+![](/images/Instructional%20Programmes/Mother%20Tongue.jpg)
+
+
 #### "To nurture effectively bilingual speakers and enthusiastic learners of MT language and culture."
 
 
