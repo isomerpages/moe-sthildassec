@@ -10,8 +10,9 @@ Vision
 
 **‘Develop a Whole Person through Sports and Outdoor Education”**
 
+<img src="/images/Signature%20Programmes/LLP%201.jpg"  
+     style="width:85%">
 
-![](/images/Signature%20Programmes/LLP%201.jpg)
 
 With the popularity of our sports programmes both at competitive and recreational levels and in view of sports and outdoor education as good platforms for the development of character, the school LLP is to develop a whole person through sports and outdoor education.
 
@@ -25,9 +26,12 @@ Pupils are exposed to a wide range of sports and physical activities during PE l
 
 Affective and cognitive domains like sportsmanship, sports knowledge, tactical and mental capabilities towards developing 21CC skills are incorporated.
 
-![](/images/Signature%20Programmes/LLP%202.jpg)
+<img src="/images/Signature%20Programmes/LLP%202.jpg"  
+     style="width:85%">
+		 
+<img src="/images/Signature%20Programmes/LLP%203.jpg"  
+     style="width:85%">		 
 
-![](/images/Signature%20Programmes/LLP%203.jpg)
 
 **Experience**
 
@@ -35,11 +39,15 @@ Apex platforms like sports events are organised to enable pupils to apply what t
 
 To give pupils the sporting experience that is fun and inclusive, activities in sports events are often customised to suit the different abilities of pupils, provide various levels of challenges to engage our pupils and to inculcate good values. At the school’s Cross Country this year, there were three categories of races (biathlon, challenge run and mass run) for pupils to select.
 
-![](/images/Signature%20Programmes/LLP%204.jpg)
+<img src="/images/Signature%20Programmes/LLP%204.jpg"  
+     style="width:85%">
 
-![](/images/Signature%20Programmes/LLP%205.jpg)
+<img src="/images/Signature%20Programmes/LLP%205.jpg"  
+     style="width:85%">
 
-![](/images/Signature%20Programmes/LLP%206.jpg)
+<img src="/images/Signature%20Programmes/LLP%206.jpg"  
+     style="width:85%">
+
 
 
 **Extension**
@@ -48,7 +56,8 @@ To benefit high ability pupils in Sports CCAs, the extension approach includes s
 
 Pupils are also encouraged to contribute in sporting or outdoor related events and programmes with school and community focus.
 
-![](/images/Signature%20Programmes/LLP%207.jpg)
+<img src="/images/Signature%20Programmes/LLP%207.jpg"  
+     style="width:85%">
 
 **DEVELOPING CHARACTER THROUGH SPORTS AND OUTDOOR EDUCATION**
 
@@ -60,17 +69,20 @@ Our school is partnering with Sport@SG and PESTA to introduce ‘Game for Life�
 
 To further reinforce these values, the school invited National athletes like our alumni Ms Charmaine Soh (Singapore Netball goal shooter), Ms Yip Pin Xiu (ST Athlete of the Year 2015), Mr Melvin Yeo (National Runner) and Mr Kunalan to share and encourage our pupils to grow in character through sports.
 
+<img src="/images/Signature%20Programmes/LLP%208.jpg"  
+     style="width:85%">
+		 
+<img src="/images/Signature%20Programmes/LLP%209.jpg"  
+     style="width:85%">
 
-![](/images/Signature%20Programmes/LLP%208.jpg)
-
-
-![](/images/Signature%20Programmes/LLP%209.jpg)
 
 **Excellent Sports Facilities**
 
 The school has good sports facilities to support our LLP
 
-![](/images/Signature%20Programmes/LLP%2010.jpg)
+
+<img src="/images/Signature%20Programmes/LLP%2010.jpg"  
+     style="width:85%">
 
 Latest Updates 
 ---------------
