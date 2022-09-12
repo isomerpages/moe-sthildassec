@@ -81,9 +81,13 @@ The workshop aimed to have students skilfully manage and use information availab
 
 The Secondary 2s also learnt about authentic data collection and data analysis to help them form their own research conclusions. Together, students learnt to collaborate and share ideas/ findings using Cloud Computing Solutions.
 
-![](/images/Level%20Programmes/Lower%20Sec%2011.png)
+<img src="/images/Level%20Programmes/Lower%20Sec%2011.png"  
+     style="width:85%">
+		 
+<img src="/images/Level%20Programmes/Lower%20Sec%2012.png"  
+     style="width:85%">		 
+		 
 
-![](/images/Level%20Programmes/Lower%20Sec%2012.png)
 
 Sec 2 Analytical Thinking Programme
 -----------------------------------
@@ -102,4 +106,3 @@ To appreciate Singapore’s heritage and to provide a rich authentic learning ex
 
 <img src="/images/Level%20Programmes/Lower%20Sec%2014.jpg"  
      style="width:85%">
-
