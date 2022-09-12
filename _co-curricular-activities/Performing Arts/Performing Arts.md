@@ -8,3 +8,7 @@ PERFORMING ARTS
 ---------------
 
 
+<p><a href="link">
+<img src="/images/principal.jpg"  
+     style="width:75%">
+</a></p>
