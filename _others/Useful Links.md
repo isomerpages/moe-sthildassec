@@ -64,19 +64,19 @@ USEFUL LINKS
 
 <ul>
 	
-<li> <a href="link">text</a></li> 
+<li> <a href="https://sites.google.com/moe.edu.sg/shssstafflink/home">SHSS STAFF ADMIN LINK</a>(Please ensure that you have login to your iCON)</li> 
 
-<li><a href="link">text</a> </li> 
+<li><a href="https://vle.learning.moe.edu.sg/login">SLS</a> </li> 
 	
-<li><a href="link">text</a> </li> 
+<li><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">IAMS</a> </li> 
 	
-<li><a href="link">text</a> </li> 
+<li><a href="https://iexams.moe.gov.sg/xe/login.do">IEXAMS</a> </li> 
 	
-<li><a href="link">text</a> </li> 
+<li><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F">OPAL2.0</a> </li> 
 	
-<li><a href="link">text</a> </li> 
+<li><a href="https://www.hrp.gov.sg/hrp/#/">HRP PORTAL</a> </li> 
 	
-<li><a href="link">text</a> </li> 
+<li><a href="https://access.moe.edu.sg/login/login.jsp">SCHOOL COCKPIT</a> </li> 
 	
 </ul>	
 
