@@ -42,24 +42,24 @@ The Secondary Three enrichment programme by Design Rete equips and exposes stude
 ## Lower Secondary Programme                                                                     
 ## 1) Using Thinking Routine (Observe-Interpret-Imagine) in Collaborative Learning
 
-
-![](/images/Instructional%20Programmes/D&T%202.jpg)
+<img src="/images/Instructional%20Programmes/D&T%202.jpg"  
+     style="width:75%">
 
 
 ## 2)Prototyping of Recipe Holder Using Resistant Materials
 
 
-![](/images/Instructional%20Programmes/D&T%203.jpg)
-
+<img src="/images/Instructional%20Programmes/D&T%203.jpg"  
+     style="width:75%">
 
 ## 3) Other Past Projects                                                                                 
 
 
 ## A) Pencil Holder cum Handphone Holder
 
-![](/images/Instructional%20Programmes/D&T%204.jpg)
-
+<img src="/images/Instructional%20Programmes/D&T%204.jpg"  
+     style="width:75%">
 ## B) Display for Toy Plane      
 
-![](/images/Instructional%20Programmes/D&T%205.jpg)
-
+<img src="/images/Instructional%20Programmes/D&T%205.jpg"  
+     style="width:75%">
