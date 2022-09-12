@@ -59,11 +59,16 @@ Sec 1 Learning Journey
 
 In 2014, MOE introduced a new syllabus for the Lower Sec Geography with the intent of helping students develop an interest in Geography and a concern for the environment. Students will then learn to play their role as active citizens by contributing towards a sustainable future. In March 2014, the school introduced geographical inquiry /investigations (GI) to engage students and to create an awareness of geographical issues in Tampines to the students. They went on a learning journey to investigate the impact of human activities on water quality, collecting and analysing water samples from the secondary forest, marshland and freshwater pond at Ecogreen Tampines. The learning was indeed enriching and meaningful.
 
-![](/images/Level%20Programmes/Lower%20Sec%208.png)
+<img src="/images/Level%20Programmes/Lower%20Sec%208.png"  
+     style="width:75%">
+		 
+<img src="/images/Level%20Programmes/Lower%20Sec%209.png"  
+     style="width:75%">
+		 
+<img src="/images/Level%20Programmes/Lower%20Sec%2010.png"  
+     style="width:75%">		 
+		 
 
-![](/images/Level%20Programmes/Lower%20Sec%209.png)
-
-![](/images/Level%20Programmes/Lower%20Sec%2010.png)
 
 Sec 1 & Sec 2 Research Skills
 -----------------------------
