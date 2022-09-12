@@ -21,7 +21,7 @@ Overview
 
 The humanities department seeks to instil in our students a deeper appreciation for the world they live in, and to equip them with the disciplinary skills and competencies, that will enable them to be future-ready.&nbsp;
 
-**z<u>Department Vision:</u>**&nbsp;&nbsp;
+**<u>Department Vision:</u>**&nbsp;&nbsp;
 
 Every humanities student a citizen of tomorrow; reflective, concerned and participative.
 
