@@ -38,9 +38,7 @@ b. apply basic principles of consumer education such as reading food labels
 
 c. appreciate and develop an understanding of food, nutrition and trans-cultural awareness in the global context
 
-d. nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise, innovation, and aesthetic&nbsp;
-
-&nbsp; &nbsp; awareness; to make informed and discerning food and consumer-related decisions
+d. nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise, innovation, and aesthetic awareness; to make informed and discerning food and consumer-related decisions
 
   
 
