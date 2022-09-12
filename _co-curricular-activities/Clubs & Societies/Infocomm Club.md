@@ -23,3 +23,17 @@ Big Room @ Level 3 D&T Block**
 **Attire:** **School uniform with PE top**<br><br>
 
 Tuesdays: 3.30pm - 5.30pm
+
+
+#### Achievements
+
+**ITE College East Robotics Challenge**  
+1st - Creative Category 2019  
+Merit Award - Creative Category 2019  
+Best Design Award - 2018
+
+
+#####  Teachers In-Charge & Instructors
+
+**Teachers**  
+Mr Steve Tay Yong Teck
