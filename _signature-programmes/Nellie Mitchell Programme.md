@@ -28,14 +28,21 @@ Pictures 
 
 In conjunction with the school’s 85th anniversary celebrations, the humanities NMP students took the opportunity to undertake a project to interview ex-Hildans and curate good stories about the school through the years. This culminated in a video presentation that was screened during the Founders’ Day celebrations and brought everyone down memory lane.
 
-![](/images/Signature%20Programmes/NMP%201.jpg)
+<img src="/images/Signature%20Programmes/NMP%201.jpg"  
+     style="width:55%">
+		 
+<img src="/images/Signature%20Programmes/NMP%202.jpg"  
+     style="width:55%">		 
+		 
+<img src="/images/Signature%20Programmes/NMP%203.jpg"  
+     style="width:55%">		 
+		 
+<img src="/images/Signature%20Programmes/NMP%204.jpg"  
+     style="width:55%">		 
+		 
+<img src="/images/Signature%20Programmes/NMP%205.jpg"  
+     style="width:55%">		 
+		 
+<img src="/images/Signature%20Programmes/NMP%206.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/NMP%202.jpg)
-
-![](/images/Signature%20Programmes/NMP%203.jpg)
-
-![](/images/Signature%20Programmes/NMP%204.jpg)
-
-![](/images/Signature%20Programmes/NMP%205.jpg)
-
-![](/images/Signature%20Programmes/NMP%206.jpg)
