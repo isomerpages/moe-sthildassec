@@ -59,7 +59,7 @@ School Canteen
 <thead>
   <tr>
     <td>Vendor Name:</td>
-    <td>Pat &amp; Chris Gourment</td>
+    <th>Pat &amp; Chris Gourment</th>
   </tr>
 </thead>
 </table>
