@@ -25,3 +25,20 @@ Tuesdays : 3.30pm - 5.30pm <br>  
 Fridays: 3:00pm - 5:00pm
 
 Join us at the Black box!
+
+
+##### Achievements
+
+**Singapore Youth Festival - Performing Arts**<br>
+2019 - Certificate of Distinction<br>
+2017 - Certificate of Distinction  
+2015 - Certificate of Distinction
+
+####  Teachers In-Charge & Coach
+
+**Teachers**  
+Mdm Michelle  
+Mdm Ramona  
+  
+**Coach**  
+Mr Zam
