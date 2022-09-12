@@ -29,3 +29,8 @@ CO-CURRICULAR ACTIVITIES
 <img src="/images/CCA/UG%20POSTER.jpg"  
      style="width:45%">
 </a></p>
+
+
+Click here to view:
+
+*   [LEAPS 2.0](/files/leaps-2.pdf)
