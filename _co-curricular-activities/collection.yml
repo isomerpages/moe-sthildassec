@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Hildan Chorale.md
       - Performing Arts/Guitar Ensemble.md
       - Performing Arts/Drama.md
       - Performing Arts/Performing Arts.md
