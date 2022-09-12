@@ -104,11 +104,11 @@ The team employs the following strategies:<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The Lower Secondary Science syllabus has been carefully redesigned to facilitate better alignment to the Upper Secondary Science syllabus and tapping on prior knowledge and skills acquired at primary school. The&nbsp;<a href="/files/Attachment%201.pdf">Lower Secondary Modular Science syllabus (revised) (click here for more details):</a>&nbsp;has been purposefully divided into the three modules, Physics, Chemistry and Biology to provide specialised teaching for students’ learning. Each semester, students are exposed to all 3 modules.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>The Lower Secondary Science syllabus has been carefully redesigned to facilitate better alignment to the Upper Secondary Science syllabus and tapping on prior knowledge and skills acquired at primary school. The&nbsp;<a href="/files/Attachment%201.pdf">Lower Secondary Modular Science syllabus (revised) (click here for more details):</a>&nbsp;has been purposefully divided into the three modules, Physics, Chemistry and Biology to provide specialised teaching for students’ learning. Each semester, students are exposed to all 3 modules.<br><br>
 
-With effect from January 2014, the Lower Secondary Science curriculum has been revised from what was previously a 4-week cycle, to an 8-week cycle. This means that each module takes up a duration of 8 weeks to be covered. In addition, prior to the End-of-Year Examination, 1 week of revision lesson is allocated to each module.
+With effect from January 2014, the Lower Secondary Science curriculum has been revised from what was previously a 4-week cycle, to an 8-week cycle. This means that each module takes up a duration of 8 weeks to be covered. In addition, prior to the End-of-Year Examination, 1 week of revision lesson is allocated to each module.<br><br>
 
-With more flexibility in the curriculum time, curriculum is redesigned to incorporate the school C.A.R.E. (Collaborative, Applied, Reflective, Enquiry) approach aligning to 21CC. As such, students are exposed to different experiences in the learning of Sciences (both in and beyond classrooms), as well as, being assessed in different modes of assessments The following shows the assessment mode for each module in the revised Lower Secondary Science syllabus. The assessment mode is purposefully structured in alignment to the 21 CC Framework.
+With more flexibility in the curriculum time, curriculum is redesigned to incorporate the school C.A.R.E. (Collaborative, Applied, Reflective, Enquiry) approach aligning to 21CC. As such, students are exposed to different experiences in the learning of Sciences (both in and beyond classrooms), as well as, being assessed in different modes of assessments The following shows the assessment mode for each module in the revised Lower Secondary Science syllabus. The assessment mode is purposefully structured in alignment to the 21 CC Framework.<br><br>
 			
 <table>
 <thead>
@@ -133,14 +133,14 @@ With more flexibility in the curriculum time, curriculum is redesigned to incorp
   </tr>
 </tbody>
 </table>
-			
-*<b>Please note that there is no Mid-Year Examination for Lower Secondary Science wef 2014</b>
+<br><br>			
+*<b>Please note that there is no Mid-Year Examination for Lower Secondary Science wef 2014</b><br><br>
 
-With this distinction among the three modules of Science, our students are better able to familiarize themselves with the subjects and to make more informed decisions when it comes to choosing their Science subject combinations in Upper Secondary.
+With this distinction among the three modules of Science, our students are better able to familiarize themselves with the subjects and to make more informed decisions when it comes to choosing their Science subject combinations in Upper Secondary.<br><br>
 
-To further support the learning of students in&nbsp;**Lower Secondary Science**&nbsp;, the following are implemented:
+To further support the learning of students in&nbsp;**Lower Secondary Science**&nbsp;, the following are implemented:<br><br>
 
-Revision of Common Notes &amp; Worksheets for Physics, Chemistry, Biology modules
+Revision of Common Notes &amp; Worksheets for Physics, Chemistry, Biology modules<br><br>
 
 \- Structured Science Remedial/ Supplementary Programme (SRSP) after Curriculum time			
 				
