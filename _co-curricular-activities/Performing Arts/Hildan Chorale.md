@@ -26,3 +26,15 @@ Tuesdays : 3.30pm - 5.30pm 
 Fridays: 2:30pm - 5:30pm
 
 We will be at the Mac Lab and/ or the Auditorium!
+
+#### Achievements
+
+**Singapore Youth Festival - Performing Arts**  
+2013 - Distinction  
+2015 - Distinction  
+2017 - Distinction  
+2019 - Distinction  
+  
+**11th Orientale Concentus International Choral Festival**  
+Equal Voices, Junior Category - Gold (Grade III)  
+Equal Voices, Junior Category - Silver (Grade I)
