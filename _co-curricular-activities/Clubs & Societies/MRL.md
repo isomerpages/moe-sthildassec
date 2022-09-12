@@ -6,7 +6,8 @@ third_nav_title: Clubs & Societies
 ---
 MRL
 ---
-![](/images/CCA/MRL.jpeg)
+<img src="/images/CCA/MRL.jpeg"  
+     style="width:65%">
 
 
 #### About Us
