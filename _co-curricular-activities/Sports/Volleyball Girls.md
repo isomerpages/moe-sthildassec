@@ -31,3 +31,28 @@ Thursdays: 3:30pm - 6:30pm
 **B Division (Secondary 3-5)**  
 Tuesdays:  3:30pm - 6:30pm  
 Thursdays: 3:30pm - 6:30pm
+
+
+#### Achievements
+
+**2019**  
+East Zone Schools Volleyball Championship 'B' Div \- 3rd  
+East Zone Schools Volleyball Championship 'C' Div \- 4th  
+National Schools Volleyball Championship ‘B’ Div - Top 8
+
+**2018**  
+East Zone Schools Volleyball Championship ‘B’ Div - 3rd  East Zone Schools Volleyball Championship ‘C’ Girls - 4th 
+
+**2017**  
+East Zone Schools Volleyball Championship ‘B’ Div \- 4th 
+
+**Awards**  
+Singapore School Sports Council Colours Award (Individual Award) 2015  
+\- Charmaine Wong Min Hui
+
+
+#### Teachers-In-Charge
+
+Ms Hung Siau Moon(IC)  
+Ms Cindy Tan  
+Ms Ong Gui Li
