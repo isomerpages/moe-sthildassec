@@ -192,18 +192,18 @@ To further support the learning of students in&nbsp;<b>Upper Secondary Sciences<
 
 <p>
 
-The Science department has been organizing and conducting numerous enrichment programmes through STEM, introduced in 2006. The STEM programmes are conducted to expose students to science beyond the textbooks and to enrich the students with the 21&nbsp;st&nbsp;Century Competencies skills such as in the domains of&nbsp;<b>Critical and Inventive Thinking</b>&nbsp;as well as&nbsp;<b>Information</b>&nbsp;,&nbsp;<b>Collaboration and Communication Skills</b>&nbsp;.
+The Science department has been organizing and conducting numerous enrichment programmes through STEM, introduced in 2006. The STEM programmes are conducted to expose students to science beyond the textbooks and to enrich the students with the 21&nbsp;st&nbsp;Century Competencies skills such as in the domains of&nbsp;<b>Critical and Inventive Thinking</b>&nbsp;as well as&nbsp;<b>Information</b>&nbsp;,&nbsp;<b>Collaboration and Communication Skills</b>&nbsp;.<br><br>
 
-The STEM programme aims to provide a memorable experience for our students and to enhance and sustain their interest and quality learning experience in Science. In addition, STEM provides the opportunities for students to participate in various Science-related competitions at a national level. These platforms build confidence in our students and allow them to gain a measure of their own achievement under the mentorship of our Science teachers, in an external assessment situation, providing them with memorable learning experiences in their secondary school years.
+The STEM programme aims to provide a memorable experience for our students and to enhance and sustain their interest and quality learning experience in Science. In addition, STEM provides the opportunities for students to participate in various Science-related competitions at a national level. These platforms build confidence in our students and allow them to gain a measure of their own achievement under the mentorship of our Science teachers, in an external assessment situation, providing them with memorable learning experiences in their secondary school years.<br><br>
 
-<a href="/files/STEM_Programmes.pdf">Click here for more details...</a>
+<a href="/files/STEM_Programmes.pdf">Click here for more details...</a><br><br>
 
-1.  Microbial Fuel Cells (MFC) Programme
-2.  PET Rocket
-3.  Forensic Science Workshop by Ngee Ann Polytechnic
-4.  The Amazing Forensic Science Challenge
-5.  Biology Field Trip
-6.  Chemistry Appreciation Programme: Simply Science
+1.  Microbial Fuel Cells (MFC) Programme<br>
+2.  PET Rocket<br>
+3.  Forensic Science Workshop by Ngee Ann Polytechnic<br>
+4.  The Amazing Forensic Science Challenge<br>
+5.  Biology Field Trip<br>
+6.  Chemistry Appreciation Programme: Simply Science<br>
 7.  Physics Enrichment Programme: Physics Workshops conducted by the Science Centre	
 
 	
