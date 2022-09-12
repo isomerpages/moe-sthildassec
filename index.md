@@ -9,16 +9,16 @@ sections:
   - hero:
       background: /images/St Hildas Homepage GIF.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Events & Announcements
+          description: ""
+          url: /others/announcement/events-n-announcements/
+        - title: Achievements
+          description: ""
+          url: /about-shss/achievements/school/
+        - title: Useful Links
+          description: ""
+          url: /others/announcement/useful-links
+        - title: Publicity
+          description: ""
+          url: /about-shss/publicity
 ---
