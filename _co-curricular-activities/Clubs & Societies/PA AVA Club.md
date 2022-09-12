@@ -7,7 +7,8 @@ third_nav_title: Clubs & Societies
 PA/AVA Club
 -----------
 
-![](/images/CCA/PA.jpg)
+<img src="/images/CCA/PA.jpg"  
+     style="width:55%">
 
 
 #### About Us
