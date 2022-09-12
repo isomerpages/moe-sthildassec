@@ -74,11 +74,11 @@ Programme
 	
 </ul>	
 
-    </div>
+</div>
 
-  </li>
+</li>
 
-  <li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -95,6 +95,6 @@ Click <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional
 
     </div>
 
-  </li>
+</li>
 
 </ul>
