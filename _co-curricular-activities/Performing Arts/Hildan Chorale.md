@@ -37,4 +37,13 @@ We will be at the Mac Lab and/ or the Auditorium!
   
 **11th Orientale Concentus International Choral Festival**  
 Equal Voices, Junior Category - Gold (Grade III)  
-Equal Voices, Junior Category - Silver (Grade I)
+Equal Voices, Junior Category - Silver (Grade I)'
+
+#### **Teachers**  
+Mrs Gwen Lui  
+Mdm Xi Ning  
+Ms Chia Chen Chi  
+  
+**Conductress**  
+Mrs Evangeline Tay  
+Ms Mei Shuem
