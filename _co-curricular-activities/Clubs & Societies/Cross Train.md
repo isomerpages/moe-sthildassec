@@ -12,7 +12,7 @@ Cross Train
 
 #### About Us
 
-Click [here](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/CCA%202021/Clubs%20&%20Societies/Cross%20Train/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf) to find out more!
+Click [here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf) to find out more!
 
 **<u>Training Schedule</u>**<br><br>
 **\*Secondary 1 first day of CCA:**  
