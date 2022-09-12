@@ -8,8 +8,7 @@ description: ""
 DIRECT SCHOOL ADMISSION (DSA)
 -----------------------------
 
-Our sports for Direct School Admission are Volleyball (Boys & Girls), Netball, Hockey (Boys), Badminton (Boys) and  
-Floorball (Girls). The school will allocate its DSA vacancies to the five Sports CCAs based on school needs.
+Our sports for Direct School Admission are Volleyball (Boys & Girls), Netball, Hockey (Boys), Badminton (Boys) and Floorball (Girls). The school will allocate its DSA vacancies to the five Sports CCAs based on school needs.
 
 For DSA <u>application information, selection and admission criteria</u>, please scroll down to the bottom of this page.
 
