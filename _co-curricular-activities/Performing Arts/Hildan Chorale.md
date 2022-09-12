@@ -15,7 +15,7 @@ The St. Hilda’s Secondary School Choir is a SSAA (Soprano & Alto) chorale grou
 
 Click [here](/files/CCA/Chorale.pdf) to know more!
 
-**Training Schedule**  
+**<u>Training Schedule</u>**  
   
 **\*Secondary 1 first day of CCA:**  
 **Friday, 28th Jan 2022 - 2.30pm**<br>
