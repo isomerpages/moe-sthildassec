@@ -13,7 +13,7 @@ Volleyball Boys
 
 #### About Us
 
-Click **[here](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/CCA%202021/Sports%20CCA/Volleyball_Boys_presentation_V2.pdf)** to know more about us!  
+Click **[here](/files/CCA/Volleyball_Boys_presentation_V2.pdf)** to know more about us!  
   
 Click below to access our DSA e-brochure!  
 [DSA\_Volleyball\_Boys.pdf](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/CCA%202021/Sports%20CCA/Latest%20PDF/DSA_Volleyball_Boys.pdf)
