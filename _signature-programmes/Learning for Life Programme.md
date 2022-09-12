@@ -96,32 +96,38 @@ Pictures 
 
 SportSG Workshop for our CCA Sports Teachers and Coaches
 
-
-![](/images/Signature%20Programmes/LLP%2011.jpg)
+<img src="/images/Signature%20Programmes/LLP%2011.jpg"  
+     style="width:75%">
 
 Group Sharing by Hockey teachers on creating a Positive Sports
 
 Environment
 
-![](/images/Signature%20Programmes/LLP%2012.jpg)
-
+<img src="/images/Signature%20Programmes/LLP%2012.jpg"  
+     style="width:75%">
+		 
 Volleyball Teachers and coaches in deep discussion
 
-![](/images/Signature%20Programmes/LLP%2013.jpg)
+<img src="/images/Signature%20Programmes/LLP%2013.jpg"  
+     style="width:75%">
 
 Exploring body posture and balance in the Sport Science     
 Lab at Republic Polytechnic
 
-![](/images/Signature%20Programmes/LLP%2014.jpg)
+<img src="/images/Signature%20Programmes/LLP%2014.jpg"  
+     style="width:75%">
 
 Making tasty ‘recovery’ energy drink in the Sport Science Kitchen.
 
-![](/images/Signature%20Programmes/LLP%2015.jpg)
+<img src="/images/Signature%20Programmes/LLP%2015.jpg"  
+     style="width:75%">
 
 Zhao Bao newspaper features one of our Outdoor Education interdisciplinary lessons with Food & Consumer Education
 
-![](/images/Signature%20Programmes/LLP%2016.jpg)
+<img src="/images/Signature%20Programmes/LLP%2016.jpg"  
+     style="width:75%">
 
 Practising Sport Taping
 
-![](/images/Signature%20Programmes/LLP%2017.jpg)
+<img src="/images/Signature%20Programmes/LLP%2017.jpg"  
+     style="width:75%">
