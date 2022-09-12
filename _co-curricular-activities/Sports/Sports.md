@@ -4,6 +4,8 @@ permalink: /hildan-experience/co-curricular-activities/sports/
 description: ""
 third_nav_title: Sports
 ---
+![](/images/CCA/Sports%20Banner.jpg)
+
 SPORTS
 ------
 
