@@ -45,7 +45,7 @@ The Department adopts a three-pronged approach – 3’E’s: Exposure, Experien
 
   
 
-• I**nstructional Programmes** include: the General Art Programme and General Music Programme.
+• **Instructional Programmes** include: the General Art Programme and General Music Programme.
 
   
 
