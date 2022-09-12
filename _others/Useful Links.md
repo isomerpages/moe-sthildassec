@@ -23,9 +23,9 @@ USEFUL LINKS
 
 <ul>
 	
-<li> <a href="link">text</a></li> 
+<li> <a href="https://www.moe.gov.sg/">MOE WEBSITE</a></li> 
 
-<li><a href="link">text</a> </li> 
+<li><a href="https://www.facebook.com/shss.psg">PSG FB PAGE</a> </li> 
 
 </ul>	
 	
@@ -37,16 +37,17 @@ USEFUL LINKS
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Students</label>
 
     <div>
 
 <ul>
 	
-<li> <a href="link">text</a></li> 
+<li> <a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-matters/library-catalogue/">ONLINE LIBRARY CATALOGUE</a></li> 
 
-<li><a href="link">text</a> </li> 
+<li><a href="https://vle.learning.moe.edu.sg/login">STUDENTS LEARNING SPACE</a> </li> 
 
+<li>ACE LEARNING PORTAL</li> 	
 </ul>	
 
     </div>
@@ -57,7 +58,7 @@ USEFUL LINKS
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Teachers</label>
 
     <div>
 
@@ -66,7 +67,17 @@ USEFUL LINKS
 <li> <a href="link">text</a></li> 
 
 <li><a href="link">text</a> </li> 
-
+	
+<li><a href="link">text</a> </li> 
+	
+<li><a href="link">text</a> </li> 
+	
+<li><a href="link">text</a> </li> 
+	
+<li><a href="link">text</a> </li> 
+	
+<li><a href="link">text</a> </li> 
+	
 </ul>	
 
     </div>
