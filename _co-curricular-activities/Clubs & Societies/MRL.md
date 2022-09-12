@@ -14,7 +14,7 @@ MRL
 
 Click [here](/files/CCA/MRL%202016.pdf) to find out more!
 
-**Training Schedule**
+**<u>Training Schedule</u>**
 
 Fridays: 3:30pm - 5:30pm
 
