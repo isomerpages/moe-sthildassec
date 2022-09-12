@@ -64,7 +64,7 @@ USEFUL LINKS
 
 <ul>
 	
-<li> <a href="https://sites.google.com/moe.edu.sg/shssstafflink/home">SHSS STAFF ADMIN LINK</a>(Please ensure that you have login to your iCON)</li> 
+<li> <a href="https://sites.google.com/moe.edu.sg/shssstafflink/home">SHSS STAFF ADMIN LINK</a>(Please ensure that you have login to your iCON) <b>BROKEN LINK</b></li> 
 
 <li><a href="https://vle.learning.moe.edu.sg/login">SLS</a> </li> 
 	
