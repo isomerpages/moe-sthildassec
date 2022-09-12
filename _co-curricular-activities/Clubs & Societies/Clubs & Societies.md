@@ -14,26 +14,26 @@ CLUBS & SOCIETIES
 </a></p>
 
 <p><a href="link">
-<img src="/images/principal.jpg"  
+<img src="/images/CCA/CT%20logo%20psd.png"  
      style="width:45%">
 </a></p>
 
 <p><a href="link">
-<img src="/images/principal.jpg"  
+<img src="/images/CCA/IC%20logo%20psd.png"  
      style="width:45%">
 </a></p>
 
 <p><a href="link">
-<img src="/images/principal.jpg"  
+<img src="/images/CCA/MC%20logo%20psd.png"  
      style="width:45%">
 </a></p>
 
 <p><a href="link">
-<img src="/images/principal.jpg"  
+<img src="/images/CCA/MRL%20logo%20psd.png"  
      style="width:45%">
 </a></p>
 
 <p><a href="link">
-<img src="/images/principal.jpg"  
+<img src="/images/CCA/PA%20logo%20psd.png"  
      style="width:45%">
 </a></p>
