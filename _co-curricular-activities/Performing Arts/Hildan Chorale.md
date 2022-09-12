@@ -39,7 +39,9 @@ We will be at the Mac Lab and/ or the Auditorium!
 Equal Voices, Junior Category - Gold (Grade III)  
 Equal Voices, Junior Category - Silver (Grade I)'
 
-#### **Teachers**  
+####  Teachers In-Charge & Conductress
+
+**Teachers**  
 Mrs Gwen Lui  
 Mdm Xi Ning  
 Ms Chia Chen Chi  
