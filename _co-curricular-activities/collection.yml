@@ -2,12 +2,22 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/Girls' Brigade.md
-      - Uniformed Groups/NCDCC.md
-      - Uniformed Groups/NPCC.md
+      - Co Curricular Activities.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Cross Train.md
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/Mass Comm.md
+      - Clubs & Societies/MRL.md
+      - Clubs & Societies/PA AVA Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Hildan Chorale.md
+      - Performing Arts/Handbell Ensemble.md
+      - Performing Arts/Hildan Wind Orchestra.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Badminton.md
@@ -16,19 +26,9 @@ collections:
       - Sports/Netball.md
       - Sports/Volleyball Boys.md
       - Sports/Volleyball Girls.md
-      - Performing Arts/.keep
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/Drama.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/Hildan Chorale.md
-      - Performing Arts/Handbell Ensemble.md
-      - Performing Arts/Hildan Wind Orchestra.md
-      - Clubs & Societies/Clubs & Societies.md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Art Club.md
-      - Clubs & Societies/Cross Train.md
-      - Clubs & Societies/Infocomm Club.md
-      - Clubs & Societies/Mass Comm.md
-      - Clubs & Societies/MRL.md
-      - Clubs & Societies/PA AVA Club.md
-      - Co Curricular Activities.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
