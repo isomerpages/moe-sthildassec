@@ -51,7 +51,7 @@ Programme
 
 </li>  
 
-  <li>
+<li>
 
     <input type="checkbox" id="accordion2">
 
@@ -60,7 +60,7 @@ Programme
     <div>
 
       <p>Click the links below to find out more about Cyber Wellness. 
-<br><br><b>LINKS BELOW DO NOT WORK<b></p>
+<br><br><b>LINKS BELOW DO NOT WORK</b></p>
 
 <ul>
 
