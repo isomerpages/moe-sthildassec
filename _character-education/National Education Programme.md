@@ -53,7 +53,7 @@ Racial Harmony
 
     <div>
 
-      <p>This "SG50 lantern" depicting our Singapore Flyer, is made from a bicycle rim, empty green tea bottles, a discarded toy race car, a piece of PVC pipe found in a recycle bin, plywood from an old bedframe, and decorations from a Christmas tree such as light bulbs and  tinsel garland.  
+      <p>This "SG50 lantern" depicting our Singapore Flyer, is made from a bicycle rim, empty green tea bottles, a discarded toy race car, a piece of PVC pipe found in a recycle bin, plywood from an old bedframe, and decorations from a Christmas tree such as light bulbs and  tinsel garland.  <br><br>
   
 It belongs to Mr Chew Chyle Leng of D&T Department who has a hobby of making lanterns from recycled items for more than 20 years.  This SG50 Lantern entered the single-person competition organised by Singapore Expo on 18th Sept 2015 at Hall 6 for the event entitled ‘Celebrating SG 50’.</p>
 
