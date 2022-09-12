@@ -16,7 +16,7 @@ Join our Ensemble!
 
 Click [here](/files/CCA/Handbell%20Ensemble%202016.pdf) to find out more!
 
-**Training Schedule**  
+**<u>Training Schedule</u>**  
   
 **\*Secondary 1 first day of CCA:**  
 **Tuesday, 25th Jan 2022 - 3.30pm  
