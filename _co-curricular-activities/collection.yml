@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Hildan Wind Orchestra.md
       - Performing Arts/Handbell Ensemble.md
       - Performing Arts/Hildan Chorale.md
       - Performing Arts/Guitar Ensemble.md
