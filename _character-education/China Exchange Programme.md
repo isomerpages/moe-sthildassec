@@ -25,7 +25,8 @@ Our counterparts in China will also be planning an exciting programme that is ed
 
 Pictures
 --------
+<img src="/images/Character%20Education/China%20Exchange%201.jpg"  
+     style="width:75%">
 
-![](/images/Character%20Education/China%20Exchange%201.jpg)
-
-![](/images/Character%20Education/China%20Exchange%202.jpg)
+<img src="/images/Character%20Education/China%20Exchange%202.jpg"  
+     style="width:75%">
