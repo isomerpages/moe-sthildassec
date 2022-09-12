@@ -24,3 +24,18 @@ Tuesdays: 3:30pm - 5:30pm<br>
 Fridays: 3:30pm - 5:30pm
 
 MPH, SAC, GO & Library
+
+
+#### Achievements
+
+**Zonal PA Day friendly Competition**  
+1st Position - 2019  
+  
+**ISP (Sports Competition) 2019**  
+Team Awards - Floorball & Badminton
+
+####  Teachers In-Charge & Instructors
+
+**Teachers**  
+Mr Chales Neo  
+Mr Noornizar
