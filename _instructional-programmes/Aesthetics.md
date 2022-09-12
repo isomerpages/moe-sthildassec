@@ -62,15 +62,21 @@ Pictures
 
 **Handbell Ensemble**
 
-![](/images/Instructional%20Programmes/Aesthetics%201.jpg)
 
-![](/images/Instructional%20Programmes/Aesthetics%202.jpg)
+<img src="/images/Instructional%20Programmes/Aesthetics%201.jpg"  
+     style="width:75%">
+
+<img src="/images/Instructional%20Programmes/Aesthetics%202.jpg"  
+     style="width:75%">
+
+
 **Hildan Chorale**
 
 2019 “Once Upon A Song” performance at Tan Tock Seng Hospital
 
 
-![](/images/Instructional%20Programmes/Aesthetics%203.png)
+<img src="/images/Instructional%20Programmes/Aesthetics%203.png"  
+     style="width:75%">
 
 
 Euphoria 2019
