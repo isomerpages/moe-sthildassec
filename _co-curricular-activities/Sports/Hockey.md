@@ -16,7 +16,7 @@ Click **[here](/files/CCA/HockeyOrientation_2021_intro.pdf)** to know more abo
   
 
 Click below to access our DSA e-brochure!  
-[DSA\_Hockey.pdf](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/CCA%202021/Sports%20CCA/Latest%20PDF/DSA_Hockey.pdf)  
+[DSA\_Hockey.pdf](/files/CCA/DSA_Hockey.pdf)
 
   
 **<u>Training Schedule</u>**  
