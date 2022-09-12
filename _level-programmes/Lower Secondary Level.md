@@ -23,20 +23,30 @@ The Camp aimed to fulfil the following objectives:
 3\. Take initiative to lead and problem-solve  
 4\. Build greater rapport with their Form Teachers
 
+<img src="/images/Level%20Programmes/Lower%20Sec%201.jpg"  
+     style="width:55%">
 
-![](/images/Level%20Programmes/Lower%20Sec%201.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%202.jpg"  
+     style="width:55%">
 
-![](/images/Level%20Programmes/Lower%20Sec%202.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%203.jpg"  
+     style="width:55%">
 
-![](/images/Level%20Programmes/Lower%20Sec%203.jpg)
 
-![](/images/Level%20Programmes/Lower%20Sec%204.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%204.jpg"  
+     style="width:55%">
 
-![](/images/Level%20Programmes/Lower%20Sec%205.jpg)
 
-![](/images/Level%20Programmes/Lower%20Sec%206.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%205.jpg"  
+     style="width:55%">
 
-![](/images/Level%20Programmes/Lower%20Sec%207.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%206.jpg"  
+     style="width:55%">
+
+<img src="/images/Level%20Programmes/Lower%20Sec%207.jpg"  
+     style="width:55%">
+
+
 
 
 Sec 1 Drama Education Programme
