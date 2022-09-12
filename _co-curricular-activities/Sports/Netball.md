@@ -61,3 +61,9 @@ Netball ‘B’ Team
 **2016**  
 East Zone Schools Netball Championship ‘C’ Div – Champions  
 National Netball Championship C Div – Top 8
+
+
+#### Teachers-In-Charge
+
+Ms Tan Yen Lin (IC)  
+Ms Deng Lan
