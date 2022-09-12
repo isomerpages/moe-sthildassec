@@ -27,7 +27,7 @@ SPORTS
 
 <p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/sports/hockey/">
 <img src="/images/CCA/Hockey%20Logo.png"  
-     style="width:45%">
+     style="width:30%">
 </a></p>
 
 <center>Hockey Boys</center>
@@ -35,7 +35,7 @@ SPORTS
 
 <p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/sports/netball/">
 <img src="/images/CCA/Netball%20Logo%20Gold.png"  
-     style="width:45%">
+     style="width:30%">
 </a></p>
 
 <center>Netball</center>
@@ -43,7 +43,7 @@ SPORTS
 
 <p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/sports/volleyball-boys/">
 <img src="/images/CCA/Volleyball.png"  
-     style="width:45%">
+     style="width:30%">
 </a></p>
 
 <center>Volleyball Boys</center>
@@ -51,7 +51,7 @@ SPORTS
 
 <p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/sports/volleyball-girls/">
 <img src="/images/CCA/Volleyball.png"  
-     style="width:45%">
+     style="width:30%">
 </a></p>
 
 <center>Volleyball Girls</center>
