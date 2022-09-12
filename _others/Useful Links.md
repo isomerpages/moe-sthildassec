@@ -17,12 +17,18 @@ USEFUL LINKS
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Parents</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
+<ul>
+	
+<li> <a href="link">text</a></li> 
 
+<li><a href="link">text</a> </li> 
+
+</ul>	
+	
     </div>
 
 </li>  
@@ -35,11 +41,13 @@ USEFUL LINKS
 
     <div>
 
-      <p>This is line 1</p>
+<ul>
+	
+<li> <a href="link">text</a></li> 
 
-      <p>This is line 2<br>
+<li><a href="link">text</a> </li> 
 
-        This is line 3</p>
+</ul>	
 
     </div>
 
@@ -53,13 +61,13 @@ USEFUL LINKS
 
     <div>
 
-      <p>
+<ul>
+	
+<li> <a href="link">text</a></li> 
 
-        This is all going
+<li><a href="link">text</a> </li> 
 
-        to become just one line\\n even though there are multiple lines
-
-      </p>
+</ul>	
 
     </div>
 
