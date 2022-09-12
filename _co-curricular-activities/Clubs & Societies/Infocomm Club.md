@@ -33,7 +33,7 @@ Merit Award - Creative Category 2019
 Best Design Award - 2018
 
 
-#####  Teachers In-Charge & Instructors
+####  Teachers In-Charge & Instructors
 
 **Teachers**  
 Mr Steve Tay Yong Teck
