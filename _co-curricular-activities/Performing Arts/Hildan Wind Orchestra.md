@@ -27,3 +27,23 @@ Main Band - Tuesdays : 3.45pm - 6.00pm, Saturdays 8.00am - 12.00pm <br>
 Junior Band Practice - Thursdays: 3:45pm - 6:00pm
 
 Follow our sound and you'll find as at the band room! (Level 2, next to the Lift)
+
+#### Achievements
+
+**Singapore Youth Festival - Performing Arts**<br>
+2019 - Certificate of Accomplishment  
+2017 - Certificate of Distinction  
+2015 - Certificate of Distinction
+
+####  Teachers In-Charge & Instructors
+
+**Teachers**  
+Mdm Sandy Teo  
+Mdm Nur Khairiani  
+Mrs Ezri  
+  
+**Conductors**  
+Mr Tan Thiam Hee (Main Band)  
+Mr Jeffrey Ng (Junior Band)  
+Mr Edric Liew (Band Conductor)  
+Ms Ng Yan Jia (Percussion Tutor)
