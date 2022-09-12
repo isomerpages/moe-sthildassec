@@ -24,3 +24,15 @@ Friday: 2.30pm - 4.30pm
   
 
 Art Room @ Level 3
+
+
+#### Achievements
+
+**Singapore Youth Festival - Visual Arts**<br>
+2019 - Certificate of Accomplishment
+
+####  Teachers In-Charge & Instructors
+
+**Teachers**  
+Mr Gopal  
+Mdm Norhani
