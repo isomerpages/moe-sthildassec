@@ -9,7 +9,7 @@ third_nav_title: Achievements
 School Awards for Excellence
 ----------------------------
 
-<u>**Academic**</u>
+**<u>Academic</u>**
 
 **Bishop's Prize**<br>
 Student who achieves the best improvement for school examination at Sec 2
