@@ -16,7 +16,8 @@ CHARACTER & CITIZENSHIP EDUCATION
 Framework
 ---------
 
-![](/images/Character%20Education/CCE%201.jpg)
+<img src="/images/Character%20Education/CCE%201.jpg"  
+     style="width:85%">
 
 Environment
 -----------
