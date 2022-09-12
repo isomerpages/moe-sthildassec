@@ -41,8 +41,8 @@ Student who achieves excellent academic results at the GCE-O Level Examination, 
 Achievement
 -----------
 
-
-![](/images/School%20Info/Student%20Achievements%201.jpg)
+<img src="/images/School%20Info/Student%20Achievements%201.jpg"  
+     style="width:75%">
 
 **Joshua Tang**
   
@@ -53,8 +53,9 @@ St. Hilda's Secondary School congratulates our alumnus Mr Joshua Tang for receiv
 (The link: [http://www.tnp.sg/news/singapore/trio-awarded-scholarships-people-disabilities](http://www.tnp.sg/news/singapore/trio-awarded-scholarships-people-disabilities))
 
 
+<img src="/images/School%20Info/Student%20Achievements%202.jpg"  
+     style="width:75%">
 
-![](/images/School%20Info/Student%20Achievements%202.jpg)
 
 
 **Oh Siew May**
