@@ -77,6 +77,9 @@ To drive the NE message home, the commemoration of Total Defence Day and the Lun
 
 Written by the NE Committee
 
-![](/images/Character%20Education/NE%204.jpg)
+<img src="/images/Character%20Education/NE%204.jpg"  
+     style="width:75%">
 
-![](/images/Character%20Education/NE%205.jpg)
+<img src="/images/Character%20Education/NE%205.jpg"  
+     style="width:75%">
+
