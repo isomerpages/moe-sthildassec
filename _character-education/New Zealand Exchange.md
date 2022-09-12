@@ -23,18 +23,27 @@ We would like to thank God for being with us in the trip, causing it to be a tru
 
 Pictures
 --------
+<img src="/images/Character%20Education/New%20Zealand%201.jpg"  
+     style="width:70%">
+
+<img src="/images/Character%20Education/New%20Zealand%202.jpg"  
+     style="width:70%">
+		 
+		 
+<img src="/images/Character%20Education/New%20Zealand%203.jpg"  
+     style="width:70%">		 
+
+<img src="/images/Character%20Education/New%20Zealand%204.jpg"  
+     style="width:70%">
+
+<img src="/images/Character%20Education/New%20Zealand%205.jpg"  
+     style="width:70%">
+
+<img src="/images/Character%20Education/New%20Zealand%206.jpg"  
+     style="width:70%">
 
 
-![](/images/Character%20Education/New%20Zealand%201.jpg)
+<img src="/images/Character%20Education/New%20Zealand%207.jpg"  
+     style="width:70%">
 
-![](/images/Character%20Education/New%20Zealand%202.jpg)
 
-![](/images/Character%20Education/New%20Zealand%203.jpg)
-
-![](/images/Character%20Education/New%20Zealand%204.jpg)
-
-![](/images/Character%20Education/New%20Zealand%205.jpg)
-
-![](/images/Character%20Education/New%20Zealand%206.jpg)
-
-![](/images/Character%20Education/New%20Zealand%207.jpg)
