@@ -164,17 +164,17 @@ Revision of Common Notes &amp; Worksheets for Physics, Chemistry, Biology module
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 
-At the end of Secondary 2, our students are required to choose their Upper Secondary subject combinations according to their Exp/NA/NT courses.&nbsp;<a href="/files/Attachment%202.pdf">(click here for more details):</a>
+At the end of Secondary 2, our students are required to choose their Upper Secondary subject combinations according to their Exp/NA/NT courses.&nbsp;<a href="/files/Attachment%202.pdf">(click here for more details):</a><br><br>
 
-To further support the learning of students in&nbsp;**Upper Secondary Sciences**&nbsp;, the following are implemented:
+To further support the learning of students in&nbsp;<b>Upper Secondary Sciences</b>&nbsp;, the following are implemented:<br><br>
 
-\- For Secondary 3 Chemistry, Physics &amp; Biology: Re-design of critical topics using Understanding by Design (UbD) Framework, with accompanying Lesson Packages.
+\- For Secondary 3 Chemistry, Physics &amp; Biology: Re-design of critical topics using Understanding by Design (UbD) Framework, with accompanying Lesson Packages.<br><br>
 
-\- Revised Common Notes &amp; Worksheets for Physics, Chemistry, Biology
+\- Revised Common Notes &amp; Worksheets for Physics, Chemistry, Biology<br><br>
 
-\- For graduating classes (in Semester 1): Structured Science Remedial/ Supplementary Programme (SRSP) after Curriculum time
+\- For graduating classes (in Semester 1): Structured Science Remedial/ Supplementary Programme (SRSP) after Curriculum time<br><br>
 
-\- For graduating classes (in Semester 2): Science Banded Programme for Secondary 4 Express and Secondary 5 Normal Academic during Curriculum time
+\- For graduating classes (in Semester 2): Science Banded Programme for Secondary 4 Express and Secondary 5 Normal Academic during Curriculum time<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
