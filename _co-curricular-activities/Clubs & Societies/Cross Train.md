@@ -25,13 +25,13 @@ Fridays: 2.00pm - 5.00pm
 Cross Road Centre (CRC) @ Level 1
 
 
-##### Achievements
+#### Achievements
 
 **East Zone Sports Carnival**<br>
 EZ Sports Carnival 2018 - 3rd in Frisbee Games  
 EZ Sports Carnival 2016 - 1st in Frisbee Games
 
-#####  Teachers In-Charge & Instructors
+####  Teachers In-Charge & Instructors
 
 **Teachers**  
 Ms Lam Mei Lan  
