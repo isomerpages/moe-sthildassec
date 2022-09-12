@@ -65,8 +65,9 @@ Our school Cross Country is held every year at various locations.  One of the o
 
 To cater for the various ability levels, our Cross Country consists of various categories eg. Biathlon, Challenge Run, Orienteering Run and Mass Run according to the intensity level.
 
+<img src="/images/Instructional%20Programmes/PE%201.png"  
+     style="width:85%">
 
-![](/images/Instructional%20Programmes/PE%201.png)
 
 **Sports Day**
 
@@ -76,18 +77,22 @@ This is much anticipated event for our students whereby students have the opport
 
 The aim is to give opportunity to our students to learn new sports to cater for wide range of interest and abilities. It also provide good opportunities for exploration of new interest and positive psychosocial development. Popular sports like water soccer, bubble soccer, bossaball, etc. are introduced after getting informal feedback from pupils and teachers.
 
-![](/images/Instructional%20Programmes/PE%202.png)
-
+<img src="/images/Instructional%20Programmes/PE%202.png"  
+     style="width:75%">
+		 
 **Para Games**
 
 The main message throughout the Games is to have a heart of gratitude of how blessed we are, and to empathise with those 
 
 who have physical limitations, yet still going strong in life (think our SG Para Athletes). Students are exposed to sports like wheelchair basketball, goalball and handicapped handball.
 
-![](/images/Instructional%20Programmes/PE%203.jpg)
 
-
-![](/images/Instructional%20Programmes/PE%204.jpg)
+<img src="/images/Instructional%20Programmes/PE%203.jpg" 
+     style="width:75%">
+		 
+<img src="/images/Instructional%20Programmes/PE%204.jpg" 
+     style="width:75%">		 
+		
 
 
 **Interclass Games**
@@ -96,9 +101,12 @@ who have physical limitations, yet still going strong in life (think our SG Para
 
 Students have the opportunity to compete in the games learnt during their PE lessons. The competitions are mainly tiered to allow students to compete with others in similar ability groups. It provides the platform for students to foster co-operation among their teammates, making moral decisions and displaying values like fair play and sportsmanship.
 
-![](/images/Instructional%20Programmes/PE%205.jpg)
+<img src="/images/Instructional%20Programmes/PE%205.jpg" 
+     style="width:75%">		
+		 
+<img src="/images/Instructional%20Programmes/PE%206.jpg" 
+     style="width:75%">				 
 
-![](/images/Instructional%20Programmes/PE%206.jpg)
 
 **Collaborative Platforms**
 
@@ -108,18 +116,23 @@ Over the past four years, our Outdoor Education (OE) lessons take on an collabor
 
 For Sec 1 Geographic Investigation (GI) learning journey to Pasir Ris Park, OE collaboration includes applying map reading ‘theory’ in Geography lessons into the ‘real world’ – specifically map scales, distances, map orientation, plotting and reading 6-figure grid references.  OE also helps to guide the overall safety & conduct of the event.
 
-![](/images/Instructional%20Programmes/PE%207.jpg)
+<img src="/images/Instructional%20Programmes/PE%207.jpg" 
+     style="width:75%">		
 
-![](/images/Instructional%20Programmes/PE%208.jpg)
-
+<img src="/images/Instructional%20Programmes/PE%208.jpg" 
+     style="width:75%">		
 
 **MOE-OBS Challenge** 
 
 As part of the National Outdoor Adventure Education Masterplan, the MOE-OBS Challenge Programme seeks to develop ruggedness, resilience, and build cohesion amongst Secondary 3 students. The programme comprises a series of school-based Physical Education and Character and Citizenship Education lessons facilitated by teachers as well as a five-day expeditionary course at Outward Bound Singapore (OBS).
 
-![](/images/Instructional%20Programmes/PE%209.jpg)
 
-![](/images/Instructional%20Programmes/PE%2010.jpg)
+
+<img src="/images/Instructional%20Programmes/PE%209.jpg" 
+     style="width:75%">		
+
+<img src="/images/Instructional%20Programmes/PE%2010.jpg" 
+     style="width:75%">		
 
 **Inclusive PE Programme**
 
@@ -127,8 +140,8 @@ As part of the National Outdoor Adventure Education Masterplan, the MOE-OBS Chal
 
 This year, the department partnered with Singapore Disability Sports Council on Project ParABLE, to foster the spirit of empathy among our Hildans as they engage in customized lessons for their school mates with physical disabilities. A customized 4-week Table Tennis module programme in Term 3 was implemented for our students with physical disabilities and for their classmates to learn the sport of Para Table Tennis. Students from these classes had a chance to be coached under the watchful eyes of Coach Goh (Table Tennis Association for the Disabled), and had fun sparring with National Para Athletes. We are appreciative of the support from SDSC, and will explore more opportunities to create meaningful PE experiences for our Hildans.
 
-![](/images/Instructional%20Programmes/PE%2011.jpg)
-
+<img src="/images/Instructional%20Programmes/PE%2011.jpg" 
+     style="width:75%">		
 **Game for Life Programme (GFL)**
 
   
@@ -136,6 +149,9 @@ This year, the department partnered with Singapore Disability Sports Council on 
 Our school is partnering with SportSG to implement the ‘Game for Life’ (GFL) toolkit for our PE lessons to intentionally infuse positive values during PE lessons. The toolkit provides a structure for developing character through sports and outdoor education. It features the use of game activities that enable teachers to create teachable moments where learning values can be infused into the lesson experience for every student.
 
 
-![](/images/Instructional%20Programmes/PE%2012.jpg)
-
-![](/images/Instructional%20Programmes/PE%2013.jpg)
+<img src="/images/Instructional%20Programmes/PE%2012.jpg" 
+     style="width:45%">		
+		 
+<img src="/images/Instructional%20Programmes/PE%2013.jpg" 
+     style="width:45%">				 
+		 
