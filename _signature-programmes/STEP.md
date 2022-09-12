@@ -27,32 +27,48 @@ _**"Every student actively engaged in his learning experience and motivated towa
 Pictures
 --------
 
-![](/images/Signature%20Programmes/STEP%201.jpeg)
+<img src="/images/Signature%20Programmes/STEP%201.jpeg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%202.jpeg)
+<img src="/images/Signature%20Programmes/STEP%202.jpeg"  
+     style="width:55%">
+		 
+<img src="/images/Signature%20Programmes/STEP%203.jpeg"  
+     style="width:55%">		 
 
-![](/images/Signature%20Programmes/STEP%203.jpeg)
+<img src="/images/Signature%20Programmes/STEP%204.jpeg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%204.jpeg)
+<img src="/images/Signature%20Programmes/STEP%205.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%205.jpg)
+<img src="/images/Signature%20Programmes/STEP%206.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%206.jpg)
+<img src="/images/Signature%20Programmes/STEP%207.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%207.jpg)
+<img src="/images/Signature%20Programmes/STEP%208.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%208.jpg)
+<img src="/images/Signature%20Programmes/STEP%209.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%209.jpg)
+<img src="/images/Signature%20Programmes/STEP%2010.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%2010.jpg)
+<img src="/images/Signature%20Programmes/STEP%2011.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%2011.jpg)
+<img src="/images/Signature%20Programmes/STEP%2012.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%2012.jpg)
+<img src="/images/Signature%20Programmes/STEP%2013.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%2013.jpg)
+<img src="/images/Signature%20Programmes/STEP%2014.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%2014.jpg)
+<img src="/images/Signature%20Programmes/STEP%2015.jpg"  
+     style="width:55%">
 
-![](/images/Signature%20Programmes/STEP%2015.jpg)
