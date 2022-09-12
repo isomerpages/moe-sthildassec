@@ -12,7 +12,7 @@ Art Club
 
 #### About Us
 
-Click [here](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/CCA%202021/Clubs%20&%20Societies/Art%20Club/Welcome%20to%20Art%20Club.pdf) to find out more!
+Click [here](/files/CCA/Welcome%20to%20Art%20Club.pdf) to find out more!
 
 **<u>Training Schedule</u>**<br>
 **\*Secondary 1 first day of CCA:**  
