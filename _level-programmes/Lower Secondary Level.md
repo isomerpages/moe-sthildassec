@@ -97,6 +97,9 @@ Sec 2 Overseas Integrated Learning Journey
 
 To appreciate Singapore’s heritage and to provide a rich authentic learning experience, Sec 2 students participated in an Overseas Integrated Learning (OIL) journey. Students conducted an investigation to determine Singapore’s success in preservation of heritage. Using Malacca as a case study, students explored certain sites to learn how Malacca was successful in retaining their culture and heritage. The students took their discussion with their group members online using Google Drive as a platform where they discussed the success of Malacca in preservation of heritage and relate it to Singapore. The final product is a persuasive essay which requires them to convince readers that Singapore has or has not been successful in preserving their heritage.
 
-![](/images/Level%20Programmes/Lower%20Sec%2013.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%2013.jpg"  
+     style="width:85%">
 
-![](/images/Level%20Programmes/Lower%20Sec%2014.jpg)
+<img src="/images/Level%20Programmes/Lower%20Sec%2014.jpg"  
+     style="width:85%">
+
