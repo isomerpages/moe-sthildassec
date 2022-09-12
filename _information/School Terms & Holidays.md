@@ -32,6 +32,23 @@ School Terms and Holidays for 2021
 </tbody>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Semester 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Term 3</td>
+    <td>Monday 28 June to Friday 3 September</td>
+  </tr>
+  <tr>
+    <td>Term 4</td>
+    <td>Monday 13 September to *Friday 19 November</td>
+  </tr>
+</tbody>
+</table>
 
 \*_\*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 29 October 2021._
 
