@@ -55,16 +55,18 @@ Students are engaged in various pedagogies to spur their interest in nutrition a
 
 Students are engaged through the use of Padlet as a discussion platform. Kahoot and SLS quizzes are used to engage students interactively and gauge students understanding of lessons.
 
-
-![](/images/Instructional%20Programmes/Food%20&amp;%20Consumer%202.jpg)
+<img src="/images/Instructional%20Programmes/Food%20&amp;%20Consumer%202.jpg"  
+     style="width:65%">
 
 **Guided Hands-On Practical lessons**
 
 Students will learn to prepare main dishes and desserts through various skills such as cutting skills, cake making skills and batter making skills. Student are exposed to both moist and dry heat cooking methods such as boiling, baking, frying and grilling.
 
-![](/images/Instructional%20Programmes/Food%20&amp;%20Consumer%203.jpg)
+<img src="/images/Instructional%20Programmes/Food%20&amp;%20Consumer%203.jpg"  
+     style="width:65%">
 
-![](/images/Instructional%20Programmes/Food%20&amp;%20Consumer%204.jpg)
+<img src="/images/Instructional%20Programmes/Food%20&amp;%20Consumer%204.jpg"  
+     style="width:65%">
 
 
 Pictures
