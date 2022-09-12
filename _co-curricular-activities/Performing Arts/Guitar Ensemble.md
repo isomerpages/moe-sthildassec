@@ -27,3 +27,18 @@ Tuesdays : 3.30pm - 5.30pm 
 Fridays: 2:00pm - 5:00pm
 
 We can be found in the Performing Arts Studio @ Level 4!
+
+#### Achievements
+
+**Singapore Youth Festival - Performing Arts**<br>
+2019 - Certificate of Accomplishment  
+2017 - Certificate of Accomplishment
+
+####  Teachers In-Charge & Instructors
+
+**Teachers**  
+Mr Daniel Phua  
+Mdm Nurinda  
+  
+**Instructor**  
+Mr Alvin Choong
