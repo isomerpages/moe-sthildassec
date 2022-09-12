@@ -15,8 +15,8 @@ National Police Cadet Corps
 
 Click [here](/files/CCA/NPCC%20CCA%20Presentation%202021.pdf) to know more!
 
-**Website**: [http://www.npcc.gov.sg/](http://www.npcc.gov.sg/)  
-**Facebook Page**: [https://www.facebook.com/shssnpcc/Organisation](https://www.facebook.com/shssnpcc/Organisation)
+**Website**: [http://www.npcc.gov.sg/](http://www.npcc.gov.sg/)  **BROKEN LINK**<BR>
+**Facebook Page**: [https://www.facebook.com/shssnpcc/Organisation](https://www.facebook.com/shssnpcc/Organisation) **BROKEN LINK**
 
 **<u>Training Schedule</u>**
 
