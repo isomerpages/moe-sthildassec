@@ -15,6 +15,22 @@ Co-Curricular Activities (CCAs) play a significant role in every secondary stude
   
 Click below to view our achievements.
 
+<p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/sports/">
+<img src="/images/sports_award_icon.png"  
+     style="width:25%">
+</a></p>
 
+<p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/uniformed-groups/">
+<img src="/images/ug_award_icon.png"  
+     style="width:25%">
+</a></p>
 
-**TO BE FINISHED**
+<p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/performing-arts/">
+<img src="/images/aesthetics_award_icon.png"  
+     style="width:25%">
+</a></p>
+
+<p><a href="https://staging.d3aorpr1cev7h8.amplifyapp.com/hildan-experience/co-curricular-activities/clubs-n-societies/">
+<img src="/images/clubs_award_icon.png"  
+     style="width:25%">
+</a></p>
