@@ -2,14 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports/Volleyball Girls.md
-      - Sports/Volleyball Boys.md
-      - Sports/Netball.md
-      - Sports/Hockey.md
-      - Sports/Floorball Girls.md
-      - Sports/Badminton.md
-      - Sports/Sports.md
       - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Badminton.md
+      - Sports/Floorball Girls.md
+      - Sports/Hockey.md
+      - Sports/Netball.md
+      - Sports/Volleyball Boys.md
+      - Sports/Volleyball Girls.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Drama.md
