@@ -26,4 +26,18 @@ Music Room @ Level 2**
 Tuesdays : 3.30pm - 5.30pm   
 Fridays: 1:30pm - 6:00pm
 
+
 We practice in the Music room @ Level 2!
+
+
+#### Achievements
+
+**Singapore Youth Festival - Performing Arts**<br>
+2019 - Certificate of Accomplishment  
+2017 - Certificate of Accomplishment
+
+####  Teachers In-Charge
+
+**Teachers**  
+Ms Cherlene Lau  
+Ms Thiruchelvan
