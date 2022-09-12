@@ -13,10 +13,10 @@ Netball
 
 #### About Us
 
-Click [**here**](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u359/2020%20CCA%20PRESENTATION%20for%20school%20website.pdf) to know more about us!  
+Click [**here**](/files/CCA/Netball.pdf) to know more about us!  
   
 Click below to access our DSA e-brochure!  
- [DSA\_Netball.pdf](https://sthildassec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/CCA%202021/Sports%20CCA/Latest%20PDF/DSA_Netball.pdf)  
+ [DSA\_Netball.pdf](/files/CCA/DSA_Netball.pdf)
   
 **<u>Training Schedule</u>**
 
