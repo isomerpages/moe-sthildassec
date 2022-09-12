@@ -16,7 +16,7 @@ One Band! One Sound!
 
 Click [here](/files/CCA/St%20Hildas%20Wind%20Orchestra%20CCA%20Info.pdf) to find out more!
 
-**Training Schedule**  
+**<u>Training Schedule</u>**  
   
 **\*Secondary 1 first day of CCA:**  
 **Thursday, 27th Jan 2022 - 3.30pm  
