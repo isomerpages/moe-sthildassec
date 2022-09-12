@@ -39,7 +39,7 @@ Please Vote for your Favourite Hildan Teachers by 14 August.
 			
 <p>
 <img src="/images/SYF%202020.png"  
-     style="width:75%">
+     style="width:65%">
 </p>			
 
 <p>			
