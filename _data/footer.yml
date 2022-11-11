@@ -1,4 +1,2 @@
-show_reach: true
-faq: /faq/
-social_media:
-  facebook: https://www.facebook.com/pages/St-Hildas-Secondary-School/200635049952909
+show_reach: false
+social_media: {}
