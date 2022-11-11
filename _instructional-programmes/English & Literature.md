@@ -3,12 +3,9 @@ title: English & Literature
 permalink: /hildan-experience/instructional-programmes/english-n-literature/
 description: ""
 ---
-![](/images/Instructional%20Programmes/EL%20Banner.jpg)
-
-
 ENGLISH & LITERATURE
 --------------------
-
+![](/images/Instructional%20Programmes/EL.jpg)
 <U>Department’s Mission, Vision and Objective</U>
 
 **Department Vision**
@@ -38,7 +35,3 @@ Every Hildan an Engaged 21st Century ELL Learner
 
 **Special Programmes**
 1. Applied Learning Programme
-
-
-
-
