@@ -23,5 +23,5 @@ sections:
           url: /about-shss/publicity
       button: E-OPEN HOUSE 2022
       url: https://sites.google.com/moe.edu.sg/shsseopenhouse2022/home?authuser=0
-      background: /images/WEBSITE BANNER 3.png
+      background: /images/WEBSITE BANNER 4.png
 ---
