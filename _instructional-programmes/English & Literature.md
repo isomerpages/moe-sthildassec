@@ -5,7 +5,7 @@ description: ""
 ---
 ENGLISH & LITERATURE
 --------------------
-![](/images/Instructional%20Programmes/EL.jpg)
+![](/images/Staff/EL.jpg)
 <U>Department’s Mission, Vision and Objective</U>
 
 **Department Vision**
