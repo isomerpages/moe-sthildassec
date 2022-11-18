@@ -20,7 +20,7 @@ sections:
         - title: Publicity
           description: ""
           url: /about-shss/publicity
-      button: OPEN HOUSE 2022
+      button: E-OPEN HOUSE 2022
       url: https://sites.google.com/moe.edu.sg/shsseopenhouse2022/home?authuser=0
-      background: /images/WEBSITE banner1.png
+      background: /images/website banner gif.gif
 ---
