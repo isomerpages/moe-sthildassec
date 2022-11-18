@@ -21,8 +21,4 @@ sections:
         - title: Publicity
           description: ""
           url: /about-shss/publicity
-  - infobar:
-      title: Infobar Title
-      description: Infobar description
-      button: Button Text
 ---
