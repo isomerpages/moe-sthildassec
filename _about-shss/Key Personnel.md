@@ -3,11 +3,9 @@ title: Key Personnel
 permalink: /about-shss/key-personnel/
 description: ""
 ---
-![](/images/School%20Info/Key%20Personnel.jpg)
-
 KEY PERSONNEL
 -------------
-
+![](/images/Staff/SL%20and%20MM%202.jpg)
 School Leaders
 --------------
 <table>
