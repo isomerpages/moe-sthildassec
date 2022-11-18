@@ -3,10 +3,9 @@ title: Staff
 permalink: /about-shss/staff/
 description: ""
 ---
-![](/images/School%20Info/Staff.jpg)
-
 STAFF
 -----
+![](/images/Staff/staff.jpg)
 
 Form Teachers
 -------------
