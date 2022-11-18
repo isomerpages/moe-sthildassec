@@ -3,15 +3,16 @@ title: Craft & Technology
 permalink: /hildan-experience/instructional-programmes/craftandtechnology/
 description: ""
 ---
-
-
-
 ## Craft & Technology
 
-#### &nbsp;"Our pupils can confidently prepare healthy meals."
+![](/images/Staff/craft%20and%20tech.jpg)
+The Craft and Technology department comprises 4 units, namely:
+* Art
+* Design and Technology
+* Food and Consumer Education
+* Music
 
 
-![](/images/Instructional%20Programmes/Food%20&amp;%20Consumer%201.jpg)
 
 
 Programmes / Enrichment
