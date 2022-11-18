@@ -5,12 +5,35 @@ description: ""
 ---
 SCIENCE
 -------
- ![](/images/sci.jpg)![](/images/sci2.jpg)
+![](/images/Staff/sci.jpg)
 **Department’s Mission, Vision and Objective**
 
-<style> { margin:0;} </style>Science is used to describe the world around us. At SHSS, we aim to equip students with knowledge that can last them a lifetime! We hope to pique the interest of our students as to why our world works in a certain way and eventually develop critical thinking skills in each and everyone of our students. Through SHSS Science curriculum, we hope every student can eventually ask the most important question: Why? 
+<u>Department Vision:  </u>
+
+<style> { margin:0;} </style>Every Hildan a scientist: critical and inventive thinker and reflective learner
+
+<u>Department Mission:</u>
+
+<style> { margin:0;} </style>The science department seeks to instill in our students a love for Science with a curious mind of natural and man-made phenomena through a holistic and innovative science education.
  
-**Subjects Offered** 
-1. Biology
-2. Chemistry 
-3. Physics
+<u>Department’s Objective:</u>
+
+<style> { margin:0;} </style>The humanities department aims to develop in our students the values, social-emotional competencies and intrinsic motivation to learn by equipping them with enduring mindsets and skill sets necessary for the 21st century. We do so by adopting the Inquiry-based Approach, Visible Thinking, Intellectual Standards and Concept-based teaching in our curriculum. 
+<p></p>
+<style> { margin:0;} </style>At SHSS, we aim to develop pique interest of our students as to why and how our world works in a certain way and eventually develop critical and innovative thinking skills in our students. 
+<p></p>
+<style> { margin:0;} </style>The Upper Secondary Biology syllabuses seek to develop in students the understanding, skills, ethics and attitudes relevant to the practices of science, enabling them to:
+<p></p>
+1. Develop a way of thinking to explain and predict a wide range of physical, chemical and biological observations and systems.<p></p>
+2. Serves as a bridge between abstract scientific theories and the observations and experiences of the real world.<p></p>
+3. to understand how living organisms work to sustain life and use the disciplinary ideas in biology to approach, analyse and solve problems in biological systems applied.<p></p>
+4. Become scientifically literate citizens who can innovate and seize opportunities in the 21st century
+<p></p>
+
+<style> { margin:0;} </style><b>Subjects Offered </b>
+* Biology
+* Chemistry 
+* Physics
+
+
+
