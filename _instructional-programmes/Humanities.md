@@ -3,11 +3,12 @@ title: Humanities
 permalink: /hildan-experience/instructional-programmes/humanities/
 description: ""
 ---
-![](/images/Instructional%20Programmes/Humanities%20Banner.jpg)
+
 
 
 HUMANITIES
 ----------
+![](/images/Staff/humanities.jpg)
 <U>Department’s Mission, Vision and Objective</U>
 
 **Department Vision:**
