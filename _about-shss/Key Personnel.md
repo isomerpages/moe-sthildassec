@@ -6,6 +6,7 @@ description: ""
 KEY PERSONNEL
 -------------
 ![](/images/Staff/SL%20and%20MM%202.jpg)
+
 School Leaders
 --------------
 <table>
