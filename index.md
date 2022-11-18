@@ -4,7 +4,8 @@ title: St Hilda's Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: CLICK ON THE E-OPEN HOUSE BUTTON BELOW TO REGISTER!  FRIDAY 25
+  NOVEMBER 2022 @ 3PM
 sections:
   - hero:
       key_highlights:
