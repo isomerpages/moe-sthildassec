@@ -38,3 +38,5 @@ For Financial Matters & General Queries, please contact the General Office:
 *   Email: [shss@moe.edu.sg](mailto:shss@moe.edu.sg)
 
 <style> { margin:0;} </style>To check your child's/ward's Edusave Account Balance, please call the hotline at 6260 0777.
+
+**ICT Account Help Form**, click here. 
