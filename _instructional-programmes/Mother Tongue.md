@@ -3,13 +3,13 @@ title: Mother Tongue
 permalink: /hildan-experience/instructional-programmes/mother-tongue/
 description: ""
 ---
-![](/images/Instructional%20Programmes/Mother%20Tongue%20Banner.jpg)
+
 
 
 MOTHER TONGUE
 -------------
 
-![](/images/Instructional%20Programmes/Mother%20Tongue.jpg)
+![](/images/Staff/mother%20tongue.jpg)
 
 
 #### "To nurture effectively bilingual speakers and enthusiastic learners of MT language and culture."
