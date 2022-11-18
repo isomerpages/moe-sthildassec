@@ -3,10 +3,8 @@ title: Food & Consumer Education
 permalink: /hildan-experience/instructional-programmes/food-n-consumer-education/
 description: ""
 ---
-![](/images/Instructional%20Programmes/Food%20&amp;%20Consumer%20Banner.jpg)
 
-
-## FOOD &amp; CONSUMER EDUCATION
+## Craft & Technology
 
 #### &nbsp;"Our pupils can confidently prepare healthy meals."
 
