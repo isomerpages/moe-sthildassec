@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/St Hildas Homepage GIF.gif
+      background: /images/WEBSITE banner.png
       key_highlights:
         - title: Events & Announcements
           description: ""
