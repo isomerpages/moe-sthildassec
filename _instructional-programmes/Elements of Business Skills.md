@@ -3,12 +3,10 @@ title: Elements of Business Skills
 permalink: /hildan-experience/instructional-programmes/elements-of-business-skills/
 description: ""
 ---
-![](/images/Instructional%20Programmes/Elements%20of%20Business%20Banner.jpg)
-
 ELEMENTS OF BUSINESS SKILLS
 ---------------------------
 
-![](/images/Instructional%20Programmes/Elements%20of%20Business%20Staff.jpg)
+![](/images/Staff/EBS.jpg)
 
 
 Overview
