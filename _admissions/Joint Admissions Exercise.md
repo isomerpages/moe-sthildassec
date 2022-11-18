@@ -5,7 +5,9 @@ description: ""
 ---
 ![](/images/Admissions/Admissions%20Banner.jpg)
 
-JAE 2021
+JAE 2023
 --------
 
-[Information Booklet](/files/2021-JAE-Information-Booklet.pdf)
+Go here:
+
+https://www.moe.gov.sg/post-secondary/admissions/jae
