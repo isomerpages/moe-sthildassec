@@ -3,8 +3,6 @@ title: Principle of Accounts
 permalink: /hildan-experience/instructional-programmes/principles-of-accounts/
 description: ""
 ---
-![](/images/Instructional%20Programmes/POA%20Banner.jpg)
-
 
 PRINCIPLES OF ACCOUNTS
 ----------------------
@@ -12,7 +10,7 @@ PRINCIPLES OF ACCOUNTS
 #### "Every POA student an Accountant."
 
 
-![](/images/Instructional%20Programmes/POA%20Staff.jpg)
+![](/images/Staff/POA.jpg)
 
 
 Overview
