@@ -6,72 +6,70 @@ description: ""
 ## Craft & Technology
 
 ![](/images/Staff/craft%20and%20tech.jpg)
-The Craft and Technology department comprises 4 units, namely:
+<style> { margin:0;} </style>The Craft and Technology department comprises 4 units, namely:
 * Art
 * Design and Technology
 * Food and Consumer Education
 * Music
 
+<u>Department Vision for Students:</u>
 
+<style> { margin:0;} </style>To groom empathetic and self-directed problem solvers who are future-ready and be able to give back to the community
 
+<u>Department Vision for Teachers:</u>
 
-Programmes / Enrichment
------------------------
+<style> { margin:0;} </style>To grow adept and collaborative professionals who inspire their students 
 
-FCE in the 21st century is designed with the current and future social and economic landscape of Singapore in mind. It takes into consideration new lifestyles and consumer trends, and therefore, the knowledge, skills and attitudes required of young learners related to health and financial management.&nbsp;  
-  
+# Aesthetics (Art and Music)
 
-Vision
-------
+<u>Department’s Mission and Objectives</u>
 
-The vision of the FCE curriculum in St. Hilda’s Secondary School is to empower students to be health-conscious and discerning consumers; by equipping students with basic culinary skills, knowledge of nutrients and recipe modification for various diet-related diseases enabling them to better manage their lives for the present and the future.
+<style> { margin:0;} </style>To develop well-rounded learners who can appreciate, thinkers who can communicate with, and collaborators who can contribute to the Arts.
+               
+The 4 desired outcomes of the Aesthetics department are:
+* Confident participants in the Aesthetics
+* Quality Aesthetics curriculum
+* Visible Aesthetics culture
+* Impact society
 
-Objectives
-----------
+Subjects Offered
+* Art Curriculum (All levels)
+* Music Curriculum (Lower Secondary)
 
-The syllabus aims to enable students to:
+<u>Special Programmes/ Enrichment</u>
 
-  
+<style> { margin:0;} </style>The department adopts a 3E tiered approach: Exposure, Experience, Extension – to deliver broad-based and customised Aesthetics programmes for Hildans.
+* Arts Exposure Programme (e.g. professional performances planned for various cohorts), 
+* Integrated Learning Journeys (e.g. for students to understand the historical, cultural and aesthetic value of Peranakan heritage), 
+* Nellie Mitchell Programme on Art-EL Symbolism (i.e. interdisciplinary course designed to stretch high-potential students to advance their critical thinking).
 
-a. understand the importance of nutrition for long-term health
+# Design and Technology
 
-b. apply basic principles of consumer education such as reading food labels
+<u>Department’s Mission and Objectives</u>
 
-c. appreciate and develop an understanding of food, nutrition and trans-cultural awareness in the global context
+<style> { margin:0;} </style>To nurture our pupils a way of thinking and doing - designerly dispositions that are inherent in design practices - through designing and making. The designerly dispositions are as follows:
+* Embracing uncertainties and complexities
+* Be cognizant of and resolve real-world, ill-defined problems
+* Relentless drive to seek out how things work
+* Use of doodling and sketching, and 3D manipulation of resistant materials as a language for visualisation, communication and presentation
 
-d. nurture and develop critical thinking, problem-solving and creativity, a spirit of enterprise, innovation, and aesthetic awareness; to make informed and discerning food and consumer-related decisions
+<u>Subjects Offered</u>
+* Design and Technology (All levels)
 
-  
+<u>Special Programmes/ Enrichment</u>
+* The Secondary 3 enrichment programme by Design Rete equips and exposes students to various ideation methodologies to generate ideas and conceptual development in the previous year. Methods such as extracting the essence, combining functions, and morphing techniques are taught. Cardboard prototyping also enables students to develop skills in form manipulation and in visualising and translating 2D sketches to a 3D model.
 
-  
+# Food and Consumer Education
 
-Programmes / Enrichment
------------------------
+<u>Department’s Mission and Objective</u>
 
-Students are engaged in various pedagogies to spur their interest in nutrition and culinary arts.
+<style> { margin:0;} </style>We are committed to groom health ambassadors, discerning consumers and food innovators, enabling them to better manage their lives for the present and the future. 
 
-  
+<u>Subjects Offered</u>
 
-**Blended Learning**
+* Food and Consumer Education (Lower Secondary)
+* Nutrition and Food Science (Upper Secondary)
 
-Students are engaged through the use of Padlet as a discussion platform. Kahoot and SLS quizzes are used to engage students interactively and gauge students understanding of lessons.
+<u>Special Programmes/ Enrichment</u>
 
-<img src="/images/Instructional%20Programmes/Food%20&amp;%20Consumer%202.jpg"  
-     style="width:65%">
-
-**Guided Hands-On Practical lessons**
-
-Students will learn to prepare main dishes and desserts through various skills such as cutting skills, cake making skills and batter making skills. Student are exposed to both moist and dry heat cooking methods such as boiling, baking, frying and grilling.
-
-<img src="/images/Instructional%20Programmes/Food%20&amp;%20Consumer%203.jpg"  
-     style="width:65%">
-
-<img src="/images/Instructional%20Programmes/Food%20&amp;%20Consumer%204.jpg"  
-     style="width:65%">
-
-
-Pictures
---------
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKhvzprt-gg_EHmhYk778dH7kZBQX8JbQx68nb0fr51EoVgm5PFdXh0pCqnk-7rcj8k4XsnuoWlwI0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+* The Sec 2 enrichment programme organised by Kampong Group Pte Ltd is an interactive, hands-on, insightful and fun-filled hands-on experience that ventures into the art and science of Prata making. 
