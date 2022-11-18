@@ -8,10 +8,10 @@ description: ""
 SCHOOL TERMS & HOLIDAYS
 -----------------------
 
-School Terms and Holidays for 2021
+School Terms and Holidays for 2023
 ----------------------------------
 
-#### SCHOOL TERMS 2021
+#### SCHOOL TERMS 2023
 
 
 <table>
@@ -23,11 +23,11 @@ School Terms and Holidays for 2021
 <tbody>
   <tr>
     <td>Term 1</td>
-    <td>Monday 4 Jan to Friday 12 March</td>
+    <td>Tue 3 Jan to Fri 10 Mar</td>
   </tr>
   <tr>
     <td>Term 2</td>
-    <td>Monday 22 March to Friday 28 May</td>
+    <td>Mon 20 Mar to Fri 26 May</td>
   </tr>
 </tbody>
 </table>
@@ -41,19 +41,18 @@ School Terms and Holidays for 2021
 <tbody>
   <tr>
     <td>Term 3</td>
-    <td>Monday 28 June to Friday 3 September</td>
+    <td>Mon 26 Jun to Fri 1 Sep</td>
   </tr>
   <tr>
     <td>Term 4</td>
-    <td>Monday 13 September to *Friday 19 November</td>
+    <td>Mon 11 Sep to Fri 17 Nov</td>
   </tr>
 </tbody>
 </table>
 
-\*_\*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations will be Friday, 29 October 2021._
+\*_\*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations.
 
-
-#### SCHOOL HOLIDAYS 2021
+#### SCHOOL HOLIDAYS 2023
 
 <table>
 <thead>
@@ -63,12 +62,13 @@ School Terms and Holidays for 2021
 </thead>
 <tbody>
   <tr>
-    <td>Between Terms 1 and 2</td>
-    <td>Saturday 13 March to Sunday 21 March</td>
+    <td>Between Terms 1 & 2</td>
+    <td>Sat 11 Mar to Sun 19 Mar
+</td>
   </tr>
   <tr>
     <td>Between Semesters 1 &amp; 2</td>
-    <td>Saturday 29 May to Sunday 27 June</td>
+    <td>Sat 27 May to Sun 25 Jun</td>
   </tr>
 </tbody>
 </table>
@@ -83,11 +83,11 @@ School Terms and Holidays for 2021
 <tbody>
   <tr>
     <td>Between Terms 3 &amp; 4</td>
-    <td>Saturday 4 September to Sunday 12 September</td>
+    <td>Sat 2 Sep to Sun 10 Sep</td>
   </tr>
   <tr>
     <td>At End of School Year</td>
-    <td>Saturday 20 November to Friday 31 December</td>
+    <td>Sat 18 Nov to Sun 31 Dec</td>
   </tr>
 </tbody>
 </table>
@@ -105,24 +105,27 @@ School Terms and Holidays for 2021
 <tbody>
   <tr>
     <td>Youth Day</td>
-    <td>Sunday 4 July<br>(The following Monday, 5 Jul 2021 will be a scheduled school holiday)</td>
+    <td>*Sun 2 Jul
+(The following Mon 3 Jul will be a scheduled school holiday)</td>
   </tr>
   <tr>
     <td>Day after National Day</td>
-    <td>Tuesday 10 August</td>
+    <td>Thu 10 Aug
+</td>
   </tr>
   <tr>
     <td>Teachers’ Day</td>
-    <td>Friday 3 September</td>
+    <td>Fri 1 Sep
+</td>
   </tr>
   <tr>
     <td>Children’s Day<br>(for primary schools and primary sections of full schools only)</td>
-    <td>Friday 8 October</td>
+    <td>Fri 6 Oct</td>
   </tr>
 </tbody>
 </table>
 
-#### PUBLIC HOLIDAYS 2021
+#### PUBLIC HOLIDAYS 2023
 
 <table>
 <thead>
@@ -134,51 +137,49 @@ School Terms and Holidays for 2021
 <tbody>
   <tr>
     <td>New Year’s Day</td>
-    <td>Friday 1 January</td>
+    <td>Sun 1 Jan (Monday, 2 Jan will be a public holiday.)
+</td>
   </tr>
   <tr>
     <td rowspan="2">Chinese New Year</td>
-    <td>Friday 12 February</td>
+    <td>Sun 22 Jan (Tuesday, 24 Jan will be a public holiday.)</td>
   </tr>
   <tr>
-    <td>*Saturday 13 February</td>
+    <td>Mon 23 Jan </td>
   </tr>
   <tr>
     <td>Good Friday</td>
-    <td>Friday 2 April</td>
-  </tr>
-  <tr>
-    <td>Labour Day</td>
-    <td>**Saturday 1 May</td>
+    <td>Fri 7 Apr</td>
   </tr>
   <tr>
     <td>Hari Raya Puasa</td>
-    <td>Thursday 13 May</td>
+    <td>Sat 22 Apr (Monday, 24 Apr will be a school holiday and a designated day off-in-lieu, schools are closed including the General Office, Student Care Centre/Kindergarten Care (KCare) Centres.)</td>
+  </tr>
+  <tr>
+    <td>Labour Day</td>
+    <td>Mon 1 May</td>
   </tr>
   <tr>
     <td>Vesak Day</td>
-    <td>Wednesday 26 May</td>
+    <td>Fri 2 Jun</td>
   </tr>
   <tr>
     <td>Hari Raya Haji</td>
-    <td>Tuesday 20 July</td>
+    <td>Thu 29 Jun</td>
   </tr>
   <tr>
     <td>National Day</td>
-    <td>Monday 9 August</td>
+    <td>Wed 9 Aug</td>
   </tr>
   <tr>
     <td>Deepavali</td>
-    <td>Thursday 4 November</td>
+    <td>Sun 12 Nov (Monday, 13 Nov will be a public holiday.)</td>
   </tr>
   <tr>
     <td>Christmas Day</td>
-    <td>Saturday 25 December</td>
+    <td>Mon 25 Dec</td>
   </tr>
 </tbody>
 </table>
 
 
-_\*Monday, 15 Feb, will be a school holiday._
-
-_\*\*Monday, 3 May, will be a school holiday._
