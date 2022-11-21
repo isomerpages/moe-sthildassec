@@ -72,4 +72,4 @@ Subjects Offered
 
 <u>Special Programmes/ Enrichment</u>
 
-* The Sec 2 enrichment programme organised by Kampong Group Pte Ltd is an interactive, hands-on, insightful and fun-filled hands-on experience that ventures into the art and science of Prata making. 
+* The Sec 2 enrichment programme by Kampong Group Pte Ltd is an interactive, hands-on, insightful and fun-filled hands-on experience that ventures into the art and science of Prata making.
