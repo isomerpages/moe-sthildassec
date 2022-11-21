@@ -5,8 +5,7 @@ description: ""
 ---
 PRINCIPLES OF ACCOUNTS
 ----------------------
-
-#### "Every POA student an Accountant."
+***"Every POA student an Accountant."***
 
 ![](/images/POA2.jpg)
 
