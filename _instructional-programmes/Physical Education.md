@@ -3,11 +3,10 @@ title: Physical Education
 permalink: /hildan-experience/instructional-programmes/physical-education/
 description: ""
 ---
-![](/images/Instructional%20Programmes/PE%20Banner.jpg)
-
-
 PHYSICAL EDUCATION
 ------------------
+![](/images/PE.jpg)
+
 **Department’s Mission, Vision and Objective**
  
 <style> { margin:0;} </style>The Physical Education (PE) Department seeks to develop pupils to be ‘Healthy Active Hildan (HAH) for Life’ with positive values, mental toughness and positive social behaviour including 21st CC across various experiences. Physical activities should be a way of life, be it for recreation and well-being or personal challenge and achievement. Anchored on a strong foundation of fundamental motor skills and knowledge, PE provides a good platform for building character and developing self-management and positive social skills. 
