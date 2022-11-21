@@ -5,7 +5,7 @@ description: ""
 ---
 VICE PRINCIPAL'S MESSAGE
 ------------------------
-![](/images/VPs.jpg)
+![](/images/Staff/VPs.jpg)
 
 Mdm So Mun Yee
 --------------
