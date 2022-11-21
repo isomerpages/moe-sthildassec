@@ -36,7 +36,7 @@ School Uniform
 --------------
 
 Purchase school uniform from Beau Voix via this website.
-https://beauvoix.com/product-category/secondary/shss/
+[https://beauvoix.com/product-category/secondary/shss/](https://beauvoix.com/product-category/secondary/shss/)
 
 
 
