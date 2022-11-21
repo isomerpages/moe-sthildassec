@@ -5,7 +5,7 @@ description: ""
 ---
 PHYSICAL EDUCATION
 ------------------
-![](/images/PE.jpg)
+![](/images/Staff/PE.jpg)
 
 **Department’s Mission, Vision and Objective**
  
