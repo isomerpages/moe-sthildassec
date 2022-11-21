@@ -35,22 +35,10 @@ School Bookshop
 School Uniform
 --------------
 
-<table>
-<thead>
-  <tr>
-    <td>Vendor Name:</td>
-    <th>Pacific Bookstores Pte Ltd</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Contact No:</td>
-    <th>6788 5483</th>
-  </tr>
-</tbody>
-</table>
+Purchase school uniform via this website.
+https://beauvoix.com/product-category/secondary/shss/
 
-The sale of school uniform will be available at our school bookshop during the bookshop opening hours.
+
 
 School Canteen
 --------------
