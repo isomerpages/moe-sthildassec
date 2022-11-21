@@ -8,7 +8,7 @@ PRINCIPLES OF ACCOUNTS
 
 #### "Every POA student an Accountant."
 
-![](/images/POA.jpg)
+![](/images/POA2.jpg)
 
 Overview
 --------
