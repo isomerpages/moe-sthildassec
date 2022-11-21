@@ -3,10 +3,9 @@ title: Vice Principal's Message
 permalink: /about-shss/vice-principals-message/
 description: ""
 ---
-![](/images/School%20Info/Vice%20Principal's%20Message.jpg)
-
 VICE PRINCIPAL'S MESSAGE
 ------------------------
+![](/images/VPs.jpg)
 
 Mdm So Mun Yee
 --------------
