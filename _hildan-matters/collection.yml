@@ -2,7 +2,6 @@ collections:
   hildan-matters:
     output: true
     order:
-      - Booklist.md
       - Time Table.md
       - Exam & Assessment.md
       - Library Catalogue.md
