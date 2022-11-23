@@ -1,0 +1,14 @@
+collections:
+  instructional-programmes:
+    output: true
+    order:
+      - English & Literature.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Physical Education.md
+      - Computer Applications.md
+      - Craft & Technology.md
+      - Principle of Accounts.md
+      - Elements of Business Skills.md

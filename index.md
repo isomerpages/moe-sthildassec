@@ -1,32 +1,27 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: St Hilda's Secondary School
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: CLICK ON THE E-OPEN HOUSE BUTTON BELOW TO REGISTER!  FRIDAY 25
+  NOVEMBER 2022 @ 3PM
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Events & Announcements
+          description: ""
+          url: /others/announcement/events-n-announcements/
+        - title: Achievements
+          description: ""
+          url: /about-shss/achievements/school/
+        - title: Useful Links
+          description: ""
+          url: /others/announcement/useful-links
+        - title: Publicity
+          description: ""
+          url: /about-shss/publicity
+      button: E-OPEN HOUSE 2022
+      url: https://sites.google.com/moe.edu.sg/shsseopenhouse2022/home?authuser=0
+      background: /images/website banner gif2.gif
 ---
-

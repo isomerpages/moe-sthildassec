@@ -1,0 +1,7 @@
+collections:
+  level-programmes:
+    output: true
+    order:
+      - Lower Secondary Level.md
+      - Upper Secondary Level.md
+      - InfoComm Technology.md
