@@ -198,11 +198,6 @@ Senior Teachers
     <td>Mr Abu Bakar B Awang</td>
   </tr>
   <tr>
-    <td>Senior Teacher (CL)</td>
-    <td><a href="mailto:chia_chen_chi@moe.edu.sg">chia_chen_chi@moe.edu.sg</a></td>
-    <td>Ms Chia Chen Chi</td>
-  </tr>
-  <tr>
     <td>Senior Teacher (EL)</td>
     <td><a href="mailto:norhani_sawi@moe.edu.sg">norhani_sawi@moe.edu.sg</a></td>
     <td>Mdm Norhani binte Sawi</td>
@@ -239,7 +234,7 @@ Administration
 <tbody>
   <tr>
     <td>Administration Manager</td>
-    <td><a href="mailto:benjamin_yap@moe.edu.sg" target="_blank" rel="noopener noreferrer">benjamin_yap@moe.edu.sg</a><br></td>
+    <td><a href="mailto:yap_yong_tah_benjamin@moe.edu.sg" target="_blank" rel="noopener noreferrer">yap_yong_tah_benjamin@moe.edu.sg</a><br></td>
     <td>Mr Benjamin Yap </td>
   </tr>
   <tr>
