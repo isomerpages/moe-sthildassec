@@ -20,5 +20,5 @@ sections:
         - title: Publicity
           description: ""
           url: /about-shss/publicity
-      background: /images/banner500x150.png
+      background: /images/St Hildas Homepage GIF.gif
 ---
