@@ -1,8 +1,10 @@
 ---
 title: SWN@SSOE Login Guide
-permalink: /hildan-matters/swn-at-ssoe-login/
+permalink: /information/swn-at-ssoe-login/
 description: ""
 ---
+
+
 SWN@SSOE Login Guide
 --------------------
 

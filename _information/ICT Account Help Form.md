@@ -1,8 +1,10 @@
 ---
 title: ICT Account Help Form
-permalink: /hildan-matters/ict-account-help-form/
+permalink: /information/ict-account-help-form/
 description: ""
 ---
+
+
 Please fill in this form should you require help with any of your ICT accounts:
 
 *   IAMS Password Reset

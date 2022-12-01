@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: St Hilda's Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - "2 Tampines  "
+      - Street 82
+      - "Singapore 528986 "
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Monday - Thursday
+        time: 7.30am - 5.30pm
+        description: ""
+      - days: Friday
+        time: 7.30am - 5.00pm
+        description: "Weekend & Public Holiday: Closed"
+    maps_link: https://goo.gl/maps/91ZcNU23nRAqqqso9
+    title: General Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6305 5277
+      - email: shss@moe.edu.sg
+      - other: "Fax Number: 6786 5011"
+    title: General Enquiries & Feedback
 ---

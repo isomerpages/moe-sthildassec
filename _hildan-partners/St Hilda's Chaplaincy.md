@@ -13,30 +13,23 @@ ST HILDA'S CHAPLAINCY
 <thead>
   <tr>
     <th>Chaplain / Chairman:</th>
-    <td>Mr Revd Victor Teo (Vicar of Chapel of Christ the Redeemer)</td>
+    <td>Mr Rev Victor Teo (Vicar, Chapel of Christ the Redeemer)</td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <th>Secretary:</th>
-    <td>Ms Geraldine Tan</td>
+    <th>Associate Chaplain:</th>
+    <td>Rev Glenn Chan </td>
   </tr>
   <tr>
-    <th>Members:</th>
-    <td>Ms Koe Quan Chin (In-charge)</td>
+    <th>SHSS Chaplaincy Head:</th>
+    <td>Ps Shirley Low-Ang)</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Mrs Angel Tan</td>
+		<th>Youth Pastor, CCR:</th>
+    <td>Rodney Hong</td>
   </tr>
-  <tr>
-    <td> </td>
-    <td>Mr Nelson Tay</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Pastor Amos Tan (Youth Pastor, Chapel of Christ the Redeemer)</td>
-  </tr>
+  
 </tbody>
 </table>
 
