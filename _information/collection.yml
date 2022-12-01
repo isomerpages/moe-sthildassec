@@ -2,15 +2,15 @@ collections:
   information:
     output: true
     order:
-      - Teachers.md
-      - SWN@SSOE Login Guide.md
-      - ICT Account Help Form.md
-      - Exam & Assessment.md
-      - Time Table.md
       - Booklist.md
       - Students' Services.md
+      - Exam & Assessment.md
+      - Time Table.md
       - Financial Services.md
       - Admin Forms.md
       - Student Useful Links.md
       - School Terms & Holidays.md
       - Parents Gateway.md
+      - SWN@SSOE Login Guide.md
+      - ICT Account Help Form.md
+      - Teachers.md
