@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - Sec 1 Registration For 2023/Sec 1 Registration For 2023.md
+      - Sec 1 Registration For 2023/Online Registration.md
       - Sec 1 Registration For 2023/.keep
       - Direct School Admission (DSA).md
       - Transfer Forms.md
