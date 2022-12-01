@@ -2,5 +2,4 @@ collections:
   others:
     output: true
     order:
-      - Events & Announcements.md
       - Useful Links.md
