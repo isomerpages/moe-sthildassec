@@ -2,6 +2,7 @@ collections:
   information:
     output: true
     order:
+      - Student Useful Links.md
       - Booklist.md
       - Students' Services.md
       - Financial Services.md
