@@ -8,7 +8,7 @@ description: ""
 INFOCOMM TECHNOLOGY
 -------------------
 
-#### “Every Hildan to be competent, confident & disciplined users of technology, harnessing “IT” effectiv
+#### “Every Hildan to be competent, confident & disciplined users of technology, harnessing “IT” effective
 
   
 
