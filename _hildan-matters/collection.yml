@@ -2,7 +2,6 @@ collections:
   hildan-matters:
     output: true
     order:
-      - Time Table.md
       - Exam & Assessment.md
       - Library Catalogue.md
       - ICT Account Help Form.md
