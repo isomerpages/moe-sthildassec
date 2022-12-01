@@ -93,7 +93,7 @@ School Terms and Holidays for 2023
 </table>
 
 
-#### SCHEDULED SCHOOL HOLIDAYS 2021
+#### SCHEDULED SCHOOL HOLIDAYS 2023
 
 <table>
 <thead>
@@ -181,5 +181,3 @@ School Terms and Holidays for 2023
   </tr>
 </tbody>
 </table>
-
-
