@@ -1,5 +1,4 @@
 collections:
   hildan-matters:
     output: true
-    order:
-      - Teachers.md
+    order: []
