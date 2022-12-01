@@ -17,7 +17,7 @@ Booklist
 * [NT](/files/Booklist%202023/S2%20NT.pdf)
 
 ##### Secondary 3
-*[Express](/files/Booklist%202023/S3%20EXP.pdf)
+* [Express](/files/Booklist%202023/S3%20EXP.pdf)
 * [NA](/files/Booklist%202023/S3%20NA.pdf)
 * [NT](/files/Booklist%202023/S3%20NT.pdf)
 
