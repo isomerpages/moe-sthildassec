@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Registration For 2023/Music & Art Elective Programmes.md
       - Sec 1 Registration For 2023/Mother Tongue & 3rd Language.md
       - Sec 1 Registration For 2023/Offering Subjects At More Demanding Level
         (NA & NT Students).md
