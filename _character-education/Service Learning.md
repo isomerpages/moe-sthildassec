@@ -22,7 +22,3 @@ This year, we had the privilege of Mr Glenn Lim, founder of social enterprise Ar
 
 To take our signature programme to the next level, we extended the symposium to all Secondary Schools in Singapore to provide sharing of ideas amongst teachers so as to achieve the larger goal of effective educating and mobilising our students to be useful Citizens. Concurrent sessions were carried out after the lecture for teachers to learn from other schools. It was heartening to see 94 teachers and 353 students from 54 schools turn up for the symposium. We intend to bless the education fraternity through this programme biennially in the years to come. This partnership with schools and organisations have indeed made learning more holistic for both teachers and students, as we equip our young ones to carry the Hildan Legacy forward.
 
-Biennial Service Learning Symposium for Schools 2018
-----------------------------------------------------
-
-![](/images/Character%20Education/Service%20Learning%201.jpg)
