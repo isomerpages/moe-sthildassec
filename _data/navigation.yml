@@ -5,7 +5,22 @@ links:
   - title: Admissions
     collection: admissions
   - title: Information
-    collection: information
+    url: /information/booklist/
+    sublinks:
+      - title: Booklist
+        url: /information/booklist/
+      - title: Students' Services
+        url: information/students-services/
+      - title: Financial Services
+        url: /information/financial-services/
+      - title: Admin Forms
+        url: /information/admin-forms/
+      - title: Student Useful Links
+        url: /information/student-useful-links/
+      - title: School Terms & Holidays
+        url: information/school-terms-n-holidays/
+      - title: Parents Gateway
+        url: /information/parents-gateway/
   - title: HILDAN EXPERIENCE
     url: /hildan-experience/instructional-programmes/english-n-literature/
     sublinks:
