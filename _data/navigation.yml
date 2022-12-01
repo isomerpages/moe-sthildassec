@@ -11,8 +11,6 @@ links:
     sublinks:
       - title: Instructional Programmes
         url: /hildan-experience/instructional-programmes/english-n-literature
-      - title: NDLP
-        url: /hildan-experience/national-digital-literacy-programme
       - title: Character Education
         url: /hildan-experience/character-education/character-n-citizenship-education
       - title: Co-Curricular Activities
@@ -25,6 +23,8 @@ links:
         url: /hildan-experience/signature-programmes/step
       - title: Leadership Development
         url: /hildan-experience/leadership-development
+      - title: NDLP
+        url: /hildan-experience/national-digital-literacy-programme
       - title: Student Useful Links
         url: /hildan-experience/student-useful-links
   - title: Hildan Matters
