@@ -2,5 +2,4 @@ collections:
   hildan-matters:
     output: true
     order:
-      - SWN@SSOE Login Guide.md
       - Teachers.md
