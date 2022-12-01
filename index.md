@@ -20,5 +20,5 @@ sections:
         - title: Publicity
           description: ""
           url: /about-shss/publicity
-      background: /images/banner700x300.png
+      background: /images/banner600x200.png
 ---
