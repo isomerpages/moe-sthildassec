@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - STEP.md
-      - DARE Programme.md
       - Nellie Mitchell Programme.md
       - Applied Learning Programme.md
       - Learning Beyond Classroom.md
