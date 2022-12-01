@@ -2,10 +2,10 @@ collections:
   information:
     output: true
     order:
-      - Student Useful Links.md
       - Booklist.md
       - Students' Services.md
       - Financial Services.md
       - Admin Forms.md
+      - Student Useful Links.md
       - School Terms & Holidays.md
       - Parents Gateway.md
