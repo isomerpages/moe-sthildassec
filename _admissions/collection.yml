@@ -2,6 +2,8 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Registration For 2023/Offering Subjects At More Demanding Level
+        (NA & NT Students).md
       - Sec 1 Registration For 2023/Special Education Needs & Counselling.md
       - Sec 1 Registration For 2023/Financial Assistance.md
       - Sec 1 Registration For 2023/Purchase Books & Uniforms Online.md
