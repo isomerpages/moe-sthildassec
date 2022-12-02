@@ -3,10 +3,9 @@ title: School Management Committee
 permalink: /about-shss/school-management-committee/
 description: ""
 ---
-![](/images/School%20Info/School%20Management%20Committee.jpg)
-
 SCHOOL MANAGEMENT COMMITTEE (SMC)
 ---------------------------
+![](/images/SMC.jpg)
 
 | SMC Appointment | Name | Remarks |
 | -------- | -------- | -------- |
