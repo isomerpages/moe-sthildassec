@@ -32,14 +32,6 @@ Key Programmes / Enrichment
 
 Learn the relevance of POA through authentic illustrations of real businesses scenarios.
 
-  
-
 Opportunity to participate in accounting quizzes organized by higher institution of learning such as polytechnics. This provides opportunities to interact with students from other schools as well as enhance awareness of post-secondary and careers options.
 
   
-
-Pictures
---------
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2zPy37WCjtiFEGd2tQthvmH0PavDOxHzeWqZ5hZcEtpss9hDRmM16nOcuy27iyTprlsiXW4922wGi/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
