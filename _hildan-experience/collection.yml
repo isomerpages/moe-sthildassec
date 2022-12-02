@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - National Digital Literacy Programme.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English & Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -32,3 +31,4 @@ collections:
       - Signature Programmes/Learning Beyond Classroom.md
       - Signature Programmes/Learning for Life Programme.md
       - Leadership Development.md
+      - National Digital Literacy Programme.md
