@@ -4,12 +4,13 @@ permalink: /hildan-experience/instructional-programmes/principles-of-accounts/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-
 PRINCIPLES OF ACCOUNTS
 ----------------------
 ***"Every POA student an Accountant."***
 
-![](/images/Staff/POA2.jpg)
+<img src="https://www.sthildassec.moe.edu.sg/images/Staff/POA2.jpg" 
+     width="50" 
+     height="100" />
 
 Overview
 --------
