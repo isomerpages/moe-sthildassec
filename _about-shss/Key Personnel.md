@@ -9,11 +9,12 @@ KEY PERSONNEL
 
 School Leaders
 --------------
+
 <table>
 <thead>
   <tr>
-    <th>Mrs Janice Lim</th>
-    <th>Principal<br></th>
+    <td>Mrs Janice Lim</td>
+    <td>Principal<br></td>
   </tr>
 </thead>
 <tbody>
