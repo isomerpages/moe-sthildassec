@@ -8,9 +8,7 @@ PRINCIPLES OF ACCOUNTS
 ----------------------
 ***"Every POA student an Accountant."***
 
-<img src="https://www.sthildassec.moe.edu.sg/images/Staff/POA2.jpg" 
-     width="50" 
-     height="100" />
+![](/images/Staff/POA2.jpg)
 
 Overview
 --------
