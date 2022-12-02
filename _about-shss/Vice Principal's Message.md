@@ -7,6 +7,20 @@ VICE PRINCIPAL'S MESSAGE
 ------------------------
 ![](/images/Staff/VPs.jpg)
 
+Mr Loy Wee Jin
+--------------
+
+Every Hildan is a precious individual entrusted to us to guide them in their learning journey!
+
+We believe in having “Integrity our Anchor” in daily living, “Caring our Heartbeat” in our relationships with one another and “Commitment our Resolve” in achieving the best for our students and for ourselves.
+
+St. Hilda’s Secondary School has a rich history of moulding young minds with the mission that every student lives a God-fearing purposeful life, impacting their families, friends and our nation.
+
+I believe that every student has potential and this journey of uncovering their potential is a partnership between the school, parents, community partners and stakeholders. It is indeed a privilege and honour to be part of the Hildan family and I look forward to walking this learning journey with you in helping our students achieve a holistic education in this season of time.
+
+Mr Loy Wee Jin<br>
+Vice-Principal (Administration)
+
 Mdm So Mun Yee
 --------------
 
@@ -23,19 +37,7 @@ Vice-Principal
 
   
 
-Mr Loy Wee Jin
---------------
 
-Every Hildan is a precious individual entrusted to us to guide them in their learning journey!
-
-We believe in having “Integrity our Anchor” in daily living, “Caring our Heartbeat” in our relationships with one another and “Commitment our Resolve” in achieving the best for our students and for ourselves.
-
-St. Hilda’s Secondary School has a rich history of moulding young minds with the mission that every student lives a God-fearing purposeful life, impacting their families, friends and our nation.
-
-I believe that every student has potential and this journey of uncovering their potential is a partnership between the school, parents, community partners and stakeholders. It is indeed a privilege and honour to be part of the Hildan family and I look forward to walking this learning journey with you in helping our students achieve a holistic education in this season of time.
-
-Mr Loy Wee Jin<br>
-Vice-Principal (Administration)
 
 Ms Tan Yee Leng
 ---------------
