@@ -4,8 +4,6 @@ permalink: /admissions/Sec-1-Registration-For-2023/onlineregistration/
 description: ""
 third_nav_title: Sec 1 Registration For 2023
 ---
-
-
 ![](/images/Admissions/Admissions%20Page%20Banner.jpg)
 
 # Online Registration
@@ -23,6 +21,6 @@ third_nav_title: Sec 1 Registration For 2023
 
 The Sec 1 Parent Engagement is conducted to help you better understand the subjects and the learning experiences at secondary school, the Full Subject-Based Banding in SHSS, as well as the briefing on the National Digital Literacy Programme. You will also have the opportunity to hear from your child/ward’s form teachers.
 
-![](https://lh4.googleusercontent.com/pyzqYZLrN0Wt19t5mt47AAU08yBeJC079XkPma7psoqzBDxxt04B7zJmvMEsiViEwhAVfHcshvFrM7SGduOfHQQ9wb_cdk1iaA9sfj-s4ETaOfA-zbIdAihwZds8VQM-4YOg90V2kZZSVU8RyCAEDl2oVJKUcUlNLPEKDX-LxEQxWn7kbKo4H32HUtBXRwmC=w1280)
+![](/images/sec1registration.png)
 
-You can also access the form via this link: [https://go.gov.sg/shss-register-sec1](https://www.google.com/url?q=https%3A%2F%2Fgo.gov.sg%2Fshss-register-sec1&sa=D&sntz=1&usg=AOvVaw1bYQAl6dIaeGv451-huw8i)
+You can also access the form via this link: [https://forms.moe.edu.sg/forms/JkEdMe](https://forms.moe.edu.sg/forms/JkEdMe)
