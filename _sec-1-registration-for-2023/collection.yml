@@ -2,5 +2,6 @@ collections:
   sec-1-registration-for-2023:
     output: true
     order:
+      - Purchase Books & Uniforms Online.md
       - Important Dates To Note.md
       - Online Registration.md
