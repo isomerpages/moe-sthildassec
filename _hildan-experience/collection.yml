@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Signature Programmes/.keep
       - Instructional Programmes/.keep
       - Instructional Programmes/English & Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -25,3 +24,4 @@ collections:
       - Level Programmes/Upper Secondary Level.md
       - Level Programmes/Lower Secondary Level.md
       - Level Programmes/InfoComm Technology.md
+      - Signature Programmes/.keep
