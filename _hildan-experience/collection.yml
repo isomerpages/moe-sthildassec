@@ -2,6 +2,7 @@ collections:
   hildan-experience:
     output: true
     order:
+      - Instructional Programmes/Computer Applications.md
       - Instructional Programmes/Craft & Technology.md
       - Instructional Programmes/Principle of Accounts.md
       - Instructional Programmes/Elements of Business Skills.md
