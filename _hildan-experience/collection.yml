@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Leadership Development.md
       - Instructional Programmes/.keep
       - Instructional Programmes/English & Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -25,9 +24,10 @@ collections:
       - Level Programmes/Upper Secondary Level.md
       - Level Programmes/Lower Secondary Level.md
       - Level Programmes/InfoComm Technology.md
+      - Signature Programmes/.keep
       - Signature Programmes/STEP.md
       - Signature Programmes/Nellie Mitchell Programme.md
       - Signature Programmes/Applied Learning Programme.md
       - Signature Programmes/Learning Beyond Classroom.md
       - Signature Programmes/Learning for Life Programme.md
-      - Signature Programmes/.keep
+      - Leadership Development.md
