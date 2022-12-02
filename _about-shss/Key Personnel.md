@@ -70,6 +70,7 @@ Subject Heads/Level Heads/Assistant Year Heads
 
 Senior Teachers
 ---------------
+
 | Appointment | Name | Email |
 | -------- | -------- | -------- |
 | Senior Teacher (Art, School Coordinating Mentor)     | Mr Sawlani Gopal     | sawlani_gopal_kalyan@moe.edu.sg     |
