@@ -5,33 +5,33 @@ links:
   - title: Admissions
     collection: admissions
   - title: Information
-    url: /information/booklist/
+    url: /information/admin-forms/
     sublinks:
-      - title: Booklist
-        url: /information/booklist/
-      - title: Students' Services
-        url: information/students-services/
-      - title: Financial Services
-        url: /information/financial-services/
       - title: Admin Forms
         url: /information/admin-forms/
-      - title: Student Useful Links
-        url: /information/student-useful-links/
-      - title: School Terms & Holidays
-        url: information/school-terms-n-holidays/
-      - title: Parents Gateway
-        url: /information/parents-gateway/
-      - title: Time Table
-        url: /information/time-table/
+      - title: Booklist
+        url: /information/booklist/
       - title: Exam & Assessment
         url: /information/exam-n-assessment/
+      - title: Financial Services
+        url: /information/financial-services/
       - title: ICT Account Help Form
         url: /information/ict-account-help-form/
+      - title: Links For Staff
+        url: /information/linksforstaff/
+      - title: Parents Gateway
+        url: /information/parents-gateway/
+      - title: School Terms & Holidays
+        url: information/school-terms-n-holidays/
+      - title: Students' Services
+        url: /information/students-services/
+      - title: Student Useful Links
+        url: /information/student-useful-links/
       - title: SWN@SSOE Login Guide
         url: /information/swn-at-ssoe-login/
-      - title: Teachers
-        url: /information/teachers/
-  - title: HILDAN EXPERIENCE
+      - title: Time Table
+        url: /information/time-table/
+  - title: Hildan Experience
     url: /hildan-experience/instructional-programmes/english-n-literature/
     sublinks:
       - title: Instructional Programmes
@@ -50,8 +50,6 @@ links:
         url: /hildan-experience/leadership-development
       - title: NDLP
         url: /hildan-experience/national-digital-literacy-programme
-      - title: Student Useful Links
-        url: /hildan-experience/student-useful-links
   - title: Hildan Partners
     collection: hildan-partners
   - title: Contact Us

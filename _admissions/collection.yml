@@ -2,17 +2,8 @@ collections:
   admissions:
     output: true
     order:
-      - Sec 1 Registration For 2023/.keep
       - Sec 1 Registration For 2023/Online Registration.md
-      - Sec 1 Registration For 2023/Important Dates To Note.md
-      - Sec 1 Registration For 2023/Purchase Books & Uniforms Online.md
-      - Sec 1 Registration For 2023/Special Education Needs & Counselling.md
-      - Sec 1 Registration For 2023/Offering Subjects At More Demanding Level
-        (NA & NT Students).md
-      - Sec 1 Registration For 2023/Mother Tongue & 3rd Language.md
-      - Sec 1 Registration For 2023/Music & Art Elective Programmes.md
-      - Sec 1 Registration For 2023/Financial Assistance.md
-      - Sec 1 Registration For 2023/School Contact Information.md
+      - Sec 1 Registration For 2023/.keep
       - Direct School Admission (DSA).md
       - Transfer Forms.md
       - Joint Admissions Exercise.md

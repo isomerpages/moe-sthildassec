@@ -1,4 +1,34 @@
 collections:
   hildan-experience:
     output: true
-    order: []
+    order:
+      - Instructional Programmes/.keep
+      - Instructional Programmes/English & Literature.md
+      - Instructional Programmes/Mother Tongue.md
+      - Instructional Programmes/Mathematics.md
+      - Instructional Programmes/Science.md
+      - Instructional Programmes/Humanities.md
+      - Instructional Programmes/Physical Education.md
+      - Instructional Programmes/Computer Applications.md
+      - Instructional Programmes/Craft & Technology.md
+      - Instructional Programmes/Principle of Accounts.md
+      - Instructional Programmes/Elements of Business Skills.md
+      - Character Education/.keep
+      - Character Education/Character & Citizenship Education.md
+      - Character Education/China Exchange Programme.md
+      - Character Education/National Education Programme.md
+      - Character Education/Service Learning.md
+      - Character Education/Cyber Wellness.md
+      - Full Subject Based Banding.md
+      - Level Programmes/.keep
+      - Level Programmes/Upper Secondary Level.md
+      - Level Programmes/Lower Secondary Level.md
+      - Level Programmes/InfoComm Technology.md
+      - Signature Programmes/.keep
+      - Signature Programmes/STEP.md
+      - Signature Programmes/Nellie Mitchell Programme.md
+      - Signature Programmes/Applied Learning Programme.md
+      - Signature Programmes/Learning Beyond Classroom.md
+      - Signature Programmes/Learning for Life Programme.md
+      - Leadership Development.md
+      - National Digital Literacy Programme.md

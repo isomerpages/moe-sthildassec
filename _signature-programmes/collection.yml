@@ -1,9 +1,0 @@
-collections:
-  signature-programmes:
-    output: true
-    order:
-      - STEP.md
-      - Nellie Mitchell Programme.md
-      - Applied Learning Programme.md
-      - Learning Beyond Classroom.md
-      - Learning for Life Programme.md
