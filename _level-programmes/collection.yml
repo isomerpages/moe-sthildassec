@@ -1,5 +1,4 @@
 collections:
   level-programmes:
     output: true
-    order:
-      - Upper Secondary Level.md
+    order: []
