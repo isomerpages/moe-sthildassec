@@ -70,14 +70,14 @@ Subject Heads/Level Heads/Assistant Year Heads
 
 Senior Teachers
 ---------------
-| Appointment				|		Name		| 	Email 
+| Appointment | Name | Email |
 | -------- | -------- | -------- |
-|  Senior Teacher (Art, School Coordinating Mentor)  | 	Mr Sawlani Gopal  |	 sawlani_gopal_kalyan@moe.edu.sg 
-|  Senior Teacher (Chemistry)	 	|		 Mr Abu Bakar B Awang  |	 abu_bakar_awang@moe.edu.sg 
-|  Senior Teacher (EL) 		|		 	Mdm Norhani binte Sawi |	 norhani_sawi@moe.edu.sg 
-|  Senior Teacher (Geography)		 |	 	Ms Jessie Leong 	|	 jessie_sim_seok_moi@moe.edu.sg 
-|  Senior Teacher (History)		 |	 	Ho Gui Vun Gwen (Mrs Lui)  | 	ho_gui_vun@moe.edu.sg 
-|  Senior Teacher (PE)	 		|		 Ms Teo Siew Lan	|	 teo_siew_lan@moe.edu.sg 
+| Senior Teacher (Art, School Coordinating Mentor)     | Mr Sawlani Gopal     | sawlani_gopal_kalyan@moe.edu.sg     |
+| Senior Teacher (Chemistry)     | Mr Abu Bakar B Awang     | abu_bakar_awang@moe.edu.sg     |
+| Senior Teacher (EL)     | Mdm Norhani binte Sawi     | norhani_sawi@moe.edu.sg     |
+| Senior Teacher (Geography)     | Ms Jessie Leong     | jessie_sim_seok_moi@moe.edu.sg     |
+| Senior Teacher (History)     | Ho Gui Vun Gwen (Mrs Lui)     | ho_gui_vun@moe.edu.sg     |
+| Senior Teacher (PE)     | Ms Teo Siew Lan     | teo_siew_lan@moe.edu.sg     |
 
 Administration
 --------------
