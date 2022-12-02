@@ -1,8 +1,9 @@
 ---
-title: Links For Staff
-permalink: /information/linksforstaff/
+title: Staff Admin Links
+permalink: /information/staffadminlinks/
 description: ""
 ---
+
 Useful Links
 ------------
 
