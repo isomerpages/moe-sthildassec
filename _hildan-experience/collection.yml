@@ -1,4 +1,5 @@
 collections:
   hildan-experience:
     output: true
-    order: []
+    order:
+      - Instructional Programmes/.keep
