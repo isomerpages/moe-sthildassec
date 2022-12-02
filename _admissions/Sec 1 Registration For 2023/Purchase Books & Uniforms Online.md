@@ -4,10 +4,9 @@ permalink: /admissions/Sec-1-Registration-For-2023/purchasebooksanduniformsonlin
 description: ""
 third_nav_title: Sec 1 Registration For 2023
 ---
-
 ## Books
 
-*   Purchases to be made online: Refer to https://www.sthildassec.moe.edu.sg/information/students-services/
+*   Purchases to be made online: Refer to [https://www.sthildassec.moe.edu.sg/information/students-services/](https://www.sthildassec.moe.edu.sg/information/students-services/)
     
 *   Options available for home delivery or self-collect at school bookshop, by 28 December 2022
     
@@ -18,7 +17,7 @@ third_nav_title: Sec 1 Registration For 2023
 *   **Students on financial assistance** will be contacted by the General Office and do not need to place any orders online.
     
 
-Downloadable book lists and buying guide are available via this link: https://www.sthildassec.moe.edu.sg/hildan-matters/booklist/
+Downloadable book lists and buying guide are available via this link: [https://www.sthildassec.moe.edu.sg/hildan-matters/booklist/](https://www.sthildassec.moe.edu.sg/hildan-matters/booklist/)
 
 **For Sales Enquiries**
 
