@@ -2,4 +2,5 @@ collections:
   hildan-experience:
     output: true
     order:
+      - Instructional Programmes/Elements of Business Skills.md
       - Instructional Programmes/.keep
