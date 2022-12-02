@@ -22,5 +22,5 @@ SCHOOL MANAGEMENT COMMITTEE (SMC)
 | Member     | Mdm Lily John     | SHC Parochial Church Council (PCC) Representative    |
 | Member     | Mr Albert Seah     |CCR PCC Representative     |
 | Member     | Mr Desmond Hoo     | Bishop’s Nominee (CCR)     |
-| Co-opted Member     | Ms Jacinta Chua     |Honorary Treasurer     |
-
+| Member     | Rev Martin Jungnickel     | Vicar, SHC     |
+| Co-opted Member     | Ms Jacinta Chua   | Honorary Treasurer     |
