@@ -1,5 +1,4 @@
 collections:
   ndlp:
     output: true
-    order:
-      - National Digital Literacy Programme.md
+    order: []
