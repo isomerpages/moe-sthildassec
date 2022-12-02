@@ -2,4 +2,5 @@ collections:
   sec-1-registration-for-2023:
     output: true
     order:
+      - Important Dates To Note.md
       - Online Registration.md
