@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Instructional Programmes/.keep
       - Instructional Programmes/English & Literature.md
       - Instructional Programmes/Mother Tongue.md
@@ -20,6 +19,7 @@ collections:
       - Character Education/National Education Programme.md
       - Character Education/Service Learning.md
       - Character Education/Cyber Wellness.md
+      - Co Curricular Activities/.keep
       - Full Subject Based Banding.md
       - Level Programmes/.keep
       - Level Programmes/Upper Secondary Level.md
