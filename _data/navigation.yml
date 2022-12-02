@@ -5,7 +5,7 @@ links:
   - title: Admissions
     collection: admissions
   - title: Information
-    url: /information/booklist/
+    url: /information/admin-forms/
     sublinks:
       - title: Booklist
         url: /information/booklist/
