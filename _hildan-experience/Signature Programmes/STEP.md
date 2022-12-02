@@ -9,6 +9,7 @@ STEP
 <style> { margin:0;} </style>
 **Seeking To Engage our NT pupils Purposefully (S.T.E.P)** is a customised Normal Technical programme started in 2009 to provide a more holistic experience for Normal Technical students.
 <p></p>
+
 ##### S.T.E.P Vision
 
 <style> { margin:0;} </style>
@@ -72,6 +73,3 @@ To further develop the interests of Normal Technical students, Secondary 3 Norma
 <style> { margin:0;} </style>S.T.E.P collaborated with Infocomm Club, CPA and EBS to mentor students in the respective Challenges in 2022. As a result of this collaboration, four teams of students emerged as top nine teams in their respective Challenges for this national competition.
 <p></p>
 <style> { margin:0;} </style>In the Mad Mocktail Challenge, students had to create an attractive mocktail using layering techniques with an assortment of juices and syrups. The public also had to vote for the Most Likeable Award for the mocktails on Instagram. With the support of staff, students, the School Management Committee, Chapel of Christ the Redeemer, Parents’ Support Group and the Alumni, the team achieved the top prize in the Most Likeable Award. On top of this award, the students were able to display exceptional skills in their layering techniques and creativity in their garnishes during the actual competition and obtained the Second Prize out of 60 teams!
-
-
-
