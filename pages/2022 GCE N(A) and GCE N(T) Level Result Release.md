@@ -18,7 +18,8 @@ description: ""
 6) In view of the COVID-19 situation:
 School candidates who are unwell or self-isolating due to a positive COVID-19 test result should not return to school to collect their results. These candidates have the option of accessing their results online via Singapore Examinations and Assessment Board’s (SEAB) Candidates Portal at https://myexams.seab.gov.sg from 2.45pm.
 
-Parents are to download the Principal's letter HERE
+# Parents of Class 4A, 4B and 4C can also download:
+1. Principal's letter [HERE](/files/PL_2022%20GCE%20N%20Level%20Results%20Release.pdf)
+2. N-Level Info Sheet for Parents [HERE](/files/N-Level%20Info%20Sheet%20for%20Parents.pdf)
 
-
-Thank you and we wish you all the best as you collect your results! 
+Thank you and we wish you all the best as you collect your results!
