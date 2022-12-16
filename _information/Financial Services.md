@@ -11,7 +11,7 @@ FINANCIAL SERVICES
 Financial Assistance Scheme
 ---------------------------
 
-Click [[HERE](/files/2023%20MOE%20FAS%20Criteria.pdf)] to download the pamphlet
+Click [[HERE](/files/2023%20MOE%20FAS%20Criteria.pdf)] to download the pamphlet for 2023.
 
   
 
