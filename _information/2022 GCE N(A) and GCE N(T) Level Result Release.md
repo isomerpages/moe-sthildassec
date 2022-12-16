@@ -3,7 +3,6 @@ title: 2022 GCE N(A) and GCE N(T) Level Result Release
 permalink: /information/2022-GCE-N-Level-Result-Release/
 description: ""
 ---
-
 Dear Hildans of Class 4A, 4B and 4C,
 
 Please take note of the following information: 
