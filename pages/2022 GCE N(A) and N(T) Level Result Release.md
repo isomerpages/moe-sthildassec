@@ -5,9 +5,10 @@ description: ""
 ---
 Dear Parents/Guardians
 
-The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on Monday, 19 December 2022, 2.00pm.
+The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on **Monday, 19 December 2022, 2.00pm**.
 
-Your child/ward may arrive at the school from 1.30pm onwards. He/She will be receiving their results at the Multi-Purpose Hall located at Level 4. Your child/ward should come in full school uniform or PE shirt with school skirt or pants.
+Your child/ward may arrive at the school from 1.30pm onwards. He/She will be receiving their results at the 
+**Multi-Purpose Hall located at Level 4**. Your child/ward should come in **full school uniform or PE shirt with school skirt or pants.**
 
 We encourage all students to return to their schools to collect their results. If your child/ward is unwell or required to self-isolate due to a positive COVID-19 test result, he/she should not return to school to collect their results. SEAB has made provision for all candidates to view their results online via SEAB’s Candidates Portal ([https://myexams.seab.gov.sg](https://myexams.seab.gov.sg)) on the result release day. The results will be available for viewing 45 minutes after the official time of the result release. Alternatively, candidates may appoint a proxy for the collection of results. Proxies are required to produce the relevant documents for the school’s verification when collecting the results.
 
@@ -25,6 +26,6 @@ Please refer to the attached information sheet for more tips and resources on su
 
 Attachment: [N-Level Info Sheet for Parents](/files/N-Level%20Info%20Sheet%20for%20Parents.pdf)
 
-Should you need further clarification, you may email Mrs Yang at chee_siew_yan@moe.edu.sg.
+Should you need further clarification, you may email Mrs Yang at [chee_siew_yan@moe.edu.sg](chee_siew_yan@moe.edu.sg).
 
 Thank you.
