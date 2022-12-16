@@ -3,7 +3,6 @@ title: 2022 GCE N(A) and GCE N(T) Level Result Release
 permalink: /2022-GCE-N-Level-Result-Release/
 description: ""
 ---
-
 Dear Parents/Guardians
 
 The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on Monday, 19 December 2022, 2.00pm.
