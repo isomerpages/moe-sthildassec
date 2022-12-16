@@ -3,7 +3,6 @@ title: 2022 GCE N(A) and N(T) Level Result Release
 permalink: /2022-GCE-N-Level-Result-Release/
 description: ""
 ---
-
 Dear Parents/Guardians
 
 The results of the 2022 Singapore-Cambridge General Certificate of Education Normal (Academic)-\[N(A)\] and Normal (Technical)-\[N(T)\] Level Examinations will be released on Monday, 19 December 2022, 2.00pm.
@@ -26,8 +25,6 @@ Please refer to the attached information sheet for more tips and resources on su
 
 Attachment: [N-Level Info Sheet for Parents](/files/N-Level%20Info%20Sheet%20for%20Parents.pdf)
 
+Should you need further clarification, you may email Mrs Yang at chee_siew_yan@moe.edu.sg.
+
 Thank you.
-
-Mrs Janice Lim (Principal)
-
-St Hilda’s Secondary School
