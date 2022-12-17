@@ -11,9 +11,7 @@ FINANCIAL SERVICES
 Financial Assistance Scheme
 ---------------------------
 
-![](/images/Information/Financial%20Services%201.jpg)
-
-Click [HERE](/files/MOE_FAS_Pamphlet_2022.pdf) to download the pamphlet
+Click [[HERE](/files/2023%20MOE%20FAS%20Criteria.pdf)] to download the pamphlet for 2023.
 
   
 
@@ -23,13 +21,13 @@ For more information please visit: 
 
   
 
-Parent may download the [MOE FAS Application](/files/SHSS%20MOE%20FAS%20Appln%20caa%20Sept%202021.pdf), fill and email the duly signed Application Form with the supporting documents to **[shss@moe.edu.sg](mailto:shss@moe.edu.sg)**
+Parent may download the [[MOE FAS Application Form](/files/2023%20SHSS%20FAS%20caa%20SEPT%202022.pdf)](/files/SHSS%20MOE%20FAS%20Appln%20caa%20Sept%202021.pdf), fill and email the duly signed Application Form with the supporting documents to **[shss@moe.edu.sg](mailto:shss@moe.edu.sg)**
 
 **OR**
 
   
 
-Submit the hard copy of [MOE FAS Application](https://sthildassec.moe.edu.sg/qql/slot/u168/Information/Financial%20Service/SHSS%20MOE%20FAS%20Appln%20caa%20Sept%202021.pdf), duly signed with the supporting documents to School
+Submit the hard copy of [[MOE FAS Application Form](/files/2023%20SHSS%20FAS%20caa%20SEPT%202022.pdf)](https://sthildassec.moe.edu.sg/qql/slot/u168/Information/Financial%20Service/SHSS%20MOE%20FAS%20Appln%20caa%20Sept%202021.pdf), duly signed with the supporting documents to School
 
   
 

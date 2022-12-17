@@ -3,7 +3,6 @@ title: National Digital Literacy Programme
 permalink: /hildan-experience/national-digital-literacy-programme/
 description: ""
 ---
-
 <style> { margin:0;} </style>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. Throughout their educational journey, students will be able to acquire digital skills across four components in the “Find, Think, Apply, Create” framework. 
 
   
