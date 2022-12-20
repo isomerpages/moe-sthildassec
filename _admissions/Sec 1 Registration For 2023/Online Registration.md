@@ -9,5 +9,3 @@ third_nav_title: Sec 1 Registration For 2023
 # Online Registration
 
 Please access the 2023 Secondary One Registration Site via this link: https://go.gov.sg/shss-sec1-regn
-
-![](/images/qrcode_s1regn.png)
