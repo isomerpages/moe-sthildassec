@@ -28,7 +28,7 @@ Mdm So Mun Yee
 <p></p>
 <style> { margin:0;} </style>It is my desire that together with my colleagues and key stakeholders, we could give our students the “roots and wings” via their experiences in SHSS. By roots, I am referring not only to inculcating the desired values in students. It is also needful to make them feel safe, loved and secured so that they develop the sense of belonging and identity to the community. By wings, I hope the students will be excited to seize the myriad of learning opportunities to explore and pursue their passions. With the relevant knowledge, skills and dispositions, they will then be well prepared to lead a fulfilled life that God has intended for each of them.
 <p></p>
-<style> { margin:0;} </style>As we start a new year, I look forward to learning from each of you and partnering you to establish SHSS as a choice school that provides a joyful and holistic learning experience for every student.
+<style> { margin:0;} </style> I look forward to partnering you to establish SHSS as a choice school that provides a joyful and holistic learning experience for every student.
 
 
 Mdm So Mun Yee                                                                                          <br>
