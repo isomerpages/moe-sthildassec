@@ -4,8 +4,13 @@ permalink: /admissions/Sec-1-Registration-For-2023/onlineregistration/
 description: ""
 third_nav_title: Sec 1 Registration For 2023
 ---
-![](/images/Admissions/Admissions%20Page%20Banner.jpg)
-
 # Online Registration
+Dear Parents/Guardians
 
-Please access the 2023 Secondary One Registration Site via this link: https://go.gov.sg/shss-sec1-regn
+Welcome to **St. Hilda's Secondary School**! 
+
+Congratulations on the completion of a milestone of your child's education journey in primary school.
+
+Please access the 2023 Secondary One Registration Microsite via this link: https://go.gov.sg/shss-sec1-regn to access the Principal's letter for information on how to complete the online registation, Sec 1 Orientation, The Hildan Torch and Sec 1 Parent Engagement.
+
+Thank you.
