@@ -5,20 +5,14 @@ description: Microsite for 2023 Sec 1 Registration
 ---
 Dear Parents/Guardians
 
-Welcome to **St. Hilda's Secondary School**! 
+**Welcome to St. Hilda's Secondary School! **
 
-Congratulations on the completion of a milestone of your child's education journey in primary school.
+You would be receiving a message on Parents Gateway with the letter from the Principal, Mrs. Janice Lim by 5 pm on 21 December 2022. The letter will have information on Sec 1 Orientation, The Hildan Torch and Sec 1 Parent Engagement.
 
-We look forward to partnering with you on the next part of your child's learning and growth journey. 
+Please complete the online registration by 12 pm on 22 December 2022. 
 
-You would also be receiving our message to you on Parents Gateway with the letter from the Principal, Mrs. Janice Lim on 21 December 2022, 5 pm.
+Online registration link: [https://go.gov.sg/shss-sec1-regn](https://go.gov.sg/shss-sec1-regn)
 
-Please refer to the letter for information on Sec 1 Orientation, The Hildan Torch and Sec 1 Parent Engagement.
-
-For more details on how to complete the online registration, please visit our microsite at [https://go.gov.sg/shss-sec1-regn](https://go.gov.sg/shss-sec1-regn)
-
-(Note: You may access the online form as soon as you received our message on Parent Gateway.)
-
-More information on S1 Posting and S1-IS are available at MOE’s S1 Posting website at www.moe.gov.sg/s1-posting and in the information booklet “Choosing Your Secondary Schools” distributed to Primary 6 students.
+The link will also provide information for school and appeal matters.
 
 Thank you.
