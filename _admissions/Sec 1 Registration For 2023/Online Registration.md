@@ -4,7 +4,7 @@ permalink: /admissions/Sec-1-Registration-For-2023/onlineregistration/
 description: ""
 third_nav_title: Sec 1 Registration For 2023
 ---
-# Online Registration
+# 2023 Sec 1 Online Registration
 Dear Parents/Guardians
 
 Welcome to **St. Hilda's Secondary School**! 
