@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Direct School Admission (DSA).md
-      - Transfer Forms.md
       - Joint Admissions Exercise.md
+      - Transfer Forms.md
