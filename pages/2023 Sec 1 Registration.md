@@ -15,7 +15,9 @@ You would also be receiving our message to you on Parents Gateway with the lette
 
 Please refer to the letter for information on Sec 1 Orientation, The Hildan Torch and Sec 1 Parent Engagement.
 
-For more details on how to register, please visit our microsite at [https://go.gov.sg/shss-sec1-regn](https://go.gov.sg/shss-sec1-regn)
+For more details on how to complete the online registration, please visit our microsite at [https://go.gov.sg/shss-sec1-regn](https://go.gov.sg/shss-sec1-regn)
+
+(Note: Online registration can only be completed after 5pm).
 
 More information on S1 Posting and S1-IS are available at MOE’s S1 Posting website at www.moe.gov.sg/s1-posting and in the information booklet “Choosing Your Secondary Schools” distributed to Primary 6 students.
 
