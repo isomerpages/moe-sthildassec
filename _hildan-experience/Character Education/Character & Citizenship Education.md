@@ -4,7 +4,6 @@ permalink: /hildan-experience/character-education/character-n-citizenship-educat
 description: ""
 third_nav_title: Character Education
 ---
-
 ![](/images/Character%20Education/CCE%20Banner.jpg)
 
 CHARACTER & CITIZENSHIP EDUCATION
@@ -12,11 +11,6 @@ CHARACTER & CITIZENSHIP EDUCATION
 **Department Vision**: 
 
 Every Hildan A Leader of Influence for the Common Good.
-
-**Framework:**
-**![](https://lh4.googleusercontent.com/4rYnr-IwXu7WIS-UG_CDoCY1A04KuNgehcLttkE9Rx39PVXFf_EEWfESkc9GOC4glo5yc-IYE61_qbvEHhXfFQTqWUY44yTles8c2BcUbpfcHXLz-fgQOOA1QTTCwJhUCK0ULKpFFW1pr4Xhj6QvzG4ZDZj7d37TsdJV-wAC9QtMksxoPdGddraz5DLf2TpQ)
-
-
 
 Programmes
 ----------
@@ -42,22 +36,22 @@ Programmes
 
 **CCE through Christian Education**
 
-Objective: To nurture pupils with good moral values through Christian Principles
+Objective: To nurture students with good moral values through Christian Principles
 * Morning Devotion & Songs of Praise
 * Chapel Periods
 * Praise and Fellowship Week  
 
 **CCE through National Education**   
-Objective: To develop the national cohesion, the instinct for survival and confidence in the future of Singapore
+Objective: To develop national cohesion, the instinct for survival and confidence in the future of Singapore as well as a sense of belonging and emotional rootedness to Singapore
 
-**Commemorative of NE Days**
+**Commemorative of 4 NE Events**
 * Total Defence Day
 * International Friendship Day
 * Racial Harmony Day
 * National Day
 
 **CCE through Values in Action**     
-Objective: To nurture our pupils to become concerned citizens and active contributors of our nation 
+Objective: To nurture socially responsible citizens who contribute meaningfully to the community. 
 
 **Values in Action Programme**
 * Sec 1: Service to the Classroom / School Environment
