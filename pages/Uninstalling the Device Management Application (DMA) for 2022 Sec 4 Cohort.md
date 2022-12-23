@@ -22,7 +22,7 @@ Please ensure that the PLD is switched off from 6.00 a.m. to 11.00 p.m. and refr
 (III) A day after the DMA uninstallation **(31 December 2022)**
 
 You may refer to the attached document for instructions to check if the DMA has been successfully uninstalled from your child’s/ward’s PLD.  
-
+[Instructions for DMA Uninstallation_Chrome Device](/files/DUDRC2_(For%20Students)%20Instructions%20for%20DMA%20Uninstallation_Chrome%20Device.pdf)
 
   
 3. Technical Support  
