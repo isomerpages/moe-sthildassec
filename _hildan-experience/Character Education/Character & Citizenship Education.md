@@ -58,4 +58,7 @@ Objective: To nurture socially responsible citizens who contribute meaningfully 
 * Sec 2: Service to the School / External Environment
 * Sec 3: Service to the Community (Integrated Project)
 
-**Cyberwellness **
+**Cyber Wellness Resources**
+
+Click the link to access MOE resources on Cyber wellness.
+[https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
