@@ -3,9 +3,7 @@ title: Uninstalling the Device Management Application (DMA) for 2022 Sec 4 Cohor
 permalink: /uninstallation-dma-2022/
 description: ""
 ---
-
-
-Dear Parent/Guardian of Students of 4B,  
+Dear Parent/Guardian 
   
 This is to inform you that the DMA will be uninstalled from your child’s/ward’s PLD on **30 December 2022** as he/she will be graduating from the school.  
   
