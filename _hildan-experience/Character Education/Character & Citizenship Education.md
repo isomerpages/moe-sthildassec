@@ -57,3 +57,5 @@ Objective: To nurture socially responsible citizens who contribute meaningfully 
 * Sec 1: Service to the Classroom / School Environment
 * Sec 2: Service to the School / External Environment
 * Sec 3: Service to the Community (Integrated Project)
+
+**Cyberwellness **
