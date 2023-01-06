@@ -10,71 +10,73 @@ STAFF
 Form Teachers
 -------------
 <table cellpadding="5" cellspacing="1" border="1">
-<tr><td>CLASS</td><td>NAME</td><td></td><td>EMAIL</td></tr>
-<tr><td>1 Agape</td><td>Ms</td><td>Lam Mei Lan</td><td>lam_mei_lan@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Thiruchelvan Rohini (Mrs Thiru)</td><td>thiruchelvam_rohini@moe.edu.sg</td></tr>
-<tr><td>1 Joy</td><td>Mdm</td><td>Ramna Bte Johana</td><td>ramna_johana@moe.edu.sg</td></tr>
-<tr><td></td><td>Ms</td><td>Cui Dongyan</td><td>cui_dong_yan@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Lim Keon Suai</td><td>lim_keon_suai@moe.edu.sg</td></tr>
-<tr><td>1 Peace</td><td>Mdm</td><td>Shahroon Jihan d/o Khairoodin (Mrs Khan)</td><td>shahroon_jihan_khairoodin@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Huzaifah Bte Md Salleh</td><td>huzaifah_md_salleh@moe.edu.sg</td></tr>
-<tr><td>1 Patience</td><td>Ms</td><td>Farah Idaman Bte Asmat</td><td>farah_idaman_asmat@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Wong Kia Jin (Glenn)</td><td>wong_kia_jin_glenn@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Chen Wenyan</td><td></td></tr>
-<tr><td>1 Kindness</td><td>Mdm</td><td>Nisha Ishwardas Rajwani</td><td>nisha_ishwardas_rajwani@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Sulaiman Azim</td><td>sulaiman_azim_mohamad_daud@moe.edu.sg</td></tr>
-<tr><td>1 Goodness</td><td>Mdm</td><td>Ramona Bte Mohamad Sidek</td><td>ramona_md_sidek@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Neo Si Lie, Charles</td><td>neo_si_lie_charles@moe.edu.sg</td></tr>
-<tr><td>1 Faithfulness</td><td>Mdm</td><td>Noor Fadilla Binte Wahianuar (Mrs Ezri)</td><td>noor_fadilla_wahianuar@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Yak Zhengqiang</td><td></td></tr>
-<tr><td>2 Agape</td><td>Mdm</td><td>Nurinda Bte Ahmad</td><td>nurinda_ahmad@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Teo Jun Jie</td><td>teo_jun_jie@moe.edu.sg</td></tr>
-<tr><td>2 Joy</td><td>Mdm</td><td>Hung Siau Moon</td><td>hung_siau_moon@moe.edu.sg</td></tr>
-<tr><td></td><td>Miss</td><td>Nadya Khairunnisa Binte Sazali</td><td>nadya_khairunnisa_sazali@moe.edu.sg</td></tr>
-<tr><td>2 Peace</td><td>Mdm</td><td>Azliza Binte Ali</td><td>azliza_ali@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Huang Yu Ming</td><td>huang_yuming@moe.edu.sg</td></tr>
-<tr><td>2 Patience</td><td>Mr</td><td>Nur Khairiani Binte Jamal</td><td>nur_khairiani_jamal@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Tan Zi Jun Rosanne (Mrs Jung)</td><td>tan_zi_jun_rosanne@moe.edu.sg</td></tr>
-<tr><td>2 Kindness</td><td>Ms</td><td>Junaidah Bte Jumat</td><td>junaidah_jumat@moe.edu.sg</td></tr>
-<tr><td></td><td>Ms</td><td>Tan Hui Sin (Cindy)</td><td>tan_hui_sin@moe.edu.sg</td></tr>
-<tr><td>2 Goodness</td><td>Mr</td><td>Md Noornizar Bin Amirnoordin</td><td>md_noornizar_amirnoordin@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Teo Jiajia, Sandy (Mrs Tan)</td><td>teo_jiajia_sandy@moe.edu.sg</td></tr>
-<tr><td></td><td>Ms</td><td>Eileen Ong</td><td>kwan_ruiying_karen@moe.edu.sg</td></tr>
-<tr><td>2 Faithfulness</td><td>Ms</td><td>Deng Lan</td><td>deng_lan@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Kenneth Kwok Yong Koon</td><td>kwok_yong_koon_kenneth@moe.edu.sg</td></tr>
-<tr><td>3A</td><td>Mdm</td><td>Lim Bee Fang</td><td>lim_bee_fang@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Zizi Elliza Bte Zulkefli</td><td>zizi_elliza_zulkefli@moe.edu.sg</td></tr>
-<tr><td>3B</td><td>Mr</td><td>Khoo Zhen Cheng Caleb</td><td>khoo_zhen_cheng_caleb@moe.edu.sg</td></tr>
-<tr><td></td><td>Ms</td><td>Teng Yuling Elaine</td><td>teng_yuling_elaine@moe.edu.sg</td></tr>
-<tr><td>3C</td><td>Ms</td><td>Chua Xin Rong</td><td>chua_xin_rong_a@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Osman Bin Mohdar</td><td>osman_b_mohdar@moe.edu.sg</td></tr>
-<tr><td>3D</td><td>Ms</td><td>Farhanah Bte Jumadi</td><td>farhanah_jumadi@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Ng Puay Hoon</td><td>ng_puay_hoon@moe.edu.sg</td></tr>
-<tr><td>3E</td><td>Mr</td><td>Phua Tai Lai (Daniel)</td><td>hua_phua_tai_lai@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Xi Ning</td><td>xi_ning@moe.edu.sg</td></tr>
+<tr><td><b>CLASS</td><td><b>NAME</td><td></td><td><b>EMAIL</td></tr>
+<tr>
+<td rowspan="2">1 Agape</td>
+	<td>Ms</td><td>Lam Mei Lan</td><td>lam_mei_lan@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Thiruchelvan Rohini (Mrs Thiru)</td><td>thiruchelvam_rohini@moe.edu.sg</td></tr>
+<tr><td rowspan="3">1 Joy</td><td>Mdm</td><td>Ramna Bte Johana</td><td>ramna_johana@moe.edu.sg</td></tr>
+<tr></td><td>Ms</td><td>Cui Dongyan</td><td>cui_dong_yan@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Lim Keon Suai</td><td>lim_keon_suai@moe.edu.sg</td></tr>
+<tr><td rowspan="2">1 Peace</td><td>Mdm</td><td>Shahroon Jihan d/o Khairoodin (Mrs Khan)</td><td>shahroon_jihan_khairoodin@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Huzaifah Bte Md Salleh</td><td>huzaifah_md_salleh@moe.edu.sg</td></tr>
+<tr><td rowspan="3">1 Patience</td><td>Ms</td><td>Farah Idaman Bte Asmat</td><td>farah_idaman_asmat@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Wong Kia Jin (Glenn)</td><td>wong_kia_jin_glenn@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Chen Wenyan</td><td></td></tr>
+<tr><td rowspan="2">1 Kindness</td><td>Mdm</td><td>Nisha Ishwardas Rajwani</td><td>nisha_ishwardas_rajwani@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Sulaiman Azim</td><td>sulaiman_azim_mohamad_daud@moe.edu.sg</td></tr>
+<tr><td rowspan="2">1 Goodness</td><td>Mdm</td><td>Ramona Bte Mohamad Sidek</td><td>ramona_md_sidek@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Neo Si Lie, Charles</td><td>neo_si_lie_charles@moe.edu.sg</td></tr>
+<tr><td rowspan="2">1 Faithfulness</td><td>Mdm</td><td>Noor Fadilla Binte Wahianuar (Mrs Ezri)</td><td>noor_fadilla_wahianuar@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Yak Zhengqiang</td><td></td></tr>
+<tr><td rowspan="2">2 Agape</td><td>Mdm</td><td>Nurinda Bte Ahmad</td><td>nurinda_ahmad@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Teo Jun Jie</td><td>teo_jun_jie@moe.edu.sg</td></tr>
+<tr><td rowspan="2">2 Joy</td><td>Mdm</td><td>Hung Siau Moon</td><td>hung_siau_moon@moe.edu.sg</td></tr>
+<tr></td><td>Miss</td><td>Nadya Khairunnisa Binte Sazali</td><td>nadya_khairunnisa_sazali@moe.edu.sg</td></tr>
+<tr><td rowspan="2">2 Peace</td><td>Mdm</td><td>Azliza Binte Ali</td><td>azliza_ali@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Huang Yu Ming</td><td>huang_yuming@moe.edu.sg</td></tr>
+<tr><td rowspan="2">2 Patience</td><td>Mdm</td><td>Nur Khairiani Binte Jamal</td><td>nur_khairiani_jamal@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Tan Zi Jun Rosanne (Mrs Jung)</td><td>tan_zi_jun_rosanne@moe.edu.sg</td></tr>
+<tr><td rowspan="2">2 Kindness</td><td>Ms</td><td>Junaidah Bte Jumat</td><td>junaidah_jumat@moe.edu.sg</td></tr>
+<tr></td><td>Ms</td><td>Tan Hui Sin (Cindy)</td><td>tan_hui_sin@moe.edu.sg</td></tr>
+<tr><td rowspan="3">2 Goodness</td><td>Mr</td><td>Md Noornizar Bin Amirnoordin</td><td>md_noornizar_amirnoordin@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Teo Jiajia, Sandy (Mrs Tan)</td><td>teo_jiajia_sandy@moe.edu.sg</td></tr>
+<tr></td><td>Ms</td><td>Eileen Ong</td><td>kwan_ruiying_karen@moe.edu.sg</td></tr>
+<tr><td rowspan="2">2 Faithfulness</td><td>Ms</td><td>Deng Lan</td><td>deng_lan@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Kenneth Kwok Yong Koon</td><td>kwok_yong_koon_kenneth@moe.edu.sg</td></tr>
+<tr><td rowspan="2">3A</td><td>Mdm</td><td>Lim Bee Fang</td><td>lim_bee_fang@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Zizi Elliza Bte Zulkefli</td><td>zizi_elliza_zulkefli@moe.edu.sg</td></tr>
+<tr><td rowspan="2">3B</td><td>Mr</td><td>Khoo Zhen Cheng Caleb</td><td>khoo_zhen_cheng_caleb@moe.edu.sg</td></tr>
+<tr></td><td>Ms</td><td>Teng Yuling Elaine</td><td>teng_yuling_elaine@moe.edu.sg</td></tr>
+<tr><td rowspan="2">3C</td><td>Ms</td><td>Chua Xin Rong</td><td>chua_xin_rong_a@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Osman Bin Mohdar</td><td>osman_b_mohdar@moe.edu.sg</td></tr>
+<tr><td rowspan="2">3D</td><td>Ms</td><td>Farhanah Bte Jumadi</td><td>farhanah_jumadi@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Ng Puay Hoon</td><td>ng_puay_hoon@moe.edu.sg</td></tr>
+<tr><td rowspan="2">3E</td><td>Mr</td><td>Phua Tai Lai (Daniel)</td><td>hua_phua_tai_lai@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Xi Ning</td><td>xi_ning@moe.edu.sg</td></tr>
 <tr><td>3F</td><td>Mr</td><td>Norshamsuddin Bin Abdul Gani</td><td>norshamsuddin_abdul_gani@moe.edu.sg</td></tr>
-<tr><td>3G</td><td>Mr</td><td>Abdul Bari Bin Ahmad</td><td>abdul_bari_ahmad@moe.edu.sg</td></tr>
-<tr><td></td><td>Ms</td><td>Alina Chen</td><td>chen_yuxiu_alina@moe.edu.sg</td></tr>
-<tr><td>4A</td><td>Mdm</td><td>Juwaidah Bte Adnan</td><td>juwaidah_adnan@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Zainab Bte Dawan</td><td>zainab_dawan@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Shaik Fuad Bin Abdul Jabbar</td><td>fuad_abdul_jabbar_shaik@moe.edu.sg</td></tr>
-<tr><td>4B</td><td>Mdm</td><td>Ho Gui Vun Gwen (Mrs Lui)</td><td>ho_gui_vun@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Lee Junyi</td><td>lee_junyi@moe.edu.sg</td></tr>
-<tr><td>4C</td><td>Mr</td><td>Lin Zhengchang</td><td>lin_zhengchang@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Ong Gui Li (Mrs Chin)</td><td>ong_gui_li@moe.edu.sg</td></tr>
+<tr><td rowspan="2">3G</td><td>Mr</td><td>Abdul Bari Bin Ahmad</td><td>abdul_bari_ahmad@moe.edu.sg</td></tr>
+<tr></td><td>Ms</td><td>Alina Chen</td><td>chen_yuxiu_alina@moe.edu.sg</td></tr>
+<tr><td rowspan="3">4A</td><td>Mdm</td><td>Juwaidah Bte Adnan</td><td>juwaidah_adnan@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Zainab Bte Dawan</td><td>zainab_dawan@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Shaik Fuad Bin Abdul Jabbar</td><td>fuad_abdul_jabbar_shaik@moe.edu.sg</td></tr>
+<tr><td rowspan="2">4B</td><td>Mdm</td><td>Ho Gui Vun Gwen (Mrs Lui)</td><td>ho_gui_vun@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Lee Junyi</td><td>lee_junyi@moe.edu.sg</td></tr>
+<tr><td rowspan="2">4C</td><td>Mr</td><td>Lin Zhengchang</td><td>lin_zhengchang@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Ong Gui Li (Mrs Chin)</td><td>ong_gui_li@moe.edu.sg</td></tr>
 <tr><td>4D</td><td>Mr</td><td>Tay Yong Teck</td><td>tay_yong_teck@moe.edu.sg</td></tr>
-<tr><td>4E</td><td>Mdm</td><td>Norhani Binte Sawi</td><td>norhani_sawi@moe.edu.sg</td></tr>
-<tr><td></td><td>Ms</td><td>Tan Yen Lin</td><td>tan_yen_lin@moe.edu.sg</td></tr>
-<tr><td>4F</td><td>Mr</td><td>Abu Bakar Bin Awang</td><td>abu_bakar_awang@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Marhaini binte Mohamed</td><td>marhaini_mohamed@moe.edu.sg</td></tr>
-<tr><td>4G</td><td>Mdm</td><td>Michelle Elizabeth Rajlal</td><td>michelle_elizabeth_rajlal@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Wee Eng Khoon Jeremy</td><td>wee_eng_khoon_jeremy@moe.edu.sg</td></tr>
-<tr><td>4H</td><td>Ms</td><td>Huang Liting Daphne</td><td>huang_liting_daphne@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Sawlani Gopal Kalyan</td><td>sawlani_gopal_kalyan@moe.edu.sg</td></tr>
-<tr><td>5A</td><td>Mdm</td><td>Sim Seok Moi Jessie (Mrs Leong)</td><td>jessie_sim_seok_moi@moe.edu.sg</td></tr>
-<tr><td></td><td>Mr</td><td>Chan Chee Keong</td><td>chan_chee_keong@moe.edu.sg</td></tr>
-<tr><td>5B</td><td>Mr</td><td>Tay Chye Huat</td><td>tay_chye_huat@moe.edu.sg</td></tr>
-<tr><td></td><td>Mdm</td><td>Nur Zuhailah Binte Hanafi</td><td>nur_zuhailah_hanafi@moe.edu.sg</td></tr>
+<tr><td rowspan="2">4E</td><td>Mdm</td><td>Norhani Binte Sawi</td><td>norhani_sawi@moe.edu.sg</td></tr>
+<tr></td><td>Ms</td><td>Tan Yen Lin</td><td>tan_yen_lin@moe.edu.sg</td></tr>
+<tr><td rowspan="2">4F</td><td>Mr</td><td>Abu Bakar Bin Awang</td><td>abu_bakar_awang@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Marhaini binte Mohamed</td><td>marhaini_mohamed@moe.edu.sg</td></tr>
+<tr><td rowspan="2">4G</td><td>Mdm</td><td>Michelle Elizabeth Rajlal</td><td>michelle_elizabeth_rajlal@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Wee Eng Khoon Jeremy</td><td>wee_eng_khoon_jeremy@moe.edu.sg</td></tr>
+<tr><td rowspan="2">4H</td><td>Ms</td><td>Huang Liting Daphne</td><td>huang_liting_daphne@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Sawlani Gopal Kalyan</td><td>sawlani_gopal_kalyan@moe.edu.sg</td></tr>
+<tr><td rowspan="2">5A</td><td>Mdm</td><td>Sim Seok Moi Jessie (Mrs Leong)</td><td>jessie_sim_seok_moi@moe.edu.sg</td></tr>
+<tr></td><td>Mr</td><td>Chan Chee Keong</td><td>chan_chee_keong@moe.edu.sg</td></tr>
+<tr><td rowspan="2">5B</td><td>Mr</td><td>Tay Chye Huat</td><td>tay_chye_huat@moe.edu.sg</td></tr>
+<tr></td><td>Mdm</td><td>Nur Zuhailah Binte Hanafi</td><td>nur_zuhailah_hanafi@moe.edu.sg</td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 </table>
 
