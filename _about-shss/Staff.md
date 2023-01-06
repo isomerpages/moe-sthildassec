@@ -9,7 +9,8 @@ STAFF
 
 Form Teachers
 -------------
-<table cellpadding="5" cellspacing="1">
+<table>
+<thead>
 <tr><td><b>CLASS</td><td><b>NAME</td><td></td><td><b>EMAIL</td></tr>
 <tr>
 <td rowspan="2">1 Agape</td>
@@ -78,6 +79,7 @@ Form Teachers
 <tr><td rowspan="2">5B</td><td>Mr</td><td>Tay Chye Huat</td><td>tay_chye_huat@moe.edu.sg</td></tr>
 <tr></td><td>Mdm</td><td>Nur Zuhailah Binte Hanafi</td><td>nur_zuhailah_hanafi@moe.edu.sg</td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
+</tbody>
 </table>
 
 
