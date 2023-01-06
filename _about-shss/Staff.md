@@ -10,7 +10,7 @@ STAFF
 Form Teachers
 -------------
 <table>
-<tr><td><b>CLASS</td><td><b>NAME</td><td></td><td><b>EMAIL</td></tr>
+	<tr><td><b>CLASS</b></td><td><b>NAME</b></td><td></td><td><b>EMAIL</b></td></tr>
 <tr>
 <td rowspan="2">1 Agape</td>
 	<td>Ms</td><td>Lam Mei Lan</td><td>lam_mei_lan@moe.edu.sg</td></tr>
