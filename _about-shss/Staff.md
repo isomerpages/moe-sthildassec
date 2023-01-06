@@ -10,20 +10,17 @@ STAFF
 Form Teachers
 -------------
 <table>
-<thead>
 <tr><td><b>CLASS</td><td><b>NAME</td><td></td><td><b>EMAIL</td></tr>
 <tr>
 <td rowspan="2">1 Agape</td>
 	<td>Ms</td><td>Lam Mei Lan</td><td>lam_mei_lan@moe.edu.sg</td></tr>
 <tr><td>Mdm</td>
 	<td>Thiruchelvan Rohini (Mrs Thiru)</td><td>thiruchelvam_rohini@moe.edu.sg</td></tr>
-	
 <tr><td rowspan="3">1 Joy</td>
 <td>Mdm</td>
 <td>Ramna Bte Johana</td><td>ramna_johana@moe.edu.sg</td></tr>
 <tr><td>Ms</td><td>Cui Dongyan</td><td>cui_dong_yan@moe.edu.sg</td></tr>
 <tr><td>Mr</td><td>Lim Keon Suai</td><td>lim_keon_suai@moe.edu.sg</td></tr>
-	
 <tr><td rowspan="2">1 Peace</td><td>Mdm</td><td>Shahroon Jihan d/o Khairoodin (Mrs Khan)</td><td>shahroon_jihan_khairoodin@moe.edu.sg</td></tr>
 <tr><td>Mdm</td><td>Huzaifah Bte Md Salleh</td><td>huzaifah_md_salleh@moe.edu.sg</td></tr>
 <tr><td rowspan="3">1 Patience</td><td>Ms</td><td>Farah Idaman Bte Asmat</td><td>farah_idaman_asmat@moe.edu.sg</td></tr>
@@ -92,7 +89,6 @@ Form Teachers
 <tr><td>Mr</td><td>Chan Chee Keong</td><td>chan_chee_keong@moe.edu.sg</td></tr>
 <tr><td rowspan="2">5B</td><td>Mr</td><td>Tay Chye Huat</td><td>tay_chye_huat@moe.edu.sg</td></tr>
 <tr><td>Mdm</td><td>Nur Zuhailah Binte Hanafi</td><td>nur_zuhailah_hanafi@moe.edu.sg</td></tr>
-</tbody>
 </table>
 
 
