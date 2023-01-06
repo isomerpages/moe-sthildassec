@@ -9,7 +9,7 @@ STAFF
 
 Form Teachers
 -------------
-<table cellpadding="5" cellspacing="1" border="1">
+<table cellpadding="5" cellspacing="1">
 <tr><td><b>CLASS</td><td><b>NAME</td><td></td><td><b>EMAIL</td></tr>
 <tr>
 <td rowspan="2">1 Agape</td>
