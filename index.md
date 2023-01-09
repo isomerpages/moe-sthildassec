@@ -9,4 +9,5 @@ sections:
   - hero:
       background: /images/St Hildas Homepage GIF.gif
       subtitle: 2022 GCE O'level Results
+      url: /2022GCEOlevelResult
 ---
