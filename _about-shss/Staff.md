@@ -38,7 +38,7 @@ Form Teachers
 <tr><td rowspan="2">1 Faithfulness</td>
 <td>Mdm</td>
 <td>Noor Fadilla Binte Wahianuar (Mrs Ezri)</td><td><a href="noor_fadilla_wahianuar@moe.edu.sg">noor_fadilla_wahianuar@moe.edu.sg</a></td></tr>
-<tr><td>Mr</td><td>Yak Zhengqiang</td><td></td></tr>
+<tr><td>Mr</td><td>Yak Zhengqiang</td><td><a href="yak_zheng_qiang@moe.edu.sg">yak_zheng_qiang@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">2 Agape</td>
 <td>Mdm</td><td>Nurinda Bte Ahmad</td><td><a href="nurinda_ahmad@moe.edu.sg">nurinda_ahmad@moe.edu.sg</a></td></tr>
 <tr><td>Mr</td><td>Teo Jun Jie</td><td><a href="teo_jun_jie@moe.edu.sg">teo_jun_jie@moe.edu.sg</a></td></tr>
