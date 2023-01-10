@@ -60,9 +60,9 @@ Subject Heads/Level Heads/Assistant Year Heads
 | -------- | -------- | -------- |
 | YH / Upper Secondary  | Mdm	Joanne Lee Pei Choo (Mrs Sui) | lee_pei_choo_joanne@moe.edu.sg | 
 | YH / Lower Secondary (POA & EBS) | Mdm Stephanie Low Li Cheng | stephanie_low@moe.edu.sg
-| AYH | Tan Junyang | tan_junyang_a@moe.edu.sg 
+| AYH | Mr Tan Junyang | tan_junyang_a@moe.edu.sg 
 | SH / Design & Technology | Mr	Chan Chee Keong | chan_chee_keong@moe.edu.sg 
-| SH / Student Well-Being | Daniel Liu Jianqing | liu_jianqing_daniel@moe.edu.sg 
+| SH / Student Well-Being | Mr Daniel Liu Jianqing | liu_jianqing_daniel@moe.edu.sg 
 | SH/ Maths  | Mr Lee Junyi | lee_junyi@moe.edu.sg
 | SH/Physics | Mdm Nur Zuhailah Hanafi  | nur_zuhailah_hanafi@moe.edu.sg 
 | SH / Science | Ms Philisa Neo Ching Lu  | neo_ching_lu_philisa@moe.edu.sg 
