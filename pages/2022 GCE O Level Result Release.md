@@ -15,3 +15,15 @@ Please refer to the school handbook (pages 10-18) on guidelines for attire and g
 3. Appropriate hairstyle and no coloured hair.
 
 Inappropriate hairstyle and attire will cause delays in getting your results.
+
+### To Parents: 
+
+Regardless of the result outcome, it is important for our teens to know that they are loved for who they are, and that their grades do not define them or their future. The social and emotional support you provide will be especially valuable and crucial in helping our teens manage their emotions and be positive when deciding on their next steps. 
+
+Do take this opportunity to have further open conversations with your teen about their interests and choices and build their pathways together. 
+
+For more resources on providing social and emotional support, affirming your teen, and supporting your teen’s transition through post O-Level education, please refer to the following links: 
+* [ https://go.gov.sg/selresforparents]( https://go.gov.sg/selresforparents);
+* [https://go.gov.sg/whats-next-olevel](https://go.gov.sg/whats-next-olevel); 
+* [ https://go.gov.sg/MySFSec]( https://go.gov.sg/MySFSec); and
+* [N-O level sheet Info For Parents](/files/N-O%20Level%20Info%20Sheet%20for%20Parents_28%20Sept.pdf)
