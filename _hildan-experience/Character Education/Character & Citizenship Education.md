@@ -62,3 +62,8 @@ Objective: To nurture socially responsible citizens who contribute meaningfully 
 
 Click the link to access MOE resources on Cyber wellness.
 [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+
+**Sexuality Education**
+
+Click the link to access MOE resources on Sexuality Education:
+[https://www.moe.gov.sg/programmes/sexuality-education](https://www.moe.gov.sg/programmes/sexuality-education)
