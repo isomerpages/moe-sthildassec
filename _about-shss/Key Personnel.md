@@ -39,17 +39,17 @@ Heads of Department/Year Heads
 
 | Appointment	|	Name		|	Email
 | -------- | -------- | -------- |
-| HOD / Humanities | Mdm Alina Chee Sui Yim | chee_sui_yim_alina@moe.edu.sg | 
-| HOD / Mathematics | Mr Tan Meng Yoke (Eric) | tan_meng_yoke@moe.edu.sg 
-| HOD / Student Management | Mdm Diane Jael Koh Mei Lin | koh_mei_lin_diane@moe.edu.sg
-| HOD / PE & CCA | Mr Richard Lian Cheng Yong | lian_cheng_yong_richard@moe.edu.sg
-| HOD / Craft & Technology | Mr Seow Whei Jie | seow_whei_jie@moe.edu.sg 
-| HOD / InfoComm Technology | Mdm Sharizah Binte Mohamed Amin | sharizah_mohamed_amin@moe.edu.sg 
-| HOD / Science | Mdm Tan Yin Leng | tan_yin_leng@moe.edu.sg
-| HOD / Mother Tongue | Mdm Toh Sock Hui (Mrs Lee) | toh_sock_hui@moe.edu.sg
-| HOD / English Language (MRL) | Mdm Tracy Chua Siew Hui  | chua_siew_hui_tracy@moe.edu.sg 
-| HOD / CCE | Mdm Soon Suet Peng | soon_suet_peng@moe.edu.sg
-| SSD | Mr Marcus Chan Boon Peng | chan_boon_peng_marcus@moe.edu.sg |
+| HOD / Humanities | Mdm Alina Chee Sui Yim | <a href="mailto:chee_sui_yim_alina@moe.edu.sg">chee_sui_yim_alina@moe.edu.sg</a> | 
+| HOD / Mathematics | Mr Tan Meng Yoke (Eric) | <a href="mailto:tan_meng_yoke@moe.edu.sg">tan_meng_yoke@moe.edu.sg</a> 
+| HOD / Student Management | Mdm Diane Jael Koh Mei Lin | <a href="mailto:koh_mei_lin_diane@moe.edu.sg">koh_mei_lin_diane@moe.edu.sg</a>
+| HOD / PE & CCA | Mr Richard Lian Cheng Yong | <a href="mailto:lian_cheng_yong_richard@moe.edu.sg">lian_cheng_yong_richard@moe.edu.sg</a>
+| HOD / Craft & Technology | Mr Seow Whei Jie | <a href="mailto:seow_whei_jie@moe.edu.sg">seow_whei_jie@moe.edu.sg</a> 
+| HOD / InfoComm Technology | Mdm Sharizah Binte Mohamed Amin | <a href="mailto:sharizah_mohamed_amin@moe.edu.sg">sharizah_mohamed_amin@moe.edu.sg</a> 
+| HOD / Science | Mdm Tan Yin Leng | <a href="mailto:tan_yin_leng@moe.edu.sg">tan_yin_leng@moe.edu.sg</a>
+| HOD / Mother Tongue | Mdm Toh Sock Hui (Mrs Lee) | <a href="mailto:toh_sock_hui@moe.edu.sg">toh_sock_hui@moe.edu.sg</a>
+| HOD / English Language (MRL) | Mdm Tracy Chua Siew Hui  | <a href="mailto:chua_siew_hui_tracy@moe.edu.sg">chua_siew_hui_tracy@moe.edu.sg</a>
+| HOD / CCE | Mdm Soon Suet Peng | <a href="mailto:soon_suet_peng@moe.edu.sg">soon_suet_peng@moe.edu.sg</a>
+| SSD | Mr Marcus Chan Boon Peng | <a href="mailto:chan_boon_peng_marcus@moe.edu.sg">chan_boon_peng_marcus@moe.edu.sg</a> |
 
 
 	
@@ -58,15 +58,15 @@ Subject Heads/Level Heads/Assistant Year Heads
    
 | Appointment		|	Name		|	Email
 | -------- | -------- | -------- |
-| YH / Upper Secondary  | Mdm	Joanne Lee Pei Choo (Mrs Sui) | lee_pei_choo_joanne@moe.edu.sg | 
-| YH / Lower Secondary (POA & EBS) | Mdm Stephanie Low Li Cheng | stephanie_low@moe.edu.sg
-| AYH | Mr Tan Junyang | tan_junyang_a@moe.edu.sg 
-| SH / Design & Technology | Mr	Chan Chee Keong | chan_chee_keong@moe.edu.sg 
-| SH / Student Well-Being | Mr Daniel Liu Jianqing | liu_jianqing_daniel@moe.edu.sg 
-| SH/ Maths  | Mr Lee Junyi | lee_junyi@moe.edu.sg
-| SH/Physics | Mdm Nur Zuhailah Hanafi  | nur_zuhailah_hanafi@moe.edu.sg 
-| SH / Science | Ms Philisa Neo Ching Lu  | neo_ching_lu_philisa@moe.edu.sg 
-| SH / Information Management | Mr Tay Chye Huat  | tay_chye_huat@moe.edu.sg 
+| YH / Upper Secondary  | Mdm	Joanne Lee Pei Choo (Mrs Sui) | <a href="mailto:lee_pei_choo_joanne@moe.edu.sg">lee_pei_choo_joanne@moe.edu.sg</a> | 
+| YH / Lower Secondary (POA & EBS) | Mdm Stephanie Low Li Cheng | <a href="mailto:stephanie_low@moe.edu.sg">stephanie_low@moe.edu.sg</a>
+| AYH | Mr Tan Junyang | <a href="mailto:tan_junyang_a@moe.edu.sg">tan_junyang_a@moe.edu.sg</a> 
+| SH / Design & Technology | Mr	Chan Chee Keong | <a href="mailto:chan_chee_keong@moe.edu.sg">chan_chee_keong@moe.edu.sg</a> 
+| SH / Student Well-Being | Mr Daniel Liu Jianqing | <a href="mailto:liu_jianqing_daniel@moe.edu.sg">liu_jianqing_daniel@moe.edu.sg</a> 
+| SH/ Maths  | Mr Lee Junyi | <a href="mailto:lee_junyi@moe.edu.sg">lee_junyi@moe.edu.sg</a>
+| SH/Physics | Mdm Nur Zuhailah Hanafi  | <a href="mailto:nur_zuhailah_hanafi@moe.edu.sg">nur_zuhailah_hanafi@moe.edu.sg</a> 
+| SH / Science | Ms Philisa Neo Ching Lu  | <a href="mailto:neo_ching_lu_philisa@moe.edu.sg">neo_ching_lu_philisa@moe.edu.sg</a> 
+| SH / Information Management | Mr Tay Chye Huat  | <a href="mailto:tay_chye_huat@moe.edu.sg">tay_chye_huat@moe.edu.sg</a> 
 
 
 Senior Teachers
@@ -74,13 +74,13 @@ Senior Teachers
 
 | Appointment		|	Name		|	Email
 | -------- | -------- | -------- |
-| LT/ Geography (Innovation)  |Mdm Chee Siew Yan (Mrs Yang) | chee_siew_yan@moe.edu.sg
-| ST / Chem | Mr Abu Bakar Bin Awang | abu_bakar_awang@moe.edu.sg 
-| ST / History , NE Coordinator | Mdm Gwen Ho Gui Vun (Mrs Lui) | ho_gui_vun@moe.edu.sg 
-| ST / Geography, SWC Chairman | Mdm Jessie Sim Seok Moi (Mrs Leong) | jessie_sim_seok_moi@moe.edu.sg 
-| ST / EL | Mdm	Norhani Binte Sawi | norhani_sawi@moe.edu.sg 
-| ST / Art, School , Staff Coordinating Mentor  | Mr Sawlani Gopal Kalyan | sawlani_gopal_kalyan@moe.edu.sg
-| ST / PE | Ms	Teo Siew Lan | teo_siew_lan@moe.edu.sg   
+| LT/ Geography (Innovation)  |Mdm Chee Siew Yan (Mrs Yang) | <a href="mailto:chee_siew_yan@moe.edu.sg">chee_siew_yan@moe.edu.sg</a>
+| ST / Chem | Mr Abu Bakar Bin Awang | <a href="mailto:abu_bakar_awang@moe.edu.sg">abu_bakar_awang@moe.edu.sg</a> 
+| ST / History , NE Coordinator | Mdm Gwen Ho Gui Vun (Mrs Lui) | <a href="mailto:ho_gui_vun@moe.edu.sg">ho_gui_vun@moe.edu.sg</a>
+| ST / Geography, SWC Chairman | Mdm Jessie Sim Seok Moi (Mrs Leong) | <a href="mailto:jessie_sim_seok_moi@moe.edu.sg">jessie_sim_seok_moi@moe.edu.sg</a> 
+| ST / EL | Mdm	Norhani Binte Sawi | <a href="mailto:norhani_sawi@moe.edu.sg">norhani_sawi@moe.edu.sg</a> 
+| ST / Art, School , Staff Coordinating Mentor  | Mr Sawlani Gopal Kalyan | <a href="mailto:sawlani_gopal_kalyan@moe.edu.sg">sawlani_gopal_kalyan@moe.edu.sg</a>
+| ST / PE | Ms	Teo Siew Lan | <a href="mailto:teo_siew_lan@moe.edu.sg">teo_siew_lan@moe.edu.sg</a>  
 
 Administration
 --------------
@@ -88,4 +88,4 @@ Administration
 | Appointment	|	Name	|	Email
 | -------- | -------- | -------- |
 | Administration Manager |	Mr Benjamin Yap	| yap_yong_tah_benjamin@moe.edu.sg
-| Operations Manager	| Mr Thomas Wong |	wong_huat_leng@moe.edu.sg
+| Operations Manager	| Mr Thomas Wong |	<a href="mailto:wong_huat_leng@moe.edu.sg">wong_huat_leng@moe.edu.sg</a>
