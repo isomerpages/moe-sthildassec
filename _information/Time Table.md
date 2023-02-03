@@ -8,8 +8,6 @@ description: ""
 TIME TABLE 2023
 ----------
 
-1. [Class](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Class.pdf)
-2. [Staff](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Staff.pdf)
-3. [Subject](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Subject.pdf)
-4. [Venue](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Venue.pdf)
-
+1.  [Class](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Class.pdf)
+2.  [Subject](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Subject.pdf)
+3.  [Venue](/files/TT%202023%20Semester%201%20(6%20Jan%202023)%20-%20Venue.pdf)
