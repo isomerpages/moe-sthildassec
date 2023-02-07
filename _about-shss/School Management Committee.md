@@ -16,7 +16,7 @@ SCHOOL MANAGEMENT COMMITTEE (SMC)
 | Member    | Mrs Janice Lim     | Principal, St Hilda’s Secondary School(SHSS)    |
 | Member     | Rev Victor Teo | Chaplain for SHPS and SHSS/Vicar, Chapel of Christ the Redeemer (CCR)     |
 | Member     |Ms Marilyn Ng     | Alumni President     |
-| Member     | Ms Irene Lim     | Parent Support Group (PSG) Chairman, SHPS     |
+| Member     | Mr Seah Eng Wee  | Parent Support Group (PSG) Chairman, SHPS     |
 | Member     | Mr Mark Joel Premraj     | PSG Chairman, SHSS     |
 | Member     | Mdm Lily John     | SHC Parochial Church Council (PCC) Representative    |
 | Member     | Mr Albert Seah     |CCR PCC Representative     |
