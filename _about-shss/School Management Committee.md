@@ -22,4 +22,4 @@ SCHOOL MANAGEMENT COMMITTEE (SMC)
 | Member     | Mr Albert Seah     |CCR PCC Representative     |
 | Member     | Mr Desmond Hoo     | Bishop’s Nominee (CCR)     |
 | Member     | Rev Martin Jungnickel     | Vicar, SHC     |
-| Co-opted Member     | Ms Alvin Ng   | Honorary Treasurer     |
+| Co-opted Member     | Mr Alvin Ng   | Honorary Treasurer     |
