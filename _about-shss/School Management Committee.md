@@ -19,7 +19,6 @@ SCHOOL MANAGEMENT COMMITTEE (SMC)
 | Member     | Mr Seah Eng Wee  | Parent Support Group (PSG) Chairman, SHPS     |
 | Member     | Mr Mark Joel Premraj     | PSG Chairman, SHSS     |
 | Member     | Mdm Lily John     | SHC Parochial Church Council (PCC) Representative    |
-| Member     | Mr Albert Seah     |CCR PCC Representative     |
 | Member     | Mr Desmond Hoo     | Bishop’s Nominee (CCR)     |
 | Member     | Rev Martin Jungnickel     | Vicar, SHC     |
 | Co-opted Member     | Mr Alvin Ng   | Honorary Treasurer     |
