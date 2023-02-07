@@ -67,3 +67,7 @@ Click the link to access MOE resources on Cyber wellness.
 
 Click the link to access MOE resources on Sexuality Education:
 [https://www.moe.gov.sg/programmes/sexuality-education](https://www.moe.gov.sg/programmes/sexuality-education)
+
+Click the link to access information on sexuality education at St. Hilda's Secondary School: 
+
+[Information on SEd at SHSS](/files/Info_on_SEd_for_schs_website_Sec.pdf)
