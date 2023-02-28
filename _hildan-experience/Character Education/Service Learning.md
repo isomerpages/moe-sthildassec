@@ -26,7 +26,7 @@ We design the students’ experiences to be developmental, and varied; spanning 
 
 <table border="0" cellpadding="0" cellspacing="0" width="529" style="border-collapse:
  collapse;width:398pt"><colgroup><col width="154" style="mso-width-source:userset;mso-width-alt:5632;width:116pt"> <col width="157" style="mso-width-source:userset;mso-width-alt:5741;width:118pt"> <col width="218" style="mso-width-source:userset;mso-width-alt:7972;width:164pt"></colgroup><tbody><tr height="64" style="mso-height-source:userset;height:48.0pt;mso-yfti-firstrow:
-  yes;mso-yfti-irow:0"><td height="64" class="xl65" width="154" style="height:48.0pt;width:116pt"><span style="mso-color-alt:windowtext">Levels</span></td><td class="xl65" width="157" style="border-left:none;width:118pt"><span style="mso-color-alt:windowtext">Domains of Service<span style="mso-spacerun:yes">&nbsp;</span></span></td><td class="xl65" width="218" style="border-left:none;width:164pt"><span style="mso-color-alt:windowtext">Brief description</span></td></tr><tr height="94" style="mso-height-source:userset;height:70.5pt;mso-yfti-irow:
+  yes;mso-yfti-irow:0"><td height="64" class="xl65" width="154" style="height:48.0pt;width:116pt"><span style="mso-color-alt:windowtext"><b>Levels</b></span></td><td class="xl65" width="157" style="border-left:none;width:118pt"><span style="mso-color-alt:windowtext"><b>Domains of Service</b><span style="mso-spacerun:yes">&nbsp;</span></span></td><td class="xl65" width="218" style="border-left:none;width:164pt"><span style="mso-color-alt:windowtext"><b>Brief description</b></span></td></tr><tr height="94" style="mso-height-source:userset;height:70.5pt;mso-yfti-irow:
   1"><td height="94" class="xl66" width="154" style="height:70.5pt;border-top:none;
   width:116pt">Secondary 1</td><td class="xl66" width="157" style="border-top:none;border-left:none;width:118pt">Family &amp; School<span style="mso-spacerun:yes">&nbsp;</span></td><td class="xl66" width="218" style="border-top:none;border-left:none;width:164pt">Learn to care for those who are within the students’ closest sphere of influence<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr height="110" style="mso-height-source:userset;height:82.5pt;mso-yfti-irow:
   2"><td height="110" class="xl66" width="154" style="height:82.5pt;border-top:none;
@@ -52,6 +52,3 @@ We design the students’ experiences to be developmental, and varied; spanning 
 ![](/images/Character%20Education/Picture6.png)
 
 ![](/images/Character%20Education/Picture7.png)
-
-
-
