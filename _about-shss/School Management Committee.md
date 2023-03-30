@@ -5,7 +5,7 @@ description: ""
 ---
 SCHOOL MANAGEMENT COMMITTEE (SMC)
 ---------------------------
-![](/images/SMC.jpg)
+![](/images/SMC%20photo%20caa%209Feb23_less%20Rev%20Victor,%20Rev%20Martin,%20Include%20Rev%20Glenn.jpeg)
 
 | SMC Appointment | Name | Remarks |
 | -------- | -------- | -------- |
