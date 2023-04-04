@@ -8,9 +8,9 @@ description: ""
 EXAM & ASSESSMENT
 -----------------
 
-### Term 1 Weighted Assessment (WA1) 2023
+### Term 2 Weighted Assessment (WA2) 2023
 
-1. [Secondary 1](/files/WA1/2023SHSS%20Sec%201%20Term%201%20WA1%20schedule_final.pdf)
-2. [Secondary 2](/files/WA1/2023SHSS%20Sec%202%20Term%201%20WA1%20schedule_final.pdf)
-3. [Secondary 3](/files/WA1/2023SHSS%20Sec%203%20Term%201%20WA1%20schedule_final.pdf)
-4. [Secondary 4 & 5](/files/WA1/2023SHSS%20Sec%204&5%20Term%201%20WA1%20schedule_final.pdf)
+1.  [Secondary 1](/files/WA2/secondary%201.pdf)
+2.  [Secondary 2](/files/WA2/secondary%202.pdf)
+3. [Secondary 3](/files/WA2/secondary%203.pdf)
+4.  [Secondary 4 and 5](/files/WA2/secondary%204%20and%205.pdf)
