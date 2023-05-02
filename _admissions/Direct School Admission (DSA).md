@@ -24,8 +24,8 @@ SHSS welcomes students who are keen to develop their talent through 6 sports:
 
 Click on the links below to find out more about the various DSA talent areas that our school is offering.
 
-<table border="0" cellpadding="0" cellspacing="0" width="469" style="border-collapse:
- collapse;width:352pt;mso-yfti-tbllook:1184"><colgroup><col width="129" style="mso-width-source:userset;mso-width-alt:4717;width:97pt"> <col width="340" style="mso-width-source:userset;mso-width-alt:12434;width:255pt"></colgroup><tbody><tr height="61" style="height:45.75pt;mso-yfti-firstrow:yes;mso-yfti-irow:0"><td height="61" class="xl64" width="129" style="height:45.75pt;width:97pt">Floorball (Girls)</td><td class="xl65" width="340" style="width:255pt"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/</a></td></tr><tr height="41" style="height:30.75pt;mso-yfti-irow:1"><td height="41" class="xl66" width="129" style="height:30.75pt;width:97pt">Netball</td><td class="xl67" width="340" style="width:255pt"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/</a></td></tr><tr height="61" style="height:45.75pt;mso-yfti-irow:2"><td height="61" class="xl66" width="129" style="height:45.75pt;width:97pt">Volleyball (Girls)</td><td class="xl67" width="340" style="width:255pt"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/</a></td></tr><tr height="61" style="height:45.75pt;mso-yfti-irow:3"><td height="61" class="xl66" width="129" style="height:45.75pt;width:97pt">Badminton (Boys)</td><td class="xl67" width="340" style="width:255pt"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/</a></td></tr><tr height="41" style="height:30.75pt;mso-yfti-irow:4"><td height="41" class="xl66" width="129" style="height:30.75pt;width:97pt">Hockey (Boys)</td><td class="xl67" width="340" style="width:255pt"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/</a></td></tr><tr height="61" style="height:45.75pt;mso-yfti-irow:5;mso-yfti-lastrow:yes"><td height="61" class="xl66" width="129" style="height:45.75pt;width:97pt">Volleyball (Boys)</td><td class="xl67" width="340" style="width:255pt"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/</a></td></tr></tbody></table>
+<table style="border-collapse:
+ collapse;width:352pt;mso-yfti-tbllook:1184" width="469" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:4717;width:97pt" width="129"> <col style="mso-width-source:userset;mso-width-alt:12434;width:255pt" width="340"></colgroup><tbody><tr style="height:45.75pt;mso-yfti-firstrow:yes;mso-yfti-irow:0" height="61"><td style="height:45.75pt;width:97pt" width="129" class="xl64" height="61">Floorball (Girls)</td><td style="width:255pt" width="340" class="xl65"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/</a></td></tr><tr style="height:30.75pt;mso-yfti-irow:1" height="41"><td style="height:30.75pt;width:97pt" width="129" class="xl66" height="41">Netball</td><td style="width:255pt" width="340" class="xl67"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/</a></td></tr><tr style="height:45.75pt;mso-yfti-irow:2" height="61"><td style="height:45.75pt;width:97pt" width="129" class="xl66" height="61">Volleyball (Girls)</td><td style="width:255pt" width="340" class="xl67"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/</a></td></tr><tr style="height:45.75pt;mso-yfti-irow:3" height="61"><td style="height:45.75pt;width:97pt" width="129" class="xl66" height="61">Badminton (Boys)</td><td style="width:255pt" width="340" class="xl67"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/</a></td></tr><tr style="height:30.75pt;mso-yfti-irow:4" height="41"><td style="height:30.75pt;width:97pt" width="129" class="xl66" height="41">Hockey (Boys)</td><td style="width:255pt" width="340" class="xl67"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/</a></td></tr><tr style="height:45.75pt;mso-yfti-irow:5;mso-yfti-lastrow:yes" height="61"><td style="height:45.75pt;width:97pt" width="129" class="xl66" height="61">Volleyball (Boys)</td><td style="width:255pt" width="340" class="xl67"><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/</a></td></tr></tbody></table>
  
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. 
 
@@ -64,16 +64,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
   padding:0in 5.4pt 0in 5.4pt;height:50.1pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Academics</span></b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><br><br>Obtained a pass in the English Language and at least an overall percentage of 50% for the Primary 6 Mid-year Examinations.</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">CCA Performance (Any one of the categories)</span></b><span style="mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin"><br><br>Represented School in Competition (Zonal / National) or be a member of School Volleyball, Netball, Hockey (Boys), Floorball (Girls) &amp; Badminton (Boys) Team or Represented School in any Sports CCA or member of Junior Sports Academy.</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p><p class="Default"><b><span style="font-size:11.0pt;mso-ascii-font-family:Calibri;
-  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Physical Attributes &amp; Skills</span></b><span style="font-size:11.0pt;mso-ascii-font-family:
-  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
-  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin"></span></p><p class="Default"><span style="font-size:11.0pt;mso-ascii-font-family:Calibri;
-  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">&nbsp;</span></p><p class="Default"><span style="font-size:11.0pt;mso-ascii-font-family:Calibri;
-  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
-  minor-latin;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Physical abilities such as jump distance, speed, height &amp; weight and other specific to the sports. Skills related to sports.</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+  mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p><p class="MsoNormal"><b>Physical Attributes &amp; Skills</b></p><p class="MsoNormal" style="line-height:normal">Physical abilities such as jump distance, speed, height &amp; weight and other specific to the sports. Skills related to sports.</p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:black">&nbsp;</span></p></td><td width="156" rowspan="6" style="width:116.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -115,61 +106,61 @@ The MOE DSA-Sec website can be accessed at: [https://www.moe.gov.sg/dsa-sec](htt
 
 **SCHEDULE FOR DSA-SEC EXERCISE**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="606" style="width:454.35pt;border-collapse:collapse;mso-yfti-tbllook:1184"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="53" valign="top" style="width:39.55pt;border:solid #D6D6D6 1.0pt;
+<table style="width:454.35pt;border-collapse:collapse;mso-yfti-tbllook:1184" width="606" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:39.55pt;border:solid #D6D6D6 1.0pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><b>No</b></p></td><td width="421" valign="top" style="width:315.8pt;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="53"><p class="MsoNormal"><b>No</b></p></td><td style="width:315.8pt;border:solid #D6D6D6 1.0pt;
   border-left:none;mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><b>Process</b></p></td><td width="132" valign="top" style="width:99.0pt;border:solid #D6D6D6 1.0pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="421"><p class="MsoNormal"><b>Process</b></p></td><td style="width:99.0pt;border:solid #D6D6D6 1.0pt;
   border-left:none;mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal"><b>Date</b></p></td></tr><tr style="mso-yfti-irow:1"><td width="53" valign="top" style="width:39.55pt;border:solid #D6D6D6 1.0pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="132"><p class="MsoNormal"><b>Date</b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:39.55pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">1</p></td><td width="421" valign="top" style="width:315.8pt;border-top:none;border-left:
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="53"><p class="MsoNormal">1</p></td><td style="width:315.8pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">Application for DSA-Sec through DSA-Sec Portal</p></td><td width="132" valign="top" style="width:99.0pt;border-top:none;border-left:
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="421"><p class="MsoNormal">Application for DSA-Sec through DSA-Sec Portal</p></td><td style="width:99.0pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">4 May – 31 May 2023</p></td></tr><tr style="mso-yfti-irow:2"><td width="53" valign="top" style="width:39.55pt;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="132"><p class="MsoNormal">4 May – 31 May 2023</p></td></tr><tr style="mso-yfti-irow:2"><td style="width:39.55pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">2</p></td><td width="421" valign="top" style="width:315.8pt;border-top:none;border-left:
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="53"><p class="MsoNormal">2</p></td><td style="width:315.8pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">Notification of shortlisted applicants and in-person selection trials</p></td><td width="132" valign="top" style="width:99.0pt;border-top:none;border-left:
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="421"><p class="MsoNormal">Notification of shortlisted applicants and in-person selection trials</p></td><td style="width:99.0pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">26 May – 11 Sep 2023&nbsp;</p></td></tr><tr style="mso-yfti-irow:3"><td width="53" valign="top" style="width:39.55pt;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="132"><p class="MsoNormal">26 May – 11 Sep 2023&nbsp;</p></td></tr><tr style="mso-yfti-irow:3"><td style="width:39.55pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">3</p></td><td width="421" valign="top" style="width:315.8pt;border-top:none;border-left:
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="53"><p class="MsoNormal">3</p></td><td style="width:315.8pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">Update of Selection outcomes</p></td><td width="132" valign="top" style="width:99.0pt;border-top:none;border-left:
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="421"><p class="MsoNormal">Update of Selection outcomes</p></td><td style="width:99.0pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">12-14 Sep 2023</p></td></tr><tr style="mso-yfti-irow:4"><td width="53" valign="top" style="width:39.55pt;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="132"><p class="MsoNormal">12-14 Sep 2023</p></td></tr><tr style="mso-yfti-irow:4"><td style="width:39.55pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">4</p></td><td width="421" valign="top" style="width:315.8pt;border-top:none;border-left:
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="53"><p class="MsoNormal">4</p></td><td style="width:315.8pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">Submit School Preference through DSA-Sec Portal (by applicants)</p></td><td width="132" valign="top" style="width:99.0pt;border-top:none;border-left:
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="421"><p class="MsoNormal">Submit School Preference through DSA-Sec Portal (by applicants)</p></td><td style="width:99.0pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">23-27 Oct 2023</p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td width="53" valign="top" style="width:39.55pt;border:solid #D6D6D6 1.0pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="132"><p class="MsoNormal">23-27 Oct 2023</p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:39.55pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
-  padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">6</p></td><td width="421" valign="top" style="width:315.8pt;border-top:none;border-left:
+  padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="53"><p class="MsoNormal">6</p></td><td style="width:315.8pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
-  mso-border-alt:solid #D6D6D6 .25pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">Release of DSA-Sec Results together with PSLE Results</p></td><td width="132" valign="top" style="width:99.0pt;border-top:none;border-left:
+  mso-border-alt:solid #D6D6D6 .25pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="421"><p class="MsoNormal">Release of DSA-Sec Results together with PSLE Results</p></td><td style="width:99.0pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
-  mso-border-alt:solid #D6D6D6 .25pt;padding:6.0pt 9.0pt 6.0pt 9.0pt"><p class="MsoNormal">Late Nov 2023</p></td></tr></tbody></table>
+  mso-border-alt:solid #D6D6D6 .25pt;padding:6.0pt 9.0pt 6.0pt 9.0pt" valign="top" width="132"><p class="MsoNormal">Late Nov 2023</p></td></tr></tbody></table>
 
 For enquiries, you may contact:
 
