@@ -12,24 +12,20 @@ Badminton
 
 #### About Us
 
-Click [here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf) to know more about us!
-
-Click below to access our DSA e-brochure!  
-[DSA\_Badminton.pdf](/files/CCA/DSA_Badminton_compressed.pdf)
-
+Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to know more about us!
   
 **<u>Training Schedule</u>**
 
-Mondays: 3.30pm - 6.00pm   
-Fridays: 2:30pm - 5:30pm
+Mondays:&nbsp;3.30pm - 6.00pm&nbsp;  
+Fridays:&nbsp;2:30pm - 5:30pm
 
 
 #### Achievements
 
 **2017**  
-East Zone Schools Badminton Championship ‘B’ Div - 4th
+East Zone Schools Badminton Championship ‘B’ Div -&nbsp;4th
 
 ####  Teachers In-Charge
 
-Mr Eric Tan (IC)  
-Mr Teo Jun Jie
+Mr Teo Jun Jie<br>
+Mr Osman
