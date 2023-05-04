@@ -13,22 +13,29 @@ Netball
 
 #### About Us
 
-Click [**here**](/files/CCA/Netball.pdf) to know more about us!  
+Click&nbsp;[**here**](/files/CCA/Netball.pdf)&nbsp;to know more about us!  
   
 Click below to access our DSA e-brochure!  
- [DSA\_Netball.pdf](/files/CCA/DSA_Netball.pdf)
+&nbsp;[DSA\_Netball.pdf](/files/CCA/DSA_Netball.pdf)
   
 **<u>Training Schedule</u>**
 
-Tuesdays & Thursdays: 3:30pm - 6:30pm
+Tuesdays &amp; Thursdays:&nbsp;3:30pm - 6:30pm
 
 #### Achievements
 
+**2023**<br>
+East Zone Schools Netball Championship B Div – 2nd
+
+**2022**<br>
+East Zone Schools Netball Championship B Div – Champions<br>
+East Zone Schools Netball Championship C Div – 4th
+
 **2019**  
-East Zone Schools Netball Championship 'B' Div - **2nd**  
-East Zone Schools Netball Championship 'C' Div - **Champions**  
-National Schools Netball Championship 'B' Div - **2nd**  
-National Schools Netball Championship 'C' Div - **4th**
+East Zone Schools Netball Championship 'B' Div -&nbsp;**2nd**  
+East Zone Schools Netball Championship 'C' Div -&nbsp;**Champions**  
+National Schools Netball Championship 'B' Div -&nbsp;**2nd**  
+National Schools Netball Championship 'C' Div -&nbsp;**4th**
 
 **SSSC Colours (Team Award) 2019**
 
@@ -40,9 +47,9 @@ Netball ‘C’ Team
   
 
 **2018**  
-National Schools Netball Championship 'C' Div – 2nd   
+National Schools Netball Championship 'C' Div – 2nd&nbsp;  
 East Zone Schools Netball Championship ‘B’ Div– 3rd  
-East Zone Schools Netball Championship ‘C’ Div – Champions
+East Zone Schools Netball Championship ‘C’ Div&nbsp;– Champions
 
   
 
