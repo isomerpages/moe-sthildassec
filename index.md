@@ -7,7 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/St Hildas Homepage GIF.gif
+      background: /images/st hildas homepage 2 gif.gif
+      title: St Hilda's Secondary School
+      subtitle: Every Hildan, a Leader for Life
   - infopic:
       title: Direct School Admission
       description: For 2024 Secondary One Students
