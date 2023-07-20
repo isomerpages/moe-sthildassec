@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/jumping.jpg
+      background: /images/founders day.jpg
       title: St Hilda's Secondary School
       subtitle: Every Hildan, a Leader for Life
   - infopic:
