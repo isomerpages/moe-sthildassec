@@ -10,7 +10,7 @@ STAFF
 Form Teachers
 -------------
 <table>
-	<tr><td><b>CLASS</b></td><td colspan="2"><b>NAME</b></td><td><b>EMAIL</b></td></tr>
+	<tbody><tr><td><b>CLASS</b></td><td colspan="2"><b>NAME</b></td><td><b>EMAIL</b></td></tr>
 <tr>
 <td rowspan="2">1 Agape</td>
 	<td>Ms</td><td>Lam Mei Lan</td><td><a href="mailto:lam_mei_lan@moe.edu.sg">lam_mei_lan@moe.edu.sg</a></td></tr>
@@ -88,48 +88,26 @@ Form Teachers
 <tr><td>Mr</td><td>Chan Chee Keong</td><td><a href="chan_chee_keong@moe.edu.sg">chan_chee_keong@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">5B</td><td>Mr</td><td>Tay Chye Huat</td><td><a href="tay_chye_huat@moe.edu.sg">tay_chye_huat@moe.edu.sg</a></td></tr>
 <tr><td>Mdm</td><td>Nur Zuhailah Binte Hanafi</td><td><a href="nur_zuhailah_hanafi@moe.edu.sg">nur_zuhailah_hanafi@moe.edu.sg</a></td></tr>
-</table>
+</tbody></table>
 
 
 Administration Office
 ---------------------
 
-<table>
-<thead>
-  <tr>
-    <th>Name</th>
-    <th>Designation</th>
-    <th>Email</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Mr Benjamin Yap</td>
-    <td>Administration Manager</td>
-    <td><a href="mailto:yap_yong_tah_benjamin@moe.edu.sg">yap_yong_tah_benjamin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Thomas Wong</td>
-    <td>Operations Manager</td>
-    <td><a href="mailto:wong_huat_leng@moe.edu.sg">wong_huat_leng@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mr Abbas Bin Abdul Karim</td>
-    <td>Administrative Executive</td>
-    <td><a href="mailto:abbas_abdul_karim@moe.edu.sg">abbas_abdul_karim@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mdm Goh Cheng Choo</td>
-    <td>Management Support Officer (MSO)</td>
-    <td><a href="mailto:goh_cheng_choo@moe.edu.sg">goh_cheng_choo@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Mdm Nurlena Binte Ab. Rahman</td>
-    <td>Management Support Officer (MSO)</td>
-    <td><a href="mailto:nurlena_ab_rahman@moe.edu.sg">nurlena_ab_rahman@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
+<table style="border-collapse:
+ collapse;width:489pt;box-sizing: border-box;border-color:var(--chakra-colors-chakra-border-color);
+ overflow-wrap: break-word;font-variant-ligatures: normal;font-variant-caps: normal;
+ orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
+ text-decoration-style: initial;text-decoration-color: initial" width="651" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:6070;width:125pt" width="166"> <col style="mso-width-source:userset;mso-width-alt:8557;width:176pt" width="234"> <col style="mso-width-source:userset;mso-width-alt:9179;width:188pt" width="251"></colgroup><tbody><tr style="height:15.0pt;box-sizing: border-box;border-color:var(--chakra-colors-chakra-border-color);
+  overflow-wrap: break-word" height="20"><td style="height:15.0pt;width:125pt" width="166" class="xl65" height="20"><b>Appointment<span style="mso-spacerun:yes">&nbsp;</span></b></td><td style="width:176pt" width="234" class="xl65"><b>Name</b></td><td style="width:188pt" width="251" class="xl65"><b>Email</b></td></tr><tr style="height:15.0pt;box-sizing: border-box;border-color:var(--chakra-colors-chakra-border-color);
+  overflow-wrap: break-word" height="20"><td style="height:15.0pt;box-sizing: border-box;overflow-wrap: break-word;
+  border-image: initial" height="20"><span style="font-variant-ligatures: normal;
+  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+  text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial">Administration Manager</span></td><td style="box-sizing: border-box;overflow-wrap: break-word;border-image: initial">Mr Benjamin Yap</td><td class="xl66"><a href="mailto:yap_yong_tah_benjamin@moe.edu.sg">yap_yong_tah_benjamin@moe.edu.sg</a></td></tr><tr style="height:15.0pt;box-sizing: border-box;border-color:var(--chakra-colors-chakra-border-color);
+  overflow-wrap: break-word" height="20"><td style="height:15.0pt;box-sizing: border-box;overflow-wrap: break-word" height="20">Operations Manager 1</td><td style="box-sizing: border-box;overflow-wrap: break-word">Mr Thomas Wong</td><td class="xl66"><a href="mailto:wong_huat_leng@moe.edu.sg">wong_huat_leng@moe.edu.sg</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" height="20">Operations Manager 2</td><td>Mr Wilfrid Lopez</td><td class="xl66"><a href="mailto:wilfrid_lopez@moe.edu.sg">wilfrid_lopez@moe.edu.sg<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" height="20">Administrative Executive</td><td>Mdm Nurlena Binte Ab. Rahman</td><td class="xl66"><a style="box-sizing: inherit;cursor:pointer;margin-bottom:2rem;font-variant-ligatures: normal;
+  font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px" href="mailto:nurlena_ab_rahman@moe.edu.sg">nurlena_ab_rahman@moe.edu.sg</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" height="20">Mdm Goh Cheng Choo</td><td>Management Support Officer (MSO)</td><td class="xl66"><a style="box-sizing: inherit;
+  cursor:pointer;margin-bottom:2rem;font-variant-ligatures: normal;font-variant-caps: normal;
+  orphans: 2;widows: 2;-webkit-text-stroke-width: 0px" href="mailto:goh_cheng_choo@moe.edu.sg">goh_cheng_choo@moe.edu.sg</a></td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt" height="20">Ms Loh Yee Koon</td><td>Management Support Officer (MSO)</td><td class="xl66"><a href="mailto:loh_yee_koon@moe.edu.sg">loh_yee_koon@moe.edu.sg<span style="mso-spacerun:yes">&nbsp;</span></a></td></tr></tbody></table>
 
 Counselling and Special Needs
 -----------------------------
@@ -172,7 +150,7 @@ Counselling and Special Needs
 </table>
 
 
-Level Discipline 
+Level Discipline&nbsp;
 -----------------
 
 <table>
