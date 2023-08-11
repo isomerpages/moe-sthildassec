@@ -7,7 +7,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/St Hildas Homepage GIF.gif
+      background: /images/shs website banner (6).png
+  - infopic:
+      title: We cultivate critical and inventive thinkers.
+      description: At SHSS, we engage students purposefully in the total curriculum,
+        so that they exercise sound reasoning based on godly values.
+      image: /images/critical inventive thinker.jpeg
+      alt: Image alt text
+  - infopic:
+      title: We develop self-directed and reflective learners.
+      description: We invite our students to take ownership, reflect and persevere in
+        their lifelong pursuit of learning.
+      image: /images/self-directed & reflective learner_2 (1).jpg
+      alt: Image alt text
+  - infopic:
+      title: We nurture caring and collaborative contributors.
+      description: Our students feel safe, supported and have a strong sense of
+        belonging to the school.
+      image: /images/caring & collaborative contributors.jpg
+      alt: Image alt text
   - infopic:
       title: LOGO COMPETITION
       subtitle: St Hilda's 90th anniversary
