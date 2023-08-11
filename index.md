@@ -12,7 +12,7 @@ sections:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
         so that they exercise sound reasoning based on godly values.
-      image: /images/critical inventive thinker.jpeg
+      image: /images/c96bd83d-aa73-4828-bb0d-da112139fe98.jfif
       alt: Image alt text
   - infopic:
       title: We develop self-directed and reflective learners.
