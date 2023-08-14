@@ -22,8 +22,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: We nurture caring and collaborative contributors.
-      description: Our students feel safe, supported and have a strong sense of
-        belonging to the school.
+      description: Our students care to make a positive difference within and beyond
+        our community.
       image: /images/caring & collaborative contributors.jpg
       alt: Image alt text
   - infopic:
