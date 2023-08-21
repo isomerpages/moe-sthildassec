@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Clubs & Societies/.keep
       - Our Curriculum/.keep
       - Our Curriculum/English & Literature.md
       - Our Curriculum/Mother Tongue.md
