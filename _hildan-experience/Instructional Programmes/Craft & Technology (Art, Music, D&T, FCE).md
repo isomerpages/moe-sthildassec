@@ -4,7 +4,7 @@ permalink: /hildan-experience/instructional-programmes/craftandtechnology/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-## Craft &amp; Technology
+## Craft &amp;  Technology (Art, Music, D&amp;T, FCE)
 
 ![](/images/Staff/craft%20and%20tech.jpg)
 <style> { margin:0;} </style>The Craft and Technology department comprises 4 units, namely:
