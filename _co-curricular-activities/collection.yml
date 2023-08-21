@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Art Club.md
       - Clubs & Societies/Cross Train.md
       - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/Mass Comm.md
