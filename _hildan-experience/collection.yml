@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Our Curriculum/Character & Citizenship Education.md
       - Our Curriculum/.keep
       - Our Curriculum/English & Literature.md
       - Our Curriculum/Mother Tongue.md
@@ -12,6 +11,7 @@ collections:
       - Our Curriculum/Physical Education.md
       - Our Curriculum/Craft & Technology (Art, Music, D&T, FCE).md
       - Our Curriculum/Principle of Accounts, & Elements of Business Skills.md
+      - Our Curriculum/Character & Citizenship Education.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Computer Applications.md
       - Instructional Programmes/Elements of Business Skills.md
