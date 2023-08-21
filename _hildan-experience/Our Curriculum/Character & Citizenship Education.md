@@ -15,59 +15,51 @@ Every Hildan A Leader of Influence for the Common Good.
 Programmes
 ----------
 
-**CCE2021**&nbsp; &nbsp;  
-<style> { margin:0;} </style>* Objective: Through CCE, students learn values, social-emotional competencies, and develop character and citizenship dispositions that enable them to grow holistically and learn for life.
+**What We Desire**
 
-**![](https://lh5.googleusercontent.com/Xu8f0UjLhCeCy3wt2rJkL8BW-A-U2IMRALgLTZKmF4OJG4kQa1Fi1j2egD2cKit_0JV9wlu6zaps_YviFx-gN1gAqzoNW3DVYX5moXRzW25ySvoRosVaumnfFKZ_xNa3NzSi2qIV9VnynoejKcLIINIpYXvau0BpM-WpZYxzah-4b6hjPFc4FgbR9wVuHI08)**
+Every Hildan A Leader of Influence for the Common Good.
 
-**CCE Developmental Milestones and Learning Outcomes**
+**Subjects We Offer**
 
-**![](https://lh4.googleusercontent.com/fQPbm95JmtPD2x8OGg7DOntdNmorliVrZMLSQXmL-ii5s1-BzSvFWEw4YoXthSORFigQAt31_oPBXNTZQTcRRlCzOa8rGaTXl7Ge_An3df7sjWlRDJ2yvmSb01PYn7wxPsOQFXA5LtpXFLFCKsSmXL91347t2NG4FQaqaQ2CJvejVdd-otI8Zv0E0DgpFO1J)**
+Character & Citizenship Education
 
-**CCE Programming in SHSS**
+**How We Nurture**
 
-*   Assembly Programme
-    
-*   Hildan Class Award
-    
-*   Core Values Award
-    
-*   Form Teacher Time
+**_Exposure_** – Through the CCE curriculum, we seek to develop in our students good character, resilience and social-emotional well-being, active citizenship and future readiness. The CCE curriculum is centred on three broad learning intents that articulate the core values and competences for the subject, namely Identity, Relationships and Choices.  
 
-**CCE through Christian Education**
+These fundamentals are taught and applied in six content areas:
 
-Objective: To nurture students with good moral values through Christian Principles
-* Morning Devotion &amp; Songs of Praise
-* Chapel Periods
-* Praise and Fellowship Week  
+* National Education (NE) - through commemoration of the 4 NE events and cohort learning experiences
+* Sexuality Education
+* Mental Health
+* Education and Career Guidance
+* Cyber Wellness and Family Education.
 
-**CCE through National Education**&nbsp;  
-Objective: To develop national cohesion, the instinct for survival and confidence in the future of Singapore as well as a sense of belonging and emotional rootedness to Singapore
+As a mission school, the CCE curriculum is enhanced by the teaching of godly values and principles through sharing during morning assemblies, weekly chapel periods and Praise and Fellowship Week.
 
-**Commemorative of 4 NE Events**
-* Total Defence Day
-* International Friendship Day
-* Racial Harmony Day
-* National Day
+**_Experience_** – Opportunities for learning, reinforcement and application of values, socio-emotional competencies, and citizenship dispositions are present during various key student development experiences, as well as teachable moments. Of critical importance, these experiences are cemented with teachers’ facilitation of learning and students' reflections that are guided by the Borton’s model of reflection.
 
-**CCE through Values in Action**&nbsp; &nbsp;  
-Objective: To nurture socially responsible citizens who contribute meaningfully to the community. 
+**One of the key authentic, learning experiences that the school provides to nurture our students in active citizenry is the Values-in-Action (VIA) programme:**
 
-**Values in Action Programme**
-* Sec 1: Service to the Classroom / School Environment
-* Sec 2: Service to the School / External Environment
+* Sec 1: Service to the Family/School
+* Sec 2: Service to the Environment
 * Sec 3: Service to the Community (Integrated Project)
+* Sec 4 and 5: Service to the Community (Student-initiated)
 
-**Cyber Wellness Resources**
+Click here to access more information about our VIA programme.
 
-Click the link to access MOE resources on Cyber wellness.
-[https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+**_Extension_** – Students who are role models of positive attributes and values deepen their learning via student-initiated advocacy projects on causes of their choice. They showcase their learning in writing, presentations at the Service-Learning Symposium or participation in competitions.
 
-**Sexuality Education**
+**Additional Resources:**
 
-Click the link to access MOE resources on Sexuality Education:
-[https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
+·         **Cyber Wellness Resources**
 
+Click the link to access MOE resources on Cyber wellness. [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
-Click the link to access information on sexuality education at St. Hilda's Secondary School: 
-[Info_on_SEd_for schools_SHSS_2023](/files/Info_on_SEd_for%20schools_SHSS_2023.pdf)
+·         **Sexuality Education Resources**
+
+Click the link to access MOE resources on Sexuality Education: [https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
+
+Click the link to access information on sexuality education at St. Hilda’s Secondary
+
+School: [Info\_on\_SEd\_for schools\_SHSS\_2023](https://www.sthildassec.moe.edu.sg/files/Info_on_SEd_for%20schools_SHSS_2023.pdf)
