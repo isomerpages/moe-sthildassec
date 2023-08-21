@@ -4,32 +4,22 @@ permalink: /hildan-experience/instructional-programmes/principles-of-accounts/
 description: ""
 third_nav_title: Our Curriculum
 ---
-PRINCIPLES OF ACCOUNTS
-----------------------
-***"Every POA student an Accountant."***
 
-![](/images/Staff/POA2.jpg)
 
-Overview
---------
+## PRINCIPLES OF ACCOUNTS / ELEMENTS OF BUSINESS SKILLS
 
-Through the learning of Principles of Accounts, students will acquire an understanding of how businesses measure and communicate their performance and consider the use of accounting and non-accounting information to make decisions. These transferable skills of organising and analyzing information for decision-making enhance the development of 21st&nbsp;century competencies by employing critical and inventive thinking and applying communication and information skills in a rapidly globalised and technologically advanced landscape.
 
-Vision
-------
+![](/images/Staff/EBS.jpg)
 
-Every POA students to be confident user of financial information.
+**What We Desire**
 
-Objectives
-----------
+Every business student is equipped with transferable knowledge, skills and values for future study and work.
 
-POA students to appreciate that businesses’ financial numbers are meaningfully related; and be able to communicate and analyses financial performance and position of businesses. Thereafter, to be able to make informed and justified business decisions.  
+**Subjects We Offer**
 
-  
+* Principles of Accounts (POA)
+* Elements of Business Skills (EBS)
 
-Key Programmes / Enrichment
----------------------------
+**How We Nurture**
 
-Learn the relevance of POA through authentic illustrations of real businesses scenarios.
-
-Opportunity to participate in accounting quizzes organized by higher institution of learning such as polytechnics. This provides opportunities to interact with students from other schools as well as enhance awareness of post-secondary and careers options.
+**_Exposure_** \- POA and EBS students can connect concepts and skills learnt to their everyday lives through authentic tasks reflecting real business context.
