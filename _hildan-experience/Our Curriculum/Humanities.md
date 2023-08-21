@@ -7,29 +7,55 @@ third_nav_title: Our Curriculum
 HUMANITIES
 ----------
 ![](/images/Staff/humanities.jpg)
-<u>Department’s Mission, Vision and Objective</u>
 
-**Department Vision:**
+**What We Desire**
 
-<style> { margin:0;} </style>Every Hildan, a global citizen of tomorrow: reflective, concerned and participative. 
+Every Hildan a Global Citizen of Tomorrow: Reflective, Concerned and Participative.
 
-<b>Department Mission: </b>
+**Subjects We Offer**
 
-<style> { margin:0;} </style>The humanities department seeks to instill in our students a deeper appreciation for the world they live in and to equip them with the disciplinary skills and competencies that will enable them to be future-ready. 
+* Geography
+* History
+* Combined Humanities
 
-**Department’s Objective:**
+**How We Nurture**
 
-<style> { margin:0;} </style>The humanities department aims to develop in our students the values, social-emotional competencies and intrinsic motivation to learn by equipping them with enduring mindsets and skill sets necessary for the 21st century. We do so by adopting the Inquiry-based Approach, Visible Thinking, Intellectual Standards and Concept-based teaching in our curriculum. 
+**_Exposure_** – In the design of our Humanities lessons, students are exposed to the use of inquiry which is at the heart of our humanities instruction and learning. Students are challenged to think critically, be self-directed and reflective learners, and caring and collaborative contributors.
 
-**Subjects Offered** 
-1. Geography
-2. History 
-3. Combined Humanities
+Students will undergo the key stages of inquiry-based learning;
 
-**Donning the Humanities Lenses**
-1. Geographical Investigation
-2. Historical Investigation
-3. Issue Investigation (Social Studies)
+*   Sparking Curiosity
+*   Gathering Data & Information
+*   Exercising Reasoning
+*   Reflective Thinking
 
-**Special Programmes**
-* Nellie Mitchell Programme (Humanities)
+**_Experience_** – Students will deepen their knowledge and acquisition of 21st century skills through inquiry investigation as they examine real-world/ authentic geographical, historical and societal issues
+
+**_Geographical Investigation (GI)_****:** Through GI, students will use geographical skills acquired in the classroom to conduct field work investigations or an analysis of their observations on current issues. This process helps students to understand contemporary environmental issues and gain in-depth knowledge that allows them to have deeper awareness about sustainable development, and their role as active citizens of the community.
+
+**_Historical Investigations (HI)_****:** Through HI, students get to “do” history by carrying out research and applying their historical knowledge and skills to form responses to an authentic historical issue and communicate them through an end-product. They will develop the ability to form logical conclusions about the past, and to acquire a deeper understanding of Singapore’s history and heritage.
+
+**_Social Studies (Issue Investigation)_****_:_** Through issue investigation, students will identify and examine a societal issue of concern closely. They will seek to question assumptions and develop opinions from multiple perspectives before proposing well-reasoned recommendations to help address the societal need(s) as a means to promote student agency and active citizenry.
+
+Issue Investigation is infused in our Sec 3’s Hildan Advocacy (Integrated Project), in collaboration with the Character & Citizenship Education and the English Language department.
+
+**_Extension_** – **_The Nellie Mitchell Talent Development Programme (NMP) - Humanities_**
+
+The NMP (Humanities) is a stretch programme specially designed for Sec 2 students who have demonstrated a strong aptitude and keen interest in History.
+
+**Students** selected to participate in this programme will embark on a research journey to explore Singapore’s heritage. They will be provided with opportunities to conduct oral interviews with different industry experts, interpret and evaluate historical sources, and learn to make connections with the past, present and future to deepen their appreciation for Singapore’s historical journey. Selected students are also nominated to represent the school to participate in external competitions (e.g. Istana Heritage Trail) to apply their knowledge and skills.
+
+Find out more about the NMP here.
+
+**Achievements**
+
+* The MOE History Challenge
+	* 021 Certificate of Participation
+* The Student Archivist Project
+	* 2022 Certificate of Achievement/ Works selected for NHB’s Founders’ Memorial
+* The Istana Heritage Gallery Challenge
+	* 2023 (1st Position -Team Category)
+* The NUS Geography Challenge
+	* 2023  (1 Gold Award, 2 Silver Awards, 1 Bronze Award)
+* ASEAN Symposium/ Singapore Model Cabinet
+	* 2023 & 2022 Certificate of Achievement
