@@ -1,8 +1,0 @@
-collections:
-  co-curricular-activities:
-    output: true
-    order:
-      - Clubs & Societies/.keep
-      - Performing Arts/.keep
-      - Sports/.keep
-      - Uniformed Groups/.keep
