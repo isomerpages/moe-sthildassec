@@ -1,5 +1,5 @@
 collections:
-  about-shss:
+  about-us:
     output: true
     order:
       - School Info.md
