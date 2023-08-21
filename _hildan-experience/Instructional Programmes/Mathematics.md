@@ -4,8 +4,7 @@ permalink: /hildan-experience/instructional-programmes/mathematics/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-
-MATHEMATICS
+MATHEMATICS/CPA
 -----------
 ![](/images/Staff/maths.jpg)
 **Department’s Mission, Vision and Objective**
