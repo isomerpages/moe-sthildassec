@@ -4,7 +4,7 @@ permalink: /hildan-experience/signature-programmes/step/
 description: ""
 third_nav_title: Our Signature Programmes
 ---
-STEP
+S.T.E.P
 ----
 <style> { margin:0;} </style>
 **Seeking To Engage our NT pupils Purposefully (S.T.E.P)** is a customised Normal Technical programme started in 2009 to provide a more holistic experience for Normal Technical students.
