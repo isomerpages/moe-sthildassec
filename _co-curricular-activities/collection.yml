@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/Mass Comm.md
       - Clubs & Societies/MRL.md
       - Clubs & Societies/PA AVA Club.md
