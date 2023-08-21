@@ -9,63 +9,34 @@ MOTHER TONGUE
 
 ![](/images/Staff/mother%20tongue.jpg)
 
+**What We Desire**
 
-#### "To nurture effectively bilingual speakers and enthusiastic learners of MT language and culture."
+Every Hildan an Effective Bilingual Speaker and Lifelong Learner
 
+**Subjects We Offer**
 
+* Chinese Language
+* Malay Language
+* Tamil Language
+* Higher Chinese
 
-Programmes / Enrichment&nbsp;
-------------------------
+**How We Nurture**
 
-To nurture effectively bilingual speakers and enthusiastic learners of Mother Tongue (MT) language and culture through authentic learning experiences.
+**_Exposure_** – The Mother Tongue Language (MTL) syllabuses aim to develop students to become active and proficient users of the MTL through a curriculum that revolves around the three broad curricular objectives of Communication, Culture and Connection. Through enhanced emphasis on culture and regular exposure to literary texts and contemporary issues, students acquire the skills of listening, speaking, reading, writing as well as spoken and written interaction. In the process, they are strengthened in their global and cross-cultural awareness.
 
-Vision
-------
+**_Experience_** – Adopting a learner-centred mindset, teachers utilise effective questioning and tap on ICT affordances to allow more opportunities for students to think, reflect, share, discuss and debate relevant issues related to MTL.  
 
-Every Hildan an effective bilingual speaker and lifelong learner.  
-  
+Additionally, teachers plan for learning experiences that systematically infuse the myriad cultures and situate the learning of language skills in authentic situations to enable students to appreciate MTL as a living language that is relevant to their daily lives. Such platforms include:
 
-Objectives
-----------
+* Annual MTL Fortnight
+* CL/ML Cultural Programme Exposure (annual)
+* 2023: ‘Who is the One?’ Immersive Detective game; ‘Xin Kong Xia’ Xinyao Music Appreciation Session
 
-To nurture independent and lifelong learners by cultivating and sustaining students’ interest in the learning of the MT languages.  
-  
+**_Extension_** –To deepen learning, selected groups of students participate in special programmes and competitions organised by MOE Curriculum Planning and Development Division (CPDD), Language Centres and various learning institutions to showcase their language proficiency. 
 
-Programmes / Enrichment&nbsp;
-------------------------
+**Participation and Achievements**
 
-**Chinese Language&nbsp; (CL)**
-
-  
-
-Mother Tongue Fortnight activities allow authentic usage and exposure to MT language&nbsp; Students are exposed to a wide range of activities that help them to develop a deeper appreciation of the culture, history and values of the MT languages.
-
-  
-
-Under the Cultural Performance Exposure Scheme (CPES), we also engage students in Chinese drama and Chinese culture related performances.
-
-  
-
-Chinese Language competitions for greater exposure and learning opportunities beyond the school.
-
-  
-
-**Malay Language (ML)**&nbsp;
-
-ML Cultural Workshop for the Lower Secondary ML students. Students are exposed to authentic Malay cultural experiences.
-
-  
-
-**Tamil Language (TL)**
-
-TL oratorical, debate and writing competitions provide ample learning opportunities from peers beyond the school.
-
-  
-
-Learning Journeys provide authentic learning experiences to the Tamil Language students.
-
-
-Pictures
---------
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQc3D9tv1xnmaSPcMFq49sLqRgnDFbawUl_k7PEc5ibC9VfvcNuWD7oY6MKlwebgTiIq1gHFZtP316/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+* Raffles Tamil Literary Competitions (Sec 2 Essay Writing) – Merit Award (2023)
+* MLLPC Malay Fiesta 2023: Short Skit Competition 2023 (1, 2, 3 Aksi!)
+* National Chinese Challenge 2023
+* National Chinese Riddle Competition 2023
