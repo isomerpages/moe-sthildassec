@@ -7,70 +7,50 @@ third_nav_title: Our Curriculum
 ## Craft &amp;  Technology (Art, Music, D&amp;T, FCE)
 
 ![](/images/Staff/craft%20and%20tech.jpg)
-<style> { margin:0;} </style>The Craft and Technology department comprises 4 units, namely:
-* Art
-* Design and Technology
-* Food and Consumer Education
-* Music
 
-<u>Department Vision for Students:</u>
+**What We Desire**
 
-<style> { margin:0;} </style>To groom empathetic and self-directed problem solvers who are future-ready and be able to give back to the community
+Empathetic and Self-directed Problem Solvers who are future-ready and ~be~ able to contribute ~give back~ to the community.
 
-<u>Department Vision for Teachers:</u>
+**Subjects We Offer**
 
-<style> { margin:0;} </style>To grow adept and collaborative professionals who inspire their students 
+* Art (All levels)
+* Design and Technology (D&T) (All levels)
+* Food and Consumer Education (FCE) / Nutrition and Food Science (NFS) (All levels)
+* Music (Lower Sec)
 
-# Aesthetics (Art and Music)
+**How We Nurture**
 
-<u>Department’s Mission and Objectives</u>
+**_Exposure_** – Through the curriculum, we strive to deepen students’ thinking within the disciplines, bringing them through the thinking and actions that professionals would go through, gaining deeper insights through the acquisition of knowledge, skills, values, attitudes and dispositions in the respective disciplines.
 
-<style> { margin:0;} </style>To develop well-rounded learners who can appreciate, thinkers who can communicate with, and collaborators who can contribute to the Arts.
-               
-The 4 desired outcomes of the Aesthetics department are:
-* Confident participants in the Aesthetics
-* Quality Aesthetics curriculum
-* Visible Aesthetics culture
-* Impact society
+**_Art_**:We train students to think and act like artists using the Art Inquiry Approach, providing them with the opportunity to give form and meaning to their ideas, thoughts and feelings through visual and tactile forms, developing them to be critical and inventive thinkers and self-directed and reflective learners.
 
-Subjects Offered
-* Art Curriculum (All levels)
-* Music Curriculum (Lower Secondary)
+**_D&T_**: We train students to think and act like product designers using the Design Process, engaging them in designing and prototyping ideas through applying technology. In the process, they cultivate creative, critical and reflective thinking to make sense of their learning and to develop design-related dispositions and skills.
 
-<u>Special Programmes/ Enrichment</u>
+**_FCE/NFS_**: We train students to think and act like dieticians and nutritionists, empowering them to be health-conscious and discerning consumers; enabling them to better manage their lives and others for the present and the future.
 
-<style> { margin:0;} </style>The department adopts a 3E tiered approach: Exposure, Experience, Extension – to deliver broad-based and customised Aesthetics programmes for Hildans.
-* Arts Exposure Programme (e.g. professional performances planned for various cohorts), 
-* Integrated Learning Journeys (e.g. for students to understand the historical, cultural and aesthetic value of Peranakan heritage), 
-* Nellie Mitchell Programme on Art-EL Symbolism (i.e. interdisciplinary course designed to stretch high-potential students to advance their critical thinking).
+**_Music_****:** We train students to think and act like musicians, acquiring and applying musical skills, knowledge and understanding through Listening, Creating and Performing, cultivating in them a life-long enjoyment and involvement in music.
 
-# Design and Technology
+**_Experience_** – Students apply their learning through hands-on activities and project work.
 
-<u>Department’s Mission and Objectives</u>
+**_Art_**: Students are exposed to Elements of Art, Principles of Design, Design Synectics and use of symbolism in Art creation, and they apply their knowledge gained through creation of authentic art works such as assemblage art, portraiture, digital imaging, logo and character design and heritage postcards. In addition, they are engaged through the school’s Aesthetics Exposure Programme such as professional performances planned for various cohorts, art exhibitions and art-making workshops. Students also participate in interdisciplinary projects through learning journeys to understand the historical, cultural and aesthetic value of Peranakan heritage.
 
-<style> { margin:0;} </style>To nurture our pupils a way of thinking and doing - designerly dispositions that are inherent in design practices - through designing and making. The designerly dispositions are as follows:
-* Embracing uncertainties and complexities
-* Be cognizant of and resolve real-world, ill-defined problems
-* Relentless drive to seek out how things work
-* Use of doodling and sketching, and 3D manipulation of resistant materials as a language for visualisation, communication and presentation
+**_D&T_**:Students are engaged to solve authentic problems through the analysis of a situation presented to them, conduct market product research before ideating and developing their ideas and make a prototype using various resistant materials. Some examples include the making of stationery with cup holders and table lamps.
 
-<u>Subjects Offered</u>
-* Design and Technology (All levels)
+**_FCE/NFS_**: Students get to apply their knowledge gained in food studies through various practical sessions, where they learn to bake cupcakes and muffins, cook a pasta dish, burger-making and pan-fry pancakes.
 
-<u>Special Programmes/ Enrichment</u>
-* The Secondary 3 enrichment programme by Design Rete equips and exposes students to various ideation methodologies to generate ideas and conceptual development in the previous year. Methods such as extracting the essence, combining functions, and morphing techniques are taught. Cardboard prototyping also enables students to develop skills in form manipulation and in visualising and translating 2D sketches to a 3D model.
+**_Music_**: Students demonstrate their understanding of the musical elements and concepts through creation of cover songs, performances and song writing projects. Also, they learn how to create and arrange their digital Music on BandLab and play popular songs on the ukulele with good tone and strumming styles. Through these experiences, they learn how to appreciate, sing and play various songs from Singapore and global culture with accuracy and expression. There are Aesthetics Exposure Programmes curated for various cohorts as well.
 
-# Food and Consumer Education
+**_Extension_** – Selected students deepen their learning through exhibitions, competitions, and learning journeys.
 
-<u>Department’s Mission and Objective</u>
+**_Art_**:Selected Sec Two students will take part in the Nellie Mitchell Talent Development Programme (NMP) on English Literature-Art Symbolism, an interdisciplinary course designed to stretch high-potential students to advance their critical thinking. Find out more about the NMP here. Upper Sec students have the opportunity to participate in external competitions such as the Singapore Youth Festival (SYF) Art Exhibition.
 
-<style> { margin:0;} </style>We are committed to groom health ambassadors, discerning consumers and food innovators, enabling them to better manage their lives for the present and the future. 
+**_D&T_**: Upper Sec students have the opportunity to participate in external exhibitions and competitions to broaden their knowledge in the discipline. In addition, there are Computer Aided Design (CAD) and cardboard modeling enrichment modules where they have hands-on experiences to design workable products under the guidance of professionals.
 
-<u>Subjects Offered</u>
+**_FCE/NFS_**: Upper Sec students participate in a learning journey to Temasek Polytechnic to deepen their knowledge in the discipline and understand more about post-Sec options in the Food, Nutrition and Culinary Science Faculty. In addition, selected students have the opportunity to participate in the Food Entrepreneurship Competition in Republic Polytechnic.
 
-* Food and Consumer Education (Lower Secondary)
-* Nutrition and Food Science (Upper Secondary)
+**_Music_****:** Students with an aptitude, interest and passion in pursuing Music may apply and enroll in ‘O’ Levels / Higher Music. Also, there are song writing competitions where students may participate in.
 
-<u>Special Programmes/ Enrichment</u>
+**Achievements**
 
-* The Sec 2 enrichment programme by Kampong Group Pte Ltd is an interactive, hands-on, insightful and fun-filled hands-on experience that ventures into the art and science of Prata making.
+* Singapore Youth Festival (SYF) Art Exhibition - Certificate of Recognition (2022)
