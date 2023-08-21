@@ -2,7 +2,6 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Our Co Curriculum/.keep
       - Our Curriculum/.keep
       - Our Curriculum/English & Literature.md
       - Our Curriculum/Mother Tongue.md
@@ -13,6 +12,7 @@ collections:
       - Our Curriculum/Craft & Technology (Art, Music, D&T, FCE).md
       - Our Curriculum/Principle of Accounts, & Elements of Business Skills.md
       - Our Curriculum/Character & Citizenship Education.md
+      - Our Co Curriculum/.keep
       - Level Programmes/.keep
       - Level Programmes/Upper Secondary Level.md
       - Level Programmes/Lower Secondary Level.md
