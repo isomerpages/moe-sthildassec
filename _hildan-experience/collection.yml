@@ -2,14 +2,14 @@ collections:
   hildan-experience:
     output: true
     order:
-      - Our Curriculum/Craft & Technology (Art, Music, D&T, FCE).md
-      - Our Curriculum/Physical Education.md
-      - Our Curriculum/Humanities.md
-      - Our Curriculum/Science.md
-      - Our Curriculum/Mathematics & CPA.md
-      - Our Curriculum/Mother Tongue.md
-      - Our Curriculum/English & Literature.md
       - Our Curriculum/.keep
+      - Our Curriculum/English & Literature.md
+      - Our Curriculum/Mother Tongue.md
+      - Our Curriculum/Mathematics & CPA.md
+      - Our Curriculum/Science.md
+      - Our Curriculum/Humanities.md
+      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Craft & Technology (Art, Music, D&T, FCE).md
       - Instructional Programmes/.keep
       - Instructional Programmes/Computer Applications.md
       - Instructional Programmes/Principle of Accounts, & Elements of Business
