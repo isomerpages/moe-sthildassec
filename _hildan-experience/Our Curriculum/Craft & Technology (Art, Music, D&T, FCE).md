@@ -10,7 +10,7 @@ third_nav_title: Our Curriculum
 
 **What We Desire**
 
-Empathetic and Self-directed Problem Solvers who are future-ready and ~be~ able to contribute ~give back~ to the community.
+Empathetic and Self-directed Problem Solvers who are future-ready and be able to contribute give back to the community.
 
 **Subjects We Offer**
 
@@ -29,7 +29,7 @@ Empathetic and Self-directed Problem Solvers who are future-ready and ~be~ able 
 
 **_FCE/NFS_**: We train students to think and act like dieticians and nutritionists, empowering them to be health-conscious and discerning consumers; enabling them to better manage their lives and others for the present and the future.
 
-**_Music_****:** We train students to think and act like musicians, acquiring and applying musical skills, knowledge and understanding through Listening, Creating and Performing, cultivating in them a life-long enjoyment and involvement in music.
+**_Music_**:We train students to think and act like musicians, acquiring and applying musical skills, knowledge and understanding through Listening, Creating and Performing, cultivating in them a life-long enjoyment and involvement in music.
 
 **_Experience_** – Students apply their learning through hands-on activities and project work.
 
@@ -49,7 +49,7 @@ Empathetic and Self-directed Problem Solvers who are future-ready and ~be~ able 
 
 **_FCE/NFS_**: Upper Sec students participate in a learning journey to Temasek Polytechnic to deepen their knowledge in the discipline and understand more about post-Sec options in the Food, Nutrition and Culinary Science Faculty. In addition, selected students have the opportunity to participate in the Food Entrepreneurship Competition in Republic Polytechnic.
 
-**_Music_****:** Students with an aptitude, interest and passion in pursuing Music may apply and enroll in ‘O’ Levels / Higher Music. Also, there are song writing competitions where students may participate in.
+**_Music_**:Students with an aptitude, interest and passion in pursuing Music may apply and enroll in ‘O’ Levels / Higher Music. Also, there are song writing competitions where students may participate in.
 
 **Achievements**
 
