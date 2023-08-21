@@ -35,7 +35,7 @@ The learning platforms include:
 
 They include:
 
-*   The Nellie Mitchell Talent Development Programme (NMP) – Art-English Literature Symbolism (click here[\[TJ1\]](#_msocom_1) )
+*   The Nellie Mitchell Talent Development Programme (NMP) – Art-English Literature Symbolism (click here)
 *   Community Problem Solving Solving Competition, Oracy and Writing Competitions
 *   Oracy Competitions
 *   Writing Competitions
@@ -45,6 +45,6 @@ They include:
 *   Unity Young Writers Festival 2023, 1st Place: Poetry
 *   Live On Festival (LOF) 2023, Winner of Essay (Senior) Competition
 
-See also: [Applied Learning Programme](https://docs.google.com/presentation/d/16m9ALCjSLbvhpBQBgr-j9Z0Mt6DXuyrHdesyEagvXsg/edit#slide=id.g13e54d85eb3_0_290)[\[TJ2\]](#_msocom_2) 
+See also: [Applied Learning Programme](https://docs.google.com/presentation/d/16m9ALCjSLbvhpBQBgr-j9Z0Mt6DXuyrHdesyEagvXsg/edit#slide=id.g13e54d85eb3_0_290)
 
 * * *
