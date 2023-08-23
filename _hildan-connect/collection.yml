@@ -2,6 +2,6 @@ collections:
   hildan-connect:
     output: true
     order:
-      - FULL SUBJECT BASED BANDING.md
+      - Full Subject Based Banding.md
       - Parent's Gateway/Sec 2 Subject Choice Briefing.md
       - Parent's Gateway/.keep
