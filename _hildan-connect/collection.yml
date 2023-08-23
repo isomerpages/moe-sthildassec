@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Students/ICT Account Help Form.md
       - For Students/Booklist.md
       - For Students/Exam & Assessment.md
       - For Students/Time Table.md
