@@ -2,17 +2,17 @@ collections:
   hildan-connect:
     output: true
     order:
-      - For Students/Counselling Helpline.md
-      - For Students/Students' Services.md
-      - For Students/Student Useful Links.md
-      - For Students/ICT Account Help Form.md
+      - For Students/.keep
       - For Students/Booklist.md
+      - For Students/Counselling Helpline.md
       - For Students/Exam & Assessment.md
-      - For Students/Time Table.md
+      - For Students/ICT Account Help Form.md
+      - For Students/Students' Services.md
+      - For Students/School Code.md
       - For Students/School Hymn.md
       - For Students/School Song.md
-      - For Students/School Code.md
-      - For Students/.keep
+      - For Students/Student Useful Links.md
+      - For Students/Time Table.md
       - For Staff/.keep
       - For Staff/Academy Of Singapore Teachers.md
       - For Staff/All Ears Form Builder.md
