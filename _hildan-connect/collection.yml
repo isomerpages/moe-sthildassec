@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Parents/School Terms & Holidays.md
       - For Parents/Financial Assistance Scheme matters.md
       - For Parents/GIRO Application And EPSO Forms.md
       - For Parents/National Digital Literacy Programme.md
