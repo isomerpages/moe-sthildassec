@@ -34,9 +34,9 @@ Experience – Students apply these knowledge and scientific skills through the 
     
 4.  STEM-X Programme - Organised by Temasek Polytechnic, Sec 3&nbsp; students&nbsp; learn more about STEM through the discovery programmes and applied learning workshops.
 
-Extension – Students with interest and/or aptitude in STEM have the opportunities to participate in various stretch programmes and competitions that will expand their learning beyond school.
+***Extension*** – Students with interest and/or aptitude in STEM have the opportunities to participate in various stretch programmes and competitions that will expand their learning beyond school.
 
-Selected students will be able to take part in the Nellie Mitchell Talent Development Programme (Science) - Air-novate. Air-novate is a collaboration with the James Dyson Foundation. Through this interdisciplinary programme, students learn to think like scientists in their investigation to address air pollution. Students will also exercise their creative and critical thinking and act as entrepreneurs to pitch for their air purification prototypes.
+Selected students will be able to take part in the Nellie Mitchell Talent Development Programme (Science) - Air-novate (click [here](https://sthildassec.moe.edu.sg/hildan-experience/our-signature-programmes/nellie-mitchell-programme/)). Air-novate is a collaboration with the James Dyson Foundation. Through this interdisciplinary programme, students learn to think like scientists in their investigation to address air pollution. Students will also exercise their creative and critical thinking and act as entrepreneurs to pitch for their air purification prototypes.
 
 There are opportunities for selected students to participate in Science competitions such as the Singapore Junior Biology/ Chemistry/ Physics Olympiads, the Temasek Engineering Challenge (by Temasek Polytechnic) and the Youth STEM Empowerment Programme (by the Science Centre).
 
@@ -58,4 +58,4 @@ There are opportunities for selected students to participate in Science competit
 		* 2022 (2 Bronze, 1 Team Honourable Mention, 4 Individual Honourable Mention)
     
 
-See also: The [Nellie Mitchell Talent Development Programme](https://docs.google.com/presentation/d/16m9ALCjSLbvhpBQBgr-j9Z0Mt6DXuyrHdesyEagvXsg/edit#slide=id.g13e54d85eb3_0_290)**
+See also: The [Nellie Mitchell Talent Development Programme]
