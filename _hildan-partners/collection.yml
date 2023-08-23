@@ -2,7 +2,6 @@ collections:
   hildan-partners:
     output: true
     order:
-      - Parents' Support Group.md
       - Alumni.md
       - Partnership with Sports Singapore.md
       - Affiliated School.md
