@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Students' Services.md
-      - Student Useful Links.md
       - SWN@SSOE Login Guide.md
