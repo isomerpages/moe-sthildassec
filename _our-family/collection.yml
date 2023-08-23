@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - St Hilda's Chaplaincy.md
       - Staff.md
       - Key Personnel.md
       - School Management Committee.md
