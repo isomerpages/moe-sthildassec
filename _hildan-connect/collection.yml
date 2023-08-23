@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Parents/.keep
       - School Terms & Holidays.md
       - Admin Forms/GIRO Application And EPSO Forms.md
       - Admin Forms/Financial Assistance Scheme matters.md
