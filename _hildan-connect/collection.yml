@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - Admin Forms.md
       - Admin Forms/Financial Assistance Scheme matters.md
       - Admin Forms/.keep
       - National Digital Literacy Programme.md
