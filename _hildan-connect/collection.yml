@@ -1,0 +1,4 @@
+collections:
+  hildan-connect:
+    output: true
+    order: []
