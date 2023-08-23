@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Booklist.md
       - ICT Account Help Form.md
       - Students' Services.md
       - Student Useful Links.md
