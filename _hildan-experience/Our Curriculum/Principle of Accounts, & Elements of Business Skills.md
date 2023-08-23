@@ -43,3 +43,12 @@ Every business student is equipped with transferable knowledge, skills and value
 
 *   2023  ignITE  Skills Challenge - 1st Runner Up for Appreciate the Power of Excel for Business Use
 *   2023 EBS Amazing Race - 3rd Place
+
+![](/images/principles%201.png)
+2023 POA Quest competition
+
+![](/images/principles%202.jpg)
+Learning journey at Tampines neighbourhood
+
+![](/images/principles%203.jpg)
+Learning journey: Duck Tour around the Civi District of Singapore
