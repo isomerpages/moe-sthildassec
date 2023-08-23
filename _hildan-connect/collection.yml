@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Students/Counselling Helpline.md
       - For Students/Students' Services.md
       - For Students/Student Useful Links.md
       - For Students/ICT Account Help Form.md
