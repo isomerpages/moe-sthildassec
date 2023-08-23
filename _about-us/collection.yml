@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Leaders Welcome.md
-      - School Info.md
+      - Mission Vision Values.md
       - History.md
       - School Management Committee.md
       - Key Personnel.md
