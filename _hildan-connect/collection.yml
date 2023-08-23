@@ -2,9 +2,9 @@ collections:
   hildan-connect:
     output: true
     order:
-      - Staff/Academy Of Singapore Teachers.md
-      - Staff/Teacher Beliefs.md
-      - Staff/.keep
+      - For Staff/Academy Of Singapore Teachers.md
+      - For Staff/Teacher Beliefs.md
+      - For Staff/.keep
       - For Parents/.keep
       - For Parents/Full Subject Based Banding.md
       - For Parents/Sec 2 Subject Choice Briefing.md
