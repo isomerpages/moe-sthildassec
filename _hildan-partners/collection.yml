@@ -2,6 +2,5 @@ collections:
   hildan-partners:
     output: true
     order:
-      - Alumni.md
       - Partnership with Sports Singapore.md
       - Affiliated School.md
