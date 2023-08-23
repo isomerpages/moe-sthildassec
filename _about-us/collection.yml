@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Our Family/.keep
       - School Leaders Welcome.md
       - Mission Vision Values.md
       - Our Heritage.md
+      - Our Family/.keep
+      - Facilities.md
       - Achievements/.keep
       - Achievements/School.md
       - Achievements/Staff.md
       - Achievements/Co Curricular Activities.md
       - Achievements/Student.md
-      - Facilities.md
       - Publicity.md
       - Privacy Statement.md
