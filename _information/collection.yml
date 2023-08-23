@@ -2,5 +2,4 @@ collections:
   information:
     output: true
     order:
-      - Students' Services.md
       - SWN@SSOE Login Guide.md
