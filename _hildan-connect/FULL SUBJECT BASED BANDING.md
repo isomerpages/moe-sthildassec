@@ -3,7 +3,7 @@ title: FULL SUBJECT BASED BANDING
 permalink: /permalink/
 description: ""
 ---
-**FULL SUBJECT-BASED BANDING**
+**Full Subject-Based Banding**
 ------------------------------
 
 **<u>Full Subject-Based Banding (Full SBB)</u>**
