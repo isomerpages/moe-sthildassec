@@ -2,7 +2,6 @@ collections:
   our-family:
     output: true
     order:
-      - Parents' Support Group.md
       - St Hilda's Chaplaincy.md
       - Staff.md
       - Key Personnel.md
