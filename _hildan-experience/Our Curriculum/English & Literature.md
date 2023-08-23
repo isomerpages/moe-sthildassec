@@ -35,7 +35,7 @@ The learning platforms include:
 
 They include:
 
-*   The Nellie Mitchell Talent Development Programme (NMP) – Art-English Literature Symbolism (click here)
+*   The Nellie Mitchell Talent Development Programme (NMP) – Art-English Literature Symbolism (click [here](https://sthildassec.moe.edu.sg/hildan-experience/our-signature-programmes/nellie-mitchell-programme/))
 *   Community Problem Solving Solving Competition, Oracy and Writing Competitions
 *   Oracy Competitions
 *   Writing Competitions
@@ -45,6 +45,4 @@ They include:
 *   Unity Young Writers Festival 2023, 1st Place: Poetry
 *   Live On Festival (LOF) 2023, Winner of Essay (Senior) Competition
 
-See also: [Applied Learning Programme](https://docs.google.com/presentation/d/16m9ALCjSLbvhpBQBgr-j9Z0Mt6DXuyrHdesyEagvXsg/edit#slide=id.g13e54d85eb3_0_290)
-
-* * *
+See also: [Applied Learning Programme](https://sthildassec.moe.edu.sg/hildan-experience/our-signature-programmes/applied-learning-programme/)
