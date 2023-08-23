@@ -4,15 +4,6 @@ links:
     collection: about-us
   - title: Admissions
     collection: admissions
-  - title: Hildan Experience
-    url: hildan-experience/our-curriculum/english-n-literature/
-    sublinks:
-      - title: Our Curriculum
-        url: /hildan-experience/our-curriculum/english-n-literature/
-      - title: Co-Curricular Activities
-        url: hildan-experience/co-curricular-activities/
-      - title: Our Signature Programmes
-        url: /hildan-experience/our-signature-programmes/applied-learning-programme/
   - title: Hildan Connect
     collection: hildan-connect
   - title: Contact Us
