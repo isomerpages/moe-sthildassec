@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Staff/FormSG.md
       - For Staff/All Ears Form Builder.md
       - For Staff/Academy Of Singapore Teachers.md
       - For Staff/Teacher Beliefs.md
