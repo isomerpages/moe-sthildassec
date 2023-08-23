@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Booklist.md
-      - Exam & Assessment.md
       - ICT Account Help Form.md
       - Students' Services.md
       - Student Useful Links.md
