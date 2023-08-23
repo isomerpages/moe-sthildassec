@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - Direct School Admission (DSA).md
       - Full Subject Based Banding.md
       - Parent's Gateway/Sec 2 Subject Choice Briefing.md
       - Parent's Gateway/.keep
