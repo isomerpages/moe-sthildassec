@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Key Personnel.md
       - School Management Committee.md
       - Anglican Diocese of Singapore.md
