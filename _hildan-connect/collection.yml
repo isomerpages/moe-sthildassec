@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Parents/GIRO Application And EPSO Forms.md
       - For Parents/National Digital Literacy Programme.md
       - For Parents/Direct School Admission (DSA).md
       - For Parents/Full Subject Based Banding.md
