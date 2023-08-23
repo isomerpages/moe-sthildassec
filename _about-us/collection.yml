@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
+      - School Leaders Welcome.md
       - School Info.md
       - History.md
-      - School Leaders Welcome.md
       - Vice Principal's Message.md
       - School Management Committee.md
       - Key Personnel.md
