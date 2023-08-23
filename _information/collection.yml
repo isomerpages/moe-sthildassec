@@ -2,7 +2,6 @@ collections:
   information:
     output: true
     order:
-      - Admin Forms.md
       - Booklist.md
       - Exam & Assessment.md
       - ICT Account Help Form.md
