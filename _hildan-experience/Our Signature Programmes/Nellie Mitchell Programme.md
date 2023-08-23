@@ -37,3 +37,22 @@ Engaging in activities during the Learning Journey.
 ![](/images/nellie%205.jpg)
 Sharing with a guest during the personalised showcase.
 
+**_NMP (Humanities)_**
+
+NMP (Humanities) allows students to research on Singapore’s history where they will deepen their appreciation for Singapore’s history and heritage. Students will hone their evaluative thinking skills as they make connections between the past and present. Students will also conduct interviews with various organisations to understand the different perspectives of the people involved. This is in partnership with National Heritage Board who provides a training session on the conduct of oral interviews for our NMP (Humanities) students.
+
+![](/images/nellie%206.jpg)
+Working together to create an interactive end product.
+
+![](/images/nellie%207.jpg)
+Conducting a research through a learning journey.
+
+![](/images/nellie%208.png)
+Presenting to stakeholders.
+
+**_NMP Science (Air-novate)_**
+
+Air-novate is an interdisciplinary programme in collaboration with James Dyson Foundation. This programme integrates scientific inquiry, design thinking and disciplinary thinking. Students learn to think like scientists in their investigation and exploration of ways to address the issue on air pollution. They are challenged to act like entrepreneurs to pitch for support for their prototypes.
+
+![](/images/nellie%209.jpg)
+Collecting data on the air quality around the school.
