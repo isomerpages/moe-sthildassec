@@ -27,3 +27,13 @@ Students deepen their disciplinary thinking and strengthen their thinking across
 **_NMP (Art-English Literature Symbolism)_**
 
 Integrating three disciplines (Art, English Language and English Literature) and leveraging multimodal experiences, this programme stretches Hildans’ critical thinking, research, design and innovation skills via rich exposure to varied forms of expression in the visual and literary arts. Hildans also embark on a learning journey to a museum to appreciate and study how the various elements culminate into a fine piece of work. At the end of this programme, they create a personalised work of art, comprising a drawing/3D artefact and a poem. An exhibition of these works will be organised for students to present artefacts to visitors.
+
+![](/images/nellie%203.jpg)
+Exploring with mixed media. 
+
+![](/images/nellie%204.jpg)
+Engaging in activities during the Learning Journey.
+
+![](/images/nellie%205.jpg)
+Sharing with a guest during the personalised showcase.
+
