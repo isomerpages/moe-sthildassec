@@ -2,11 +2,11 @@ collections:
   hildan-connect:
     output: true
     order:
-      - For Parents/School Terms & Holidays.md
-      - For Parents/Financial Assistance Scheme matters.md
-      - For Parents/GIRO Application And EPSO Forms.md
-      - For Parents/National Digital Literacy Programme.md
-      - For Parents/Direct School Admission (DSA).md
+      - For Parents/.keep
       - For Parents/Full Subject Based Banding.md
       - For Parents/Sec 2 Subject Choice Briefing.md
-      - For Parents/.keep
+      - For Parents/Direct School Admission (DSA).md
+      - For Parents/National Digital Literacy Programme.md
+      - For Parents/GIRO Application And EPSO Forms.md
+      - For Parents/Financial Assistance Scheme matters.md
+      - For Parents/School Terms & Holidays.md
