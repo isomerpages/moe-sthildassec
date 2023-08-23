@@ -46,17 +46,17 @@ As a mission school, the CCE curriculum is enhanced by the teaching of godly val
 * Sec 3: Service to the Community (Integrated Project)
 * Sec 4 and 5: Service to the Community (Student-initiated)
 
-Click here to access more information about our VIA programme.
+Click [here](https://sthildassec.moe.edu.sg/service-learning/) to access more information about our VIA programme.
 
 **_Extension_** – Students who are role models of positive attributes and values deepen their learning via student-initiated advocacy projects on causes of their choice. They showcase their learning in writing, presentations at the Service-Learning Symposium or participation in competitions.
 
 **Additional Resources:**
 
-·         **Cyber Wellness Resources**
+* **Cyber Wellness Resources**
 
 Click the link to access MOE resources on Cyber wellness. [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 
-·         **Sexuality Education Resources**
+* **Sexuality Education Resources**
 
 Click the link to access MOE resources on Sexuality Education: [https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
 
