@@ -2,6 +2,7 @@ collections:
   hildan-connect:
     output: true
     order:
+      - For Students/Time Table.md
       - For Students/School Hymn.md
       - For Students/School Song.md
       - For Students/School Code.md
