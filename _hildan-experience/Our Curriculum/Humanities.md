@@ -35,7 +35,7 @@ Students will undergo the key stages of inquiry-based learning;
 
 **_Historical Investigations (HI)_****:** Through HI, students get to “do” history by carrying out research and applying their historical knowledge and skills to form responses to an authentic historical issue and communicate them through an end-product. They will develop the ability to form logical conclusions about the past, and to acquire a deeper understanding of Singapore’s history and heritage.
 
-**_Social Studies (Issue Investigation)_****_:_** Through issue investigation, students will identify and examine a societal issue of concern closely. They will seek to question assumptions and develop opinions from multiple perspectives before proposing well-reasoned recommendations to help address the societal need(s) as a means to promote student agency and active citizenry.
+**_Social Studies (Issue Investigation)_**: Through issue investigation, students will identify and examine a societal issue of concern closely. They will seek to question assumptions and develop opinions from multiple perspectives before proposing well-reasoned recommendations to help address the societal need(s) as a means to promote student agency and active citizenry.
 
 Issue Investigation is infused in our Sec 3’s Hildan Advocacy (Integrated Project), in collaboration with the Character & Citizenship Education and the English Language department.
 
@@ -45,7 +45,7 @@ The NMP (Humanities) is a stretch programme specially designed for Sec 2 student
 
 **Students** selected to participate in this programme will embark on a research journey to explore Singapore’s heritage. They will be provided with opportunities to conduct oral interviews with different industry experts, interpret and evaluate historical sources, and learn to make connections with the past, present and future to deepen their appreciation for Singapore’s historical journey. Selected students are also nominated to represent the school to participate in external competitions (e.g. Istana Heritage Trail) to apply their knowledge and skills.
 
-Find out more about the NMP here.
+Find out more about the NMP [here](https://sthildassec.moe.edu.sg/hildan-experience/our-signature-programmes/nellie-mitchell-programme/).
 
 **Achievements**
 
