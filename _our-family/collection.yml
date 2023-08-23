@@ -1,5 +1,4 @@
 collections:
   our-family:
     output: true
-    order:
-      - Anglican Diocese of Singapore.md
+    order: []
