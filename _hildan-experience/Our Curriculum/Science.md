@@ -58,4 +58,4 @@ There are opportunities for selected students to participate in Science competit
 		* 2022 (2 Bronze, 1 Team Honourable Mention, 4 Individual Honourable Mention)
     
 
-See also: The [Nellie Mitchell Talent Development Programme]
+See also: The [Nellie Mitchell Talent Development Programme](https://sthildassec.moe.edu.sg/hildan-experience/our-signature-programmes/nellie-mitchell-programme/)
