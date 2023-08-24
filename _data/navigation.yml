@@ -1,56 +1,12 @@
 logo: /images/St Hilda Logo.jpg
 links:
-  - title: About Shss
-    collection: about-shss
+  - title: About Us
+    collection: about-us
   - title: Admissions
     collection: admissions
-  - title: Information
-    url: /information/admin-forms/
-    sublinks:
-      - title: Admin Forms
-        url: /information/admin-forms/
-      - title: Booklist
-        url: /information/booklist/
-      - title: Exam & Assessment
-        url: /information/exam-n-assessment/
-      - title: Financial Services
-        url: /information/financial-services/
-      - title: ICT Account Help Form
-        url: /information/ict-account-help-form/
-      - title: Parents Gateway
-        url: /information/parents-gateway/
-      - title: School Terms & Holidays
-        url: /information/school-terms-n-holidays/
-      - title: Staff Admin Links
-        url: /information/staffadminlinks/
-      - title: Students' Services
-        url: /information/students-services/
-      - title: Student Useful Links
-        url: /information/student-useful-links/
-      - title: SWN@SSOE Login Guide
-        url: /information/swn-at-ssoe-login/
-      - title: Time Table
-        url: /information/time-table/
   - title: Hildan Experience
-    url: /hildan-experience/instructional-programmes/english-n-literature/
-    sublinks:
-      - title: Instructional Programmes
-        url: /hildan-experience/instructional-programmes/english-n-literature
-      - title: Character Education
-        url: /hildan-experience/character-education/character-n-citizenship-education
-      - title: Co-Curricular Activities
-        url: /hildan-experience/co-curricular-activities
-      - title: Full Subject-Based Banding
-        url: /hildan-experience/full-subject-based-banding
-      - title: Level Programmes
-        url: /hildan-experience/level-programmes/lower-secondary-level
-      - title: Signature Programmes
-        url: /hildan-experience/signature-programmes/step
-      - title: Leadership Development
-        url: /hildan-experience/leadership-development
-      - title: NDLP
-        url: /hildan-experience/national-digital-literacy-programme
-  - title: Hildan Partners
-    collection: hildan-partners
+    collection: hildan-experience
+  - title: Hildan Connect
+    collection: hildan-connect
   - title: Contact Us
     url: /contact-us/

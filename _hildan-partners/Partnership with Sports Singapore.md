@@ -1,6 +1,6 @@
 ---
 title: Partnership with Sports Singapore
-permalink: /hildan-partners/partnership-with-sports-singapore/
+permalink: /partnership-with-sports-singapore/
 description: ""
 ---
 ![](/images/Hildan%20Partners/Partnership%20with%20Sports%20Singapore%20Banner.jpg)

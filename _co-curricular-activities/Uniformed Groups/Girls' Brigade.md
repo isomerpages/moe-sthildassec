@@ -12,7 +12,7 @@ Girls' Brigade
 
 #### About Us
 
-Click [here](/files/CCA/GB%20PPT%20Slides%202021.pdf) to know more!
+Click&nbsp;[here](/files/CCA/GB%20PPT%20Slides%202021.pdf)&nbsp;to know more!
 
 **<u>Training Schedule</u>**  
   

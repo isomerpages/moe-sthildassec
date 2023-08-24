@@ -14,15 +14,15 @@ Infocomm Club
 
 #### About Us
 
-Click [here](/files/CCA/Robotics.pdf) to find out more!
+Click&nbsp;[here](/files/CCA/Robotics.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**<br><br>
 **\*Secondary 1 first day of CCA:**  
 **Friday, 28th Jan 2022 - 3.30pm  
-Big Room @ Level 3 D&T Block**
-**Attire:** **School uniform with PE top**<br><br>
+Big Room @ Level 3 D&amp;T Block**
+**Attire:**&nbsp;**School uniform with PE top**<br><br>
 
-Tuesdays: 3.30pm - 5.30pm
+Tuesdays:&nbsp;3.30pm - 5.30pm
 
 
 #### Achievements
@@ -33,7 +33,7 @@ Merit Award - Creative Category 2019
 Best Design Award - 2018
 
 
-####  Teachers In-Charge & Instructors
+####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Mr Steve Tay Yong Teck

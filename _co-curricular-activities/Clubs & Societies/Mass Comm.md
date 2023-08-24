@@ -13,15 +13,15 @@ Mass Comm
 
 #### About Us
 
-Click [here](/files/CCA/masscom.pdf) to find out more!
+Click&nbsp;[here](/files/CCA/masscom.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**  
   
 **\*Secondary 1 first day of CCA:**  
 **Friday, 28th Jan 2022 - 2.15pm  
 Computer Lab 3 @ level 2**  
-**Attire:** **School uniform with PE top**<br><br>
-Tuesdays: 3.30pm - 5.00pm  
+**Attire:**&nbsp;**School uniform with PE top**<br><br>
+Tuesdays:&nbsp;3.30pm - 5.00pm  
 Friday: 2.15pm - 5pm
 
 
@@ -30,7 +30,7 @@ Friday: 2.15pm - 5pm
 **Canon Picture Challenge 2019**
 
 
-####  Teachers In-Charge & Instructors
+####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Mdm Ramna  

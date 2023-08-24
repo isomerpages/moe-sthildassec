@@ -14,7 +14,7 @@ National Civil Defence Cadet Corps
 
 #### About Us
 
-Click [here](/files/CCA/Introduction%20to%20NCDCC%20SHSS.pdf) to know more!
+Click&nbsp;[here](/files/CCA/Introduction%20to%20NCDCC%20SHSS.pdf)&nbsp;to know more!
 
 **<u>Training Schedule</u>**  
 

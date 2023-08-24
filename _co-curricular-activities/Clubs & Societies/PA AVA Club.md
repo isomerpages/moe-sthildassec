@@ -7,24 +7,23 @@ third_nav_title: Clubs & Societies
 PA/AVA Club
 -----------
 
-<img src="/images/CCA/PA.jpg"  
-     style="width:55%">
+<img src="/images/CCA/PA.jpg" style="width:55%">
 
 
 #### About Us
 
-Click [here](/files/CCA/PA%20Crew%20School%20Website.pdf) to find out more!
+Click&nbsp;[here](/files/CCA/PA%20Crew%20School%20Website.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**  
   
 **\*Secondary 1 first day of CCA:**  
 **Tuesday, 25th Jan 2022 - 3.30pm**  
-**Attire:** **School uniform with PE top**<br>
+**Attire:**&nbsp;**School uniform with PE top**<br>
 
-Tuesdays: 3:30pm - 5:30pm<br>
-Fridays: 3:30pm - 5:30pm
+Tuesdays:&nbsp;3:30pm - 5:30pm<br>
+Fridays:&nbsp;3:30pm - 5:30pm
 
-MPH, SAC, GO & Library
+MPH, SAC, GO &amp; Library
 
 
 #### Achievements
@@ -33,9 +32,9 @@ MPH, SAC, GO & Library
 1st Position - 2019  
   
 **ISP (Sports Competition) 2019**  
-Team Awards - Floorball & Badminton
+Team Awards - Floorball &amp; Badminton
 
-####  Teachers In-Charge & Instructors
+####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Mr Chales Neo  

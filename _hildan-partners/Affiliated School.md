@@ -3,7 +3,6 @@ title: Affiliated School
 permalink: /affiliated-school/
 description: ""
 ---
-
 ![](/images/Affiliated%20School%20Banner.jpg)
 
 AFFILIATED SCHOOL

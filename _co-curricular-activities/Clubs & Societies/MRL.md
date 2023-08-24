@@ -6,17 +6,16 @@ third_nav_title: Clubs & Societies
 ---
 MRL
 ---
-<img src="/images/CCA/MRL.jpeg"  
-     style="width:65%">
+<img src="/images/CCA/MRL.jpeg" style="width:65%">
 
 
 #### About Us
 
-Click [here](/files/CCA/MRL%202016.pdf) to find out more!
+Click&nbsp;[here](/files/CCA/MRL%202016.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**
 
-Fridays: 3:30pm - 5:30pm
+Fridays:&nbsp;3:30pm - 5:30pm
 
 We meet at the school library (level 2)
 
@@ -25,7 +24,7 @@ We meet at the school library (level 2)
 
 **East Zone Sports Carnival**
 
-####  Teachers In-Charge & Instructors
+####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Ms Elaine Teng

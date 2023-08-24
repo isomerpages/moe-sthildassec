@@ -8,25 +8,24 @@ Hildan Wind Orchestra
 ---------------------
 
 
-<img src="/images/CCA/Wind%20Orchestra.jpg"  
-     style="width:75%">
+<img src="/images/CCA/Wind%20Orchestra.jpg" style="width:75%">
 
 
 #### About Us
 
 One Band! One Sound!
 
-Click [here](/files/CCA/St%20Hildas%20Wind%20Orchestra%20CCA%20Info.pdf) to find out more!
+Click&nbsp;[here](/files/CCA/St%20Hildas%20Wind%20Orchestra%20CCA%20Info.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**  
   
 **\*Secondary 1 first day of CCA:**  
 **Thursday, 27th Jan 2022 - 3.30pm  
 SAC Courtyard 1 (Do look out for our band seniors)**  
-**Attire:** **School uniform with PE top**
+**Attire:**&nbsp;**School uniform with PE top**
 
-Main Band - Tuesdays : 3.45pm - 6.00pm, Saturdays 8.00am - 12.00pm <br>
-Junior Band Practice - Thursdays: 3:45pm - 6:00pm
+Main Band - Tuesdays :&nbsp;3.45pm - 6.00pm, Saturdays 8.00am - 12.00pm&nbsp;<br>
+Junior Band Practice - Thursdays:&nbsp;3:45pm - 6:00pm
 
 Follow our sound and you'll find as at the band room! (Level 2, next to the Lift)
 
@@ -34,10 +33,10 @@ Follow our sound and you'll find as at the band room! (Level 2, next to the Lift
 
 **Singapore Youth Festival - Performing Arts**<br>
 2019 - Certificate of Accomplishment  
-2017 - Certificate of Distinction  
-2015 - Certificate of Distinction
+2017 -&nbsp;Certificate of Distinction  
+2015 -&nbsp;Certificate of Distinction
 
-####  Teachers In-Charge & Instructors
+####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Mdm Sandy Teo  

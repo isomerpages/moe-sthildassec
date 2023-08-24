@@ -12,14 +12,14 @@ Art Club
 
 #### About Us
 
-Click [here](/files/CCA/Welcome%20to%20Art%20Club.pdf) to find out more!
+Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**<br>
 **\*Secondary 1 first day of CCA:**  
 **Friday, 28th Jan 2022 - 2.30pm  
 Art Room @ Level 3**
-**Attire:** **School uniform with PE top**<br><br>
-Tuesdays: 3:30pm - 5:30pm  
+**Attire:**&nbsp;**School uniform with PE top**<br><br>
+Tuesdays:&nbsp;3:30pm - 5:30pm  
 Friday: 2.30pm - 4.30pm  
   
 
@@ -31,7 +31,7 @@ Art Room @ Level 3
 **Singapore Youth Festival - Visual Arts**<br>
 2019 - Certificate of Accomplishment
 
-####  Teachers In-Charge & Instructors
+#### &nbsp;Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Mr Gopal  
