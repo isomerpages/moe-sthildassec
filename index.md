@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/shs website (1920x720).png
+      dropdown:
+        title: ALUMNUS! Visit your teachers on 30th Aug!
+        options:
+          - title: "Happy Teacher's Day! "
+            url: https://sthildassec.moe.edu.sg/teachersday2023/
   - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
