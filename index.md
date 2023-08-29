@@ -11,7 +11,8 @@ sections:
   - infopic:
       title: Visit your Teachers on 30th Aug 2023
       subtitle: Dear Alumnus
-      description: Want to reconnect with your teachers? We welcome you!
+      description: Want to reconnect with your teachers on Teacher's Day? Please read
+        the special announcement by clicking the arrow
       button: Special announcement
       url: /teachersday2023/
       image: /images/images.png
