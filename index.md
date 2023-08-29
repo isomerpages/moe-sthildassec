@@ -9,7 +9,6 @@ sections:
   - hero:
       background: /images/shs website (1920x720).png
   - infopic:
-      title: Visit your Teachers on 30th Aug 2023
       subtitle: Dear shss Alumnus
       description: Want to reconnect with your teachers on Teacher's Day? Read the
         special announcement by clicking the arrow.
