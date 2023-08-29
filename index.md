@@ -9,6 +9,15 @@ sections:
   - hero:
       background: /images/shs website (1920x720).png
   - infopic:
+      title: Visit your Teachers on 30th Aug 2023
+      subtitle: Dear shss Alumnus
+      description: Want to reconnect with your teachers on Teacher's Day? Read the
+        special announcement by clicking the arrow.
+      button: Special announcement
+      url: /teachersday2023/
+      image: /images/images.png
+      alt: Image alt text
+  - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
         so that they exercise sound reasoning based on godly values.
