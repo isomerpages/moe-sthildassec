@@ -4,7 +4,7 @@ permalink: /hildan-experience/our-co-curriculum/
 description: ""
 third_nav_title: Our Co Curriculum
 ---
-CO-CURRICULAR ACTIVITIES
+Our Co-Curriculum
 ------------------------
 
 
