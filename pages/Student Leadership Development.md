@@ -1,6 +1,6 @@
 ---
-title: Leadership Development
-permalink: /permalink/
+title: Student Leadership Development
+permalink: /sld/
 description: ""
 ---
 ![](/images/Hildan%20Experience/Leadership%20Development%20Banner.jpg)
