@@ -14,3 +14,7 @@ EXAM &amp; ASSESSMENT
 1. [Sec 1](/files/EOY/sec%201%20eoy%20exam%20timetables%202023.pdf)
 2. [Sec 2](/files/EOY/sec%202%20eoy%20exam%20timetables%202023.pdf)
 3. [Sec 3](/files/EOY/sec%203%20eoy%20exam%20timetables%202023.pdf)
+
+### Sec4E5N Preliminary Examination Timetable 2023
+
+[Sec4E5N](/files/2023_o-levelprelimschedule_finalv3%2011%20aug%202023.pdf)

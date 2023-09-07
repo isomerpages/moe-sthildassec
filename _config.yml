@@ -1,6 +1,6 @@
 title: St Hilda's Secondary School
 url: https://sthildassec.moe.edu.sg
-favicon: /images/St Hilda Logo.jpg
+favicon: /images/school logo_year 2018.gif
 colors:
   primary-color: "#262f5a"
   secondary-color: "#262f5a"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

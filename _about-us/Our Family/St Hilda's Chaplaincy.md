@@ -6,7 +6,7 @@ third_nav_title: Our Family
 ---
 ![](/images/Hildan%20Partners/Chaplaincy%20Banner.jpg)
 
-ST HILDA'S CHAPLAINCY
+"ST HILDA'S CHAPLAINCY"
 ---------------------
 
 
@@ -14,17 +14,17 @@ ST HILDA'S CHAPLAINCY
 <thead>
   <tr>
     <th>Chaplain / Chairman:</th>
-    <td>Mr Rev Victor Teo (Vicar, Chapel of Christ the Redeemer)</td>
+    <td>Mr Rev Glenn Chan</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <th>Associate Chaplain:</th>
-    <td>Rev Glenn Chan </td>
+    <td>Rev Joshua Raj </td>
   </tr>
   <tr>
     <th>SHSS Chaplaincy Head:</th>
-    <td>Ps Shirley Low-Ang)</td>
+    <td>Ps Shirley Low-Ang</td>
   </tr>
   <tr>
 		<th>Youth Pastor, CCR:</th>

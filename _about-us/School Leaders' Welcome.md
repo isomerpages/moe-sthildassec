@@ -1,5 +1,5 @@
 ---
-title: School Leaders Welcome
+title: School Leaders' Welcome
 permalink: /about-us/school-leaders-welcome/
 description: ""
 ---
