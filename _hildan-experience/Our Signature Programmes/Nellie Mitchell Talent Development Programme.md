@@ -4,7 +4,7 @@ permalink: /hildan-experience/our-signature-programmes/nellie-mitchell-programme
 description: ""
 third_nav_title: Our Signature Programmes
 ---
-NELLIE MITCHELL PROGRAMME
+Nellie Mitchell Talent Development Programme
 -------------------------
 
 ![](/images/nellie%20mitchell.jpg)
