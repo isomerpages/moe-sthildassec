@@ -127,11 +127,7 @@ Counselling and Special Needs
     <td>School Counsellor</td>
     <td><a href="mailto:denise_poh_shu_ning@moe.edu.sg">denise_poh_shu_ning@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Mr Timothy Lee</td>
-    <td>School Counsellor</td>
-    <td><a href="mailto:timothy_lee@moe.edu.sg">timothy_lee@moe.edu.sg</a></td>
-  </tr>
+  
   <tr>
     <td>Mr Shaik Fuad Bin Abdul Jabbar</td>
     <td>Student Welfare Officer (EO)</td>
