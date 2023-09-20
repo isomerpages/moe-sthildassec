@@ -40,7 +40,7 @@ Heads of Department/Year Heads
 
 | Appointment	|	Name		|	Email
 | -------- | -------- | -------- |
-| HOD / Humanities | Mdm Alina Chee Sui Yim | <a href="mailto:chee_sui_yim_alina@moe.edu.sg">chee_sui_yim_alina@moe.edu.sg</a> | 
+| HOD / Humanities | Mrs Alina Tan | <a href="mailto:chee_sui_yim_alina@moe.edu.sg">chee_sui_yim_alina@moe.edu.sg</a> | 
 | HOD / Mathematics | Mr Tan Meng Yoke (Eric) | <a href="mailto:tan_meng_yoke@moe.edu.sg">tan_meng_yoke@moe.edu.sg</a> 
 | HOD / Student Management | Mdm Diane Jael Koh Mei Lin | <a href="mailto:koh_mei_lin_diane@moe.edu.sg">koh_mei_lin_diane@moe.edu.sg</a>
 | HOD / PE &amp; CCA | Mr Richard Lian Cheng Yong | <a href="mailto:lian_cheng_yong_richard@moe.edu.sg">lian_cheng_yong_richard@moe.edu.sg</a>
