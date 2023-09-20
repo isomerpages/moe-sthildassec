@@ -21,16 +21,17 @@ Form Teachers
 <td>Mdm</td>
 <td>Ramna Bte Johana</td><td><a href="ramna_johana@moe.edu.sg">ramna_johana@moe.edu.sg</a></td></tr>
 <tr><td>Ms</td><td>Cui Dongyan</td><td><a href="cui_dong_yan@moe.edu.sg">cui_dong_yan@moe.edu.sg</a></td></tr>
-<tr><td>Mr</td><td>Lim Keon Suai</td><td><a href="lim_keon_suai@moe.edu.sg">lim_keon_suai@moe.edu.sg</a></td></tr>
+<tr></tr>
 <tr><td rowspan="2">1 Peace</td><td>Mdm</td><td>Shahroon Jihan d/o Khairoodin (Mrs Khan)</td><td><a href="shahroon_jihan_khairoodin@moe.edu.sg">shahroon_jihan_khairoodin@moe.edu.sg</a></td></tr>
 <tr><td>Mdm</td><td>Huzaifah Bte Md Salleh</td><td><a href="huzaifah_md_salleh@moe.edu.sg">huzaifah_md_salleh@moe.edu.sg</a></td></tr>
-<tr><td rowspan="3">1 Patience</td><td>Ms</td><td>Farah Idaman Bte Asmat</td><td><a href="farah_idaman_asmat@moe.edu.sg">farah_idaman_asmat@moe.edu.sg</a></td></tr>
-<tr><td>Mr</td><td>Wong Kia Jin (Glenn)</td><td><a href="wong_kia_jin_glenn@moe.edu.sg">wong_kia_jin_glenn@moe.edu.sg</a></td></tr>
-<tr><td>Mdm</td><td>Chen Wenyan</td><td></td></tr>
+<tr><td rowspan="3">1 Patience</td><td>Ms</td><td>Sulaiman Azim Bin Mohamad Daud</td><td><a href="sulaiman_azim_mohamad_daud@moe.edu.sg">sulaiman_azim_mohamad_daud@moe.edu.sg</a></td></tr>
+<tr><td>Mdm</td><td>Weng Chen Yan</td><td><a href="weng_chenyan@moe.edu.sg">weng_chenyan@moe.edu.sg</a></td></tr>
+<tr></tr>
 <tr><td rowspan="2">1 Kindness</td>
 <td>Mdm</td>
 <td>Nisha Ishwardas Rajwani</td><td><a href="nisha_ishwardas_rajwani@moe.edu.sg">nisha_ishwardas_rajwani@moe.edu.sg</a></td></tr>
-<tr><td>Mr</td><td>Sulaiman Azim</td><td><a href="sulaiman_azim_mohamad_daud@moe.edu.sg">sulaiman_azim_mohamad_daud@moe.edu.sg</a></td></tr>
+<tr><td>Mr</td><td>Kaliyaperumal s/o Govindasamy </td><td><a href="kaliyaperumal_govindasamy@moe.edu.sg">kaliyaperumal_govindasamy@moe.edu.sg</a>
+</td></tr>
 	
 <tr><td rowspan="2">1 Goodness</td>
 <td>Mdm</td><td>Ramona Bte Mohamad Sidek</td><td><a href="ramona_md_sidek@moe.edu.sg">ramona_md_sidek@moe.edu.sg</a></td></tr>
@@ -53,7 +54,7 @@ Form Teachers
 <tr><td rowspan="2">2 Kindness</td><td>Ms</td><td>Junaidah Bte Jumat</td><td><a href="junaidah_jumat@moe.edu.sg">junaidah_jumat@moe.edu.sg</a></td></tr>
 <tr><td>Ms</td><td>Tan Hui Sin (Cindy)</td><td><a href="tan_hui_sin@moe.edu.sg">tan_hui_sin@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">2 Goodness</td><td>Mr</td><td>Md Noornizar Bin Amirnoordin</td><td><a href="md_noornizar_amirnoordin@moe.edu.sg">md_noornizar_amirnoordin@moe.edu.sg</a></td></tr>
-<tr><td>Mdm</td><td>Teo Jiajia, Sandy (Mrs Tan)</td><td><a href="teo_jiajia_sandy@moe.edu.sg">teo_jiajia_sandy@moe.edu.sg</a></td></tr>
+<tr><td>Mdm</td><td>Eileen Ong</td><td><a href="eileen_ong@moe.edu.sg">eileen_ong@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">2 Faithfulness</td><td>Ms</td><td>Deng Lan</td><td><a href="deng_lan@moe.edu.sg">deng_lan@moe.edu.sg</a></td></tr>
 <tr><td>Mr</td><td>Kenneth Kwok Yong Koon</td><td><a href="kwok_yong_koon_kenneth@moe.edu.sg">kwok_yong_koon_kenneth@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">3A</td><td>Mdm</td><td>Lim Bee Fang</td><td><a href="lim_bee_fang@moe.edu.sg">lim_bee_fang@moe.edu.sg</a></td></tr>
@@ -61,16 +62,17 @@ Form Teachers
 <tr><td rowspan="2">3B</td><td>Mr</td><td>Khoo Zhen Cheng Caleb</td><td><a href="khoo_zhen_cheng_caleb@moe.edu.sg">khoo_zhen_cheng_caleb@moe.edu.sg</a></td></tr>
 <tr><td>Ms</td><td>Teng Yuling Elaine</td><td><a href="teng_yuling_elaine@moe.edu.sg">teng_yuling_elaine@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">3C</td><td>Ms</td><td>Chua Xin Rong</td><td><a href="chua_xin_rong_a@moe.edu.sg">chua_xin_rong_a@moe.edu.sg</a></td></tr>
-<tr><td>Mr</td><td>Osman Bin Mohdar</td><td><a href="osman_b_mohdar@moe.edu.sg">osman_b_mohdar@moe.edu.sg</a></td></tr>
+<tr><td>Mr</td><td>Tan Meng Yoke (Eric)</td><td><a href="tan_meng_yoke@moe.edu.sg">tan_meng_yoke@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">3D</td><td>Ms</td><td>Farhanah Bte Jumadi</td><td><a href="farhanah_jumadi@moe.edu.sg">farhanah_jumadi@moe.edu.sg</a></td></tr>
 <tr><td>Mdm</td><td>Ng Puay Hoon</td><td><a href="ng_puay_hoon@moe.edu.sg">ng_puay_hoon@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">3E</td><td>Mr</td><td>Phua Tai Lai (Daniel)</td><td><a href="hua_phua_tai_lai@moe.edu.sg">hua_phua_tai_lai@moe.edu.sg</a></td></tr>
-<tr><td>Mdm</td><td>Xi Ning</td><td><a href="xi_ning@moe.edu.sg">xi_ning@moe.edu.sg</a></td></tr>
-<tr><td>3F</td><td>Mr</td><td>Norshamsuddin Bin Abdul Gani</td><td><a href="norshamsuddin_abdul_gani@moe.edu.sg">norshamsuddin_abdul_gani@moe.edu.sg</a></td></tr>
+		<tr><td>Mdm</td><td>Xi Ning</td><td><a href="xi_ning@moe.edu.sg">xi_ning@moe.edu.sg</a></td>
+		</tr>
+<tr><td rowspan="2">3F</td><td>Mr</td><td>Norshamsuddin Bin Abdul Gani</td><td><a href="norshamsuddin_abdul_gani@moe.edu.sg">norshamsuddin_abdul_gani@moe.edu.sg</a></td></tr><tr><td>Mdm</td><td>Nur Zuhailah Binte Hanafi
+    </td><td><a href="nur_zuhailah_hanafi@moe.edu.sg">nur_zuhailah_hanafi@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">3G</td><td>Mr</td><td>Abdul Bari Bin Ahmad</td><td><a href="abdul_bari_ahmad@moe.edu.sg">abdul_bari_ahmad@moe.edu.sg</a></td></tr>
 <tr><td>Ms</td><td>Alina Chen</td><td><a href="chen_yuxiu_alina@moe.edu.sg">chen_yuxiu_alina@moe.edu.sg</a></td></tr>
-<tr><td rowspan="3">4A</td><td>Mdm</td><td>Juwaidah Bte Adnan</td><td><a href="juwaidah_adnan@moe.edu.sg">juwaidah_adnan@moe.edu.sg</a></td></tr>
-<tr><td>Mdm</td><td>Zainab Bte Dawan</td><td><a href="zainab_dawan@moe.edu.sg">zainab_dawan@moe.edu.sg</a></td></tr>
+<tr><td rowspan="2">4A</td><td>Mdm</td><td>Lee Pei Choo Joanne(Mrs Sui)     </td><td><a href="lee_pei_choo_joanne@moe.edu.sg">Lee_pei_choo_joanne@moe.edu.sg</a></td></tr>
 <tr><td>Mr</td><td>Shaik Fuad Bin Abdul Jabbar</td><td><a href="fuad_abdul_jabbar_shaik@moe.edu.sg">fuad_abdul_jabbar_shaik@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">4B</td><td>Mdm</td><td>Ho Gui Vun Gwen (Mrs Lui)</td><td><a href="ho_gui_vun@moe.edu.sg">ho_gui_vun@moe.edu.sg</a></td></tr>
 <tr><td>Mr</td><td>Lee Junyi</td><td><a href="lee_junyi@moe.edu.sg">lee_junyi@moe.edu.sg</a></td></tr>
@@ -87,8 +89,6 @@ Form Teachers
 <tr><td>Mr</td><td>Sawlani Gopal Kalyan</td><td><a href="sawlani_gopal_kalyan@moe.edu.sg">sawlani_gopal_kalyan@moe.edu.sg</a></td></tr>
 <tr><td rowspan="2">5A</td><td>Mdm</td><td>Sim Seok Moi Jessie (Mrs Leong)</td><td><a href="jessie_sim_seok_moi@moe.edu.sg">jessie_sim_seok_moi@moe.edu.sg</a></td></tr>
 <tr><td>Mr</td><td>Chan Chee Keong</td><td><a href="chan_chee_keong@moe.edu.sg">chan_chee_keong@moe.edu.sg</a></td></tr>
-<tr><td rowspan="2">5B</td><td>Mr</td><td>Tay Chye Huat</td><td><a href="tay_chye_huat@moe.edu.sg">tay_chye_huat@moe.edu.sg</a></td></tr>
-<tr><td>Mdm</td><td>Nur Zuhailah Binte Hanafi</td><td><a href="nur_zuhailah_hanafi@moe.edu.sg">nur_zuhailah_hanafi@moe.edu.sg</a></td></tr>
 </tbody></table>
 
 
@@ -127,11 +127,7 @@ Counselling and Special Needs
     <td>School Counsellor</td>
     <td><a href="mailto:denise_poh_shu_ning@moe.edu.sg">denise_poh_shu_ning@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td>Mr Timothy Lee</td>
-    <td>School Counsellor</td>
-    <td><a href="mailto:timothy_lee@moe.edu.sg">timothy_lee@moe.edu.sg</a></td>
-  </tr>
+  
   <tr>
     <td>Mr Shaik Fuad Bin Abdul Jabbar</td>
     <td>Student Welfare Officer (EO)</td>

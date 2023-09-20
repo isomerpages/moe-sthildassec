@@ -1,5 +1,5 @@
 ---
-title: Parents' Support Group
+title: Parents Support Group
 permalink: /hildan-partners/parents-support-group/
 description: ""
 third_nav_title: Our Family
