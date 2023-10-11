@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 Art Club
 --------
 
-![](/images/CCA/Art%20Club%201.png)
+![](/images/CCA/9LT_5347 2.jpg)
 
 
 #### About Us
