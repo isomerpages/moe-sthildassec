@@ -16,20 +16,16 @@ Drama
 **Click&nbsp;[here](/files/CCA/dramaclub.pdf)**&nbsp;**to find out more!**  
   
 **<u>Training Schedule</u>**  <br><br>
-**\*Secondary 1 first day of CCA:**  
-**Tuesday, 25th Jan 2021 - 3.30pm  
-Black Box (Lvl 2 beside the staff room)**  
-**Attire:**&nbsp;**School uniform with PE top**
+Tuesday: 3.30pm - 5.30pm
+Fridays: 3.00pm - 5.00pm
 
-Tuesdays :&nbsp;3.30pm - 5.30pm&nbsp;<br> &nbsp;
-Fridays:&nbsp;3:00pm - 5:00pm
-
-Join us at the Black box!
+Blackbox (Level 2)
 
 
 #### Achievements
 
 **Singapore Youth Festival - Performing Arts**<br>
+2023 - Certificate of Achievement
 2019 -&nbsp;Certificate of Distinction<br>
 2017 -&nbsp;Certificate of Distinction  
 2015 -&nbsp;Certificate of Distinction
@@ -40,5 +36,3 @@ Join us at the Black box!
 Mdm Michelle  
 Mdm Ramona  
   
-**Coach**  
-Mr Zam
