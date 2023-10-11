@@ -14,20 +14,18 @@ PA/AVA Club
 
 Click&nbsp;[here](/files/CCA/PA%20Crew%20School%20Website.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**  
+**When We Meet** <br>
 Tuesday:3.30pm - 5.30pm<br>
 Friday:3.30pm - 5.30pm<br>
 MPH, SAC, GO & Library
 
 
-#### Achievements
-Inter School Pentangular Sports (ISP) Competition 2023, Basketball (C Boys) - 1st Place<br>
-Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Boys) - 1st Place<br>
-Inter School Pentangular Sports (ISP) Competition 2023, Handball (C Girls) - 2nd Place<br>
+**Our Achievements**<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Basketball (C Boys) - 1st<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Boys) - 1st<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (C Girls) - 2nd<br>
 
-####  Teachers In-Charge &amp; Instructors
-
-**Teachers**  
+**Our Teachers** <br>
 Mr Chales Neo  
 Mr Noornizar
 Mr Daniel Phua
