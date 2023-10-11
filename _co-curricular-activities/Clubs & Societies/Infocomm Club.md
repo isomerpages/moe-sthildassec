@@ -21,7 +21,7 @@ Tuesday: 3.30pm - 5.30pm<br>
 Computer Lab 1 and 2 (Level 4)<br>
 
 **Our Achievements**<br>
-Inter School Pentangular Sports (ISP) Competition 2022, Basketball (B Boys) - 1st Place<br>
+Inter School Pentangular Sports (ISP) Competition 2022, Basketball (B Boys) - 1st <br>
 
 ITE College East Robotics Challenge  <br>
 2019 Creative Category - 1st <br>
