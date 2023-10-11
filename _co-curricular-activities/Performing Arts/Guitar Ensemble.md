@@ -32,5 +32,5 @@ Performing Arts Studio (Level 4)<br>
 ####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
-Mr Jeremy Wee
-Mdm Nurinda  
+Mr Jeremy Wee<br>
+Mdm Nurinda<br>
