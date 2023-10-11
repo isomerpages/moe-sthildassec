@@ -15,22 +15,22 @@ Drama
 
 **Click&nbsp;[here](/files/CCA/dramaclub.pdf)**&nbsp;**to find out more!**  
   
-**<u>Training Schedule</u>**  <br><br>
+**When We Meet** <br>
 Tuesday: 3.30pm - 5.30pm<br>
 Fridays: 3.00pm - 5.00pm<br>
 
 Blackbox (Level 2)
 
 
-#### Achievements
+**Our Achievements**<br>
+Singapore Youth Festival - Performing Arts<br>
 
-**Singapore Youth Festival - Performing Arts**<br>
 2023 - Certificate of Achievement<br>
 2019 -&nbsp;Certificate of Distinction<br>
 2017 -&nbsp;Certificate of Distinction  
 2015 -&nbsp;Certificate of Distinction
 
-####  Teachers In-Charge 
+**Our Teachers** <br>
 Mdm Michelle  
 Mdm Ramona  
   
