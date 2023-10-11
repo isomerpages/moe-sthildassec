@@ -14,24 +14,19 @@ Art Club
 
 Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**<br>
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.30pm  
-Art Room @ Level 3**
-**Attire:**&nbsp;**School uniform with PE top**<br><br>  
-Friday (Term 1): 2.30pm - 4.30pm  
-  
+**When We Meet** <br>
+Tuesdays: 3:30pm - 5:30pm<br>
+Friday: 2.30pm - 4.30pm<br>
 
 Art Room @ Level 3
 
 
-#### Achievements
+**Our Achievements**<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Girls) – 3rd 
 
-**Singapore Youth Festival - Visual Arts**<br>
+Singapore Youth Festival - Visual Arts<br>
 2019 - Certificate of Accomplishment
 
-#### &nbsp;Teachers In-Charge &amp; Instructors
-
-**Teachers**  
+**Our Teachers** <br>
 Mr Gopal  
 Ms Junaidah
