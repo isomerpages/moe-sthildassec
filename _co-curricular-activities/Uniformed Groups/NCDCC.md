@@ -24,8 +24,7 @@ Friday: 2:45pm - 6:15pm<br>
 2020 NCDCC Unit Proficiency Award – Gold Award<br>
 2019 NCDCC Unit Proficiency Award – Gold Award<br>
 
-SCDF Pinnacle Award   <br>        
-Natasha Ariana<br>
+SCDF Pinnacle Award   <br>       Natasha Ariana<br>
 
 **Our Teachers** <br>
 Mr Bari  <br>
