@@ -14,18 +14,15 @@ Badminton
 
 Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to know more about us!
   
-**<u>Training Schedule</u>**
+**When We Meet** <br>
+Mondays: 3.30pm - 6.00pm<br>
+Fridays: 2.30pm - 5.30pm<br>
 
-Mondays:&nbsp;3.30pm - 6.00pm&nbsp;  
-Fridays:&nbsp;2:30pm - 5:30pm
+MPH (Level 4)<br>
 
+**Our Achievements**<br>
+2017 East Zone Schools Badminton Championship ‘B’ Div -&nbsp;4th<br>
 
-#### Achievements
-
-**2017**  
-East Zone Schools Badminton Championship ‘B’ Div -&nbsp;4th
-
-####  Teachers In-Charge
-
+**Our Teachers** <br>
 Mr Teo Jun Jie<br>
-Mr Osman
+Mr Kalliyaperumal Govindasamy<br>
