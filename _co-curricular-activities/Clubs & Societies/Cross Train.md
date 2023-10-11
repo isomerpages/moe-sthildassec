@@ -23,6 +23,7 @@ Cross Road Centre (CRC) @ Level 1 / Chapel of Christ the Redeemer (CCR) @ Level 
 Inter School Christian Club Challenge 2023 - 2nd Place
 Inter School Pentangular Sports (ISP) Competition 2023, Handbell (B Boys) - 2nd Place
 Inter School Pentangular Sports (ISP) Competition 2023, Netball (C Girls) - 1st Place 
+
 **East Zone Sports Carnival**<br>
 EZ Sports Carnival 2018 - 3rd in Frisbee Games  
 EZ Sports Carnival 2016 - 1st in Frisbee Games
