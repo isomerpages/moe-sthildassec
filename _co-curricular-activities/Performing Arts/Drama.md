@@ -16,8 +16,8 @@ Drama
 **Click&nbsp;[here](/files/CCA/dramaclub.pdf)**&nbsp;**to find out more!**  
   
 **<u>Training Schedule</u>**  <br><br>
-Tuesday: 3.30pm - 5.30pm
-Fridays: 3.00pm - 5.00pm
+Tuesday: 3.30pm - 5.30pm<br>
+Fridays: 3.00pm - 5.00pm<br>
 
 Blackbox (Level 2)
 
