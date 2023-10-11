@@ -16,36 +16,22 @@ The St. Hilda’s Secondary School Choir is a SSAA (Soprano &amp; Alto) chorale 
 Click&nbsp;[here](/files/CCA/Chorale.pdf)&nbsp;to know more!
 
 **<u>Training Schedule</u>**  
-  
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.30pm**<br>
-**Auditorium @ Lvl 3 beside the staff room**  
-**Attire:**&nbsp;**School uniform with PE top**
-
 Tuesdays :&nbsp;3.30pm - 5.30pm&nbsp;  
 Fridays:&nbsp;2:30pm - 5:30pm
 
-We will be at the Mac Lab and/ or the Auditorium!
+Mac Lab (Level 2) / Auditorium (Level 3)
 
 #### Achievements
-
-**Singapore Youth Festival - Performing Arts**  
-2013 - Distinction  
-2015 - Distinction  
-2017 - Distinction  
-2019 - Distinction  
+Singapore International Choral Festival 2023 - Silver Award<br><br>
+**Singapore Youth Festival - Performing Arts**  <br>
+2023 - Certificate of Accomplishment<br>
+2019 - Distinction  <br>
+2017 - Distinction <br>
   
 **11th Orientale Concentus International Choral Festival**  
 Equal Voices, Junior Category - Gold (Grade III)  
 Equal Voices, Junior Category -&nbsp;Silver (Grade I)'
 
-####  Teachers In-Charge &amp; Conductress
-
-**Teachers**  
-Mrs Gwen Lui  
+####  Teachers In-Charge
 Mdm Xi Ning  
-Ms Chia Chen Chi  
-  
-**Conductress**  
-Mrs Evangeline Tay  
-Ms Mei Shuem
+Mdm Shahroon
