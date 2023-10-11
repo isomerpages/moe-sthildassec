@@ -15,29 +15,28 @@ Boys' Brigade
 
 Click&nbsp;[here](/files/CCA/_BB%20Presentation%202020.pdf)&nbsp;to know more!
 
-**<u>Training Schedule</u>**  
-  
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.30pm  
-SAC Courtyard 1 (Closer to the creativity hall)**  
-**Attire &amp; Equipment:** **PE Top with school or PE shorts.**<br>
-
+**When We Meet** <br>
 Tuesdays: 3.30pm - 6pm (Pipes and Drums Band Training)<br>
 Fridays: 3pm - 6pm<br>
-Saturdays: 9am - 1pm
+Saturdays: 9am - 1pm<br>
 
 
-#### Achievements
+**Our Achievements**<br>
+2023 JM Fraser Award for Excellence  – High Distinction Award<br>
+2022 JM Fraser Award for Excellence – Gold Award<br>
+2021 JM Fraser Award for Excellence – Gold Award<br>
+2020 JM Fraser Award for Excellence – Gold Award<br>
+2019 JM Fraser Award for Excellence – Gold Award <br>
 
-**JM Fraser Award for Excellence**  
-Gold Award - 2020  
-Gold Award - 2019  
-Gold Award - 2018
+Founder’s Award <br>
+Gabriel Yeo<br>
+Nathaniel Koh<br>
+Lim Zhi Peng<br> 
+Wang Shou Cong<br> 
+Chok Zhi Yang<br> 
+Joshua Joel Lim <br>
 
-#### Teachers-In-Charge
-
-**Teachers**  
-Mrs Mei Quek (IC)  
-Mr Lin Zheng Chang  
-Mr Raymond Ong  
-Ms Philisa Neo
+**Our Teachers** <br>
+Mr Lin Zheng Chang  <br>
+Mr Chales Neo <br> 
+Ms Philisa Neo<br>
