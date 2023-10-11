@@ -23,11 +23,11 @@ Computer Lab 1 and 2 (Level 4)<br>
 **Our Achievements**<br>
 Inter School Pentangular Sports (ISP) Competition 2022, Basketball (B Boys) - 1st Place<br>
 
-ITE College East Robotics Challenge  
-2019 Creative Category - 1st 
-2019 Creative Category - Merit Award
-2018 Best Design Award 
+ITE College East Robotics Challenge  <br>
+2019 Creative Category - 1st <br>
+2019 Creative Category - Merit Award<br>
+2018 Best Design Award <br>
 
 **Our Teachers** <br>
-Mr Steve Tay Yong Teck
-Mdm Ng Puay Hoon 
+Mr Steve Tay Yong Teck<br>
+Mdm Ng Puay Hoon <br>
