@@ -16,12 +16,12 @@ Infocomm Club
 
 Click&nbsp;[here](/files/CCA/Robotics.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**<br><br>
+**When We Meet** <br>
 Tuesday: 3.30pm - 5.30pm<br>
 Computer Lab 1 and 2 (Level 4)<br>
 
 
-#### Achievements
+**Our Achievements**<br>
 Inter School Pentangular Sports (ISP) Competition 2022, Basketball (B Boys) - 1st Place<br>
 
 **ITE College East Robotics Challenge**  
@@ -30,8 +30,6 @@ Merit Award - Creative Category 2019
 Best Design Award - 2018
 
 
-####  Teachers In-Charge &amp; Instructors
-
-**Teachers**  
+**Our Teachers** <br>
 Mr Steve Tay Yong Teck
 Mdm Ng Puay Hoon 
