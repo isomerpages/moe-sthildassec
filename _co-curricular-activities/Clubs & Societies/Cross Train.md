@@ -14,9 +14,9 @@ Cross Train
 
 Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to find out more!  
 
-Friday: 2.15pm to 4.45pm
-Tuesday: 3.30pm to 4.30pm (Selected student leaders' training)
-Cross Road Centre (CRC) @ Level 1 / Chapel of Christ the Redeemer (CCR) @ Level 2
+Friday: 2.15pm to 4.45pm<br>
+Tuesday: 3.30pm to 4.30pm (Selected student leaders' training)<br>
+Cross Road Centre (CRC) @ Level 1 / Chapel of Christ the Redeemer (CCR) @ Level 2<br>
 
 
 #### Achievements
