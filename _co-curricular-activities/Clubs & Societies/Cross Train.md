@@ -21,11 +21,11 @@ Cross Road Centre (CRC) @ Level 1 / Chapel of Christ the Redeemer (CCR) @ Level 
 
 
 **Our Achievements**<br>
-Inter School Christian Club Challenge 2023 - 2nd Place<br>
-Inter School Pentangular Sports (ISP) Competition 2023, Handbell (B Boys) - 2nd Place<br>
-Inter School Pentangular Sports (ISP) Competition 2023, Netball (C Girls) - 1st Place <br>
-EZ Sports Carnival 2018 - 3rd in Frisbee Games<br>
-EZ Sports Carnival 2016 - 1st in Frisbee Games<br>
+Inter School Christian Club Challenge 2023 - 2nd <br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handbell (B Boys) - 2nd <br>
+Inter School Pentangular Sports (ISP) Competition 2023, Netball (C Girls) - 1st <br>
+EZ Sports Carnival 2018, in Frisbee Games - 3rd <br>
+EZ Sports Carnival 2016, in Frisbee Games - 1st <br>
 
 **Our Teachers** <br> 
 Ms Lam Mei Lan  
