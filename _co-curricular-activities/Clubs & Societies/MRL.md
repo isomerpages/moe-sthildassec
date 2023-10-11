@@ -13,18 +13,15 @@ MRL
 
 Click&nbsp;[here](/files/CCA/MRL%202016.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**
+**When We Meet** <br>
 
 Fridays:&nbsp;3:30pm - 5:30pm
 
 We meet at the school library (level 2)
 
 
-#### Achievements
+**Our Achievements**<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Girls) – 3rd 
 
-**East Zone Sports Carnival**
-
-####  Teachers In-Charge &amp; Instructors
-
-**Teachers**  
-Ms Elaine Teng
+**Our Teachers** <br>
+Mr Richard Lian
