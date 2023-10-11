@@ -15,27 +15,19 @@ PA/AVA Club
 Click&nbsp;[here](/files/CCA/PA%20Crew%20School%20Website.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**  
-  
-**\*Secondary 1 first day of CCA:**  
-**Tuesday, 25th Jan 2022 - 3.30pm**  
-**Attire:**&nbsp;**School uniform with PE top**<br>
-
-Tuesdays:&nbsp;3:30pm - 5:30pm<br>
-Fridays:&nbsp;3:30pm - 5:30pm
-
-MPH, SAC, GO &amp; Library
+Tuesday: 3.30pm - 5.30pm<br>
+Friday:3.30pm - 530pm<br>
+MPH, SAC, GO & Library
 
 
 #### Achievements
-
-**Zonal PA Day friendly Competition**  
-1st Position - 2019  
-  
-**ISP (Sports Competition) 2019**  
-Team Awards - Floorball &amp; Badminton
+Inter School Pentangular Sports (ISP) Competition 2023, Basketball (C Boys) - 1st Place<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Boys) - 1st Place<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (C Girls) - 2nd Place<br>
 
 ####  Teachers In-Charge &amp; Instructors
 
 **Teachers**  
 Mr Chales Neo  
 Mr Noornizar
+Mr Daniel Phua
