@@ -31,8 +31,6 @@ Fridays:&nbsp;2:30pm - 5:45pm<br>
 2018 National Schools Hockey Championship ‘C’ Div&nbsp;- Top 8<br>
 2017 National Schools Hockey Championship ‘B’ Div&nbsp;- 3rd <br>
 2017 National Schools Hockey Championship ‘C’ Div&nbsp;- 4th  <br>
-2016 National Schools Hockey Championship ‘B’ Div&nbsp;- 3rd <br>
-2016 National Schools Hockey Championship ‘C’ Div&nbsp;- 2nd<br>
 
 **Our Teachers** <br>
 Mr Caleb Khoo<br> 
