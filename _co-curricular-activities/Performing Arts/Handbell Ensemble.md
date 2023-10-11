@@ -24,6 +24,7 @@ Mac Lab (Level 4) / Auditorium (Level 3)
 
 #### Achievements
 Singapore International Choral Festival 2023 - Silver Award<br>
+
 **Singapore Youth Festival - Performing Arts**<br>
 2023 - Certificate of Accomplishment<br>
 2019 - Certificate of Accomplishment<br>
