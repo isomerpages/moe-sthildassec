@@ -22,7 +22,7 @@ Fridays:&nbsp;2:30pm - 5:30pm
 Mac Lab (Level 2) / Auditorium (Level 3)
 
 **Our Achievements**<br>
-Singapore International Choral Festival 2023 - Silver Award<br><br>
+Singapore International Choral Festival 2023 - Silver Award<br>
 
 Singapore Youth Festival - Performing Arts  <br>
 2023 - Certificate of Accomplishment<br>
