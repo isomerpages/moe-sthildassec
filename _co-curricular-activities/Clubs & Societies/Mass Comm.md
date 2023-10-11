@@ -15,17 +15,15 @@ Mass Comm
 
 Click&nbsp;[here](/files/CCA/masscom.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**  
+**When We Meet** <br>
 Friday: 2.15pm - 5.30pm<br>
 Computer Lab 3 (Level 2)<br>
 
 
-#### Achievements
-Inter School Pentangular Sports (ISP) Competition 2023, Handball (C Boys) - 2nd Place<br>
-Inter School Pentangular Sports (ISP) Competition 2023, Basketball (C Boys) - 3rd Place<br>
+**Our Achievements**<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (C Boys) - 2nd <br>
+Inter School Pentangular Sports (ISP) Competition 2023, Basketball (C Boys) - 3rd <br>
 
-####  Teachers In-Charge &amp; Instructors
-
-**Teachers**  
+**Our Teachers** <br>
 Mdm Ramna  
 Mdm Marhaini
