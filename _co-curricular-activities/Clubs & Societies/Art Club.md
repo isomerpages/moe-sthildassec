@@ -18,9 +18,8 @@ Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out mor
 **\*Secondary 1 first day of CCA:**  
 **Friday, 28th Jan 2022 - 2.30pm  
 Art Room @ Level 3**
-**Attire:**&nbsp;**School uniform with PE top**<br><br>
-Tuesdays:&nbsp;3:30pm - 5:30pm  
-Friday: 2.30pm - 4.30pm  
+**Attire:**&nbsp;**School uniform with PE top**<br><br>  
+Friday (Term 1): 2.30pm - 4.30pm  
   
 
 Art Room @ Level 3
@@ -35,4 +34,4 @@ Art Room @ Level 3
 
 **Teachers**  
 Mr Gopal  
-Mdm Norhani
+Ms Junaidah
