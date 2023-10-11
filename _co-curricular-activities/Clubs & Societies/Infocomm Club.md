@@ -17,15 +17,13 @@ Infocomm Club
 Click&nbsp;[here](/files/CCA/Robotics.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**<br><br>
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 3.30pm  
-Big Room @ Level 3 D&amp;T Block**
-**Attire:**&nbsp;**School uniform with PE top**<br><br>
+Tuesday: 3.30pm - 5.30pm<br>
 
-Tuesdays:&nbsp;3.30pm - 5.30pm
+Computer Lab 1 and 2 (Level 4)<br>
 
 
 #### Achievements
+Inter School Pentangular Sports (ISP) Competition 2022, Basketball (B Boys) - 1st Place<br>
 
 **ITE College East Robotics Challenge**  
 1st - Creative Category 2019  
@@ -37,3 +35,4 @@ Best Design Award - 2018
 
 **Teachers**  
 Mr Steve Tay Yong Teck
+Mdm Ng Puay Hoon 
