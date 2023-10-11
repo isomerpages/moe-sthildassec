@@ -12,21 +12,17 @@ Cross Train
 
 #### About Us
 
-Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to find out more!
+Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to find out more!  
 
-**<u>Training Schedule</u>**<br><br>
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2pm  
-Cross Road @ Level 1**<br>
-**Attire:**&nbsp;**School uniform with PE top**<br><br>
-Fridays:&nbsp;2.00pm - 5.00pm  
-  
-
-Cross Road Centre (CRC) @ Level 1
+Friday: 2.15pm to 4.45pm
+Tuesday: 3.30pm to 4.30pm (Selected student leaders' training)
+Cross Road Centre (CRC) @ Level 1 / Chapel of Christ the Redeemer (CCR) @ Level 2
 
 
 #### Achievements
-
+Inter School Christian Club Challenge 2023 - 2nd Place
+Inter School Pentangular Sports (ISP) Competition 2023, Handbell (B Boys) - 2nd Place
+Inter School Pentangular Sports (ISP) Competition 2023, Netball (C Girls) - 1st Place 
 **East Zone Sports Carnival**<br>
 EZ Sports Carnival 2018 - 3rd in Frisbee Games  
 EZ Sports Carnival 2016 - 1st in Frisbee Games
@@ -35,4 +31,3 @@ EZ Sports Carnival 2016 - 1st in Frisbee Games
 
 **Teachers**  
 Ms Lam Mei Lan  
-Ms Hazel Lim
