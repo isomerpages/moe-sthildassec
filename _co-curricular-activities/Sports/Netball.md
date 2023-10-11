@@ -18,59 +18,22 @@ Click&nbsp;[**here**](/files/CCA/Netball.pdf)&nbsp;to know more about us!
 Click below to access our DSA e-brochure!  
 &nbsp;[DSA\_Netball.pdf](/files/CCA/DSA_Netball.pdf)
   
-**<u>Training Schedule</u>**
+**When We Meet** <br>
+Tuesdays &amp; Thursdays:&nbsp;3:30pm - 6:30pm<br>
 
-Tuesdays &amp; Thursdays:&nbsp;3:30pm - 6:30pm
+**Our Achievements**<br>
+2023 East Zone Schools Netball Championship B Division – 2nd<br>
+2023 Nationals Schools Netball Championship B Division – Top 8<br>
+2023 East Zone Schools Netball Championship C Division – 2nd<br>
+2022 East Zone Schools Netball Championship B Division – Champions<br>
+2022 East Zone Schools Netball Championship C Division – 4th<br>
+2019 East Zone Schools Netball Championship B Division - 2nd<br>
+2019 National Schools Netball Championship B Division - 2nd<br>
+2019 East Zone Schools Netball Championship C Division - Champions<br>
+2019 National Schools Netball Championship C Division - 4th<br>
 
-#### Achievements
-
-**2023**<br>
-East Zone Schools Netball Championship B Div – 2nd
-
-**2022**<br>
-East Zone Schools Netball Championship B Div – Champions<br>
-East Zone Schools Netball Championship C Div – 4th
-
-**2019**  
-East Zone Schools Netball Championship 'B' Div -&nbsp;**2nd**  
-East Zone Schools Netball Championship 'C' Div -&nbsp;**Champions**  
-National Schools Netball Championship 'B' Div -&nbsp;**2nd**  
-National Schools Netball Championship 'C' Div -&nbsp;**4th**
-
-**SSSC Colours (Team Award) 2019**
-
-Netball ‘B’ Team  
-Netball ‘C’ Team
-
+SSSC Colours (Team Award) 2019<br>
+Netball ‘B’ Team<br>  Netball ‘C’ Team<br>
   
-
-  
-
-**2018**  
-National Schools Netball Championship 'C' Div – 2nd&nbsp;  
-East Zone Schools Netball Championship ‘B’ Div– 3rd  
-East Zone Schools Netball Championship ‘C’ Div&nbsp;– Champions
-
-  
-
-**2017**  
-East Zone Schools Netball Championship ‘B’ Div - 3rd  
-East Zone Schools Netball Championship 'C' Div - Champions  
-National Schools Netball Championship ‘B’ Div - 4th
-
-  
-
-**SSSC Colours (Team Award) 2017**  
-Netball ‘B’ Team
-
-  
-
-**2016**  
-East Zone Schools Netball Championship ‘C’ Div – Champions  
-National Netball Championship C Div – Top 8
-
-
-#### Teachers-In-Charge
-
-Ms Tan Yen Lin (IC)  
-Ms Deng Lan
+**Our Teachers** <br>
+Ms Tan Yen Lin<br>  Ms Deng Lan<br>
