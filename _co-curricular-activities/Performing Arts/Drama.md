@@ -30,9 +30,7 @@ Blackbox (Level 2)
 2017 -&nbsp;Certificate of Distinction  
 2015 -&nbsp;Certificate of Distinction
 
-####  Teachers In-Charge &amp; Coach
-
-**Teachers**  
+####  Teachers In-Charge &amp; 
 Mdm Michelle  
 Mdm Ramona  
   
