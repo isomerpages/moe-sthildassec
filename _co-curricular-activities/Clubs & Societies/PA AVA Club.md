@@ -15,8 +15,8 @@ PA/AVA Club
 Click&nbsp;[here](/files/CCA/PA%20Crew%20School%20Website.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**  
-Tuesday: 3.30pm - 5.30pm<br>
-Friday:3.30pm - 530pm<br>
+Tuesday:3.30pm - 5.30pm<br>
+Friday:3.30pm - 5.30pm<br>
 MPH, SAC, GO & Library
 
 
