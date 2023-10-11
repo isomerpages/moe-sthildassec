@@ -18,7 +18,6 @@ Click&nbsp;[here](/files/CCA/Robotics.pdf)&nbsp;to find out more!
 
 **<u>Training Schedule</u>**<br><br>
 Tuesday: 3.30pm - 5.30pm<br>
-
 Computer Lab 1 and 2 (Level 4)<br>
 
 
