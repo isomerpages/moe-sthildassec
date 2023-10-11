@@ -16,21 +16,18 @@ Your musical journey begins here! One note at a time, Together as an Ensemble!
 
 Click&nbsp;[here](/files/CCA/SHSS%20Guitar%20Ensemble.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**  
+**When We Meet** <br>
 Tuesday: 3.30pm - 5.30pm<br>
 Fridays:2.00pm - 5.00pm<br>
 
 Performing Arts Studio (Level 4)<br>
 
-#### Achievements
-
-**Singapore Youth Festival - Performing Arts**<br>
+**Our Achievements**<br>
+Singapore Youth Festival - Performing Arts<br>
 2023 - Certificate of Accomplishment<br>
 2019 - Certificate of Accomplishment<br>
-2017 -&nbsp;Certificate of Accomplishment<br>
+2017 - Certificate of Accomplishment<br>
 
-####  Teachers In-Charge &amp; Instructors
-
-**Teachers**  
+**Our Teachers** <br>
 Mr Jeremy Wee<br>
 Mdm Nurinda<br>
