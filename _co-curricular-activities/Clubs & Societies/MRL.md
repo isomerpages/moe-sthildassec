@@ -17,7 +17,7 @@ Click&nbsp;[here](/files/CCA/MRL%202016.pdf)&nbsp;to find out more!
 
 Fridays:&nbsp;3:30pm - 5:30pm
 
-We meet at the school library (level 2)
+School library (level 2)
 
 
 **Our Achievements**<br>
