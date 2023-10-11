@@ -25,7 +25,7 @@ Blackbox (Level 2)
 #### Achievements
 
 **Singapore Youth Festival - Performing Arts**<br>
-2023 - Certificate of Achievement
+2023 - Certificate of Achievement<br>
 2019 -&nbsp;Certificate of Distinction<br>
 2017 -&nbsp;Certificate of Distinction  
 2015 -&nbsp;Certificate of Distinction
