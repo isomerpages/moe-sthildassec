@@ -15,27 +15,16 @@ National Civil Defence Cadet Corps
 
 Click&nbsp;[here](/files/CCA/Introduction%20to%20NCDCC%20SHSS.pdf)&nbsp;to know more!
 
-**<u>Training Schedule</u>**  
-
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.45pm  
-SAC Courtyard 1  
-Attire: PE Attire**
-
+**When We Meet** <br>
 Friday: 2:45pm - 6:15pm
 
-#### Achievements
+**Our Achievements**<br>
+2022 NCDCC Unit Proficiency Award – Gold Award
+2021 NCDCC Unit Proficiency Award – Gold Award
+2020 NCDCC Unit Proficiency Award – Gold Award
+2019 NCDCC Unit Proficiency Award – Gold Award
 
-**NCDCC Unit Proficiency Award**  
-Gold Award - 2019  
-Gold Award - 2018  
-Gold Award - 2017  
-Gold Award - 2016
-
-#### Teachers-In-Charge
-
-**Teachers**  
-Mr Daniel Liu (IC)  
-Ms Peh Hui Shan  
+**Our Teachers** <br>
 Mr Bari  
-Mr Lee Junyi
+Mr Huang Yu Ming
+Mdm Juwaidah
