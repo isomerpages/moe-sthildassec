@@ -10,7 +10,7 @@ Art Club
 ![](/images/CCA/Art%20Club%202023.png)
 
 #### What We Do
-Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We exposed students to different media such as ceramics, batik painting, digital art and many more.
+Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We expose students to different media such as ceramics, batik painting, digital art and many more.
 
 **When We Meet** <br>
 Tuesdays: 3:30pm - 5:30pm<br>
@@ -31,5 +31,5 @@ Singapore Youth Festival - Visual Arts<br>
 Mr Gopal  
 Ms Junaidah
 
-**Learn More**
+**Learn More** <br>
 Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!
