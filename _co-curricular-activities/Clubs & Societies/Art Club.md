@@ -9,7 +9,7 @@ Art Club
 
 ![](/images/CCA/Art%20Club%202023.png)
 
-#### What We Do
+**What We Do** <br>
 Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We expose students to different media such as ceramics, batik painting, digital art and many more.
 
 **When We Meet** <br>
