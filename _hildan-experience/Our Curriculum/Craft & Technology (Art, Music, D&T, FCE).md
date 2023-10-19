@@ -10,7 +10,7 @@ third_nav_title: Our Curriculum
 
 **What We Desire**
 
-Empathetic and Self-directed Problem Solvers who are future-ready and be able to contribute give back to the community.
+Empathetic and Self-directed Problem Solvers who are future-ready and be able to contribute back to the community.
 
 **Subjects We Offer**
 
