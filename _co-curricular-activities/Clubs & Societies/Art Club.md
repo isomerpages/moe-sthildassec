@@ -9,9 +9,8 @@ Art Club
 
 ![](/images/CCA/Art%20Club%202023.png)
 
-#### About Us
-
-Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!
+#### What We Do
+Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We exposed students to different media such as ceramics, batik painting, digital art and many more.
 
 **When We Meet** <br>
 Tuesdays: 3:30pm - 5:30pm<br>
@@ -19,6 +18,8 @@ Friday: 2.30pm - 4.30pm<br>
 
 Art Room @ Level 3
 
+**What We Value** <br>
+Commitment & Excellence
 
 **Our Achievements**<br>
 Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Girls) – 3rd 
@@ -29,3 +30,6 @@ Singapore Youth Festival - Visual Arts<br>
 **Our Teachers** <br>
 Mr Gopal  
 Ms Junaidah
+
+**Learn More**
+Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!
