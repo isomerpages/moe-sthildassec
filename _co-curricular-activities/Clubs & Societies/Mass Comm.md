@@ -8,7 +8,7 @@ Mass Comm
 ---------
 
 
-![](/images/CCA/Mass%20Comm.jpg)
+![](/images/CCA/Mass%20Comm%202023.png)
 
 
 #### About Us
