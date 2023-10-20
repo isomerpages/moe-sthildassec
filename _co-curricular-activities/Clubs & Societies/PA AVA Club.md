@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 PA/AVA Club
 -----------
 
-![](/images/Hildan%20Experience/CCA/pa%20club.jpg)
+![](/images/CCA/PA%20Club%202023.png)
 
 
 #### About Us
