@@ -7,7 +7,7 @@ third_nav_title: Sports
 Hockey
 ------
 
-![](/images/CCA/Hockey_2019.jpg)
+![](/images/Hildan%20Experience/CCA/hockey.jpg)
 
 
 #### About Us
@@ -25,7 +25,7 @@ Fridays:&nbsp;2:30pm - 5:45pm<br>
 
 
 **Our Achievements**<br>
-2023 National Schools Hockey Bowl & Plate Competition (‘B’ Boys) – 3rd<br>
+2023 National Schools Hockey Bowl &amp; Plate Competition (‘B’ Boys) – 3rd<br>
 2019 National Schools Hockey Championship ‘B’ Div&nbsp;- Top 6<br>
 2018 National Schools Hockey Championship ‘B’ Div&nbsp;- Top 6<br> 
 2018 National Schools Hockey Championship ‘C’ Div&nbsp;- Top 8<br>
