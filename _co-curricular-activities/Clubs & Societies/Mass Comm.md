@@ -7,8 +7,7 @@ third_nav_title: Clubs & Societies
 Mass Comm
 ---------
 
-
-![](/images/CCA/Mass%20Comm%202023.png)
+![](/images/Hildan%20Experience/CCA/mass%20comm.jpg)
 
 
 #### About Us
