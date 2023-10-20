@@ -7,8 +7,7 @@ third_nav_title: Sports
 Floorball Girls
 ---------------
 
-
-![](/images/CCA/Floorball%20Girls.jpg)
+![](/images/Hildan%20Experience/CCA/floorball%20girls.jpg)
 
 
 #### About Us
