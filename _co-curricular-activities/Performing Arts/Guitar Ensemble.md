@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 Guitar Ensemble
 ---------------
 
-![](/images/CCA/Guitar.jpg)
+![](/images/Hildan%20Experience/CCA/guitar%20ensemble.jpg)
 
 
 #### About Us
