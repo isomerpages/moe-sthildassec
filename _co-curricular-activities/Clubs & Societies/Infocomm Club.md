@@ -7,9 +7,7 @@ third_nav_title: Clubs & Societies
 Infocomm Club
 -------------
 
-
-
-![](/images/CCA/Infocomm%20Club.jpg)
+![](/images/Hildan%20Experience/CCA/infocomm.jpg)
 
 
 #### About Us
