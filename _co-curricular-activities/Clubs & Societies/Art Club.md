@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 Art Club
 --------
 
-![](/images/CCA/Art%20Club%202023.png)
+![](/images/Hildan%20Experience/CCA/art%20and%20craft.jpg)
 
 **What We Do** <br>
 Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We expose students to different media such as ceramics, batik painting, digital art and many more.
@@ -19,7 +19,7 @@ Friday: 2.30pm - 4.30pm<br>
 Art Room @ Level 3
 
 **What We Value** <br>
-Commitment & Excellence
+Commitment &amp; Excellence
 
 **Our Achievements**<br>
 Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Girls) – 3rd 
