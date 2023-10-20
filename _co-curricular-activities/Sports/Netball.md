@@ -7,8 +7,7 @@ third_nav_title: Sports
 Netball
 -------
 
-
-![](/images/CCA/Netball.jpg)
+![](/images/Hildan%20Experience/CCA/netball.jpg)
 
 
 #### About Us
