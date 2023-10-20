@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 Hildan Chorale
 --------------
 
-![](/images/CCA/Chorale.png)
+![](/images/Hildan%20Experience/CCA/choir_cca.jpg)
 
 #### About Us
 
