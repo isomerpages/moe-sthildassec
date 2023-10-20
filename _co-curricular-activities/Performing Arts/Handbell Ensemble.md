@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 Handbell Ensemble
 -----------------
 
-![](/images/CCA/Handbell.jpeg)
+![](/images/Hildan%20Experience/CCA/handbell.jpg)
 
 
 #### About Us
