@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 National Civil Defence Cadet Corps
 ----------------------------------
 
-![](/images/CCA/NCDCC.jpg)
+![](/images/Hildan%20Experience/CCA/ncdcc_cca.jpg)
 
 
 
