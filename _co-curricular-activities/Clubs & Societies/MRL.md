@@ -6,7 +6,8 @@ third_nav_title: Clubs & Societies
 ---
 MRL
 ---
-<img src="/images/CCA/MRL.jpeg" style="width:65%">
+
+![](/images/Hildan%20Experience/CCA/mrl_cca.jpg)
 
 
 #### About Us
