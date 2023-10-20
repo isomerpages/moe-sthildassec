@@ -7,8 +7,7 @@ third_nav_title: Performing Arts
 Drama
 -----
 
-
-![](/images/CCA/Dram2.png)
+![](/images/Hildan%20Experience/CCA/drama_cca.jpg)
 
 
 #### About Us
@@ -31,5 +30,4 @@ Singapore Youth Festival - Performing Arts<br>
 
 **Our Teachers** <br>
 Mdm Michelle  
-Mdm Ramona  
-  
+Mdm Ramona
