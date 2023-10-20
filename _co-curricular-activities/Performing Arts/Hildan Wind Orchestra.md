@@ -7,8 +7,7 @@ third_nav_title: Performing Arts
 Hildan Wind Orchestra
 ---------------------
 
-
-<img src="/images/CCA/Wind%20Orchestra.jpg" style="width:75%">
+![](/images/Hildan%20Experience/CCA/wind%20orchestra.jpg)
 
 
 #### About Us
