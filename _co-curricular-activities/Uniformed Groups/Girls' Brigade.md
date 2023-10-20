@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 Girls' Brigade
 --------------
 
-![](/images/CCA/GB%20Enrolment%206.jpg)
+![](/images/Hildan%20Experience/CCA/girls%20brigade.jpg)
 
 
 #### About Us
