@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 Cross Train
 -----------
 
-![](/images/CCA/Cross%20Train.jpg)
+![](/images/Hildan%20Experience/CCA/cross%20train.jpg)
 
 
 #### About Us
@@ -28,4 +28,4 @@ EZ Sports Carnival 2018, in Frisbee Games - 3rd <br>
 EZ Sports Carnival 2016, in Frisbee Games - 1st <br>
 
 **Our Teachers** <br> 
-Ms Lam Mei Lan  
+Ms Lam Mei Lan
