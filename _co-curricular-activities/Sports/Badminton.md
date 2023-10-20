@@ -7,7 +7,7 @@ third_nav_title: Sports
 Badminton
 ---------
 
-![](/images/CCA/badminton.jpg)
+![](/images/Hildan%20Experience/CCA/badminton.jpg)
 
 
 #### About Us
