@@ -8,7 +8,7 @@ Boys' Brigade
 -------------
 
 
-![](/images/CCA/BB.jpg)
+![](/images/Hildan%20Experience/CCA/boys%20brigade.jpg)
 
 
 #### About Us
