@@ -7,7 +7,7 @@ third_nav_title: Sports
 Volleyball Girls
 ----------------
 
-![](/images/CCA/VB%20Girls.jpg)
+![](/images/Hildan%20Experience/CCA/volleyball%20girls.jpg)
 
 
 #### About Us
