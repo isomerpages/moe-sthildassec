@@ -7,7 +7,7 @@ third_nav_title: Sports
 Floorball Girls
 ---------------
 
-![](/images/CCA/Floorball 2023.png)
+![](/images/CCA/Floorball%202023.png)
 
 
 **What We Do** <br> 
