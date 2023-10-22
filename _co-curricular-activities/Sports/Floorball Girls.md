@@ -38,5 +38,4 @@ Mdm Nisha Ishwardas Rajwani <br>
 
 **Learn More** <br>
 Click&nbsp;[**here**](/files/CCA/Floorball%20Girls%20Who%20we%20are%202021.pdf)&nbsp;to know more about us!  
-Click below to access our DSA e-brochure!  
-[DSA\_Floorball.pdf](/files/CCA/DSA_Floorball.pdf)
+Click&nbsp;[**here**][DSA\_Floorball.pdf](/files/CCA/DSA_Floorball.pdf)&nbsp; to access our DSA e-brochure!  
