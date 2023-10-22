@@ -7,18 +7,20 @@ third_nav_title: Sports
 Badminton
 ---------
 
-![](/images/Hildan%20Experience/CCA/badminton.jpg)
+![](images/CCA/Badminton&202023.png)
 
 
-#### About Us
+**What We Do** <br>
 
-Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to know more about us!
   
 **When We Meet** <br>
 Mondays: 3.30pm - 6.00pm<br>
 Fridays: 2.30pm - 5.30pm<br>
 
 MPH (Level 4)<br>
+
+**What We Value** <br>
+Caring, Confidence & Discipline <br>
 
 **Our Achievements**<br>
 2017 East Zone Schools Badminton Championship ‘B’ Div -&nbsp;4th<br>
