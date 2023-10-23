@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 Cross Train
 -----------
 
-![](/images/CCA/Cross%20Train@202023.png)
+![](/images/CCA/Cross%20Train%202023.png)
 
 
 **What We Do** <br>
