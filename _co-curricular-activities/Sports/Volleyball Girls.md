@@ -7,16 +7,12 @@ third_nav_title: Sports
 Volleyball Girls
 ----------------
 
-![](/images/Hildan%20Experience/CCA/volleyball%20girls.jpg)
+![](/images/CCA/Volleyball%20Girls%202023.png)
 
 
-#### About Us
+**What We Do** <br>
 
-Click&nbsp;**[here](/files/CCA/VB_Girls_PPT.pdf)**&nbsp;for more info about us!  
-  
-Click below to access our DSA e-brochure!  
-[DSA\_Volleyball\_Girls.pdf](/files/CCA/DSA_Volleyball_Girls.pdf)
-  
+As a Volleyball team, we aim for excellence and develop student athletes into well-balanced individual with good academics.
 
 **When We Meet** <br>
 **Secondary 1**  
@@ -31,6 +27,8 @@ Wednesdays: 3.30pm – 6.30pm<br>
 Tuesdays: 3.30pm – 6.30pm<br>
 Wednesdays: 3.30pm – 6.30pm<br>
 
+**What We Value** <br>
+Excellence & Discipline <br>
 
 **Our Achievements**<br>
 2023 East Zone Schools Volleyball Championship C Division – 3rd<br>
@@ -42,3 +40,7 @@ Wednesdays: 3.30pm – 6.30pm<br>
 Ms Ong Gui Li<br>
 Ms Hung Siau Moon<br>
 Ms Cindy Tan  <br>
+
+**Learn More** <br>
+Click&nbsp;**[here](/files/CCA/VB_Girls_PPT.pdf)**&nbsp;for more info about us! <br>
+Click&nbsp;**[here](/files/CCA/DSA_Volleyball_Girls.pdf)**&nbsp;to access our DSA e-brochure!  
