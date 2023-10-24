@@ -30,7 +30,7 @@ Singapore Youth Festival - Performing Arts  <br>
 2019 - Distinction  <br>
 2017 - Distinction <br>
   
-11th Orientale Concentus International Choral Festival 
+11th Orientale Concentus International Choral Festival <br>
 Equal Voices, Junior Category - Gold (Grade III) <br>
 Equal Voices, Junior Category -&nbsp;Silver (Grade I) <br>
 
