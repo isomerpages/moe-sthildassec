@@ -37,4 +37,4 @@ Mr Sulaiman Azmi Bin Mohd Daud <br>
 
 **Learn More** <br>
 Click&nbsp;**[here](/files/CCA/HockeyOrientation_2021_intro.pdf)**&nbsp;to know more about us!  <br>
-Click&nbsp;**[here](/DSA\_Hockey.pdf](/files/CCA/DSA_Hockey.pdf)**&nbsp;to access our DSA e-brochure!
+Click&nbsp;**[here](DSA\_Hockey.pdf](/files/CCA/DSA_Hockey.pdf)**&nbsp;to access our DSA e-brochure!
