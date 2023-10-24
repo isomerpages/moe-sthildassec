@@ -10,7 +10,7 @@ Hockey
 ![](/images/CCA/Hockey%202023.png)
 
 
-**What We Do**
+**What We Do** <br>
 As a team, we pursue excellence in both character and academics. As student athletes, we aim to be disciplined sports leaders. <br>
 
 **When We Meet** <br>
@@ -19,7 +19,7 @@ Fridays:&nbsp;2:30pm - 5:45pm<br>
 
 Hockey Pitch (Level 5)<br>
 
-*What We Value**<br>
+**What We Value**<br>
 Caring, Confident & Discipline <br>
 
 **Our Achievements**<br>
