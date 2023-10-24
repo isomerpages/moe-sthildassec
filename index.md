@@ -16,6 +16,7 @@ sections:
       button: Register
       url: https://forms.moe.edu.sg/forms/vVgw6J
       image: /images/e-open house_v2.png
+      alt: SHSS E-Open House 2023
   - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
