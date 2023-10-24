@@ -17,7 +17,7 @@ Hildan Wind Orchestra aims to encourage more passionate musicians to see the ban
 Main Band - Tuesdays :&nbsp;3.45pm - 6.00pm, Saturdays 8.00am - 12.00pm&nbsp;<br>
 Junior Band Practice - Thursdays:&nbsp;3:45pm - 6:00pm
 
-Band room! (Level 2)
+Band room (Level 2)
 
 **What We Value** <br>
 Responsibility, Integrity, Care, Commitment, & Disciplined <br>
