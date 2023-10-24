@@ -13,8 +13,8 @@ sections:
       subtitle: Calling all p6 parents!
       id: infopic
       description: Curious to know how we develop our students into Confident,
-        Disciplined, and Caring Leaders throughout their secondary school
-        journey? Registration ends 22/11!
+        Disciplined, & Caring Leaders throughout their secondary school journey?
+        Hurry & register by 22/11!
       button: Register
       url: https://forms.moe.edu.sg/forms/vVgw6J
       image: /images/e-open house_v2.png
