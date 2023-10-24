@@ -7,18 +7,17 @@ third_nav_title: Sports
 Netball
 -------
 
-![](/images/Hildan%20Experience/CCA/netball.jpg)
+![](/images/CCA/Netball%202023.png)
 
 
-#### About Us
-
-Click&nbsp;[**here**](/files/CCA/Netball.pdf)&nbsp;to know more about us!  
-  
-Click below to access our DSA e-brochure!  
-&nbsp;[DSA\_Netball.pdf](/files/CCA/DSA_Netball.pdf)
+**What We Do** <br>
+As a Netball team, we aim for excellence, nurtures talent and develop driven young women with upstanding character. <br>
   
 **When We Meet** <br>
 Tuesdays &amp; Thursdays:&nbsp;3:30pm - 6:30pm<br>
+
+**What We Value** <br>
+Discipline, Commitment, Ownership, Caring, Integrity, Recognition, Consistently Seeking (Excellence), Resilience, Reflection, Consolidation, Self-Care, Appreciation & Connecting Contexts <br>
 
 **Our Achievements**<br>
 2023 East Zone Schools Netball Championship B Division – 2nd<br>
@@ -35,4 +34,9 @@ SSSC Colours (Team Award) 2019<br>
 Netball ‘B’ Team<br>  Netball ‘C’ Team<br>
   
 **Our Teachers** <br>
-Ms Tan Yen Lin<br>  Ms Deng Lan<br>
+Ms Tan Yen Lin <br>
+Ms Deng Lan <br>
+
+**Learn More** <br>
+Click&nbsp;[**here**](/files/CCA/Netball.pdf)&nbsp;to know more about us! <br>
+Click &nbsp;[**here**](/files/CCA/DSA_Netball.pdf)&nbsp; to access our DSA e-brochure!  
