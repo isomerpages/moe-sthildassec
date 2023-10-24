@@ -16,6 +16,9 @@ Our NCDCC team aims to develop and empower our youth to be active and concerned 
 **When We Meet** <br>
 Friday: 2:45pm - 6:15pm<br>
 
+**What We Value** <br>
+Noble, Caring, Disciplined, Courageous & Committed <br>
+
 **Our Achievements**<br>
 2022 NCDCC Unit Proficiency Award – Gold Award<br>
 2021 NCDCC Unit Proficiency Award – Gold Award<br>
