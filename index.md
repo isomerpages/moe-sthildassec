@@ -12,7 +12,9 @@ sections:
       title: SHSS E-Open House 2023
       subtitle: Calling all p6 parents!
       id: infopic
-      description: Scan the QR code to register
+      description: Curious to know how we develop our students into Confident,
+        Disciplined, and Caring Leaders throughout their secondary school
+        journey? Registration ends 22/9!
       button: Register
       url: https://forms.moe.edu.sg/forms/vVgw6J
       image: /images/e-open house_v2.png
