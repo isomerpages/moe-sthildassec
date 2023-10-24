@@ -31,7 +31,7 @@ Singapore Youth Festival - Performing Arts<br>
 2015 -&nbsp;Certificate of Distinction
 
 **Our Teachers** <br>
-Mdm Michelle E. Rajlal 
+Mdm Michelle E. Rajlal <br>
 Mdm Ramona Bte Mohd Sidek <br>
 
 **Learn More** <br>
