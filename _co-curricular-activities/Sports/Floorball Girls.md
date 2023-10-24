@@ -20,7 +20,7 @@ B Division: Tue &amp; Thu: 3.15pm – 6.15pm, Fri: Gym at 2pm<br>
 
 School Activity Centre (SAC) / MPH (Level 2)
 
-**What We Value**
+**What We Value** <br>
 Passion, Honour & Unity (caring) <br>
 
 **Our Achievements**<br>
