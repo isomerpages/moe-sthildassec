@@ -7,7 +7,7 @@ third_nav_title: Sports
 Hockey
 ------
 
-![](/images/CCA/Hockey_2019.jpg)
+![](/images/Hildan%20Experience/CCA/hockey.jpg)
 
 
 #### About Us
@@ -19,27 +19,19 @@ Click below to access our DSA e-brochure!
 [DSA\_Hockey.pdf](/files/CCA/DSA_Hockey.pdf)
 
   
-**<u>Training Schedule</u>**  
-
+**When We Meet** <br>
 Tuesdays &amp;&nbsp;Wednesdays:&nbsp;3:30pm - 6:30pm&nbsp;<br>
-Fridays:&nbsp;2:30pm - 5:45pm
+Fridays:&nbsp;2:30pm - 5:45pm<br>
 
 
-#### Achievements
+**Our Achievements**<br>
+2023 National Schools Hockey Bowl &amp; Plate Competition (‘B’ Boys) – 3rd<br>
+2019 National Schools Hockey Championship ‘B’ Div&nbsp;- Top 6<br>
+2018 National Schools Hockey Championship ‘B’ Div&nbsp;- Top 6<br> 
+2018 National Schools Hockey Championship ‘C’ Div&nbsp;- Top 8<br>
+2017 National Schools Hockey Championship ‘B’ Div&nbsp;- 3rd <br>
+2017 National Schools Hockey Championship ‘C’ Div&nbsp;- 4th  <br>
 
-**2019**  
-National Schools Hockey Championship ‘B’ Div&nbsp;- Top 6
-
-**2018**  
-National Schools Hockey Championship ‘B’ Div&nbsp;- Top 6 National Schools Hockey Championship ‘C’ Div&nbsp;Top 8
-
-**2017**  
-National Schools Hockey Championship ‘B’ Div&nbsp;- 3rd National Schools Hockey Championship ‘C’ Div&nbsp;- 4th  
-
-**2017**  
-National Schools Hockey Championship ‘B’ Div&nbsp;- 3rd National Schools Hockey Championship ‘C’ Div&nbsp;- 2nd
-
-#### Teachers-In-Charge
-
-Mr Caleb Khoo(IC)  
-Mr Glenn Wong
+**Our Teachers** <br>
+Mr Caleb Khoo<br> 
+Mr Sulaiman <br>

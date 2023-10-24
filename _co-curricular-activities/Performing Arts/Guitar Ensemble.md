@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 Guitar Ensemble
 ---------------
 
-![](/images/CCA/Guitar.jpg)
+![](/images/Hildan%20Experience/CCA/guitar%20ensemble.jpg)
 
 
 #### About Us
@@ -16,29 +16,18 @@ Your musical journey begins here! One note at a time, Together as an Ensemble!
 
 Click&nbsp;[here](/files/CCA/SHSS%20Guitar%20Ensemble.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**  
-  
-**\*Secondary 1 first day of CCA:**  
-**Tuesday, 25th Jan 2022 - 3.30pm  
-Performing Arts Studio @ Lvl 4 above the general office**  
-**Attire:**&nbsp;**School uniform with PE top**
+**When We Meet** <br>
+Tuesday: 3.30pm - 5.30pm<br>
+Fridays:2.00pm - 5.00pm<br>
 
-Tuesdays :&nbsp;3.30pm - 5.30pm&nbsp;  
-Fridays:&nbsp;2:00pm - 5:00pm
+Performing Arts Studio (Level 4)<br>
 
-We can be found in the Performing Arts Studio @ Level 4!
+**Our Achievements**<br>
+Singapore Youth Festival - Performing Arts<br>
+2023 - Certificate of Accomplishment<br>
+2019 - Certificate of Accomplishment<br>
+2017 - Certificate of Accomplishment<br>
 
-#### Achievements
-
-**Singapore Youth Festival - Performing Arts**<br>
-2019 - Certificate of Accomplishment  
-2017 -&nbsp;Certificate of Accomplishment
-
-####  Teachers In-Charge &amp; Instructors
-
-**Teachers**  
-Mr Daniel Phua  
-Mdm Nurinda  
-  
-**Instructor**  
-Mr Alvin Choong
+**Our Teachers** <br>
+Mr Jeremy Wee<br>
+Mdm Nurinda<br>

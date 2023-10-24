@@ -7,25 +7,25 @@ third_nav_title: Sports
 Badminton
 ---------
 
-![](/images/CCA/badminton.jpg)
+![](/images/CCA/Badminton%202023.png)
 
 
-#### About Us
+**What We Do** <br>
 
-Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to know more about us!
   
-**<u>Training Schedule</u>**
+**When We Meet** <br>
+Mondays: 3.30pm - 6.00pm<br>
+Fridays: 2.30pm - 5.30pm<br>
 
-Mondays:&nbsp;3.30pm - 6.00pm&nbsp;  
-Fridays:&nbsp;2:30pm - 5:30pm
+MPH (Level 4)<br>
 
+**What We Value** <br>
+Caring, Confidence & Discipline <br>
 
-#### Achievements
+**Our Achievements**<br>
+2017 East Zone Schools Badminton Championship ‘B’ Div -&nbsp;4th<br>
 
-**2017**  
-East Zone Schools Badminton Championship ‘B’ Div -&nbsp;4th
-
-####  Teachers In-Charge
-
+**Our Teachers** <br>
 Mr Teo Jun Jie<br>
-Mr Osman
+Mr Kalliyaperumal Govindasamy<br>
+Ms Eileen Ong<br>

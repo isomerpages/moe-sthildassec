@@ -7,32 +7,29 @@ third_nav_title: Clubs & Societies
 Art Club
 --------
 
-![](/images/CCA/Art%20Club%201.png)
+![](/images/CCA/Art%20Club%202023.png)
 
+**What We Do** <br>
+Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We expose students to different media such as ceramics, batik painting, digital art and many more.
 
-#### About Us
-
-Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!
-
-**<u>Training Schedule</u>**<br>
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.30pm  
-Art Room @ Level 3**
-**Attire:**&nbsp;**School uniform with PE top**<br><br>
-Tuesdays:&nbsp;3:30pm - 5:30pm  
-Friday: 2.30pm - 4.30pm  
-  
+**When We Meet** <br>
+Tuesdays: 3:30pm - 5:30pm<br>
+Friday: 2.30pm - 4.30pm<br>
 
 Art Room @ Level 3
 
+**What We Value** <br>
+Commitment &amp; Excellence
 
-#### Achievements
+**Our Achievements**<br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handball (B Girls) – 3rd 
 
-**Singapore Youth Festival - Visual Arts**<br>
+Singapore Youth Festival - Visual Arts<br>
 2019 - Certificate of Accomplishment
 
-#### &nbsp;Teachers In-Charge &amp; Instructors
-
-**Teachers**  
+**Our Teachers** <br>
 Mr Gopal  
-Mdm Norhani
+Ms Junaidah
+
+**Learn More** <br>
+Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!

@@ -8,37 +8,29 @@ National Police Cadet Corps
 ---------------------------
 
 
-![](/images/CCA/NPCC1.png)
+![](/images/Hildan%20Experience/CCA/npcc_cca.jpg)
 
 
 #### About Us
 
 Click&nbsp;[here](/files/CCA/NPCC%20CCA%20Presentation%202021.pdf)&nbsp;to know more!
 
-**Website**:&nbsp;[http://www.npcc.gov.sg/](http://www.npcc.gov.sg/)  **BROKEN LINK**<br>
-**Facebook Page**:&nbsp;[https://www.facebook.com/shssnpcc/Organisation](https://www.facebook.com/shssnpcc/Organisation) **BROKEN LINK**
 
-**<u>Training Schedule</u>**
+**When We Meet** <br>
+Friday: 2:45pm - 6:15pm<br>
 
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.45pm  
-SAC Courtyard 1  
-Attire:PE Attire**
+**Our Achievements**<br>
+2022 NPCC Unit Proficiency Award – Gold Award<br>
+2021 NPCC Unit Proficiency Award – Gold Award<br>
+2020 NPCC Unit Proficiency Award – Gold Award<br>
+2019 NPCC Unit Proficiency Award – Gold Award <br>
 
-Friday: 2:45pm - 6:15pm
+SPF NPCC Award  <br>		
+Koh Siang Hui <br>
+Emily Poh Shi Shan  <br>
 
-#### Achievements
-
-**NPCC Unit Proficiency Award**  
-Gold Award - 2019  
-Gold Award - 2018  
-Gold Award - 2017  
-Gold Award - 2016
-
-#### Teachers-In-Charge
-
-**Teachers**  
-Mr Norsham (IC)  
-Mr Shaik  
-Ms Cui Dongyan  
-Mr Rayyan (HO)
+**Our Teachers** <br>
+Mr Norsham <br>
+Mr Shaik  <br>
+Ms Cui Dongyan  <br>
+Ms Azliza<br>

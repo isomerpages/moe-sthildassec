@@ -7,38 +7,32 @@ third_nav_title: Performing Arts
 Drama
 -----
 
+![](/images/CCA/Drama%20Club%202023.png)
 
-![](/images/CCA/Dram2.png)
 
-
-#### About Us
-
-**Click&nbsp;[here](/files/CCA/dramaclub.pdf)**&nbsp;**to find out more!**  
+**What We Do** <br>
+The Hildan Drama Club is committed to helping the our students realise their dramatic or arts potential and providing opportunities for our members to showcase their talent. <br>
   
-**<u>Training Schedule</u>**  <br><br>
-**\*Secondary 1 first day of CCA:**  
-**Tuesday, 25th Jan 2021 - 3.30pm  
-Black Box (Lvl 2 beside the staff room)**  
-**Attire:**&nbsp;**School uniform with PE top**
+**When We Meet** <br>
+Tuesday: 3.30pm - 5.30pm<br>
+Fridays: 3.00pm - 5.00pm<br>
 
-Tuesdays :&nbsp;3.30pm - 5.30pm&nbsp;<br> &nbsp;
-Fridays:&nbsp;3:00pm - 5:00pm
+Blackbox (Level 2) <br>
 
-Join us at the Black box!
+**What We Value** <br>
+Excellence, Competency, Unity, Caring <br>
 
 
-#### Achievements
-
-**Singapore Youth Festival - Performing Arts**<br>
+**Our Achievements**<br>
+Singapore Youth Festival - Performing Arts<br>
+2023 - Certificate of Achievement<br>
 2019 -&nbsp;Certificate of Distinction<br>
 2017 -&nbsp;Certificate of Distinction  
 2015 -&nbsp;Certificate of Distinction
 
-####  Teachers In-Charge &amp; Coach
+**Our Teachers** <br>
+Mdm Michelle E. Rajlal 
+Mdm Ramona Bte Mohd Sidek <br>
 
-**Teachers**  
-Mdm Michelle  
-Mdm Ramona  
-  
-**Coach**  
-Mr Zam
+**Learn More** <br>
+**Click&nbsp;[here](/files/CCA/dramaclub.pdf)**&nbsp;**to find out more!**  

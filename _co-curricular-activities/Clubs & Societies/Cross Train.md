@@ -7,32 +7,37 @@ third_nav_title: Clubs & Societies
 Cross Train
 -----------
 
-![](/images/CCA/Cross%20Train.jpg)
+![](/images/CCA/Cross%20Train%202023.png)
 
 
-#### About Us
-
-Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to find out more!
-
-**<u>Training Schedule</u>**<br><br>
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2pm  
-Cross Road @ Level 1**<br>
-**Attire:**&nbsp;**School uniform with PE top**<br><br>
-Fridays:&nbsp;2.00pm - 5.00pm  
-  
-
-Cross Road Centre (CRC) @ Level 1
+**What We Do** <br>
+Our CCA vision of “Salt & Light” aims to impact lives. The CCA programmes develop students in: <br>
+- leading self to be a positive influence to his/her peers <br>
+- leading self by learning from each other and bible studies <br>
+- leading others by caring for every individual member, mentoring and leading them in CCA activities. <br>
 
 
-#### Achievements
+**When We Meet** <br>
+Friday: 2.15pm to 4.45pm<br>
+Tuesday: 3.30pm to 4.30pm (Selected student leaders' training)<br>
+Cross Road Centre (CRC) @ Level 1 / Chapel of Christ the Redeemer (CCR) @ Level 2<br>
 
-**East Zone Sports Carnival**<br>
-EZ Sports Carnival 2018 - 3rd in Frisbee Games  
-EZ Sports Carnival 2016 - 1st in Frisbee Games
+**What We Value** <br>
+Commitment , Integrity & Caring <br>
 
-####  Teachers In-Charge &amp; Instructors
+**Our Achievements**<br>
+Inter School Christian Club Challenge 2023 - 2nd <br>
+Inter School Pentangular Sports (ISP) Competition 2023, Handbell (B Boys) - 2nd <br>
+Inter School Pentangular Sports (ISP) Competition 2023, Netball (C Girls) - 1st <br>
+EZ Sports Carnival 2018, in Frisbee Games - 3rd <br>
+EZ Sports Carnival 2016, in Frisbee Games - 1st <br>
 
-**Teachers**  
-Ms Lam Mei Lan  
-Ms Hazel Lim
+**Our Teachers/Instructors** <br> 
+Ms Lam Mei Lan <br>
+Ms Angel Lee <br>
+
+Chaplaincy staff <br>
+Mr Rodney Hong <br>
+
+**Learn More** <br>
+Click&nbsp;[here](/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf)&nbsp;to find out more!  

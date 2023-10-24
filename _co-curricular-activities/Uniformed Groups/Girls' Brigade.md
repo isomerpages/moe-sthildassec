@@ -7,34 +7,25 @@ third_nav_title: Uniformed Groups
 Girls' Brigade
 --------------
 
-![](/images/CCA/GB%20Enrolment%206.jpg)
+![](/images/Hildan%20Experience/CCA/girls%20brigade.jpg)
 
 
 #### About Us
 
 Click&nbsp;[here](/files/CCA/GB%20PPT%20Slides%202021.pdf)&nbsp;to know more!
 
-**<u>Training Schedule</u>**  
-  
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 3.00pm - 6.00pm  
-SAC Courtyard 1  
-Attire: Half - Uniform (School PE shirt with school skirt)**
+**When We Meet** <br>
+Tuesday: 3:30pm - 6:15pm <br> 
+Friday: 2:45pm - 6:15pm<br>
 
-Tuesday: 3:30pm - 6:15pm  
-Friday: 2:45pm - 6:15pm
+**Our Achievements**<br>
 
-#### Achievements
+2022 GB Annual Company Award – Gold Award<br>
+2021 GB Annual Company Award – Silver Award<br>
+2020 GB Annual Company Award – Gold Award<br>
+2019 GB Annual Company Award – Silver Award<br>
 
-**GB Annual Company Award**  
-Gold Award - 2019  
-Silver Award - 2018  
-Silver Award - 2018
-
-#### Teachers-In-Charge
-
-**Teachers**  
-Mrs Jamine Yee (IC)  
-Ms Grace Yan  
-Ms Esther  
-Ms Daphne Huang
+**Our Teachers** <br>
+Ms Daphne Huang<br>
+Mrs Alina Chen<br>
+Ms Weng Chenyan<br>

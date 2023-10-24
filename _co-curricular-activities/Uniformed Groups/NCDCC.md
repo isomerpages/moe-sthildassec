@@ -7,7 +7,7 @@ third_nav_title: Uniformed Groups
 National Civil Defence Cadet Corps
 ----------------------------------
 
-![](/images/CCA/NCDCC.jpg)
+![](/images/Hildan%20Experience/CCA/ncdcc_cca.jpg)
 
 
 
@@ -15,27 +15,18 @@ National Civil Defence Cadet Corps
 
 Click&nbsp;[here](/files/CCA/Introduction%20to%20NCDCC%20SHSS.pdf)&nbsp;to know more!
 
-**<u>Training Schedule</u>**  
+**When We Meet** <br>
+Friday: 2:45pm - 6:15pm<br>
 
-**\*Secondary 1 first day of CCA:**  
-**Friday, 28th Jan 2022 - 2.45pm  
-SAC Courtyard 1  
-Attire: PE Attire**
+**Our Achievements**<br>
+2022 NCDCC Unit Proficiency Award – Gold Award<br>
+2021 NCDCC Unit Proficiency Award – Gold Award<br>
+2020 NCDCC Unit Proficiency Award – Gold Award<br>
+2019 NCDCC Unit Proficiency Award – Gold Award<br>
 
-Friday: 2:45pm - 6:15pm
+SCDF Pinnacle Award   <br>       Natasha Ariana<br>
 
-#### Achievements
-
-**NCDCC Unit Proficiency Award**  
-Gold Award - 2019  
-Gold Award - 2018  
-Gold Award - 2017  
-Gold Award - 2016
-
-#### Teachers-In-Charge
-
-**Teachers**  
-Mr Daniel Liu (IC)  
-Ms Peh Hui Shan  
-Mr Bari  
-Mr Lee Junyi
+**Our Teachers** <br>
+Mr Bari  <br>
+Mr Huang Yu Ming<br>
+Mdm Juwaidah<br>

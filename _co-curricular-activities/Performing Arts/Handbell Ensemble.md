@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 Handbell Ensemble
 -----------------
 
-![](/images/CCA/Handbell.jpeg)
+![](/images/Hildan%20Experience/CCA/handbell.jpg)
 
 
 #### About Us
@@ -16,28 +16,18 @@ Join our Ensemble!
 
 Click&nbsp;[here](/files/CCA/Handbell%20Ensemble%202016.pdf)&nbsp;to find out more!
 
-**<u>Training Schedule</u>**  
+**When We Meet** <br> 
   
-**\*Secondary 1 first day of CCA:**  
-**Tuesday, 25th Jan 2022 - 3.30pm  
-Music Room @ Level 2**  
-**Attire:**&nbsp;**School uniform with PE top**
+Tuesday: 3.30pm - 5.30pm<br>
+Friday: 1.30pm - 6.00pm<br>
+Music room (Level 2)
 
-Tuesdays :&nbsp;3.30pm - 5.30pm&nbsp;  
-Fridays:&nbsp;1:30pm - 6:00pm
+**Our Achievements**<br>
+Singapore Youth Festival - Performing Arts<br>
+2023 - Certificate of Accomplishment<br>
+2019 - Certificate of Accomplishment<br>
+2017 - Certificate of Accomplishment<br>
 
-
-We practice in the Music room @ Level 2!
-
-
-#### Achievements
-
-**Singapore Youth Festival - Performing Arts**<br>
-2019 - Certificate of Accomplishment  
-2017 -&nbsp;Certificate of Accomplishment
-
-####  Teachers In-Charge
-
-**Teachers**  
-Ms Cherlene Lau  
-Ms Thiruchelvan
+**Our Teachers** <br>
+Mdm Norhani<br>
+Ms Thiruchelvan<br>
