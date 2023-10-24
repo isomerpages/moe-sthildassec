@@ -32,5 +32,5 @@ Singapore Youth Festival - Performing Arts<br>
 Mr Jeremy Wee<br>
 Mdm Nurinda Ahmad<br>
 
-**Learn More**
+**Learn More** <br>
 Click&nbsp;[here](/files/CCA/SHSS%20Guitar%20Ensemble.pdf)&nbsp;to find out more!
