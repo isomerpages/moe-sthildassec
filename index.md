@@ -17,7 +17,7 @@ sections:
         Hurry & register by 22/11!
       button: Register
       url: https://forms.moe.edu.sg/forms/vVgw6J
-      image: /images/e-open house_v2.png
+      image: /images/e-open house_v2 (updated).png
       alt: SHSS E-Open House 2023
   - infopic:
       title: We cultivate critical and inventive thinkers.
