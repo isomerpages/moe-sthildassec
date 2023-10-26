@@ -4,28 +4,11 @@ permalink: /hildan-connect/for-students/booklist/
 description: ""
 third_nav_title: For Students
 ---
-Booklist
+Booklist 2024
 --------
 
-##### Secondary 1
-* [Express](/files/Booklist%202023/SHSS%20S1%20(EXP)%20BOOKLIST.pdf)
-* [NA](/files/Booklist%202023/SHSS%20S1%20(NA)%20BOOKLIST.pdf)
-* [NT](/files/Booklist%202023/SHSS%20S1%20(NT)%20BOOKLIST.pdf)
-  
-##### Secondary 2
-* [Express](/files/Booklist%202023/S2%20EXP.pdf)
-* [NA](/files/Booklist%202023/S2%20NA.pdf)
-* [NT](/files/Booklist%202023/S2%20NT.pdf)
-
-##### Secondary 3
-* [Express](/files/Booklist%202023/S3%20EXP.pdf)
-* [NA](/files/Booklist%202023/S3%20NA.pdf)
-* [NT](/files/Booklist%202023/S3%20NT.pdf)
-
-##### Secondary 4
-* [Express](/files/Booklist%202023/S4%20EXP.pdf)
-* [NA](/files/Booklist%202023/S4%20NA.pdf)
-* [NT](/files/Booklist%202023/S4%20NT.pdf)
-
-##### Secondary 5
-* [NA](/files/Booklist%202023/S5%20NA.pdf)
+1. [Sec 1](/files/Booklist%202024/shss%20booklist%20sec1%202024.pdf) 
+2. [Sec 2](/files/Booklist%202024/shss%20booklist%20sec2%202024.pdf)
+3. [Sec 3](/files/Booklist%202024/shss%20booklist%20sec3%202024.pdf)
+4. [Sec 4](/files/Booklist%202024/shss%20booklist%20sec4%202024.pdf)
+5. [Sec 5 NA](/files/Booklist%202024/shss%20booklist%20sec5%20(na)%202024.pdf)
