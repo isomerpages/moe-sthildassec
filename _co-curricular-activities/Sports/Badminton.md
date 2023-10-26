@@ -9,9 +9,6 @@ Badminton
 
 ![](/images/CCA/Badminton%202023.png)
 
-
-**What We Do** <br>
-
   
 **When We Meet** <br>
 Mondays: 3.30pm - 6.00pm<br>

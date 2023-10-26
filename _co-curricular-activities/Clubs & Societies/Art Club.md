@@ -28,8 +28,8 @@ Singapore Youth Festival - Visual Arts<br>
 2019 - Certificate of Accomplishment
 
 **Our Teachers** <br>
-Mr Gopal  
-Ms Junaidah
+Mr Gopal Sawlani <br>
+Ms Junaidah Bte Jumat <br>
 
 **Learn More** <br>
 Click&nbsp;[here](/files/CCA/Welcome%20to%20Art%20Club.pdf)&nbsp;to find out more!

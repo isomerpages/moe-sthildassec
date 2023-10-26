@@ -7,12 +7,11 @@ third_nav_title: Clubs & Societies
 Infocomm Club
 -------------
 
-![](/images/Hildan%20Experience/CCA/infocomm.jpg)
+![](/images/CCA/Info%20Comm%202023.png)
 
-
-#### About Us
-
-Click&nbsp;[here](/files/CCA/Robotics.pdf)&nbsp;to find out more!
+**What We Do** <br>
+Robotics club aims to equip club members in multi-disciplinary technology. Members will be introduced to hardware and software designs, and various robotic
+technology, skills and techniques. <br>
 
 **When We Meet** <br>
 Tuesday: 3.30pm - 5.30pm<br>
@@ -29,3 +28,6 @@ ITE College East Robotics Challenge  <br>
 **Our Teachers** <br>
 Mr Steve Tay Yong Teck<br>
 Mdm Ng Puay Hoon <br>
+
+**Learn More** <br>
+Click&nbsp;[here](/files/CCA/Robotics.pdf)&nbsp;to find out more!
