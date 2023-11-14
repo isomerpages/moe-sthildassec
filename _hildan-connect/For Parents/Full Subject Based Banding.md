@@ -134,6 +134,8 @@ From 2024, secondary schools will implement the following aspects of Full SBB:
   DengXian;mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
   mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p></td></tr></tbody></table>
 	
+View secondary school experience and post pathways today and full SBB [here](/files/Secondary_School_Experience_and_Post_Secondary_Pathways_today_versus_under_Full_SBB.pdf). 
+
 ![](/images/fsbb2.png)![](/images/fsbb3.png)
 
 For more information on how our school would implement Full SBB, you can contact us at&nbsp;[shss@moe.edu.sg](mailto:shss@moe.edu.sg)
