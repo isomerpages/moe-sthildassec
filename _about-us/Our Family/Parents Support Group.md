@@ -3,8 +3,9 @@ title: Parents Support Group
 permalink: /hildan-partners/parents-support-group/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
-PARENTS SUPPORT GROUP
+PARENT SUPPORT GROUP
 ---------------------
 ![](/images/psg%202023.jfif)
 
