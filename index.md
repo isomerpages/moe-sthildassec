@@ -14,10 +14,7 @@ sections:
       id: infopic
       description: Registration is now closed, thank you for your interest in our
         E-Open House 2023!
-      button: Register
-      url: https://forms.moe.edu.sg/forms/vVgw6J
-      image: /images/e-open house_v2 (updated).png
-      alt: SHSS E-Open House 2023
+      image: /images/E_open_House_v4.png
   - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
