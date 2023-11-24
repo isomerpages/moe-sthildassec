@@ -83,9 +83,4 @@ Proverbs 22:6 (ESV)&nbsp;“Train up a child in the way he should go; even when 
 
 &nbsp;Parenting journey can be pleasant for some and monstrous for others. Often our children changes as they grow up but as parents, we do not catch up with their growth. We wonder what happen to our children. Through the PSG, we hope to create an environment where the home compliments what the school is doing and the school reinforces honour in the family.&nbsp;
 
-[1) Build resilience for children](https://drive.google.com/file/d/0B8AW6sEZ9OalOTdQdkRPQ2s0cjA/view)  **BROKEN LINK**
-
-[2) How to handle different transition phases of children](https://drive.google.com/file/d/0B8AW6sEZ9OalUWpBdy05d3ZyeFU/view) **BROKEN LINK**
-
-  
-[Click here to join the&nbsp;**Parents Support Group Facebook**&nbsp;today!](https://www.facebook.com/shss.psg)
+(https://www.facebook.com/shss.psg)
