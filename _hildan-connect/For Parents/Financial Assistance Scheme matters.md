@@ -3,6 +3,7 @@ title: Financial Assistance Scheme matters
 permalink: /hildan-connect/for-parents/fasm/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ![](/images/Information/Financial%20Services%20Banner.jpg)
 
@@ -58,11 +59,11 @@ Forms of financial assistance available are:
 </thead>
 <tbody>
   <tr>
-    <td>Gross Household Income (GHI) not exceeding $2,750 per month</td>
+    <td>Gross Household Income (GHI) not exceeding $3,000 per month</td>
     <td>Gross Household Income</td>
   </tr>
   <tr>
-    <td>Per Capital Income (PCI) not exceeding $690 per month</td>
+    <td>Per Capital Income (PCI) not exceeding $750 per month</td>
     <td>If (GHI) exceeded</td>
   </tr>
 </tbody>
