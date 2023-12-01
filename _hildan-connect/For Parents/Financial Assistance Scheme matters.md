@@ -7,8 +7,7 @@ variant: markdown
 ---
 ![](/images/Information/Financial%20Services%20Banner.jpg)
 
-FINANCIAL SERVICES
-------------------
+# FINANCIAL SERVICES
 
 Financial Assistance Scheme 2024
 ---------------------------
