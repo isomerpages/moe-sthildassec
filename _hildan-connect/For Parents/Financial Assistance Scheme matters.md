@@ -10,7 +10,7 @@ variant: markdown
 FINANCIAL SERVICES
 ------------------
 
-Financial Assistance Scheme
+Financial Assistance Scheme 2024
 ---------------------------
 
 [MOE Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
