@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/shs website (1920x720).png
+  - infobar:
+      title: GCE N(A) and N(T) Level Result Release
+      id: infobar
+      description: For more information
+      button: Click here
+      url: /nlevelresult
   - infopic:
       title: SHSS E-Open House 2023
       subtitle: Calling all p6 parents!
