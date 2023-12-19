@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/shs website (1920x720).png
+  - infobar:
+      title: "2024 Sec 1 Registration "
+      id: infobar
+      button: Click here
+      url: /shss-s1-regn-2024/
   - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
