@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Achievements
 variant: markdown
 ---
-![](/images/School%20Info/Student%20Achievements%20Banner.jpg)
-
 School Awards for Excellence
 ----------------------------
 
