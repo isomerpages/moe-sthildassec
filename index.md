@@ -8,12 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/shs website (1920x720).png
-  - infobar:
-      title: GCE N(A) and N(T) Level Result Release
-      id: infobar
-      description: For more information
-      button: Click here
-      url: /nlevelresult
   - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
