@@ -9,15 +9,6 @@ sections:
   - hero:
       background: /images/shs website (1920x720).png
   - infopic:
-      title: SHSS E-Open House 2023
-      subtitle: Calling all p6 parents!
-      id: infopic
-      description: We are extending the registration due to popular demand!
-      image: /images/E_open_House_v4.png
-      url: https://forms.moe.edu.sg/forms/vVgw6J
-      button: Register here
-      alt: SHSS E-Open House 2023
-  - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
         so that they exercise sound reasoning based on godly values.
