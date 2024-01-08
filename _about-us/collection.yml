@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our Service Charter.md
       - School Leaders' Welcome.md
       - Mission Vision Values.md
       - Our Heritage.md
+      - Our Family/.keep
       - Our Family/Anglican Diocese of Singapore.md
       - Our Family/School Management Committee.md
       - Our Family/Key Personnel.md
@@ -13,7 +13,7 @@ collections:
       - Our Family/St Hilda's Chaplaincy.md
       - Our Family/Parents Support Group.md
       - Our Family/Alumni.md
-      - Our Family/.keep
+      - Our Service Charter.md
       - Facilities.md
       - Achievements/.keep
       - Achievements/School.md
