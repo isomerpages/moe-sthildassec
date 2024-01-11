@@ -3,6 +3,7 @@ title: Character & Citizenship Education
 permalink: /hildan-experience/our-curriculum/character-n-citizenship-education/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 ![](/images/Character%20Education/CCE%20Banner.jpg)
 
@@ -58,8 +59,13 @@ Click the link to access MOE resources on Cyber wellness. [https://www.moe.gov.s
 
 * **Sexuality Education Resources**
 
-Click the link to access MOE resources on Sexuality Education: [https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)
+Click the link to access MOE resources on Sexuality Education: 
+https://go.gov.sg/moe-sexuality-education
 
-Click the link to access information on sexuality education at St. Hilda’s Secondary
+Click on the link to access more information on the scope of Sexuality Education in the school curriculum:
 
-School: [Info\_on\_SEd\_for schools\_SHSS\_2023](https://www.sthildassec.moe.edu.sg/files/Info_on_SEd_for%20schools_SHSS_2023.pdf)
+https://go.gov.sg/moe-sexuality-education-scope
+
+Click the link to access information on sexuality education at St. Hilda’s Secondary School:
+
+School: [Info_on_SEd for schools_SHSS 2024](/files/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated.pdf)
