@@ -3,6 +3,7 @@ title: NCDCC
 permalink: /hildan-experience/co-curricular-activities/uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 National Civil Defence Cadet Corps
 ----------------------------------
@@ -14,10 +15,10 @@ National Civil Defence Cadet Corps
 Our NCDCC team aims to develop and empower our youth to be active and concerned citizens advocating lifesaving skills. <br>
 
 **When We Meet** <br>
-Friday: 2:45pm - 6:15pm<br>
+Tuesday, 2.45 p.m. to 5.15p.m.<br>
 
 **What We Value** <br>
-Noble, Caring, Disciplined, Courageous & Committed <br>
+Noble, Caring, Disciplined, Courageous &amp; Committed <br>
 
 **Our Achievements**<br>
 2022 NCDCC Unit Proficiency Award – Gold Award<br>
