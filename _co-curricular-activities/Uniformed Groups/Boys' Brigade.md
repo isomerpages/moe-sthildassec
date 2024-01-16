@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /hildan-experience/co-curricular-activities/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 Boys' Brigade
 -------------
@@ -15,9 +16,8 @@ Boys' Brigade
 Students in Boys Brigade acquire skills and knowledge in the four domains of Global Awareness, Community Spiritedness, Personal Mastery and Leadership. <br>
 
 **When We Meet** <br>
-Tuesdays: 3.30pm - 6pm (Pipes and Drums Band Training)<br>
-Fridays: 3pm - 6pm<br>
-Saturdays: 9am - 1pm<br>
+Tuesday &amp; Friday, 3.30 p.m. - 6.00 p.m. <br>
+Saturday,  9.00 a.m. - 1.00 p.m. <br>
 
 **What We Value** <br>
 Obedience, Reverence, Discipline, Self-Respect <br>
@@ -51,8 +51,6 @@ Joshua Joel Lim <br>
 
 **Our Teachers** <br>
 Mr Lin Zheng Chang  <br>
-Mr Chales Neo <br> 
-Ms Philisa Neo<br
-
-**Learn More** <br>
+Mr Chan Chee Keong <br>
+Ms Philisa Neo<br>
 Click&nbsp;[here](/files/CCA/_BB%20Presentation%202020.pdf)&nbsp;to know more!

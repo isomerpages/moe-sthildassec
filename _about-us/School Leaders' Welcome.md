@@ -21,7 +21,9 @@ Principal
 
 VICE PRINCIPAL'S MESSAGE
 ------------------------
-![](/images/Staff/VPs.jpg)
+![](/images/VP_Update_V1.png)
+
+
 
 Mr Loy Wee Jin
 --------------
@@ -33,9 +35,8 @@ Mr Loy Wee Jin
 <style> { margin:0;} </style>St. Hilda’s Secondary School has a rich history of moulding young minds with the mission that every student lives a God-fearing purposeful life, impacting their families, friends and our nation.
 <p></p>
 <style> { margin:0;} </style>I believe that every student has potential and this journey of uncovering their potential is a partnership between the school, parents, community partners and stakeholders. It is indeed a privilege and&nbsp;honour&nbsp;to be part of the Hildan family and I look forward to walking this learning journey with you in helping our students achieve a holistic education in this season of time.
-
-Mr Loy Wee Jin<br>
-Vice-Principal (Administration)
+<p></p>  
+<style> { margin:0;} </style>Mr Loy Wee Jin<br>Vice-Principal
 
 Mdm So Mun Yee
 --------------
@@ -45,18 +46,18 @@ Mdm So Mun Yee
 <style> { margin:0;} </style>It is my desire that together with my colleagues and key stakeholders, we could give our students the “roots and wings” via their experiences in SHSS. By roots, I am referring not only to inculcating the desired values in students. It is also needful to make them feel safe, loved and secured so that they develop the sense of belonging and identity to the community. By wings, I hope the students will be excited to seize the myriad of learning opportunities to explore and pursue their passions. With the relevant knowledge, skills and dispositions, they will then be well prepared to lead a fulfilled life that God has intended for each of them.
 <p></p>
 <style> { margin:0;} </style> I look forward to partnering you to establish SHSS as a choice school that provides a joyful and holistic learning experience for every student.
+<p></p>  
+<style> { margin:0;} </style>Mdm So Mun Yee<br>Vice-Principal
 
-Mdm So Mun Yee<br>
-Vice-Principal
-
-Ms Tan Yee Leng
+Mr Julian Lew
 ---------------
 
-<style> { margin:0;} </style>The Singapore education system has evolved and grown over the years, moving from being efficiency-driven in the early 1960s-70s to its current emphasis on values education and a system that caters variously to the different talents and aspirations of our young. There is an impetus for schools to carve out their individual niche areas and establish peaks of excellence for themselves. Schools are also to equip our youth with the pre-requisite subject knowledge and associated disciplinary skills and values that will enable them to navigate their way in the world of the 21st century effectively.&nbsp;
+<style> { margin:0;} </style>I thank God for having the privilege to be part of the Hildan family, to serve and lead alongside my colleagues to nurture and shape our students to be leaders for life, poised and ready to embrace the future and its challenges.&nbsp;
 <p></p>
-<style> { margin:0;} </style>Strong leadership, working hand in hand with a professional team of teachers would be critical in helping us achieve these goals. Leading and managing a school for the 21st century would involve more that effective strategic planning and administration. It certainly calls for school leaders and middle managers who are instructional leaders as well. A key role as instructional leaders is to better lead and engage our teacher colleagues in the review of existing classroom practices and to substantiate their practices with sound pedagogical principles and theories of learning. This, in my mind, would be one of the levers that would lead to breakthrough teaching and learning, to move beyond the traditional chalk and talk, and rote learning to the test.&nbsp;
+<style> { margin:0;} </style>Our school stands out for its unique Hildan Distinctive, where we foster an environment that nurtures students to be confident, disciplined, and caring leaders for tomorrow. My aspiration is for each Hildan to discover their potential, develop their talents, and grow into well-rounded individuals who can continually serve and contribute to the community and the nation.&nbsp;
 <p></p>
-<style> { margin:0;} </style>Towards this end, we, at St Hilda's Secondary, hope to build a vibrant learning environment where like-minded professionals work towards growing the varied talents and aspirations of all Hildan students.
-  
-Tan Yee Leng (Ms.)  
-Vice-Principal
+<style> { margin:0;} </style>It is my honour to partner and collaborate with you, our community and stakeholders in the endeavor to nurture our students. As we embark on this journey together, let us be reminded of the Hope that God has instilled in us. Despite the challenges that we may encounter in the future, let us persevere and thrive, anchored by Godly values and an open mindset that enables adaptation and growth.
+<p></p>
+<style> { margin:0;} </style>As our school motto reminds and encourages us, let us Go Forward together!
+<p></p>  
+<style> { margin:0;} </style>Mr Lew King Lun Julian<br>Vice-Principal
