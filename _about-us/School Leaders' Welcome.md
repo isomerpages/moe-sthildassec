@@ -21,7 +21,9 @@ Principal
 
 VICE PRINCIPAL'S MESSAGE
 ------------------------
-![](/images/VPs_updated_.jpg)[](/images/Staff/VPs.jpg)
+![](/images/VP_Update_V1.png)
+
+
 
 Mr Loy Wee Jin
 --------------
@@ -33,9 +35,8 @@ Mr Loy Wee Jin
 <style> { margin:0;} </style>St. Hilda’s Secondary School has a rich history of moulding young minds with the mission that every student lives a God-fearing purposeful life, impacting their families, friends and our nation.
 <p></p>
 <style> { margin:0;} </style>I believe that every student has potential and this journey of uncovering their potential is a partnership between the school, parents, community partners and stakeholders. It is indeed a privilege and&nbsp;honour&nbsp;to be part of the Hildan family and I look forward to walking this learning journey with you in helping our students achieve a holistic education in this season of time.
-
-Mr Loy Wee Jin<br>
-Vice-Principal (Administration)
+<p></p>  
+<style> { margin:0;} </style>Mr Loy Wee Jin<br>Vice-Principal
 
 Mdm So Mun Yee
 --------------
@@ -45,9 +46,8 @@ Mdm So Mun Yee
 <style> { margin:0;} </style>It is my desire that together with my colleagues and key stakeholders, we could give our students the “roots and wings” via their experiences in SHSS. By roots, I am referring not only to inculcating the desired values in students. It is also needful to make them feel safe, loved and secured so that they develop the sense of belonging and identity to the community. By wings, I hope the students will be excited to seize the myriad of learning opportunities to explore and pursue their passions. With the relevant knowledge, skills and dispositions, they will then be well prepared to lead a fulfilled life that God has intended for each of them.
 <p></p>
 <style> { margin:0;} </style> I look forward to partnering you to establish SHSS as a choice school that provides a joyful and holistic learning experience for every student.
-
-Mdm So Mun Yee<br>
-Vice-Principal
+<p></p>  
+<style> { margin:0;} </style>Mdm So Mun Yee<br>Vice-Principal
 
 Mr Julian Lew
 ---------------
@@ -59,6 +59,5 @@ Mr Julian Lew
 <style> { margin:0;} </style>It is my honour to partner and collaborate with you, our community and stakeholders in the endeavor to nurture our students. As we embark on this journey together, let us be reminded of the Hope that God has instilled in us. Despite the challenges that we may encounter in the future, let us persevere and thrive, anchored by Godly values and an open mindset that enables adaptation and growth.
 <p></p>
 <style> { margin:0;} </style>As our school motto reminds and encourages us, let us Go Forward together!
-  
-Mr Lew King Lun Julian  
-Vice-Principal
+<p></p>  
+<style> { margin:0;} </style>Mr Lew King Lun Julian<br>Vice-Principal
