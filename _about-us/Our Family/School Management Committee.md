@@ -3,23 +3,6 @@ title: School Management Committee
 permalink: /about-shss/school-management-committee/
 description: ""
 third_nav_title: Our Family
+variant: tiptap
 ---
-SCHOOL MANAGEMENT COMMITTEE (SMC)
----------------------------
-![](/images/SMC%20photo%20caa%209Feb23_less%20Rev%20Victor,%20Rev%20Martin,%20Include%20Rev%20Glenn.jpeg)
-
-| SMC Appointment | Name | Remarks |
-| -------- | -------- | -------- |
-| Chairman     | Mr Kelvin Koh     |      |
-| Vice-Chairman    | Mrs Helen Tan     | Bishop’s Nominee (St Hilda’s Church (SHC))     |
-| Honorary Secretary  | Mrs Janice Lim | Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary |
-| Treasurer | Mr Ng Alvin | Chapel of Christ the Redeemer (CCR) Parochial Church Council (PCC) Representative |
-| Member    | Mrs Alice Tan     | Secretary of Schools, Diocese of Singapore     |
-| Member     | Mrs Daphne Yeoh     | Principal, St Hilda’s Primary School (SHPS) /Honorary Secretary     |
-| Member     | Rev Victor Teo | Chaplain for SHPS and SHSS/Vicar, Chapel of Christ the Redeemer (CCR)     |
-| Member     |Ms Marilyn Ng     | Alumni President     |
-| Member     | Mr Seah Eng Wee  | Parent Support Group (PSG) Chairman, SHPS     |
-| Member     | Mr Mark Joel Premraj     | PSG Chairman, SHSS     |
-| Member     | Mdm Lily John     | SHC Parochial Church Council (PCC) Representative    |
-| Member     | Mr Desmond Hoo     | Bishop’s Nominee (CCR)     |
-| Member     | Rev Martin Jungnickel     | Vicar, SHC     |
+<h2>SCHOOL MANAGEMENT COMMITTEE (SMC)</h2><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Appointment</strong></p></td><td rowspan="1" colspan="1"><p><strong>Name</strong></p></td><td rowspan="1" colspan="1"><p><strong>Remarks</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Chairman</p></td><td rowspan="1" colspan="1"><p>Mr Kelvin Koh</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Chairman</p></td><td rowspan="1" colspan="1"><p>Mrs Helen Tan</p></td><td rowspan="1" colspan="1"><p>Bishop’s Nominee (St Hilda’s Church (SHC))&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Honorary Secretary&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mrs Janice Lim</p></td><td rowspan="1" colspan="1"><p>Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary</p></td></tr><tr><td rowspan="1" colspan="1"><p>Treasurer</p></td><td rowspan="1" colspan="1"><p>Mr Ng Alvin</p></td><td rowspan="1" colspan="1"><p>Chapel of Christ the Redeemer (CCR) Parochial Church Council (PCC) Representative</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mrs Alice Tan&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Secretary of Schools, Diocese of Singapore&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Law Li Mei&nbsp;</p></td><td rowspan="1" colspan="1"><p>Principal, St Hilda’s Primary School (SHPS)&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Rev Victor Teo</p></td><td rowspan="1" colspan="1"><p>Chaplain for SHPS and SHSS/Vicar, Chapel of Christ the Redeemer (CCR)&nbsp;&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member</p></td><td rowspan="1" colspan="1"><p>Ms Marilyn Ng&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;Alumni President</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Seah Eng Wee</p></td><td rowspan="1" colspan="1"><p>&nbsp;Parent Support Group (PSG) Chairman, SHPS</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mr Mark Joel Premraj&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;PSG Chairman, SHSS&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;</p></td><td rowspan="1" colspan="1"><p>Mdm Lily John</p></td><td rowspan="1" colspan="1"><p>SHC Parochial Church Council (PCC) Representative&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>&nbsp;Member</p></td><td rowspan="1" colspan="1"><p>Mr Desmond Hoo</p></td><td rowspan="1" colspan="1"><p>Bishop’s Nominee (CCR)&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Member&nbsp;&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p>Rev Martin Jungnickel&nbsp;</p></td><td rowspan="1" colspan="1"><p>&nbsp;Vicar, SHC&nbsp;&nbsp;</p></td></tr></tbody></table><p></p>
