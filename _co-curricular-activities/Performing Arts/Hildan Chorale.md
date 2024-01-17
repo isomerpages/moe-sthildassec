@@ -3,6 +3,7 @@ title: Hildan Chorale
 permalink: /hildan-experience/co-curricular-activities/performing-arts/hildan-chorale/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Hildan Chorale
 --------------
@@ -15,13 +16,13 @@ The St. Hilda’s Secondary School Choir is a SSAA (Soprano &amp; Alto) chorale 
 
 
 **When We Meet** <br>
-Tuesdays:&nbsp;3.30pm - 5.30pm&nbsp;  
-Fridays:&nbsp;2:30pm - 5:30pm
+Tuesday: 2.30pm to 5.30pm<br>
+Friday: 1:30pm to 5:30pm
 
 Mac Lab (Level 2) / Auditorium (Level 3)
 
 **What We Value** <br>
-Excellence, Unity, Competency & Caring <br>
+Excellence, Unity, Competency &amp; Caring <br>
 
 **Our Achievements**<br>
 Singapore International Choral Festival 2023 - Silver Award<br>
