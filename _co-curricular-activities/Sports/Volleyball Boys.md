@@ -20,7 +20,7 @@ To be a Champion team, we must have a group of individuals willing to strive to 
 Daily Training<br>
 
 **C Division**<br> 
-Monday, Tuesday, Thursday &amp; Friday (230pm to 630pm)<br>
+Monday, Tuesday, Thursday &amp; Friday, 2.30pm to 6.30pm<br>
 
 **What We Value** <br>
 Excellence, Care, Confident &amp; Discipline <br>
@@ -56,7 +56,7 @@ Zacchaeus Goh Jun Hui&nbsp;(Volleyball)<br>
 
 **Our Teachers** <br>
 Ms Teo Siew Lan  <br>
-Mr Yak Zheng Qiang  <br>
+Mr Yak Zhengqiang  <br>
 Mr Kenneth Kwok<br>
 
 **Learn More** <br>
