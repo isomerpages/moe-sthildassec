@@ -17,6 +17,8 @@ Our Mass Communication club exposes members in photography, videography and edit
 **When We Meet** <br>
 Odd Week Friday: 2.15pm to 4.45pm<br>
 Even Week Wednesday: 2.30pm to 5.45pm<br>  
+
+
 Computer Lab 3 (Level 2)<br>
 
 **What We Value** <br>
