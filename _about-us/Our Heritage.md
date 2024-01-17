@@ -2,6 +2,7 @@
 title: Our Heritage
 permalink: /about-us/our-heritage/
 description: ""
+variant: markdown
 ---
 HISTORY
 -------
@@ -9,7 +10,7 @@ HISTORY
 
 **School History**
 
-<style> { margin:0;} </style>St Hilda’s Secondary started as Bethel English School in 1929 on Ceylon Road in Katong. In 1934, Archdeacon Graham White acquired the school and affiliated it to the Anglican Diocese. In 1938, the school was renamed St Hilda’s School after the school’s patron saint, Princess Hilda of Whitby. The essence of the school’s aims and inspirations was captured in the Mosaic command, ‘Go forward’ (Ewdis 14:15), which has since become the school motto.
+<style> { margin:0;} </style>St Hilda’s Secondary started as Bethel English School in 1929 on Ceylon Road in Katong. In 1934, Archdeacon Graham White acquired the school and affiliated it to the Anglican Diocese. In 1938, the school was renamed St Hilda’s School after the school’s patron saint, Princess Hilda of Whitby. The essence of the school’s aims and inspirations was captured in the Mosaic command, ‘Go forward’ (Exodus 14:15), which has since become the school motto.
 <p></p>
 <style> { margin:0;} </style>During the Second World War, St. Hilda’s School came under the jurisdiction of the Japanese military authorities and functioned as a Japanese school. Following the end of the war in 1945, St Hilda’s School was the first private school to be reopened with a staff of 20 and an enrolment of 615 students comprising mainly overaged girls and boys. In 1950, the school was accorded grant-in-aid status by the government and it became an all-girls school. In 1965, the school changed the skirt design from a solid blue colour to the current design of tiny circles dotting a navy background. The school building underwent a major overhaul in 1969, and the new campus was consecrated in the following year. In 1984, the school commemorated its golden jubilee, which culminated in a Thanksgiving and Dedication Service at St Andrew’s Cathedral on 8 May.
 <p></p>
