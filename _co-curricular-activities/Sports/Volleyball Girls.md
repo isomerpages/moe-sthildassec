@@ -16,7 +16,7 @@ Volleyball Girls
 As a Volleyball team, we aim for excellence and develop student athletes into well-balanced individual with good academics.
 
 **When We Meet** <br>
-Tuesday, Wednesday Friday (3pm to 6pm)<br>
+Tuesday, Wednesday &amp; Friday, 3pm - 6pm<br>
 
 **What We Value** <br>
 Excellence &amp; Discipline <br>
