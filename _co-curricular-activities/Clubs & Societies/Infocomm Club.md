@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /hildan-experience/co-curricular-activities/clubs-n-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 Infocomm Club
 -------------
@@ -14,7 +15,9 @@ Robotics club aims to equip club members in multi-disciplinary technology. Membe
 technology, skills and techniques. <br>
 
 **When We Meet** <br>
-Tuesday: 3.30pm - 5.30pm<br>
+Tuesday: 3.30pm - 5.30pm<br>  
+
+
 Computer Lab 1 and 2 (Level 4)<br>
 
 **Our Achievements**<br>
