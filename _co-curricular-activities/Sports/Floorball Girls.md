@@ -3,6 +3,7 @@ title: Floorball Girls
 permalink: /hildan-experience/co-curricular-activities/sports/floorball-girls/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 Floorball Girls
 ---------------
@@ -14,14 +15,19 @@ Floorball Girls
 As a Floorball team, our vision is to be a sports team of distinction in Floorball and we aim to develop youth with good character and passion for sports. <br>
   
 **When We Meet** <br> 
-Secondary 1: Tue &amp; Thu: 3.15pm – 6.15pm<br>
-C Division: Tue &amp; Thu: 3.15pm – 6.15pm, Wed: Gym at 5pm<br>
-B Division: Tue &amp; Thu: 3.15pm – 6.15pm, Fri: Gym at 2pm<br>
+**C Division**<br>
+Monday: 2.30pm to 3.30pm<br>
+Tuesday: 3.30pm to 6pm<br>
+Thursday: 3.30pm to 6pm<br>
+<br>**B Division**<br>
+Tuesday: 3.30pm to 6pm<br>
+Wednesday: 3.30pm to 4.30pm<br>
+Thursday: 3.30pm to 6pm<br>
 
 School Activity Centre (SAC) / MPH (Level 2)
 
 **What We Value** <br>
-Passion, Honour & Unity (caring) <br>
+Passion, Honour &amp; Unity (caring) <br>
 
 **Our Achievements**<br>
 2023 National School B division Floorball Competition - Champion<br>
@@ -35,7 +41,8 @@ Nur Yuanna Insyirah Binte S Ralli (Floorball)<br>
 **Our Teachers** <br>
 Ms Elaine Teng  <br>
 Mdm Nisha Ishwardas Rajwani <br>
+Mrs Thiruchelvam
 
 **Learn More** <br>
 Click&nbsp;[**here**](/files/CCA/Floorball%20Girls%20Who%20we%20are%202021.pdf)&nbsp;to know more about us!  <br>
-Click&nbsp;[**here**](/files/CCA/DSA_Floorball.pdf)&nbsp; to access our DSA e-brochure!  
+Click&nbsp;[**here**](/files/CCA/DSA_Floorball.pdf)&nbsp; to access our DSA e-brochure!
