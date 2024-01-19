@@ -3,6 +3,7 @@ title: Netball
 permalink: /hildan-experience/co-curricular-activities/sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 Netball
 -------
@@ -14,10 +15,11 @@ Netball
 As a Netball team, we aim for excellence, nurtures talent and develop driven young women with upstanding character. <br>
   
 **When We Meet** <br>
-Tuesdays &amp; Thursdays:&nbsp;3:30pm - 6:30pm<br>
+Wednesday: 2.30pm to 5.30pm<br>
+Friday: 1pm to 4pm<br>
 
 **What We Value** <br>
-Discipline, Commitment, Ownership, Caring, Integrity, Recognition, Consistently Seeking (Excellence), Resilience, Reflection, Consolidation, Self-Care, Appreciation & Connecting Contexts <br>
+Discipline, Commitment, Ownership, Caring, Integrity, Recognition, Consistently Seeking (Excellence), Resilience, Reflection, Consolidation, Self-Care, Appreciation &amp; Connecting Contexts <br>
 
 **Our Achievements**<br>
 2023 East Zone Schools Netball Championship B Division – 2nd<br>
@@ -39,4 +41,4 @@ Ms Deng Lan <br>
 
 **Learn More** <br>
 Click&nbsp;[**here**](/files/CCA/Netball.pdf)&nbsp;to know more about us! <br>
-Click &nbsp;[**here**](/files/CCA/DSA_Netball.pdf)&nbsp;to access our DSA e-brochure!  
+Click &nbsp;[**here**](/files/CCA/DSA_Netball.pdf)&nbsp;to access our DSA e-brochure!

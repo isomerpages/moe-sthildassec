@@ -3,6 +3,7 @@ title: Handbell Ensemble
 permalink: /hildan-experience/co-curricular-activities/performing-arts/handbell-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Handbell Ensemble
 -----------------
@@ -13,15 +14,14 @@ Handbell Ensemble
 **What We Do** <br>
 Handbell Ensemble aims to educate club members about music and how to be excellent ringers and performers. <br>
 
-**When We Meet** <br> 
-  
-Tuesday: 3.30pm - 5.30pm<br>
-Friday: 1.30pm - 6.00pm<br>
+**When We Meet** <br>
+Tuesday: 3pm to 5pm<br>
+Friday: 1.30pm to 5.45pm<br>
 
 Music room (Level 2) <br>
 
 **What We Value** <br>
-Commitment, Determination, Care, Respect & Harmony <br>
+Commitment, Determination, Care, Respect &amp; Harmony <br>
 
 **Our Achievements**<br>
 Singapore Youth Festival - Performing Arts<br>
@@ -30,8 +30,8 @@ Singapore Youth Festival - Performing Arts<br>
 2017 - Certificate of Accomplishment<br>
 
 **Our Teachers** <br>
-Mdm Norhani Bt Sawi<br>
-Ms Thiruchelvan Rohini<br>
+Ms Alina Chen<br>
+Mdm Azliza
 
 **Learn More** <br>
 Click&nbsp;[here](/files/CCA/Handbell%20Ensemble%202016.pdf)&nbsp;to find out more!

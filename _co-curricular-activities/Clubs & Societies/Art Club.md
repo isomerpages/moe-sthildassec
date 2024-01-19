@@ -3,6 +3,7 @@ title: Art Club
 permalink: /hildan-experience/co-curricular-activities/clubs-n-societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 Art Club
 --------
@@ -13,8 +14,7 @@ Art Club
 Our Art Club aims to nurture interest in Art and provides platform to our student artists to come together to create Art. We expose students to different media such as ceramics, batik painting, digital art and many more.
 
 **When We Meet** <br>
-Tuesdays: 3:30pm - 5:30pm<br>
-Friday: 2.30pm - 4.30pm<br>
+Tuesday: 2.45pm to 5pm<br>
 
 Art Room @ Level 3
 

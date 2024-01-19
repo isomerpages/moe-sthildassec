@@ -3,6 +3,7 @@ title: Hockey
 permalink: /hildan-experience/co-curricular-activities/sports/hockey/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 Hockey
 ------
@@ -14,13 +15,14 @@ Hockey
 As a team, we pursue excellence in both character and academics. As student athletes, we aim to be disciplined sports leaders. <br>
 
 **When We Meet** <br>
-Tuesdays &amp;&nbsp;Wednesdays:&nbsp;3:30pm - 6:30pm&nbsp;<br>
-Fridays:&nbsp;2:30pm - 5:45pm<br>
+Tuesday: 3.30pm to 6.15pm<br>
+Thursday: 3.30pm to 6.15pm<br>
+Friday: 2.30pm to 6.15pm<br>
 
 Hockey Pitch (Level 5)<br>
 
 **What We Value**<br>
-Caring, Confident & Discipline <br>
+Caring, Confident &amp; Discipline <br>
 
 **Our Achievements**<br>
 2023 National Schools Hockey Bowl &amp; Plate Competition (‘B’ Boys) – 3rd<br>
@@ -32,8 +34,9 @@ Caring, Confident & Discipline <br>
 2017 National Schools Hockey Championship ‘C’ Div&nbsp;- 4th  <br>
 
 **Our Teachers** <br>
-Mr Caleb Khoo<br> 
-Mr Sulaiman Azmi Bin Mohd Daud <br>
+Mr Norshamsuddin<br> 
+Mr Sulaiman Azmi <br>
+Mr Daniel Phua
 
 **Learn More** <br>
 Click&nbsp;**[here](/files/CCA/HockeyOrientation_2021_intro.pdf)**&nbsp;to know more about us!  <br>

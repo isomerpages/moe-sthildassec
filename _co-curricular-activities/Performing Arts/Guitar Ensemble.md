@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /hildan-experience/co-curricular-activities/performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 Guitar Ensemble
 ---------------
@@ -14,13 +15,13 @@ Guitar Ensemble
 Guitar Ensemble aims to serve the school community by being a well-rounded ensemble. We bond by the motto 'One note at a time, together as an ensemble'. <br>
 
 **When We Meet** <br>
-Tuesday: 3.30pm - 5.30pm<br>
-Fridays:2.00pm - 5.00pm<br>
+Wednesday: 3.30pm - 5.30pm<br>
+Fridays: 2pm - 4pm<br>
 
 Performing Arts Studio (Level 4)<br>
 
 **What We Value** <br>
-Caring & Commitment <br>
+Caring &amp; Commitment <br>
 
 **Our Achievements**<br>
 Singapore Youth Festival - Performing Arts<br>
