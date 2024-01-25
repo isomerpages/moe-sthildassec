@@ -1,0 +1,6 @@
+collections:
+  hildan-partners:
+    output: true
+    order:
+      - Partnership with Sports Singapore.md
+      - Affiliated School.md

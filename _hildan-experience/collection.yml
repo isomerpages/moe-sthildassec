@@ -1,0 +1,21 @@
+collections:
+  hildan-experience:
+    output: true
+    order:
+      - Our Curriculum/.keep
+      - Our Curriculum/English & Literature.md
+      - Our Curriculum/Mother Tongue.md
+      - Our Curriculum/Mathematics & CPA.md
+      - Our Curriculum/Science.md
+      - Our Curriculum/Humanities.md
+      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Craft & Technology (Art, Music, D&T, FCE).md
+      - Our Curriculum/Principle of Accounts, & Elements of Business Skills.md
+      - Our Curriculum/Character & Citizenship Education.md
+      - Our Co Curriculum/Our Co Curriculum.md
+      - Our Co Curriculum/.keep
+      - Our Signature Programmes/.keep
+      - Our Signature Programmes/Applied Learning Programme.md
+      - Our Signature Programmes/Learning for Life Programme.md
+      - Our Signature Programmes/Nellie Mitchell Talent Development Programme.md
+      - Our Signature Programmes/STEP.md

@@ -1,0 +1,31 @@
+collections:
+  hildan-connect:
+    output: true
+    order:
+      - For Students/.keep
+      - For Students/Booklist.md
+      - For Students/Counselling Helpline.md
+      - For Students/Exam & Assessment.md
+      - For Students/ICT Account Help Form.md
+      - For Students/Students' Services.md
+      - For Students/School Code.md
+      - For Students/School Hymn.md
+      - For Students/School Song.md
+      - For Students/Student Useful Links.md
+      - For Students/Time Table.md
+      - For Staff/.keep
+      - For Staff/Academy Of Singapore Teachers.md
+      - For Staff/All Ears Form Builder.md
+      - For Staff/FormSG.md
+      - For Staff/HR Online.md
+      - For Staff/Human Resource Portal.md
+      - For Staff/Staff Admin Links.md
+      - For Staff/Teacher Beliefs.md
+      - For Parents/.keep
+      - For Parents/Financial Assistance Scheme matters.md
+      - For Parents/Full Subject Based Banding.md
+      - For Parents/GIRO Application And EPSO Forms.md
+      - For Parents/Parents Gateway.md
+      - For Parents/National Digital Literacy Programme.md
+      - For Parents/School Terms & Holidays.md
+      - For Parents/Sec 2 Subject Choice Briefing.md

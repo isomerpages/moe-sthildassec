@@ -1,0 +1,34 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Co Curricular Activities.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/NCDCC.md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Volleyball Girls.md
+      - Sports/Volleyball Boys.md
+      - Sports/Netball.md
+      - Sports/Hockey.md
+      - Sports/Floorball Girls.md
+      - Sports/Badminton.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Drama.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Hildan Wind Orchestra.md
+      - Performing Arts/Handbell Ensemble.md
+      - Performing Arts/Hildan Chorale.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/MRL.md
+      - Clubs & Societies/Mass Comm.md
+      - Clubs & Societies/PA AVA Club.md
+      - Clubs & Societies/Infocomm Club.md
+      - Clubs & Societies/Cross Train.md
+      - Clubs & Societies/Art Club.md

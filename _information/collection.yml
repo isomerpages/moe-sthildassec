@@ -1,0 +1,5 @@
+collections:
+  information:
+    output: true
+    order:
+      - SWN@SSOE Login Guide.md

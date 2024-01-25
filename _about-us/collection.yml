@@ -1,0 +1,24 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School Leaders' Welcome.md
+      - Mission Vision Values.md
+      - Our Heritage.md
+      - Our Family/.keep
+      - Our Family/Anglican Diocese of Singapore.md
+      - Our Family/School Management Committee.md
+      - Our Family/Key Personnel.md
+      - Our Family/Staff.md
+      - Our Family/St Hilda's Chaplaincy.md
+      - Our Family/Parents Support Group.md
+      - Our Family/Alumni.md
+      - Facilities.md
+      - Achievements/.keep
+      - Achievements/School.md
+      - Achievements/Staff.md
+      - Achievements/Co Curricular Activities.md
+      - Achievements/Student.md
+      - Publicity.md
+      - Privacy Statement.md
+      - Our Service Charter.md

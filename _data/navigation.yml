@@ -1,0 +1,12 @@
+logo: /images/school logo_year 2018.gif
+links:
+  - title: About Us
+    collection: about-us
+  - title: Admissions
+    collection: admissions
+  - title: Hildan Experience
+    collection: hildan-experience
+  - title: Hildan Connect
+    collection: hildan-connect
+  - title: Contact Us
+    url: /contact-us/
