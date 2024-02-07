@@ -22,6 +22,7 @@ Tuesday, 2:30 p.m. - 5.30 p.m.<br>
 Disciplined, Integrity, Caring, Commitment &amp; Excellence <br>
 
 **Our Achievements**<br>
+2023 NPCC Unit Proficiency Award – Distinction Award<br>
 2022 NPCC Unit Proficiency Award – Gold Award<br>
 2021 NPCC Unit Proficiency Award – Gold Award<br>
 2020 NPCC Unit Proficiency Award – Gold Award<br>
