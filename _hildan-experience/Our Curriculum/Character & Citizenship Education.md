@@ -85,7 +85,7 @@ presentations at the Service-Learning Symposium or participation in competitions
 (ECG):&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>
 <p></p>
-<p>Click on this link to make an appointment with&nbsp;the ECG counsellor:&nbsp;
+<p>Click the link to make an appointment with&nbsp;the ECG counsellor:&nbsp;
 <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/shssecgappt</a>
 </p>
 <p></p>
@@ -105,8 +105,8 @@ presentations at the Service-Learning Symposium or participation in competitions
 <p>Click the link to access MOE resources on Sexuality Education: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>
 </p>
 <p></p>
-<p>Click on the link to access more information on the scope of Sexuality
-Education in the school curriculum:</p>
+<p>Click the link to access more information on the scope of Sexuality Education
+in the school curriculum:</p>
 <p><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>
 </p>
 <p></p>
