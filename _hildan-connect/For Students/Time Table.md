@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/Hildan%20Matters/Time%20Table%20Banner.jpg)
 
-TIME TABLE 2024
+TIMETABLE 2024
 ----------
 
 1. [Class](/files/TT_2024_Semester_1__27_Jan_2024____Class.pdf)
