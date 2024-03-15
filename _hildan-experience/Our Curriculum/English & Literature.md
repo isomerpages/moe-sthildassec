@@ -3,6 +3,7 @@ title: English & Literature
 permalink: /hildan-experience/our-curriculum/english-n-literature/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 ENGLISH &amp; LITERATURE
 --------------------
@@ -43,6 +44,6 @@ They include:
 **Achievements**
 
 *   Unity Young Writers Festival 2023, 1st Place: Poetry
-*   Live On Festival (LOF) 2023, Winner of Essay (Senior) Competition
+*   Live On Festival (LOF) 2023, Winner (Distinction) in Essay Competition (Senior Category)
 
 See also: [Applied Learning Programme](https://sthildassec.moe.edu.sg/hildan-experience/our-signature-programmes/applied-learning-programme/)
