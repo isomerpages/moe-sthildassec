@@ -7,7 +7,6 @@ variant: markdown
 ---
 PARENT SUPPORT GROUP
 ---------------------
-![](/images/psg%202023.jfif)
 
 #### **Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSf5a4lu9wOWjq14whodHwCkQ2vaAsSbJnfvImgAFXRvQJzq6g/viewform)!**
 
