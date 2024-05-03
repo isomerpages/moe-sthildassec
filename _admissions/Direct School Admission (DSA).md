@@ -27,14 +27,18 @@ sports:</p>
 </p>
 <p>Click on the links below to find out more about the various DSA talent
 areas that our school is offering.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Floorball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/</a>
+<p><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/" rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/floorball-girls/</a>
 </p>
 </td>
 </tr>
@@ -43,7 +47,7 @@ areas that our school is offering.</p>
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/</a>
+<p><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/" rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/netball/</a>
 </p>
 </td>
 </tr>
@@ -52,7 +56,7 @@ areas that our school is offering.</p>
 <p>Volleyball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/</a>
+<p><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/" rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-girls/</a>
 </p>
 </td>
 </tr>
@@ -61,7 +65,7 @@ areas that our school is offering.</p>
 <p>Badminton (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/</a>
+<p><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/" rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/badminton/</a>
 </p>
 </td>
 </tr>
@@ -70,7 +74,7 @@ areas that our school is offering.</p>
 <p>Hockey (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/</a>
+<p><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/" rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/hockey/</a>
 </p>
 </td>
 </tr>
@@ -79,7 +83,7 @@ areas that our school is offering.</p>
 <p>Volleyball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/</a>
+<p><a href="https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/" rel="noopener noreferrer nofollow" target="_blank">https://www.sthildassec.moe.edu.sg/hildan-experience/co-curricular-activities/sports/volleyball-boys/</a>
 </p>
 </td>
 </tr>
@@ -98,11 +102,16 @@ related to the talent they are selected for from year 1-4.</p>
 <p>Students and parents may submit applications for DSA-Sec via a centralised
 online portal through the MOE DSA-Sec website. (More details will be released
 at a later date)</p>
-<p>The MOE DSA-Sec website can be accessed at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>The MOE DSA-Sec website can be accessed at:&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -167,7 +176,7 @@ at a later date)</p>
 <p>For enquiries, you may contact:</p>
 <p>Mr Kenneth Kwok (DSA Coordinator)
 <br>Tel: 6305 5277
-<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Kwok_Yong_Koon_Kenneth@schools.gov.sg</a>&nbsp;or&nbsp;
+<br>Email:&nbsp;<a href="mailto:Kwok_Yong_Koon_Kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Yong_Koon_Kenneth@schools.gov.sg</a>&nbsp;or&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">SHSS@moe.edu.sg</a>
 </p>
 <p><strong>Thank you and we look forward to meeting you soon! meeting you soon!</strong>
