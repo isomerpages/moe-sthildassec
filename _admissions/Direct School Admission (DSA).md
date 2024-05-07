@@ -131,7 +131,7 @@ related to the talent they are selected for from year 1-4.</p>
 <p>Floorball</p>
 </td>
 <td rowspan="6" colspan="1">
-<p>&nbsp;<strong>CCA Performance (Any one of the categories)</strong>
+<p>&nbsp;<strong>CCA Performance (Any one of the categories)</strong> 
 <br>
 <br>Represented School in Competition (Zonal / National) or be a member of
 School Volleyball, Netball, Hockey (Boys), Floorball (Girls) &amp; Badminton
@@ -188,8 +188,8 @@ consider during the trials.</p>
 </table>
 <h4><strong>APPLICATION PROCESS</strong></h4>
 <p>Students and parents may submit applications for DSA-Sec via a centralised
-online portal through the MOE DSA-Sec website. (More details will be released
-at a later date)</p>
+online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
+03 June 2024, 3pm.</p>
 <p>The MOE DSA-Sec website can be accessed at:&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE</strong>
