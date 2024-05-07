@@ -97,7 +97,95 @@ the area of talent.</p>
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <h4><strong>SELECTION CRITERIA AND PROCESS</strong></h4>
-<p>[To be announced]</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Talent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Floorball</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>&nbsp;<strong>CCA Performance (Any one of the categories)</strong>
+<br>
+<br>Represented School in Competition (Zonal / National) or be a member of
+School Volleyball, Netball, Hockey (Boys), Floorball (Girls) &amp; Badminton
+(Boys) Team or Represented School in any Sports CCA or member of Junior
+Sports Academy.</p>
+<p>&nbsp;<strong>Physical Attributes &amp; Skills</strong>
+</p>
+<p>Physical abilities such as jump distance, speed, height &amp; weight and
+other specific to the sports. Skills related to sports.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>Shortlisted applicants will be required to undergo in-person performance
+tasks.</p>
+<p>&nbsp;</p>
+<p>Students’ grit, motivation and attitude are also key factors that will
+consider during the trials.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball Boys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hockey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>APPLICATION PROCESS</strong></h4>
 <p>Students and parents may submit applications for DSA-Sec via a centralised
 online portal through the MOE DSA-Sec website. (More details will be released
@@ -135,7 +223,7 @@ at a later date)</p>
 <p>Application for DSA-Sec through DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>7 May – 3 June 2024</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +234,7 @@ at a later date)</p>
 <p>Notification of shortlisted applicants and in-person selection trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA&nbsp;</p>
+<p>4 June – 9 Sep 2024&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +245,7 @@ at a later date)</p>
 <p>Submit School Preference through DSA-Sec Portal (by applicants)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>21-25 Oct 2024</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +256,7 @@ at a later date)</p>
 <p>Release of DSA-Sec Results together with PSLE Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>20-22 Nov 2024</p>
 </td>
 </tr>
 </tbody>
