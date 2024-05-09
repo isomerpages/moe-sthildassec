@@ -267,5 +267,5 @@ online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
 <br>Email:&nbsp;<a href="mailto:Kwok_Yong_Koon_Kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Yong_Koon_Kenneth@schools.gov.sg</a>&nbsp;or&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">SHSS@moe.edu.sg</a>
 </p>
-<p><strong>Thank you and we look forward to meeting you soon! meeting you soon!</strong>
+<p><strong>Thank you and we look forward to meeting you soon! </strong>
 </p>
