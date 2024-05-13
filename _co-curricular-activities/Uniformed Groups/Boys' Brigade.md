@@ -60,5 +60,5 @@ of Global Awareness, Community Spiritedness, Personal Mastery and Leadership.
 <br>Mr Lin Zheng Chang
 <br>Mr Chan Chee Keong
 <br>Ms Philisa Neo
-<br>Click <a href="https://www.sthildassec.moe.edu.sg/files/CCA/BB%20Presentation%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click <a href="https://www.sthildassec.moe.edu.sg/files/CCA/bb%20Presentation%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 know more!</p>
