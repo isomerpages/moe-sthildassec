@@ -71,7 +71,7 @@ Appreciation &amp; Connecting Contexts
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<strong><a href="/files/CCA/Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+<br>Click <a href="https://www.sthildassec.moe.edu.sg/files/CCA/Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 know more about us!
-<br>Click &nbsp;<strong><a href="/files/CCA/DSA_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+<br>Click <a href="https://www.sthildassec.moe.edu.sg/files/CCA/DSA_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access our DSA e-brochure!</p>
