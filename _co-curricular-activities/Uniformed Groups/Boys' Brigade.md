@@ -23,7 +23,7 @@ of Global Awareness, Community Spiritedness, Personal Mastery and Leadership.
 <br>Obedience, Reverence, Discipline, Self-Respect
 <br>
 </p>
-<p><strong>Our Achievements</strong>
+<p><strong>Our Achievements</strong> 
 <br>2023 JM Fraser Award for Excellence – High Distinction Award
 <br>2023 BB Week: Gold
 <br>2023 BB Blaze: Gold
