@@ -3,42 +3,75 @@ title: Netball
 permalink: /hildan-experience/co-curricular-activities/sports/netball/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-Netball
--------
-
-![](/images/CCA/Netball%202023.png)
-
-
-**What We Do** <br>
-As a Netball team, we aim for excellence, nurtures talent and develop driven young women with upstanding character. <br>
-  
-**When We Meet** <br>
-Wednesday: 2.30pm to 5.30pm<br>
-Friday: 1pm to 4pm<br>
-
-**What We Value** <br>
-Discipline, Commitment, Ownership, Caring, Integrity, Recognition, Consistently Seeking (Excellence), Resilience, Reflection, Consolidation, Self-Care, Appreciation &amp; Connecting Contexts <br>
-
-**Our Achievements**<br>
-2023 East Zone Schools Netball Championship B Division – 2nd<br>
-2023 Nationals Schools Netball Championship B Division – Top 8<br>
-2023 East Zone Schools Netball Championship C Division – 2nd<br>
-2022 East Zone Schools Netball Championship B Division – Champions<br>
-2022 East Zone Schools Netball Championship C Division – 4th<br>
-2019 East Zone Schools Netball Championship B Division - 2nd<br>
-2019 National Schools Netball Championship B Division - 2nd<br>
-2019 East Zone Schools Netball Championship C Division - Champions<br>
-2019 National Schools Netball Championship C Division - 4th<br>
-
-SSSC Colours (Team Award) 2019<br>
-Netball ‘B’ Team<br>  Netball ‘C’ Team<br>
-  
-**Our Teachers** <br>
-Ms Tan Yen Lin <br>
-Ms Deng Lan <br>
-
-**Learn More** <br>
-Click&nbsp;[**here**](/files/CCA/Netball.pdf)&nbsp;to know more about us! <br>
-Click &nbsp;[**here**](/files/CCA/DSA_Netball.pdf)&nbsp;to access our DSA e-brochure!
+<h2>Netball</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball%202023.png">
+</div>
+<p><strong>What We Do</strong> 
+<br>As a Netball team, we aim for excellence, nurtures talent and develop
+driven young women with upstanding character.
+<br>
+</p>
+<p><strong>When We Meet</strong> 
+<br>Wednesday: 2.30pm to 5.30pm
+<br>Friday: 1pm to 4pm
+<br>
+</p>
+<p><strong>What We Value</strong> 
+<br>Discipline, Commitment, Ownership, Caring, Integrity, Recognition, Consistently
+Seeking (Excellence), Resilience, Reflection, Consolidation, Self-Care,
+Appreciation &amp; Connecting Contexts
+<br>
+</p>
+<p><strong>Our Achievements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 East Zone Schools Netball Championship B Division – 3rd</p>
+</li>
+<li>
+<p>2023 East Zone Schools Netball Championship B Division – 2nd</p>
+</li>
+<li>
+<p>2023 Nationals Schools Netball Championship B Division – Top 8</p>
+</li>
+<li>
+<p>2023 East Zone Schools Netball Championship C Division – 2nd</p>
+</li>
+<li>
+<p>2022 East Zone Schools Netball Championship B Division – Champions</p>
+</li>
+<li>
+<p>2022 East Zone Schools Netball Championship C Division – 4th</p>
+</li>
+<li>
+<p>2019 East Zone Schools Netball Championship B Division - 2nd</p>
+</li>
+<li>
+<p>2019 National Schools Netball Championship B Division - 2nd</p>
+</li>
+<li>
+<p>2019 East Zone Schools Netball Championship C Division - Champions</p>
+</li>
+<li>
+<p>2019 National Schools Netball Championship C Division - 4th SSSC Colours
+(Team Award)</p>
+</li>
+<li>
+<p>2019 Netball ‘B’ Team Netball ‘C’ Team
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Our Teachers</strong> 
+<br>Ms Tan Yen Lin
+<br>Ms Deng Lan
+<br>
+</p>
+<p><strong>Learn More</strong> 
+<br>Click&nbsp;<strong><a href="/files/CCA/Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+know more about us!
+<br>Click &nbsp;<strong><a href="/files/CCA/DSA_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+access our DSA e-brochure!</p>
