@@ -21,7 +21,7 @@ principles.
 <br>Daily Training
 <br>
 </p>
-<p><strong>C Division</strong>
+<p><strong>C Division</strong> 
 <br>Monday, Tuesday, Thursday &amp; Friday, 2.30pm to 6.30pm
 <br>
 </p>
@@ -72,7 +72,7 @@ principles.
 <p>2019 East Zone Schools Volleyball Championship C Division – 3rd</p>
 </li>
 </ul>
-<p><strong>SSSC Colours (Team Award) 2019 </strong>
+<p><strong>SSSC Colours (Team Award) 2019</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,7 +82,7 @@ principles.
 <p>Volleyball Boys ‘C’ Team</p>
 </li>
 </ul>
-<p><strong>SSSC Individual Award </strong>
+<p><strong>SSSC Individual Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,7 +107,7 @@ principles.
 <p>Karunamoorthy Jahan Srisainath</p>
 </li>
 </ul>
-<p><strong>SSSC Best Sportboy Award </strong>
+<p><strong>SSSC Best Sportboy Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
