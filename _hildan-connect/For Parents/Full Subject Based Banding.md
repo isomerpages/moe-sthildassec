@@ -66,15 +66,6 @@ From 2024, secondary schools will implement the following aspects of Full SBB:
   line-height:normal;mso-list:l1 level1 lfo1" class="MsoListParagraph"><span style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
   mso-bidi-font-family:Wingdings;mso-ansi-language:EN-SG" lang="EN-SG"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:DengXian;
   mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-SG" lang="EN-SG">This is applicable to students who are in the Secondary 2 Normal (Academic) course and students who are in the Normal (Technical) course.</span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:-15.5pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:Calibri;
-  mso-fareast-font-family:DengXian;mso-hansi-font-family:Calibri;mso-bidi-font-family:
-  &quot;Times New Roman&quot;;mso-ansi-language:EN-SG" lang="EN-SG">&nbsp;</span></p><p style="margin-bottom:0in;mso-add-space:auto;
-  text-align:justify;text-justify:inter-ideograph;text-indent:-.25in;
-  line-height:normal;mso-list:l1 level1 lfo1" class="MsoListParagraph"><span style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
-  mso-bidi-font-family:Wingdings;mso-ansi-language:EN-SG" lang="EN-SG"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:DengXian;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
   mso-ansi-language:EN-SG" lang="EN-SG">Eligible students should possess a positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</span></p><p style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="mso-ascii-font-family:
   Calibri;mso-fareast-font-family:DengXian;mso-hansi-font-family:Calibri;
