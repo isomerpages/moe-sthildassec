@@ -13,11 +13,11 @@ sections:
       title: Trial dates
       id: infopic
       description: |-
-        Saturday 29th June 24: Floorball Girls, Volleyball Boys & Hockey Boys
         Saturday 6th July 24: Badminton Boys, Netball Girls & Volleyball Girls
+        Saturday 13th July 24: Floorball Girls, Volleyball Boys & Hockey Boys
       button: Click here
       url: https://www.sthildassec.moe.edu.sg/admissions/direct-school-admission-dsa/
-      image: /images/DSA.jpg
+      image: /images/DSA1.jpg
       alt: Image alt text
   - infopic:
       title: We cultivate critical and inventive thinkers.
