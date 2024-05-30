@@ -10,7 +10,7 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infopic:
-      title: Trial dates
+      title: 2024 Trial dates
       id: infopic
       description: |-
         Saturday 6th July 24: Badminton Boys, Netball Girls & Volleyball Girls
