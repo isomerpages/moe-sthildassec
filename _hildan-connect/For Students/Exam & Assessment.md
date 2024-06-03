@@ -28,4 +28,15 @@ variant: tiptap
 </p>
 </li>
 </ol>
+<h3>2024 Prelim Exam Timetables</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_4N_Level_Prelim_Exam_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4N</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_4E5N_LevelPrelimSchedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N</a>
+</p>
+</li>
+</ol>
 <p></p>
