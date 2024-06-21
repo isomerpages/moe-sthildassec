@@ -42,14 +42,10 @@ Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of St Hilda's Secondary School.</p>
 <p><strong>Right of Access</strong>
 </p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>St Hilda's Secondary School reserves all rights to deny or restrict access
-to this Web Site to any particular person, or to block access from a particular
-external address to this Web Site, at any time, without ascribing any reasons
-whatsoever.</p>
-</li>
-</ol>
+<p>8. St Hilda's Secondary School reserves all rights to deny or restrict
+access to this Web Site to any particular person, or to block access from
+a particular external address to this Web Site, at any time, without ascribing
+any reasons whatsoever.</p>
 <p><strong>Disclaimer of Warranties and Liability</strong>
 </p>
 <p>9. The Contents of this Web Site are provided on an "as is" basis without
