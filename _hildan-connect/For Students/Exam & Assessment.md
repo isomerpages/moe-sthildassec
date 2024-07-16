@@ -12,7 +12,7 @@ variant: tiptap
 <h3>2024 Prelim Exam Timetables</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_4N_Level_Prelim_Exam_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4N</a>
+<p><a href="/files/2024_N_Level_Prelim_Exam_Scheduleas_as_on_11_July_V2.pdf" rel="noopener noreferrer nofollow" target="_blank">4N</a>
 </p>
 </li>
 <li>
