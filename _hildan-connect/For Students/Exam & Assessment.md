@@ -23,5 +23,9 @@ variant: tiptap
 <p><a href="/files/SEC_3_EOY_Exam_Timetables_2024_as_on_28_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2024_4E5N_LevelPrelimSchedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N Prelims</a>
+</p>
+</li>
 </ol>
 <p></p>
