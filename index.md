@@ -10,16 +10,6 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infopic:
-      title: 2024 Trial dates
-      id: infopic
-      description: |-
-        Saturday 6th July 24: Badminton Boys, Netball Girls & Volleyball Girls
-        Saturday 13th July 24: Floorball Girls, Volleyball Boys & Hockey Boys
-      button: Click here
-      url: https://www.sthildassec.moe.edu.sg/admissions/direct-school-admission-dsa/
-      image: /images/DSA1.jpg
-      alt: Image alt text
-  - infopic:
       title: We cultivate critical and inventive thinkers.
       description: At SHSS, we engage students purposefully in the total curriculum,
         so that they exercise sound reasoning based on godly values.
