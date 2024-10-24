@@ -33,5 +33,5 @@ sections:
       description: Our students care to make a positive difference within and beyond
         our community.
       image: /images/caring & collaborative contributors.jpg
-      alt: Image alt text
+      alt: Students holding a candle
 ---
