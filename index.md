@@ -27,4 +27,11 @@ sections:
         our community.
       image: /images/caring & collaborative contributors.jpg
       alt: Image alt text
+  - infopic:
+      title: St. Hilda's Secondary E-Open House
+      subtitle: Add an image and text
+      id: infopic
+      button: Register here
+      url: https://go.gov.sg/shss2024
+      image: /images/E_open_House_2024_For_Site.jpg
 ---
