@@ -16,6 +16,7 @@ sections:
       button: Register here
       url: https://go.gov.sg/shss2024
       image: /images/E_open_House_2024_For_Site.jpg
+      alt: Students holding a candle
   - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
@@ -33,5 +34,6 @@ sections:
       description: Our students care to make a positive difference within and beyond
         our community.
       image: /images/caring & collaborative contributors.jpg
-      alt: Students holding a candle
+      alt: Students sharing items
+      subtitle: Add an image and text
 ---
