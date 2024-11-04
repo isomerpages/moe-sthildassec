@@ -37,5 +37,5 @@ her fullest potential through equipping, empowering and enabling skills.
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/GB%20PPT%20Slides%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/GB_2024_UPDATED_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 know more!</p>
