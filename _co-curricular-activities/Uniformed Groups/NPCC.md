@@ -43,5 +43,5 @@ crime and keep Singapore safe.
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/NPCC%20CCA%20Presentation%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/NPCC_Presentation_2024_edited_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here&nbsp;</a>to
 know more!</p>
