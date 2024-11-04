@@ -40,5 +40,5 @@ concerned citizens advocating lifesaving skills.
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/Introduction%20to%20NCDCC%20SHSS.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/CCA/SHSS_NCDCC_CCA_Introductory_Slides__2024___1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 know more!</p>
