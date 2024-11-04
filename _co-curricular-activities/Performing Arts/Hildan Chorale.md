@@ -49,5 +49,5 @@ together.</p>
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/Chorale.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/Hildan_Chorale__CCA_webpage__2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 know more!</p>
