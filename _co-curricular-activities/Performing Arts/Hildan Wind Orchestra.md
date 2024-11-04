@@ -37,5 +37,5 @@ help each other to develop our talents as musicians and leaders!
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/St%20Hildas%20Wind%20Orchestra%20CCA%20Info.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/Band_Slides_UPDATED_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more!</p>
