@@ -43,7 +43,7 @@ athletes, we aim to be disciplined sports leaders.
 <br>Mr Sulaiman Azmi
 <br>Mr Daniel Phua</p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/HockeyOrientation_2021_intro.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/Hildan_Hockey_Slides__UPDATED__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 know more about us!
 <br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/DSA_Hockey.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access our DSA e-brochure!</p>
