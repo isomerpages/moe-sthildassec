@@ -12,10 +12,17 @@ variant: markdown
 Financial Assistance Scheme 2024
 ---------------------------
 
-[MOE Financial Assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+[MOE Financial Assistance Eligibility](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
+[MOE FAS Pamphlet (English)](/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf)
+
+[MOE FAS Pamphlet (Malay)](/files/Document_4c_MOE_FAS_pamphlet__ML_.pdf)
+
+[MOE FAS Pamphlet (Chinese)](/files/Document_4b_MOE_FAS_pamphlet__CL_.pdf)
+
+[MOE FAS Pamphlet (Tamil)](/files/Document_4d_MOE_FAS_pamphlet__TL_.pdf)
   
-Parents may download the  [MOE FAS Application Form](/files/1_2024_MOE_FAS_Application_Form.pdf),  fill and email the duly signed Application Form with the supporting documents to [shss@moe.edu.sg](mailto:shss@moe.edu.sg)
+Parents may download the  [MOE FAS Application Form](/files/MOE_FAS_Application_Form_2025.pdf),  fill and email the duly signed Application Form with the supporting documents to [shss@moe.edu.sg](mailto:shss@moe.edu.sg)
 
 **OR**
 
