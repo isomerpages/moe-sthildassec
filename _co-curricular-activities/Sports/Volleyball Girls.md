@@ -36,7 +36,7 @@ into well-balanced individual with good academics.</p>
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/VB_Girls_PPT.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<br>Click&nbsp;<a href="/files/Sch_Website_VB_Girls_2024_UPDATED__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more info about us!
 <br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/DSA_Volleyball_Girls.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 access our DSA e-brochure!</p>

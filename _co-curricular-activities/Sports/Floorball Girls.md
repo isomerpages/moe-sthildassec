@@ -48,7 +48,7 @@ for sports.
 <br>Mdm Nisha Ishwardas Rajwani
 <br>Mrs Thiruchelvam</p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/Floorball%20Girls%20Who%20we%20are%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+<br>Click&nbsp;<a href="/files/DSA_floorball_vetted_26_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 know more about us!
 <br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/DSA_Floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 access our DSA e-brochure!</p>

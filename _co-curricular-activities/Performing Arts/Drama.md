@@ -38,5 +38,5 @@ to showcase their talent.
 <br>Ms Waheedah
 <br>Mdm Lim Xi Michelle</p>
 <p><strong>Learn More</strong> 
-<br><strong>Click&nbsp;</strong><a href="https://www.sthildassec.moe.edu.sg/files/CCA/dramaclub.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;<strong>to find out more!</strong>
-</p>
+<br>Click&nbsp;<a href="/files/THE_HILDAN_DRAMA_CLUB__2__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+find out more!</p>

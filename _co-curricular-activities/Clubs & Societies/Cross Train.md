@@ -65,5 +65,5 @@ them in CCA activities.
 <br>
 </p>
 <p><strong>Learn More</strong> 
-<br>Click&nbsp;<a href="https://www.sthildassec.moe.edu.sg/files/CCA/E-poster%20for%20Sec%201%20recruitment%20crosstrain.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="/files/Cross_Train_CCA_Website_2024__2__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more!</p>
