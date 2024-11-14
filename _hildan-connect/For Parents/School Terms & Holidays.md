@@ -3,16 +3,17 @@ title: School Terms & Holidays
 permalink: /hildan-connect/for-parents/school-terms-n-holidays/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ![](/images/Information/Admin%20Forms%20Banner.jpg)
 
 SCHOOL TERMS &amp; HOLIDAYS
 -----------------------
 
-School Terms and Holidays for 2023
+School Terms and Holidays for 2024
 ----------------------------------
 
-#### SCHOOL TERMS 2023
+#### SCHOOL TERMS 2024
 
 
 <table>
@@ -53,7 +54,7 @@ School Terms and Holidays for 2023
 
 \*_\*The last day of the final school term for schools which will be used as venues for the GCE O Level written examinations.
 
-#### SCHOOL HOLIDAYS 2023
+#### SCHOOL HOLIDAYS 2024
 
 <table>
 <thead>
@@ -94,7 +95,7 @@ School Terms and Holidays for 2023
 </table>
 
 
-#### SCHEDULED SCHOOL HOLIDAYS 2023
+#### SCHEDULED SCHOOL HOLIDAYS 2024
 
 <table>
 <thead>
@@ -126,7 +127,7 @@ School Terms and Holidays for 2023
 </tbody>
 </table>
 
-#### PUBLIC HOLIDAYS 2023
+#### PUBLIC HOLIDAYS 2024
 
 <table>
 <thead>
