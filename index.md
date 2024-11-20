@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: St. Hilda's Secondary E-Open House
       id: infopic
-      button: Register here
+      button: Register here by 22 Nov 12pm
       url: https://go.gov.sg/shss2024
       image: /images/E_open_House_2024_For_Site.jpg
       alt: Students holding a candle
