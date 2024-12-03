@@ -5,8 +5,6 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-
-
 # FINANCIAL ASSISTANCE
 
 
@@ -21,5 +19,3 @@ If you wish to apply for financial assistance, you may submit your application v
 OR 
 
 Download the [MOE FAS Application Form](https://www.sthildassec.moe.edu.sg/files/MOE_FAS_Application_Form_2025.pdf), fill in the application and submit via email to [shss@moe.edu.sg](mailto:shss@moe.edu.sg) or submit in person to our school’s General Office.
-
-  
