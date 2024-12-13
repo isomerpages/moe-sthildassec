@@ -10,13 +10,6 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infopic:
-      title: St. Hilda's Secondary E-Open House
-      id: infopic
-      button: Register here by 22 Nov 12pm
-      url: https://go.gov.sg/shss2024
-      image: /images/E_open_House_2024_For_Site.jpg
-      alt: Students holding a candle
-  - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
         their lifelong pursuit of learning.
