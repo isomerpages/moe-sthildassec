@@ -11,7 +11,6 @@ sections:
       variant: center
   - infopic:
       title: Dear Parents / Guardians,
-      subtitle: Add an image and text
       id: infopic
       description: Click link below to access more information about the S1
         registration process and appeal matters. Please complete the online form
