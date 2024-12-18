@@ -18,3 +18,4 @@ Useful Links
 * [SCHOOL COCKPIT](https://access.moe.edu.sg/login/login.jsp)
 * [RAMS FORM TEMPLATE](https://docs.google.com/spreadsheets/d/10W31oZFZ97zuk9xEVP6u_3PihihalFhz0L-Xf9n4LdU/edit?gid=161810983#gid=161810983)
 * [RAMS & Safety Folder](https://drive.google.com/drive/folders/118goBpq2RP0wv2sGrXXdT9EJjxGbZlTs?usp=drive_link)
+* [PAIR CHAT](https://pair.gov.sg/)
