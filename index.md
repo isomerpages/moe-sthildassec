@@ -12,9 +12,9 @@ sections:
   - infopic:
       title: Sec 1 Registration
       id: infopic
-      description: Click the link below for more information about the S1 registration
-        process and appeal matters. Please complete the online form by 19 Dec
-        2024 12 PM. Thank you
+      description: Click the link below to learn more about the S1 registration
+        process and appeal matters. Kindly complete the online form by 19
+        December 2024, 12 PM. Thank you!
       button: Sec 1 registration page
       url: https://go.gov.sg/shss-sec1-regn
       image: /images/Welcome_to_SHSS___1_.jpg
