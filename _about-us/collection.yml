@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Leaders' Welcome.md
       - Mission Vision Values.md
       - Our Heritage.md
       - Our Family/.keep
