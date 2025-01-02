@@ -6,8 +6,9 @@ third_nav_title: Our Family
 variant: tiptap
 ---
 <h2>KEY PERSONNEL</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/SL%20and%20MM%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key_Personnel_min.jpg">
 </div>
 <h2>School Leaders</h2>
 <table style="minWidth: 50px">
@@ -107,13 +108,13 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diane Jael Koh Mei Lin</p>
+<p>Pang Liang Wee Gerald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_mei_lin_diane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_lin_diane@moe.edu.sg</a>
+<p><a href="mailto:pang_liang_wee_gerald@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_liang_wee_gerald@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -451,6 +452,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:peh_hui_wen_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hui_wen_jasmine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/ Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xi Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xi_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xi_ning@moe.edu.sg</a>
 </p>
 </td>
 </tr>
