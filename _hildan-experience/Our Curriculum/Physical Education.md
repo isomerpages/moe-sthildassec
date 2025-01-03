@@ -3,10 +3,11 @@ title: Physical Education
 permalink: /hildan-experience/our-curriculum/physical-education/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 PHYSICAL EDUCATION
 ------------------
-![](/images/Staff/PE.jpg)
+![](![PE Department](/images/Dept_PE.jpg))
 
 **What We Desire**
 
