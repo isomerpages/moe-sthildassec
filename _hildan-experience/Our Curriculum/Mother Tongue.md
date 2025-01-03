@@ -3,11 +3,12 @@ title: Mother Tongue
 permalink: /hildan-experience/our-curriculum/mother-tongue/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 MOTHER TONGUE
 -------------
 
-![](/images/Staff/mother%20tongue.jpg)
+!![MT Department](/images/Dept_MTL.jpg)
 
 **What We Desire**
 
