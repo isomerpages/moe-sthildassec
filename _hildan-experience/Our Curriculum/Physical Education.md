@@ -7,7 +7,7 @@ variant: markdown
 ---
 PHYSICAL EDUCATION
 ------------------
-![](![PE Department](/images/Dept_PE.jpg))
+![PE Department](/images/Dept_PE.jpg)
 
 **What We Desire**
 
