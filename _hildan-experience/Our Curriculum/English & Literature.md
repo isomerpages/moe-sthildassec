@@ -7,7 +7,7 @@ variant: markdown
 ---
 ENGLISH &amp; LITERATURE
 --------------------
-![](/images/Staff/EL.jpg)
+![English Department](/images/Dept_English.jpg)
 
 **What We Desire**
 

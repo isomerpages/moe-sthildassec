@@ -3,10 +3,11 @@ title: Mathematics & CPA
 permalink: /hildan-experience/our-curriculum/mathematics/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 MATHEMATICS/COMPUTER APPLICATIONS
 -----------
-![](/images/Staff/maths.jpg)
+![Maths Department](/images/Dept_Maths.jpg)
 
 **What We Desire**
 

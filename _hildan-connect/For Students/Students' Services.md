@@ -3,6 +3,7 @@ title: Students' Services
 permalink: /hildan-connect/for-students/students-services/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ![](/images/Information/Students%20Services%20Banner.jpg)
 
@@ -47,7 +48,7 @@ Parents are strongly encouraged to purchase through school bookshop or pre-order
 School Uniform
 --------------
 
-Purchase school uniform from Beau Voix via this website.&nbsp;[https://beauvoix.com/product-category/secondary/shss/](https://beauvoix.com/product-category/secondary/shss/)
+Purchase school uniform from Pacific Bookstore via this website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)&nbsp;
 
 School Canteen
 --------------

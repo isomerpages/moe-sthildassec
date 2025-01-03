@@ -3,10 +3,11 @@ title: Science
 permalink: /hildan-experience/our-curriculum/science/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 SCIENCE
 -------
-![](/images/Staff/sci.jpg)
+![Science Department](/images/Dept_Sci.jpg)
 
 <b>What We Desire</b>
 

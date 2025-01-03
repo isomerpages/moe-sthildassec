@@ -3,10 +3,11 @@ title: Craft & Technology (Art, Music, D&T, FCE)
 permalink: /hildan-experience/our-curriculum/craftandtechnology/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 ## Craft &amp;  Technology (Art, Music, D&amp;T, FCE)
 
-![](/images/Staff/craft%20and%20tech.jpg)
+![C&T Department](/images/Dept_C_T.jpg)
 
 **What We Desire**
 
