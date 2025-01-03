@@ -3,10 +3,11 @@ title: Humanities
 permalink: /hildan-experience/our-curriculum/humanities/
 description: ""
 third_nav_title: Our Curriculum
+variant: markdown
 ---
 HUMANITIES
 ----------
-![](/images/Staff/humanities.jpg)
+![](![Humanities Department](/images/Dept_Humanities.jpg))
 
 **What We Desire**
 
