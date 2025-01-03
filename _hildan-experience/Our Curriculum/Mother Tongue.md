@@ -8,7 +8,7 @@ variant: markdown
 MOTHER TONGUE
 -------------
 
-!![MT Department](/images/Dept_MTL.jpg)
+![MT Department](/images/Dept_MTL.jpg)
 
 **What We Desire**
 
