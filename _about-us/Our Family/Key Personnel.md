@@ -412,21 +412,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pang Liang Wee Gerald</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pang_liang_wee_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_liang_wee_gerald@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH/English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
