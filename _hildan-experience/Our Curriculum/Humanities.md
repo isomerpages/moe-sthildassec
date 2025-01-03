@@ -7,7 +7,7 @@ variant: markdown
 ---
 HUMANITIES
 ----------
-![](![Humanities Department](/images/Dept_Humanities.jpg))
+![Humanities Department](/images/Dept_Humanities.jpg)
 
 **What We Desire**
 
