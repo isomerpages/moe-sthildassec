@@ -48,7 +48,8 @@ variant: tiptap
 <p>Tay Chye Huat (Mr) (SH/IM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_chye_huat@moe.edu.sg</p>
+<p><a href="mailto:tay_chye_huat@moe.edu.sg" rel="noopener nofollow" target="_blank">tay_chye_huat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +60,8 @@ variant: tiptap
 <p>Ramna Bte Johana (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ramna_johana@moe.edu.sg</p>
+<p><a href="mailto:ramna_johana@moe.edu.sg" rel="noopener nofollow" target="_blank">ramna_johana@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +72,8 @@ variant: tiptap
 <p>Chiu Yee Ning Michelle (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chiu_yee_ning_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiu_yee_ning_michelle@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +84,8 @@ variant: tiptap
 <p>Zizi Elliza Bte Zulkefli (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zizi_elliza_zulkefli@moe.edu.sg</p>
+<p><a href="mailto:zizi_elliza_zulkefli@moe.edu.sg" rel="noopener nofollow" target="_blank">zizi_elliza_zulkefli@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +96,8 @@ variant: tiptap
 <p>Ng Puay Hoon (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_puay_hoon@moe.edu.sg</p>
+<p><a href="mailto:ng_puay_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_puay_hoon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +108,8 @@ variant: tiptap
 <p>Teng Yuling Elaine (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teng_yuling_elaine@moe.edu.sg</p>
+<p><a href="mailto:teng_yuling_elaine@moe.edu.sg" rel="noopener nofollow" target="_blank">teng_yuling_elaine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +132,8 @@ variant: tiptap
 <p>Lam Mei Lan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lam_mei_lan@moe.edu.sg</p>
+<p><a href="mailto:lam_mei_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_mei_lan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +144,8 @@ variant: tiptap
 <p>Norlindah Binte Mohd Taib (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg" rel="noopener nofollow" target="_blank">kuhendran_varatharajasinga@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +156,8 @@ variant: tiptap
 <p>Hua Phua Tai Lai (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hua_phua_tai_lai@moe.edu.sg</p>
+<p><a href="mailto:hua_phua_tai_lai@moe.edu.sg" rel="noopener nofollow" target="_blank">hua_phua_tai_lai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -161,8 +170,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:peh_hui_wen_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hui_wen_jasmine@moe.edu.sg</a>
 </p>
-<p>liu_jianqing_daniel@moe.edu.sg</p>
-<p></p>
+<p>and</p>
+<p><a href="mailto:liu_jianqing_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_jianqing_daniel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +208,8 @@ variant: tiptap
 <p>Abdul Bari Bin Ahmad (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>abdul_bari_ahmad@moe.edu.sg</p>
+<p><a href="mailto:abdul_bari_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">abdul_bari_ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +220,8 @@ variant: tiptap
 <p>Xi Ning (Mr) (SH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xi_ning@moe.edu.sg</p>
+<p><a href="mailto:xi_ning@moe.edu.sg" rel="noopener nofollow" target="_blank">xi_ning@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -240,7 +252,8 @@ variant: tiptap
 <p>Jessie Sim Seok Moi (Mdm) (ST/GEOG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jessie_sim_seok_moi@moe.edu.sg</p>
+<p><a href="mailto:jessie_sim_seok_moi@moe.edu.sg" rel="noopener nofollow" target="_blank">jessie_sim_seok_moi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -617,7 +630,7 @@ variant: tiptap
 <p>Kuhendran s/o Varatharajasingam (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>kuhendran_varatharajasinga@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -640,7 +653,7 @@ variant: tiptap
 <p>Norshamsuddin Bin Abdul Gani (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>norshamsuddin_abdul_gani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -735,7 +748,7 @@ variant: tiptap
 <p>Nur Zuhailah Binte Hanafi (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nur_zuhailah_hanafi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
