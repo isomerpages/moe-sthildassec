@@ -833,7 +833,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h2>Flexi Adjunct Teachers</h2>
 <table style="minWidth: 100px">
 <colgroup>
@@ -1168,16 +1167,29 @@ variant: tiptap
 <p>HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Diane Ang</p>
+<p>Mr Gerald Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_mei_lin_diane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_lin_diane@moe.edu.sg</a>
+<p><a href="mailto:pang_liang_wee_gerald@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_liang_wee_gerald@moe.edu.sg</a>
+<a href="mailto:koh_mei_lin_diane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>SEC 1 LDM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Bari Bin Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_bari_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_bari_ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEC 2 LDM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hamad Zainudin Bin Othman</p>
@@ -1189,7 +1201,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>SEC 2 LDM</p>
+<p>SEC 3 LDM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shahroon Jihan d/o Khairoodin (Mrs Khan)</p>
@@ -1210,25 +1222,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SEC 3 LDM</p>
+<p>SEC 4/5 LDM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kuhendran s/o Varatharajasinga</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuhendran_varatharajasinga@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEC 4/5 LDM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Bari Bin Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_bari_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_bari_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
