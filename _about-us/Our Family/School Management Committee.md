@@ -54,10 +54,10 @@ variant: tiptap
 <p>Honorary Secretary&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Janice Lim</p>
+<p>Mdm Law Li Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal, St Hilda’s Secondary School (SHSS) / Honorary Secretary</p>
+<p>Principal, St Hilda’s Primary School (SHPS)</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Member&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Law Li Mei&nbsp;</p>
+<p>Mr Lew King Lun Julian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal, St Hilda’s Primary School (SHPS)&nbsp;</p>
