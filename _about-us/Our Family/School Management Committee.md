@@ -79,7 +79,7 @@ variant: tiptap
 <p>Mr Lew King Lun Julian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal, St Hilda’s Primary School (SHPS)&nbsp;</p>
+<p>Principal, St Hilda’s Secondary School (SHSS)&nbsp;</p>
 </td>
 </tr>
 <tr>

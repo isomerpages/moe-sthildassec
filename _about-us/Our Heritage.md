@@ -34,7 +34,8 @@ HISTORY
 * Mrs Sng Siew Hong (2000–2005)
 * Mr Ong Kim Soon (2006–2010)
 * Mr Khoo Tse Horng (2011–2017)
-* Mrs Janice Lim (2018–present)
+* Mrs Janice Lim (2018–2024)
+* Mr Julian Lew (2025-present)
 
 Key Milestones
 
