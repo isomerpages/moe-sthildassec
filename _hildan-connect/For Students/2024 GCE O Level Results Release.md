@@ -7,8 +7,8 @@ third_nav_title: For Students
 ---
 <h2><strong>2024 O-Level Information on Open House and JAE Information</strong></h2>
 <p>Dear Parents / Guardians,</p>
-<p>The 2024 GCE&nbsp;o-Level&nbsp;results&nbsp;will be released on&nbsp;Fri
-10 Jan 2025 at 2.30pm.&nbsp;Your parents may observe&nbsp;the&nbsp;release&nbsp;of&nbsp;results&nbsp;in
+<p>The 2024 GCE&nbsp;o-Level&nbsp;results&nbsp;will be released on&nbsp;<strong>Fri 10 Jan 2025</strong> at <strong>2.30pm</strong>.&nbsp;Your
+parents may observe&nbsp;the&nbsp;release&nbsp;of&nbsp;results&nbsp;in
 MPH.&nbsp;</p>
 <p>All 4Exp and 5NA students are strongly encouraged to return to school
 to receive their results, where the school will brief them on their post-secondary
@@ -16,8 +16,8 @@ applications.</p>
 <p>Important details&nbsp;to note:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You should arrive early from 2pm
 onwards&nbsp;to allow time for grooming checks.</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please be seated by 2.25pm latest&nbsp;at
-MPH&nbsp;Level&nbsp;4.</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Please be seated by 2.25pm latest&nbsp;at MPH&nbsp;Level&nbsp;4.</strong>
+</p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attire &amp; Grooming:&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Full school uniform or PE
 t-shirt with school pants or skirts.
@@ -26,10 +26,9 @@ t-shirt with school pants or skirts.
 hair. Inappropriate hairstyle and attire will cause delays in getting your&nbsp;results.</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students are required to complete
 the following prior to receiving their results &nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;Settle all outstanding school
-/ examination fees&nbsp;at the General Office</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Return all library books&nbsp;to
-the General Office</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Settle all outstanding school /
+examination fees&nbsp;at the General Office
+<br>- Return all library books&nbsp;to the General Office</p>
 <p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are&nbsp;unwell&nbsp;should
 not&nbsp;return to school&nbsp;to collect their results.</p>
 <p></p>
