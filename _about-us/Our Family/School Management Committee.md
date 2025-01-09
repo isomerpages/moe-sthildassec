@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mrs Helen Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bishop’s Nominee (St Hilda’s Church (SHC))&nbsp;</p>
+<p>Bishop’s Nominee (St. Hilda’s Church (SHC))&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ variant: tiptap
 <p>Mdm Law Li Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal, St Hilda’s Primary School (SHPS)</p>
+<p>Principal, St. Hilda’s Primary School (SHPS)</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Mr Lew King Lun Julian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Principal, St Hilda’s Secondary School (SHSS)&nbsp;</p>
+<p>Principal, St. Hilda’s Secondary School (SHSS)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -91,6 +91,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chaplain for SHPS and SHSS/Vicar, Chapel of Christ the Redeemer (CCR)&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Tan Bee Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diocesan Secretary for Schools</p>
 </td>
 </tr>
 <tr>
