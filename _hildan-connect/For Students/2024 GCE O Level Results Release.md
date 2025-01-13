@@ -5,14 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h2><strong>2024 O-Level Information on Open House and JAE Information</strong></h2>
-<p></p>
+<h2><strong>2024 O-Level Result Release</strong></h2>
+<p>Dear Parents/Guardians,</p>
 <p>The 2024 GCE&nbsp;'O'-Level&nbsp;results&nbsp;will be released on&nbsp;Fri
 10 Jan 2025 at 2.30pm.&nbsp;Your parents may observe&nbsp;the&nbsp;release&nbsp;of&nbsp;results&nbsp;in
 MPH.&nbsp;</p>
-<p>All 4Exp and 5NA students are strongly encouraged to return to school
-to receive their results, where the school will brief them on their post-secondary
-applications.</p>
+<p><strong>All 4Exp and 5NA students are strongly encouraged to return to school to receive their results, where the school will brief them on their post-secondary applications.</strong>
+</p>
 <p>Important details&nbsp;to note:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Students should arrive early from
 2pm onwards&nbsp;to allow time for grooming checks.</p>
@@ -43,9 +42,10 @@ the following prior to receiving their results &nbsp;&nbsp;</p>
 <p>Return all library books&nbsp;to the General Office</p>
 </li>
 </ul>
-<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are&nbsp;unwell&nbsp;should
-not&nbsp;return to school&nbsp;to collect their results.</p>
-<p>Unable to receive their results personally?</p>
+<p>f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who are&nbsp;<strong>unwell&nbsp;<u>should not&nbsp;</u>return to school</strong>&nbsp;to
+collect their results.</p>
+<p><strong><u>Unable to receive their results personally?</u></strong>
+</p>
 <p>Students&nbsp;may appoint&nbsp;a proxy to collect the results on their
 behalf.&nbsp;Proxies are required to produce the relevant documents at
 the GO reception informing that they would be collecting the physical&nbsp;result&nbsp;on
@@ -76,4 +76,7 @@ and class when collecting the&nbsp;results.</p>
 </p>
 </li>
 </ol>
+<p><strong><u>Press Release</u></strong>
+</p>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/news/press-releases/20250103-release-of-2024-singapore-cambridge-gce-o-level-examination-results-and-2025-joint-admissions-exercise</u></a>&nbsp;</p>
 <p></p>
