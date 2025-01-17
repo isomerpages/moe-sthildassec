@@ -42,4 +42,4 @@ For Financial Matters &amp; General Queries, please contact the General Office:
 
 <style> { margin:0;} </style>To check your child's/ward's Edusave Account Balance, please call the hotline at 6260 0777.
 
-**ICT Account Help Form**, click [here](https://sthildassec.moe.edu.sg/information/ict-account-help-form).
+For technical support, please email the school-based helpdesk at dma_shss01@moe.edu.sg.
