@@ -42,4 +42,4 @@ For Financial Matters &amp; General Queries, please contact the General Office:
 
 <style> { margin:0;} </style>To check your child's/ward's Edusave Account Balance, please call the hotline at 6260 0777.
 
-For technical support, please email the school-based helpdesk at dma_shss01@moe.edu.sg.
+For any account-related or technical support, you may email the school-based helpdesk at dma_shss01@moe.edu.sg.
