@@ -3,6 +3,7 @@ title: National Digital Literacy Programme
 permalink: /hildan-connect/for-parents/ndlp/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <style> { margin:0;} </style>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. Throughout their educational journey, students will be able to acquire digital skills across four components in the “Find, Think, Apply, Create” framework.&nbsp;
 
@@ -28,7 +29,8 @@ The use of the PLD for teaching and learning aims to:
 **PARENT HANDBOOK ON 1-T0-1 LEARNING**
 
 The Ministry of Education has prepared two handbooks for parents to know more about 1 to 1 learning. The handbooks can be accessed from the links below.
-*   Parents Handbook on Learning with PLD ([**Book 1**](https://drive.google.com/file/d/10j-OBN-ER_c0XKQTh5fhedcfKzil6EYD/view?usp=sharing) &amp; [**Book 2**](https://drive.google.com/file/d/1C-1lTQfnqa4k3oaeTK0jjP-GBeRrIMuh/view?usp=sharing))
+*   Parents Handbook (I) on Learning with a PLD: [Parent Handbook (I)](/files/IP2___Parent_Handbook__I__2025.pdf)
+*   Parents Handbook (II) on Learning with a PLD: [Parent Handbook (II) ](/files/IP3___Parent_Handbook__II__2025.pdf)
 
 **FOR FURTHER ENQUIRIES**
 
@@ -40,4 +42,4 @@ For Financial Matters &amp; General Queries, please contact the General Office:
 
 <style> { margin:0;} </style>To check your child's/ward's Edusave Account Balance, please call the hotline at 6260 0777.
 
-**ICT Account Help Form**, click [here](https://sthildassec.moe.edu.sg/information/ict-account-help-form).
+For any account-related or technical support, you may email the school-based helpdesk at dma_shss01@moe.edu.sg.
