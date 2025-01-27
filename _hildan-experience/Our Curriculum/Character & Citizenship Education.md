@@ -112,7 +112,7 @@ in the school curriculum:</p>
 <p></p>
 <p>Click the link to access information on sexuality education at St. Hilda’s
 Secondary School:</p>
-<p>School: <a href="/files/Hildan Matters/2024_Info_on_SEd_for_schs_website__Secondary_Schools__v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Info_on_SEd_for_Schools_SHSS</a>
+<p>School: <a href="/files/Info_on_SEd_for_schools_SHSS.pdf" rel="noopener noreferrer nofollow" target="_blank">Info_on_SEd_for_Schools_SHSS</a>
 </p>
 </li>
 </ul>
