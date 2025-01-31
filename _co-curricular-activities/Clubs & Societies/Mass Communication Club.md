@@ -1,11 +1,11 @@
 ---
-title: Mass Comm
+title: Mass Communication Club
 permalink: /hildan-experience/co-curricular-activities/clubs-n-societies/mass-comm/
 description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<h2>Mass Comm</h2>
+<h2>Mass Communication Club</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Mass%20Comm%202023.png">
 </div>

@@ -1,11 +1,11 @@
 ---
-title: Hildan Wind Orchestra
+title: Symphonic Band
 permalink: /hildan-experience/co-curricular-activities/performing-arts/hildan-wind-orchestra/
 description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h2>Hildan Wind Orchestra</h2>
+<h2>Symphonic Band</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band%202023.png">
 </div>
