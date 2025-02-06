@@ -68,6 +68,7 @@ for growth and transformation.</p>
 where every individual is empowered to flourish, contribute meaningfully,
 and make a difference.</p>
 <p>As our school motto reminds and encourages us, let us <strong>Go Forward</strong> together!</p>
+<hr>
 <p></p>
 <p><strong><u>Vice Principals' Messages</u></strong>
 </p>
@@ -88,10 +89,9 @@ By wings, I hope the students will be excited to seize the learning opportunitie
 to explore and pursue their passions. With the relevant knowledge, skills
 and dispositions, they will then be well prepared to lead a fulfilled life
 that God has intended for each of them.</p>
-<p></p>
 <p>Let’s go forward as One Hildan Family to establish SHSS as a choice school
 that provides a joyful and holistic learning experience for every student.</p>
-<p></p>
+<hr>
 <p></p>
 <p><strong>Mr Goh Wee Siong Jared</strong>
 </p>
@@ -114,12 +114,12 @@ their communities shinging brightly as beacons of faith and service.</p>
 our dedicated staff, parents and the wider community. United in purpose
 and faith, we will continue to honour the past, embrace the present, and
 together go forward steadfastly into the future.</p>
-<p></p>
+<hr>
 <p></p>
 <p><strong>Mr Loy Wee Jin</strong>
 </p>
 <p>Every Hildan is a precious individual entrusted to us to guide them in
-their learning journey</p>
+their learning journey.</p>
 <p>We believe in having “Integrity our Anchor” in daily living, “Caring our
 Heartbeat” in our relationship with one another and “Commitment our Resolve”
 in achieving the best for our students and for ourselves.</p>
