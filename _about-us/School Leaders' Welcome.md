@@ -4,8 +4,8 @@ permalink: /school-leaders-welcome/
 variant: tiptap
 description: ""
 ---
-<p>IMAGE</p>
-<p>Principal's Message</p>
+<p><strong><u>Principal's Message</u></strong>
+</p>
 <p>A very warm welcome to St. Hilda’s Secondary School. I am deeply honoured
 and privileged to be entrusted the opportunity to lead a school steeped
 in rich history and tradition of excellence and I am grateful to build
@@ -69,7 +69,8 @@ where every individual is empowered to flourish, contribute meaningfully,
 and make a difference.</p>
 <p>As our school motto reminds and encourages us, let us <strong>Go Forward</strong> together!</p>
 <p></p>
-<p>Vice Principal's Messages</p>
+<p><strong><u>Vice Principal's Messages</u></strong>
+</p>
 <p></p>
 <p><strong>Mdm So Mun Yee</strong>
 </p>
@@ -77,7 +78,7 @@ and make a difference.</p>
 is not only a school but also an extended family that traces back to many
 generations of outstanding individuals who love and serve others, our nation
 and God.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>It is my desire that together with my colleagues and key stakeholders,
 we could give our students the “roots and wings” via their experiences
 in SHSS. By roots, I am referring not only to inculcating in students the
@@ -87,7 +88,7 @@ By wings, I hope the students will be excited to seize the learning opportunitie
 to explore and pursue their passions. With the relevant knowledge, skills
 and dispositions, they will then be well prepared to lead a fulfilled life
 that God has intended for each of them.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Let’s go forward as One Hildan Family to establish SHSS as a choice school
 that provides a joyful and holistic learning experience for every student.</p>
 <p></p>
@@ -123,11 +124,11 @@ in achieving the best for our students and for ourselves.</p>
 <br>St Hilda’s Secondary School has a rich history of moulding young minds
 with the mission that every student lives a God-fearing purposeful life,
 impacting their families, friends and our nation.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>I believe that every student has potential and this journey of uncovering
 their potential is a partnership between the school, parents, community
 partners and stakeholders.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>It is indeed a privilege and honour to be part of the Hildan family and
 I look forward to walking this learning journey with you in helping our
 students achieve holistic education in their season of time with us.</p>
