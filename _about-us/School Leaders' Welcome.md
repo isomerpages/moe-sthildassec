@@ -6,6 +6,8 @@ description: ""
 ---
 <p><strong><u>Principal's Message</u></strong>
 </p>
+<p><strong>Mr Lew King Lun Julian</strong>
+</p>
 <p>A very warm welcome to St. Hilda’s Secondary School. I am deeply honoured
 and privileged to be entrusted the opportunity to lead a school steeped
 in rich history and tradition of excellence and I am grateful to build
