@@ -4,7 +4,9 @@ permalink: /school-leaders-welcome/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Principals' Message</u></strong>
+<p><strong><u>Principal's Message</u></strong>
+</p>
+<p><strong>Mr Lew King Lun Julian</strong>
 </p>
 <p>A very warm welcome to St. Hilda’s Secondary School. I am deeply honoured
 and privileged to be entrusted the opportunity to lead a school steeped
