@@ -4,8 +4,9 @@ permalink: /school-leaders-welcome/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SHSS School Leaders" src="/images/School_leaders_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="School Leaders Photo" src="/images/School_leaders_2025_edited_half_body__2_.png">
 </div>
 <p><strong><u>Principal's Message</u></strong>
 </p>
@@ -138,7 +139,4 @@ partners and stakeholders.</p>
 I look forward to walking this learning journey with you in helping our
 students achieve holistic education in their season of time with us.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Leaders Photo" src="/images/School_leaders_2025_edited_half_body__2_.png">
-</div>
 <p></p>
