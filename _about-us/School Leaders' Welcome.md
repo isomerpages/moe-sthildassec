@@ -4,6 +4,9 @@ permalink: /school-leaders-welcome/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SHSS School Leaders" src="/images/School_leaders_2025.jpg">
+</div>
 <p><strong><u>Principal's Message</u></strong>
 </p>
 <p><strong>Mr Lew King Lun Julian</strong>
@@ -47,7 +50,7 @@ of learning so that they can adapt to the challenges in new and unfamiliar
 context. Every Hildan is a Disciplined leader for life.</p>
 <p><strong>Caring</strong>
 </p>
-<p>We focus on developing each Hildan to be a Caring and Collaborative Contributor.
+<p>We focus on developing each Hildan to be a <strong>Caring and Collaborative Contributor</strong>.
 A Hildan who exercises initiative, works effectively in teams, understands
 global context and issues and cares to make a positive difference within
 and beyond our community. Every Hildan is a Caring leader for Life.</p>
@@ -134,3 +137,4 @@ partners and stakeholders.</p>
 <p>It is indeed a privilege and honour to be part of the Hildan family and
 I look forward to walking this learning journey with you in helping our
 students achieve holistic education in their season of time with us.</p>
+<p></p>
