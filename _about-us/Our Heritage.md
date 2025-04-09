@@ -49,7 +49,7 @@ Go Forward
 <style> { margin:0;} </style>The founder of St Hilda’s, Archdeacon Graham White, captured the essence of the school’s aims and aspirations in the Mosaic command, ‘Go Forward’.
 
 **School Crest**
-![SHSS Crest](/images/SHSS_Crest.gif)
+![SHSS Crest](/images/WhatsApp_Image_2025_04_09_at_11_59_25_AM.jpg)
 
 
 <style> { margin:0;} </style>The school badge embodies the aims and aspirations of St Hilda’s. Its circular shape symbolises unity within the diversity of people, creeds and cultures in Singapore.
