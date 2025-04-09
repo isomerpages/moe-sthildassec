@@ -2,6 +2,7 @@
 title: Mission Vision Values
 permalink: /about-us/mission-vision-values/
 description: ""
+variant: markdown
 ---
 ![](/images/School%20Info/About%20SHSS%20Banner.jpg)
 
@@ -37,21 +38,16 @@ _Whatever you do, work at it with all your heart, as working for the Lord, not f
 Cultural Beliefs
 ----------------
 
-**Culture of care and excellence**
+**Culture of Care and Excellence**
 
-St. Hilda's, a place where we care to excel and excel to care.&nbsp;
+In St. Hilda's Secondary School, we care to excel and excel to care.&nbsp;
 
-**Teacher beliefs**
+**Teacher Beliefs**
 
-*   Every pupil is a gem for us to uncover
+*   Every student is a gem for us to uncover
     
-*   Learning should be age appropriate to optimise pupil learning
+*   Learning should be age appropriate to optimise students' learning
     
-*   Every pupil can be taught to apply their efforts to progress to the next stage
+*   Every student can be taught to apply their efforts to progress to the next stage
     
 *   Care, order and discipline precede active, meaningful learning
-
-
-
-
-
