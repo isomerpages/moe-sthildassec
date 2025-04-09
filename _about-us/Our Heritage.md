@@ -17,7 +17,7 @@ HISTORY
 <p></p>
 <style> { margin:0;} </style>In 1988, St Hilda’s School relocated to Tampines and split into two schools due to the increasing demand for better facilities to meet future needs. In the following year, St Hilda’s welcomed its first batch of 165 primary school and 109 secondary school male students. On 28 July 1990, St Hilda’s Primary School and St Hilda’s Secondary School were officially opened by then Senior Minister of State for Education Dr Tay Eng Soon. Bishop Moses Tay consecrated the two schools.
 <p></p>
-<style> { margin:0;} </style>In commemoration of its 70th anniversary, St Hilda’s published Hildan Harvest, which records the school’s history since its founding in 1934. On 13 April 2012, then Minister for Education Mr Heng Swee Keat officially opened the new Student Activity Centre, which houses a multipurpose hall, two indoor sports halls and Singapore’s first roof-top full-size hockey pitch. In 2014, the school celebrated its 80th anniversary with a series of events centred on the theme, ‘Run with Endurance, Race with Joy’, which culminated in the sealing of a time capsule containing significant artefacts that would be unearthed during the school’s 100th anniversary. In 2019, the school celebrated its 85th anniversary with a line-up of events jointly organised with St Hilda’s Primary School. In 2024m the school celebrated its 90th anniversary with 90 acts of kindness and a combined schools Founder's Day with St. Hilda's Primary School.
+<style> { margin:0;} </style>In commemoration of its 70th anniversary, St Hilda’s published Hildan Harvest, which records the school’s history since its founding in 1934. On 13 April 2012, then Minister for Education Mr Heng Swee Keat officially opened the new Student Activity Centre, which houses a multipurpose hall, two indoor sports halls and Singapore’s first roof-top full-size hockey pitch. In 2014, the school celebrated its 80th anniversary with a series of events centred on the theme, ‘Run with Endurance, Race with Joy’, which culminated in the sealing of a time capsule containing significant artefacts that would be unearthed during the school’s 100th anniversary. In 2019, the school celebrated its 85th anniversary with a line-up of events jointly organised with St Hilda’s Primary School. In 2024m the school celebrated its 90th anniversary with 90 acts of kindness and a combined schools Founder's Day with St. Hilda's Primary School.![SHSS Crest](/images/SHSS_Crest.gif)
 
 **Principals:**
 
@@ -49,8 +49,8 @@ Go Forward
 <style> { margin:0;} </style>The founder of St Hilda’s, Archdeacon Graham White, captured the essence of the school’s aims and aspirations in the Mosaic command, ‘Go Forward’.
 
 **School Crest**
+![SHSS Crest](/images/SHSS_Crest.gif)
 
-![ST HILDA’S SECONDARY SCHOOL](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/images/librariesprovider7/heritage-schools/secondary/st-hilda-s-secondary-school/crest.jpg?sfvrsn=79fc206c_4)
 
 <style> { margin:0;} </style>The school badge embodies the aims and aspirations of St Hilda’s. Its circular shape symbolises unity within the diversity of people, creeds and cultures in Singapore.
 
