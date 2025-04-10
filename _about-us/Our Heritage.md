@@ -74,9 +74,9 @@ of events centred on the theme, ‘Run with Endurance, Race with Joy’, which
 culminated in the sealing of a time capsule containing significant artefacts
 that would be unearthed during the school’s 100th anniversary. In 2019,
 the school celebrated its 85th anniversary with a line-up of events jointly
-organised with St Hilda’s Primary School. In 2024m the school celebrated
+organised with St Hilda’s Primary School. In 2024, the school celebrated
 its 90th anniversary with 90 acts of kindness and a combined schools Founder's
-Day with St. Hilda's Primary School.![SHSS Crest](/images/SHSS_Crest.gif)</p>
+Day with St. Hilda's Primary School.</p>
 <p><strong>Principals:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -129,7 +129,27 @@ Day with St. Hilda's Primary School.![SHSS Crest](/images/SHSS_Crest.gif)</p>
 <p>Mr Julian Lew (2025-present)</p>
 </li>
 </ul>
-<p>Key Milestones</p>
+<p><strong>Key Milestones</strong>
+</p>
+<p>1929: Establishment of Bethel English School on Ceylon Road in Katong.</p>
+<p>1934: Archdeacon Graham White acquires the school and affiliates it to
+the Anglican Diocese.</p>
+<p><strong>1938</strong>: Renamed as St Hilda's School.</p>
+<p><strong>1950</strong>: Accorded grant-in aid status.</p>
+<p><strong>1984</strong>: Commemoration of golden jubilee.</p>
+<p><strong>1988</strong>: Relocation to Tampines as separate primary and
+secondary schools.</p>
+<p><strong>2012</strong>: Official opening of Student Activity Centre at
+St Hilda's Secondary School</p>
+<p><strong>2014</strong>: Celebration of 80th anniversary</p>
+<p><strong>2019</strong>: Celebration of 85th anniversary with St Hilda's
+Primary School and other key partners. These include a Combined School's
+Carnival, Founder's Day, Hildan Vision Night and 85th Anniversary Thanksgiving
+Dinner.</p>
+<p><strong>2024</strong>: Celebrated of 90th anniversary with 90 acts of
+kindness and a combined schools Founder's Day with St. Hilda's Primary
+School.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Info/History/key%20milestones.png">
 </div>
@@ -141,7 +161,7 @@ of the school’s aims and aspirations in the Mosaic command, ‘Go Forward’.<
 <p><strong>School Crest</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="SHSS Crest" src="/images/WhatsApp_Image_2025_04_09_at_11_59_25_AM.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="SHSS Crest" src="/images/WhatsApp_Image_2025_04_09_at_11_59_25_AM.jpg">
 </div>
 <p>The school badge embodies the aims and aspirations of St Hilda’s. Its
 circular shape symbolises unity within the diversity of people, creeds
