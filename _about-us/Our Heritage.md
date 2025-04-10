@@ -131,9 +131,10 @@ Day with St. Hilda's Primary School.</p>
 </ul>
 <p><strong>Key Milestones</strong>
 </p>
-<p>1929: Establishment of Bethel English School on Ceylon Road in Katong.</p>
-<p>1934: Archdeacon Graham White acquires the school and affiliates it to
-the Anglican Diocese.</p>
+<p><strong>1929</strong>: Establishment of Bethel English School on Ceylon
+Road in Katong.</p>
+<p><strong>1934</strong>: Archdeacon Graham White acquires the school and
+affiliates it to the Anglican Diocese.</p>
 <p><strong>1938</strong>: Renamed as St Hilda's School.</p>
 <p><strong>1950</strong>: Accorded grant-in aid status.</p>
 <p><strong>1984</strong>: Commemoration of golden jubilee.</p>
