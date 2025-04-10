@@ -151,9 +151,6 @@ Dinner.</p>
 kindness and a combined schools Founder's Day with St. Hilda's Primary
 School.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Info/History/key%20milestones.png">
-</div>
 <p><strong>School Motto</strong>
 </p>
 <p>Go Forward</p>
