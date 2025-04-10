@@ -35,10 +35,10 @@ _Therefore, my dear brothers and sisters, stand firm. Let nothing move you. Alwa
 _Whatever you do, work at it with all your heart, as working for the Lord, not for men – Colossians 3:23_
 
 
-Cultural Beliefs
+
 ----------------
 
-**Culture of Care and Excellence**
+**School Culture: Culture of Care and Excellence**
 
 In St. Hilda's Secondary School, we care to excel and excel to care.&nbsp;
 
