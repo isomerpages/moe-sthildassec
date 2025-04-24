@@ -147,7 +147,7 @@ St Hilda's Secondary School</p>
 Primary School and other key partners. These include a Combined School's
 Carnival, Founder's Day, Hildan Vision Night and 85th Anniversary Thanksgiving
 Dinner.</p>
-<p><strong>2024</strong>: Celebrated of 90th anniversary with 90 acts of
+<p><strong>2024</strong>: Celebration of 90th anniversary with 90 acts of
 kindness and a combined schools Founder's Day with St. Hilda's Primary
 School.</p>
 <p></p>
