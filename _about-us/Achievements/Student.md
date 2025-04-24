@@ -13,11 +13,8 @@ School Awards for Excellence
 **Bishop's Prize**<br>
 Student who achieves the best improvement for school examination at Sec 2
 
-**Boon Soon Neo Academic Excellence Award**<br>
+**Graham White Academic Excellence Award**<br>
 Students who distinguish themselves academically by obtaining the stipulated number of distinctions in school examination.
-
-**MB Menon Book Prize**<br>
-Student who obtains the best result for English Language at the GCE-O Level Examination
 
 **Wilfred Anthoniz Medal**<br>
 Student who obtains the best result for the GCE-O Level Examination
@@ -32,9 +29,9 @@ Students who display excellent qualities of integrity, positive attitude, loyalt
 **Lim Kim Choo Award - All Round Best Graduating Student**<br>
 Student who achieves excellent academic results at the GCE-O Level Examination, exhibits excellent leadership in CCA, and is exemplary in behaviour and conduct.
 
-**<u>Awards for Pupils</u>**
+**<u>Awards for Students</u>**
 
-[**View**](/files/2024_Masterplan_of_awards__school_website__FSBB.pdf) our Awards for Pupils.
+[**View**](/files/2024_Masterplan_of_awards__school_website__FSBB.pdf) our Awards for Students.
 
 
 Achievement
