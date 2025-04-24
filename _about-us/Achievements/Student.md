@@ -31,7 +31,7 @@ Student who achieves excellent academic results at the GCE-O Level Examination, 
 
 **<u>Awards for Students</u>**
 
-[**View**](/files/2024_Masterplan_of_awards__school_website__FSBB.pdf) our Awards for Pupils.
+[**View**](/files/2024_Masterplan_of_awards__school_website__FSBB.pdf) our Awards for Students.
 
 
 Achievement
