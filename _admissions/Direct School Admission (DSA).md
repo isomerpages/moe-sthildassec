@@ -8,9 +8,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA%20Banner.jpg">
 </div>
 <h2>DIRECT SCHOOL ADMISSION (DSA)</h2>
-<h3>St Hilda’s Secondary - Direct School Admission (DSA-Sec) for 2025 Secondary One Students</h3>
+<h3>St Hilda’s Secondary - Direct School Admission (DSA-Sec) for 2026 Secondary One Students</h3>
 <p>St Hilda’s Secondary School (SHSS) would like to invite Primary 6 students
-to apply for admission to Year 1 in 2025 under the Direct School Admission
+to apply for admission to Year 1 in 2026 under the Direct School Admission
 into secondary schools (DSA-Sec) scheme.</p>
 <p>Direct School Admission (DSA) scheme provides students with the opportunity
 to seek admission to a secondary school, based on a diverse range of specific
@@ -18,6 +18,10 @@ academic and non-academic achievements and talents that they can demonstrate
 beyond the Primary School Leaving Examination (PSLE). Primary 6 (P6) students
 who do not participate in the DSA-Sec will continue to seek admission based
 on their PSLE score through the Secondary 1 (S1) Posting.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of</p>
+<p>the applicants.</p>
 <h4><strong>DSA Talent Area</strong></h4>
 <p>SHSS welcomes students who are keen to develop their talent through 6
 sports:</p>
@@ -188,8 +192,8 @@ consider during the trials.</p>
 </table>
 <h4><strong>APPLICATION PROCESS</strong></h4>
 <p>Students and parents may submit applications for DSA-Sec via a centralised
-online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
-03 June 2024, 3pm.</p>
+online portal through the MOE DSA-Sec website from 11am on Wednesday, 7
+May 2025 to 3pm on Tuesday, 3 June 2025.</p>
 <p>The MOE DSA-Sec website can be accessed at:&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE</strong>
@@ -223,7 +227,7 @@ online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
 <p>Application for DSA-Sec through DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May – 3 June 2024</p>
+<p>7 May – 3 June 2025</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +238,7 @@ online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
 <p>Notification of shortlisted applicants and in-person selection trials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 June – 9 Sep 2024&nbsp;&nbsp;</p>
+<p>4 June – 4 Sep 2025</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +249,7 @@ online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
 <p>Submit School Preference through DSA-Sec Portal (by applicants)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21-25 Oct 2024</p>
+<p>27 Oct - 31 Oct 2025</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +260,7 @@ online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
 <p>Release of DSA-Sec Results together with PSLE Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20-22 Nov 2024</p>
+<p>Late Nov 2025</p>
 </td>
 </tr>
 </tbody>
@@ -267,5 +271,5 @@ online portal through the MOE DSA-Sec website from 07 May 2024, 11am to
 <br>Email:&nbsp;<a href="mailto:Kwok_Yong_Koon_Kenneth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kwok_Yong_Koon_Kenneth@schools.gov.sg</a>&nbsp;or&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">SHSS@moe.edu.sg</a>
 </p>
-<p><strong>Thank you and we look forward to meeting you soon! </strong>
+<p><strong>Thank you and we look forward to meeting you soon!</strong>
 </p>
