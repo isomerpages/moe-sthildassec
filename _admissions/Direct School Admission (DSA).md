@@ -20,8 +20,7 @@ who do not participate in the DSA-Sec will continue to seek admission based
 on their PSLE score through the Secondary 1 (S1) Posting.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
-assessing the potential of</p>
-<p>the applicants.</p>
+assessing the potential of the applicants.</p>
 <h4><strong>DSA Talent Area</strong></h4>
 <p>SHSS welcomes students who are keen to develop their talent through 6
 sports:</p>
