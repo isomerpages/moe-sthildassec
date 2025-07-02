@@ -624,18 +624,6 @@ variant: tiptap
 <p>4 Agape</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nurinda Binte Ahmad (Mdm Inda)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurinda_ahmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Kuhendran s/o Varatharajasingam (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -646,18 +634,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Michelle Elizabeth Rajlal (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">michelle_elizabeth_rajlal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Norshamsuddin Bin Abdul Gani (Mr)</p>
