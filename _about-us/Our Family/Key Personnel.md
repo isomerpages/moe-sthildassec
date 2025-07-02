@@ -322,21 +322,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH / Student Well-Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Daniel Liu Jianqing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_jianqing_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_jianqing_daniel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH / Maths</p>
 </td>
 <td rowspan="1" colspan="1">

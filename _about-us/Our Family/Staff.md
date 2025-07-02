@@ -19,13 +19,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CLASS</p>
+<p><strong>CLASS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAME</p>
+<p><strong>NAME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMAIL</p>
+<p><strong>EMAIL</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -79,18 +82,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>1 Peace</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zizi Elliza Bte Zulkefli (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zizi_elliza_zulkefli@moe.edu.sg" rel="noopener nofollow" target="_blank">zizi_elliza_zulkefli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ng Puay Hoon (Mdm)</p>
@@ -225,6 +216,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -234,13 +226,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CLASS</p>
+<p><strong>CLASS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAME</p>
+<p><strong>NAME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMAIL</p>
+<p><strong>EMAIL</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -413,6 +408,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -422,13 +418,16 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CLASS</p>
+<p><strong>CLASS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAME</p>
+<p><strong>NAME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMAIL</p>
+<p><strong>EMAIL</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -601,6 +600,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -610,30 +610,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CLASS</p>
+<p><strong>CLASS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NAME</p>
+<p><strong>NAME</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EMAIL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Agape</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nurinda Binte Ahmad (Mdm Inda)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurinda_ahmad@moe.edu.sg</a>
+<p><strong>EMAIL</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 Agape</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Kuhendran s/o Varatharajasingam (Mr)</p>
@@ -646,18 +637,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>4 Joy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Michelle Elizabeth Rajlal (Mdm)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">michelle_elizabeth_rajlal@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Norshamsuddin Bin Abdul Gani (Mr)</p>
