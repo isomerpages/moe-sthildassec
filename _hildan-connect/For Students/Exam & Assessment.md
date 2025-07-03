@@ -12,11 +12,11 @@ variant: tiptap
 <h3>2025 Prelim Exam</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_N_Level_Prelim_Exam_Schedule_final_2_June.pdf" rel="noopener nofollow" target="_blank">N-Level Prelim</a>
+<p><a href="/files/2025_N_Level_Prelim_Exam_Schedule_final_6_June_Rev_A.pdf" rel="noopener nofollow" target="_blank">N-Level Prelim</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_O_Level_Prelim_Exam_Schedule_final_2_June.pdf" rel="noopener nofollow" target="_blank">O-Level Prelim</a>
+<p><a href="/files/2025_O_Level_Prelim_Exam_Schedule_final_1_July_Rev_A.pdf" rel="noopener nofollow" target="_blank">O-Level Prelim</a>
 </p>
 </li>
 </ol>
