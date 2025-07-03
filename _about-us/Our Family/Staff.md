@@ -636,6 +636,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Luo Hai Lun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:luo_hailun@moe.edu.sg" rel="noopener nofollow" target="_blank">luo_hailun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Joy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -643,6 +655,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norshamsuddin_abdul_gani@moe.edu.sg" rel="noopener nofollow" target="_blank">norshamsuddin_abdul_gani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Siti A'isha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nur_aisha_osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_aisha_osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
