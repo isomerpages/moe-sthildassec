@@ -108,10 +108,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kalliyaperumal Govindasamy (Mr)</p>
+<p>Tan Yan Ping (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kaliyaperumal_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kaliyaperumal_govindasamy@moe.edu.sg</a>
+<p><a href="mailto:tan_yan_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_ping_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
