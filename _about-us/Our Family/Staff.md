@@ -450,7 +450,7 @@ variant: tiptap
 <p>Chen Yuxiu Alina (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chee_sui_yim_alina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_sui_yim_alina@moe.edu.sg</a>
+<p><a href="chen_yuxiu_alina@moe.edu.sg" rel="noopener nofollow" target="_blank">chen_yuxiu_alina@moe.edu.sg</a>
 </p>
 </td>
 </tr>
