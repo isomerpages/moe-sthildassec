@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_O_Level_Prelim_Exam_Schedule_final_1_July_Rev_A.pdf" rel="noopener nofollow" target="_blank">O-Level Prelim</a>
+<p><a href="/files/2025_O_Level_Prelim_Exam_Schedule__updated_5_Aug_25_.pdf" rel="noopener nofollow" target="_blank">O-Level Prelim</a>
 </p>
 </li>
 </ol>
