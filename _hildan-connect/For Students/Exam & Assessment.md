@@ -20,8 +20,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SEC_3_EOY_Exam_Timetables_2025Final.pdf" rel="noopener nofollow" target="_blank">Secondary 3 End of Year Exams</a>
+<p><a href="/files/SEC_3_EOY_Exam_Timetables_2025Final__Rev_B_19_Sep_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 End of Year Exams</a>
 </p>
+<p></p>
 </li>
 </ol>
 <p></p>
