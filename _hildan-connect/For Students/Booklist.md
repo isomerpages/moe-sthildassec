@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-Booklist 2025
+Booklist 2026
 --------
  
 1. [Sec 1](/files/SHSS_S1.pdf)
