@@ -10,6 +10,15 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infopic:
+      title: E-Open House 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: We welcome you to join St. Hilda's Secondary E-Open House 2025!
+      button: Register your interest here
+      url: https://forms.moe.edu.sg/forms/J5DYXZ
+      image: /images/WhatsApp_Image_2025_11_11_at_8_24_15_AM.jpg
+      alt: Image alt text
+  - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
         their lifelong pursuit of learning.
