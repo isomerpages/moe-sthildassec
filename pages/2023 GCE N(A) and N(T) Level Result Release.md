@@ -4,4 +4,14 @@ permalink: /nlevelresult/
 description: ""
 variant: tiptap
 ---
-<p>The 2023 GCE N(A)- and N(T)-Level Examinations result release will begin punctually at <strong>2.00pm</strong> on <strong>18 December (Mon)</strong>.</p><p>Candidates should arrive early at 1.30pm to allow time for grooming checks. Please be seated by <strong>1.50pm</strong> at <strong>MPH Level 4</strong>.</p><p>Parents may observe the release of results in the MPH.</p><p>Please refer to the school handbook (pages 11-20) on guidelines for attire and grooming:</p><p>1. Full school uniform or PE t-shirt with school pants or skirts.</p><p>2. School shoes with SHSS socks.</p><p>3. Appropriate hairstyle and no coloured hair.</p><p>Inappropriate hairstyle and attire will cause delay in getting of results.</p><p>Candidates who are unwell should seek medical attention and not return to school to collect their results.</p>
+<p>To the students collecting your ‘N’ Level results this Thursday, 18 Dec.</p>
+<p>Please report to the MPH by 2pm</p>
+<p>Your parents are welcome to join you.</p>
+<p>Some things to note:</p>
+<p>1) You are to be in half or full uniform with school socks and shoes.</p>
+<p>2.) Hairstyles should be short and neat for the boys and tied up for the
+girls(if it is long), as per school rules.</p>
+<p>Hair colour must be black and not dyed.</p>
+<p>Please also ensure you have paid off any monies owing ie school fees,
+etc. You can check with the GO about this.</p>
+<p>See you on Thursday. All the best</p>
