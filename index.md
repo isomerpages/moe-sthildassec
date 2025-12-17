@@ -10,10 +10,12 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infobar:
-      title: Release of GCE N Level Results
+      title: Release of GCE N-Level Results
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: The release of the GCE N-Level results will take place on 18th
+        December 2025. For more information, please refer to the link below.
+      button: Click here for more info
+      url: https://sthildassec.moe.edu.sg/nlevelresult/
   - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
