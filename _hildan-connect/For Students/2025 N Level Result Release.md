@@ -7,5 +7,5 @@ third_nav_title: For Students
 ---
 <h2>2025 GCE N-Level Information on Admission Exercises</h2>
 <p>For N-Level Information on Admission Exercises, you may access the deck
-of slides <a href="https://drive.google.com/file/d/192nZUfZn-4R_KDTV-ZoDqLZmRXb7cBLU/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p></p>
+of slides <a href="/files/National Exams/2025_N_Level_Result_Release_admin_18Dec25__for_Sch_website_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>.</p>
