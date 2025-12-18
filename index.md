@@ -15,13 +15,6 @@ sections:
       description: Your one-stop website for all Sec 1 Registration Matters
       button: Click here to proceed
       url: https://sites.google.com/d/10OZLxjQaHXcIUHHxqB-d4fAS-AiNEe0p/p/1A8i6QLLSX8k8UvkOK4CI73wCBe3GXoFD/edit
-  - infobar:
-      title: Release of GCE N-Level Results
-      id: infobar
-      description: The release of the GCE N-Level results will take place on 18th
-        December 2025. For more information, please refer to the link below.
-      button: Click here for more info
-      url: /nlevelresult/
   - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
