@@ -14,7 +14,7 @@ sections:
       id: infobar
       description: Your one-stop website for all Sec 1 Registration Matters
       button: Click here to proceed
-      url: https://sites.google.com/d/10OZLxjQaHXcIUHHxqB-d4fAS-AiNEe0p/p/1A8i6QLLSX8k8UvkOK4CI73wCBe3GXoFD/edit
+      url: https://go.gov.sg/shss-sec1-regn
   - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
