@@ -10,7 +10,7 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infobar:
-      title: Sec 1 Registration Portal
+      title: 2026 Sec 1 Registration Portal
       id: infobar
       description: Your one-stop website for all Sec 1 Registration Matters
       button: Click here to proceed
