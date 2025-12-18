@@ -10,6 +10,12 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infobar:
+      title: Sec 1 Registration Portal
+      id: infobar
+      description: Your one-stop website for all Sec 1 Registration Matters
+      button: Click here to proceed
+      url: https://sites.google.com/d/10OZLxjQaHXcIUHHxqB-d4fAS-AiNEe0p/p/1A8i6QLLSX8k8UvkOK4CI73wCBe3GXoFD/edit
+  - infobar:
       title: Release of GCE N-Level Results
       id: infobar
       description: The release of the GCE N-Level results will take place on 18th
