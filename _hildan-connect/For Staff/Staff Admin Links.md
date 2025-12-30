@@ -15,9 +15,8 @@ Useful Links
 * [OPAL2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)
 * [HRP PORTAL](https://www.hrp.gov.sg/hrp/#/)
 * [SCHOOL COCKPIT](https://access.moe.edu.sg/login/login.jsp)
-
-
 * [PAIR CHAT](https://pair.gov.sg/)
+* [DDC Resource](go.gov.sg/shssddc)
 
 ### Useful Links that require iCON login.
 * [SHSS Staff Admin Link](https://sites.google.com/moe.edu.sg/shssstafflink/home) 
