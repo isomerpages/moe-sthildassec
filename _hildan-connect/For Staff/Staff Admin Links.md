@@ -16,7 +16,7 @@ Useful Links
 * [HRP PORTAL](https://www.hrp.gov.sg/hrp/#/)
 * [SCHOOL COCKPIT](https://access.moe.edu.sg/login/login.jsp)
 * [PAIR CHAT](https://pair.gov.sg/)
-* [DDC Resource](go.gov.sg/shssddc)
+* [DDC Resource](https://padlet.com/pang_liang_wee_/ddc-resources-shss-h2tjqgz089c6mz5x)
 
 ### Useful Links that require iCON login.
 * [SHSS Staff Admin Link](https://sites.google.com/moe.edu.sg/shssstafflink/home) 
