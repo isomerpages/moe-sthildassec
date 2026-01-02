@@ -198,13 +198,13 @@ variant: tiptap
 <p>HOD / English Language (MRL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tracy Chua Siew Hui&nbsp;</p>
+<p>Muhammad Zulhilmi Awaruddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_siew_hui_tracy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_siew_hui_tracy@moe.edu.sg</a>
+<p><a href="mailto:muhammad_zulhilmi_awaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulhilmi_awaruddin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -262,7 +262,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH / Upper Secondary&nbsp;</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
@@ -277,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH / Lower Secondary (POA &amp; EBS)</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>
@@ -292,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH /&nbsp; Lower Secondary</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp;</p>
@@ -302,6 +302,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_junyang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_junyang_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teng Yuling Elaine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_yuling_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_yuling_elaine@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -437,6 +452,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xi_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xi_ning@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Carol Look</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shern_ting_carol_look@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shern_ting_carol_look@moe.edu.sg</a>
 </p>
 </td>
 </tr>
