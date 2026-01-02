@@ -758,7 +758,7 @@ variant: tiptap
 <p>Tan Yen Lin (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yen_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_lin@moe.edu.sg</a> 
+<p><a href="mailto:tan_yen_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yen_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
