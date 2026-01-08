@@ -23,3 +23,7 @@ Useful Links
 * [Incident Report Form](https://form.gov.sg/638fdee8eb0b700012562400)
 * [RAMS FORM TEMPLATE](https://docs.google.com/spreadsheets/d/10W31oZFZ97zuk9xEVP6u_3PihihalFhz0L-Xf9n4LdU/edit?gid=161810983#gid=161810983)
 * [RAMS & Safety Folder](https://drive.google.com/drive/folders/118goBpq2RP0wv2sGrXXdT9EJjxGbZlTs?usp=drive_link)
+
+
+### Useful Links that require MS365 login.
+* [Students Emails and Distribution List](https://sgmoe-my.sharepoint.com/:f:/g/personal/mahathir_khalid_schools_gov_sg/IgD1CoDlRwAxSIgAj4DUXCYXAZ6puBMruc9jY7SnuCyOfJM)
