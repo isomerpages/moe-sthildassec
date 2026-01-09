@@ -58,7 +58,7 @@ and class when collecting the&nbsp;results.</p>
 <p></p>
 <p><strong><u>Useful Links</u></strong>
 </p>
-<p><strong><u>2026 JAE course (</u><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a><u> )</u></strong>
+<p><strong><u>2026 JAE courses (</u><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a><u> )</u></strong>
 </p>
 <p><u>Press release</u>
 </p>
