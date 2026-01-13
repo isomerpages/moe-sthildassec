@@ -554,7 +554,7 @@ variant: tiptap
 <p>Loo Yow Tong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_zhengchang@moe.edu.sg" rel="noopener nofollow" target="_blank">lin_zhengchang@moe.edu.sg</a>
+<p><a href="mailto:loo_yow_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yow_tong@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -1042,7 +1042,7 @@ variant: tiptap
 <p>Lim Keon Suai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_keon_suai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_keon_suai@moe.edu.sg</a> 
+<p><a href="mailto:lim_keon_suai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_keon_suai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
