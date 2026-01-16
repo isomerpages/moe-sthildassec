@@ -60,8 +60,11 @@ and class when collecting the&nbsp;results.</p>
 </p>
 <p><strong><u>2026 JAE courses</u> (<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>)</strong>
 </p>
+<p><a href="/files/2025_O_Level_Result_Release_admin_14Jan26.pdf" rel="noopener nofollow" target="_blank">O-level Results Release Admin Briefing Slides</a>
+</p>
 <p><a href="/files/For_Sec_4_5_2026_Open_house_dates.pdf" rel="noopener nofollow" target="_blank">(Post Secondary Education Institutions (PSEI) - Open House 2026</a>
 </p>
+<p></p>
 <p><u>Press release</u>
 </p>
 <p><a href="https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise</a>
