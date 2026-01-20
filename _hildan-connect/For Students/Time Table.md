@@ -10,4 +10,4 @@ variant: markdown
 TIMETABLE 2024
 ----------
 
-1. [Class](/files/TT_2024_Semester_1__27_Jan_2024____Class.pdf)
+1. [Class ](/files/TT_2026_Semester_1__16_January_2026____Class.pdf)
