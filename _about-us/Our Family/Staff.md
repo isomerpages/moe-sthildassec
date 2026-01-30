@@ -554,7 +554,7 @@ variant: tiptap
 <p>Loo Yow Tong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_yow_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yow_tong@moe.edu.sg</a> 
+<p><a href="mailto:loo_yow_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_yow_tong@moe.edu.sg</a>
 </p>
 </td>
 </tr>

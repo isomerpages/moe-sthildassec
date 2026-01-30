@@ -10,11 +10,11 @@ sections:
       background: /images/shs website (1920x720).png
       variant: center
   - infobar:
-      title: Sec 1 Registration Portal
+      title: SHSS HBL 2026
       id: infobar
-      description: Your one-stop website for all Sec 1 Registration Matters
+      description: For all your Home-Based Learning Needs,
       button: Click here to proceed
-      url: https://go.gov.sg/shss-sec1-regn
+      url: https://sites.google.com/moe.edu.sg/shsshomebasedlearning?usp=sharing
   - infopic:
       title: We develop self-directed and reflective learners.
       description: We invite our students to take ownership, reflect and persevere in
