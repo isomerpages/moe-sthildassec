@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/shs website (1920x720).png
+      background: /images/Untitled_design__2_.gif
       variant: center
   - infobar:
       title: SHSS HBL 2026
