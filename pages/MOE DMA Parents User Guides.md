@@ -26,7 +26,7 @@ they have chosen for their child’s/ward’s PLD.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1yVtOrHYdGiJVtKg871-RiHAiG8mHCpul/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide - Default Option (PDF Guide)</u></a>
+<p><a href="/files/MOE DMA Guides for Parents/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide - Default Option (PDF Guide)</u></a>
 </p>
 </li>
 </ul>
@@ -34,7 +34,7 @@ they have chosen for their child’s/ward’s PLD.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1ndlVvz9DY245bg9cb3PxAA6mdPLfUAEV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide - Option A (PDF Guide)</u></a>
+<p><a href="/files/MOE DMA Guides for Parents/ChromeOS_DMA_Parent_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide - Option A (PDF Guide)</u></a>
 </p>
 </li>
 </ul>
@@ -42,7 +42,7 @@ they have chosen for their child’s/ward’s PLD.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1XYaezWURQej9iwafLj9Zvgy5W8OpFdrl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide - Option B (PDF Guide)</u></a>
+<p><a href="/files/MOE DMA Guides for Parents/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>DMA Parent Guide - Option B (PDF Guide)</u></a>
 </p>
 </li>
 </ul>
