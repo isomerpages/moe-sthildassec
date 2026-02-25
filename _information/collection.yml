@@ -2,4 +2,5 @@ collections:
   information:
     output: true
     order:
+      - MOE DMA Parents User Guides.md
       - SWN@SSOE Login Guide.md
