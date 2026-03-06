@@ -66,8 +66,9 @@ Appreciation &amp; Connecting Contexts
 </li>
 </ul>
 <p><strong>Our Teachers</strong> 
-<br>Ms Tan Yen Lin
+<br>Mdm Tan Yen Lin
 <br>Ms Deng Lan
+<br>Ms Koo Ching Ching
 <br>
 </p>
 <p><strong>Learn More</strong> 

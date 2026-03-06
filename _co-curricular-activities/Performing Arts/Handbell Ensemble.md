@@ -34,8 +34,9 @@ be excellent ringers and performers.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Ms Alina Chen
-<br>Mdm Azliza</p>
+<br>Mdm Azliza
+<br>Mdm Norlindah
+<br>Mdm Xi Ning</p>
 <p><strong>Learn More</strong> 
 <br>Click&nbsp;<a href="/files/HANDBELL_ENSEMBLE.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more!</p>

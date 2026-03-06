@@ -44,8 +44,9 @@ together.</p>
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mdm Xi Ning
+<br>Mdm Jasmine
 <br>Mdm Shahroon Jihan
+<br>Mr Kaliyaperumal
 <br>
 </p>
 <p><strong>Learn More</strong> 

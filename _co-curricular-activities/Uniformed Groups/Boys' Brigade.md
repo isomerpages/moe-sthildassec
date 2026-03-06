@@ -57,8 +57,9 @@ of Global Awareness, Community Spiritedness, Personal Mastery and Leadership.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mr Lin Zheng Chang
-<br>Mr Chan Chee Keong
 <br>Ms Philisa Neo
+<br>Mr Chan Chee Keong
+<br>Ms Izac Ooi</p>
+<p>
 <br>Click <a href="https://www.sthildassec.moe.edu.sg/files/CCA/bb%20Presentation%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 know more!</p>

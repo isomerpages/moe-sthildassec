@@ -170,6 +170,17 @@ variant: tiptap
 <p>&nbsp;Vicar, SHC&nbsp;&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rev Bernard Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Chaplain, Chapel of Christ the Redeemer</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
