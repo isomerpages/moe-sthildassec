@@ -35,8 +35,8 @@ concerned citizens advocating lifesaving skills.
 </p>
 <p><strong>Our Teachers</strong> 
 <br>Mr Huang Yu Ming
-<br>Mdm Huzaifah</p>
-<p>Mrs Karin Wong
+<br>Mdm Huzaifah
+<br>Mrs Karin Wong
 <br>Mr Lim Hong Ye
 <br>
 </p>
