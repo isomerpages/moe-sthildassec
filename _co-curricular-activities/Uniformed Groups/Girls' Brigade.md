@@ -32,8 +32,10 @@ her fullest potential through equipping, empowering and enabling skills.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Ms Daphne Huang
-<br>Ms Weng Chenyan
+<br>Mrs Luo Hailun
+<br>Ms Tan Yan Ping
+<br>Mrs Carol Look
+<br>Mrs Michelle Chiu
 <br>
 </p>
 <p><strong>Learn More</strong> 
