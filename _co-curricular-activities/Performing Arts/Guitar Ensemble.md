@@ -34,8 +34,10 @@ ensemble. We bond by the motto 'One note at a time, together as an ensemble'.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mr Jeremy Wee
-<br>Mdm Nurinda Ahmad
+<br>Mdm Alina Chen
+<br>Mdm Ramona
+<br>Mr Ng Chee Kin
+<br>Ms Nur Aisyah
 <br>
 </p>
 <p><strong>Learn More</strong> 
