@@ -37,9 +37,9 @@ crime and keep Singapore safe.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mr Hamad
 <br>Mr Shaik Fuad Bin Abdul Jabbar
 <br>Ms Cui Dong Yan
+<br>Mr Alarick Soh
 <br>
 </p>
 <p><strong>Learn More</strong> 
