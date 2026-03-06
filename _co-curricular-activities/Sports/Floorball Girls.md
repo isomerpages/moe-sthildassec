@@ -44,9 +44,9 @@ for sports.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Ms Elaine Teng
 <br>Mdm Nisha Ishwardas Rajwani
-<br>Mrs Thiruchelvam</p>
+<br>Mrs Thiruchelvam
+<br>Mrs Elaine Teng</p>
 <p><strong>Learn More</strong> 
 <br>Click&nbsp;<a href="/files/DSA_floorball_vetted_26_6.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 know more about us!
