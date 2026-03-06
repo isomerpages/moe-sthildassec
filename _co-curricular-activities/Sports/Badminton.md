@@ -28,7 +28,8 @@ variant: tiptap
 </p>
 <p><strong>Our Teachers</strong> 
 <br>Ms Chong Nget Fong
-<br>Mr Kalliyaperumal Govindasamy
+<br>Mr Loo Yow Tong
+<br>Mrs Lai-See Ngiap Yian
 <br>
 <br>
 </p>
