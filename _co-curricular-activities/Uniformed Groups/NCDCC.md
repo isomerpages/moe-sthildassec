@@ -34,9 +34,10 @@ concerned citizens advocating lifesaving skills.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mr Abdul Bari Bin Ahmad
 <br>Mr Huang Yu Ming
-<br>Mdm Juwaidah Bte Adnan
+<br>Mdm Huzaifah</p>
+<p>Mrs Karin Wong
+<br>Mr Lim Hong Ye
 <br>
 </p>
 <p><strong>Learn More</strong> 
