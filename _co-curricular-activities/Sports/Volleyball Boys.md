@@ -117,9 +117,9 @@ principles.
 </li>
 </ul>
 <p><strong>Our Teachers</strong> 
-<br>Ms Teo Siew Lan
-<br>Mr Yak Zhengqiang
-<br>Mr Kenneth Kwok
+<br>Mr Yak Zheng Qiang
+<br>Mr Cindy Tan
+<br>Mdm Teo Siew Lan
 <br>
 </p>
 <p><strong>Learn More</strong> 
