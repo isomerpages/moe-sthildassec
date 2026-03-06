@@ -6,8 +6,9 @@ third_nav_title: Our Family
 variant: tiptap
 ---
 <h2>STAFF</h2>
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/staff.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SHSS Staff Photo 2025" src="/images/Staff/SHSS_Staff_2025.jpg">
 </div>
 <h2>Form Teachers</h2>
 <table style="minWidth: 75px">
@@ -909,10 +910,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Cheng Choo</p>
+<p>Customer Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer (MSO)</p>
+<p>Mdm Goh Cheng Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_cheng_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_cheng_choo@moe.edu.sg</a>
@@ -921,14 +922,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Yee Koon</p>
+<p>Customer Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer (MSO)</p>
+<p>Ms Loh Yee Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_yee_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yee_koon@moe.edu.sg&nbsp;</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Customer Support Officer (CSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zarafha Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zarafha_Ahmad@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
