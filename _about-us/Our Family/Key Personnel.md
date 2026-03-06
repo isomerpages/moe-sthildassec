@@ -546,6 +546,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST / Art, School , Staff Coordinating Mentor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sawlani Gopal Kalyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:venugopal_shanmugavalli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sawlani_gopal_kalyan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST / Chem</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -561,16 +576,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST / History , NE Coordinator</p>
+<p>ST / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gwen Ho Gui Vun&nbsp; (Mrs Lui)</p>
+<p>Nurulasyikin Md Yunan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_gui_vun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_gui_vun@moe.edu.sg</a>
+<p><a href="mailto:nurulasyikin_md_yunan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulasyikin_md_yunan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -591,16 +606,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST / Art, School , Staff Coordinating Mentor</p>
+<p>ST / History , NE Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sawlani Gopal Kalyan</p>
+<p>Gwen Ho Gui Vun&nbsp; (Mrs Lui)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:venugopal_shanmugavalli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sawlani_gopal_kalyan@moe.edu.sg</a>
+<p><a href="mailto:ho_gui_vun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_gui_vun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
