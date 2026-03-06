@@ -3,6 +3,7 @@ title: St Hilda's Chaplaincy
 permalink: /hildan-partners/st-hildas-chaplaincy/
 description: ""
 third_nav_title: Our Family
+variant: markdown
 ---
 ![](/images/Hildan%20Partners/Chaplaincy%20Banner.jpg)
 
@@ -20,7 +21,7 @@ third_nav_title: Our Family
 <tbody>
   <tr>
     <th>Associate Chaplain:</th>
-    <td>Rev Joshua Raj </td>
+    <td>Rev Bernard Yee </td>
   </tr>
   <tr>
     <th>SHSS Chaplaincy Head:</th>
