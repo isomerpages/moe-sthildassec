@@ -1067,7 +1067,8 @@ variant: tiptap
 <p>Vidhu Pillai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p><a href="mailto:Piilai_Vidhu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Piilai_Vidhu@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
