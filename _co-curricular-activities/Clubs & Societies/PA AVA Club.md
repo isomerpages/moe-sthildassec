@@ -37,8 +37,10 @@ Boys) - 1st
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mr Md Noornizar Bin Amirnoordin
 <br>Mr Charles Neo
+<br>Mr Md Noornizar
+<br>Mr Sim See Yii
+<br>Mr Tay Chye Huat
 <br>
 </p>
 <p><strong>Learn More</strong> 
