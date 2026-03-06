@@ -31,8 +31,8 @@ into well-balanced individual with good academics.</p>
 </p>
 <p><strong>Our Teachers</strong> 
 <br>Ms Ong Gui Li
-<br>Ms Hung Siau Moon
-<br>Ms Cindy Tan
+<br>Mr Kenneth Kwok
+<br>Mdm Shanmugavali
 <br>
 </p>
 <p><strong>Learn More</strong> 
