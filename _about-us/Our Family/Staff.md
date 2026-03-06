@@ -940,7 +940,8 @@ variant: tiptap
 <p>Mdm Zarafha Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zarafha_Ahmad@moe.edu.sg</p>
+<p><a href="mailto:Zarafha_Ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">Zarafha_Ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
