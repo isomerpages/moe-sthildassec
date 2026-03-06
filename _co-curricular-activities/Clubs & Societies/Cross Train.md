@@ -57,7 +57,7 @@ them in CCA activities.
 </p>
 <p><strong>Our Teachers/Instructors</strong> 
 <br>Ms Lam Mei Lan
-<br>Mr Richard Lian
+<br>Mdm Weng Chenyan
 <br>
 </p>
 <p>Chaplaincy staff
