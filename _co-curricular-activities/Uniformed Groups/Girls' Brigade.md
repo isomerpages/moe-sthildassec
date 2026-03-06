@@ -32,10 +32,10 @@ her fullest potential through equipping, empowering and enabling skills.
 <br>
 </p>
 <p><strong>Our Teachers</strong> 
-<br>Mrs Luo Hailun
+<br>Mdm Luo Hailun
 <br>Ms Tan Yan Ping
-<br>Mrs Carol Look
-<br>Mrs Michelle Chiu
+<br>Ms Carol Look
+<br>Mdm Michelle Chiu
 <br>
 </p>
 <p><strong>Learn More</strong> 
