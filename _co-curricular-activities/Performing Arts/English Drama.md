@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h2>English Drama</h2>
+<h2>Drama Club</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama%20Club%202023.png">
 </div>
@@ -34,9 +34,9 @@ to showcase their talent.
 <br>2017 -&nbsp;Certificate of Distinction
 <br>2015 -&nbsp;Certificate of Distinction</p>
 <p><strong>Our Teachers</strong> 
-<br>Mdm Michelle E. Rajlal
+<br>Mdm Lim Xi Michelle
 <br>Ms Waheedah
-<br>Mdm Lim Xi Michelle</p>
+<br>Ms Siti A'isha</p>
 <p><strong>Learn More</strong> 
 <br>Click&nbsp;<a href="/files/THE_HILDAN_DRAMA_CLUB__2__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 find out more!</p>
