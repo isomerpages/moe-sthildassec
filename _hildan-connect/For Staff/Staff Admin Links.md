@@ -21,5 +21,5 @@ Useful Links
 ### Useful Links that require iCON login.
 * [SHSS Staff Admin Link](https://sites.google.com/moe.edu.sg/shssstafflink/home) 
 * [Incident Report Form](https://form.gov.sg/638fdee8eb0b700012562400)
-* [RAMS FORM TEMPLATE](https://docs.google.com/spreadsheets/d/10W31oZFZ97zuk9xEVP6u_3PihihalFhz0L-Xf9n4LdU/edit?gid=161810983#gid=161810983)
+* [RAMS FORM TEMPLATE](https://docs.google.com/spreadsheets/d/1wolTIfDcH6R0siEJvJBGQMaRTp0Ey_-rYn6fJSgUThw/edit?usp=sharing)
 * [RAMS & Safety Folder](https://drive.google.com/drive/folders/118goBpq2RP0wv2sGrXXdT9EJjxGbZlTs?usp=drive_link)
