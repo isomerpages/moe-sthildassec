@@ -122,10 +122,10 @@ variant: tiptap
 <p>HOD / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Msm</p>
+<p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alina Chee Sui Yim</p>
+<p>Alina Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chee_sui_yim_alina@moe.edu.sg</p>
