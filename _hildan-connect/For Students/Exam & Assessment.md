@@ -12,17 +12,12 @@ variant: tiptap
 <h3>2025 End Of Year Exam</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/SEC_1_EOY_Exam_Timetables_2025_Final.pdf" rel="noopener nofollow" target="_blank">Secondary 1 End of Year Exams</a>
+<p><a href="/files/2026_N_Level_Prelim_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 N Level Prelim Exam Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SEC_2_EOY_Exam_Timetables_2025Final.pdf" rel="noopener nofollow" target="_blank">Secondary 2 End of Year Exams</a>
+<p><a href="/files/2026_O_Level_Prelim_Exam_Schedule.pdf" rel="noopener nofollow" target="_blank">2026 O level Prelim Exam Schedule</a>
 </p>
-</li>
-<li>
-<p><a href="/files/SEC_3_EOY_Exam_Timetables_2025Final__Rev_B_19_Sep_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3 End of Year Exams</a>
-</p>
-<p></p>
 </li>
 </ol>
 <p></p>
