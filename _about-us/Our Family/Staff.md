@@ -164,11 +164,11 @@ variant: tiptap
 <p>1 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Xin Rong</p>
+<p>Junaidah Binte Jumat</p>
 <p>(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xin_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xin_rong_a@moe.edu.sg</a>
+<p><a href="mailto:junaidah_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_jumat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -177,10 +177,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junaidah Binte Jumat (Ms)</p>
+<p>Sharon Tan(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junaidah_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_jumat@moe.edu.sg</a>
+<p><a href="mailto:tan_li_ern_sharon@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_li_ern_sharon@moe.edu.sg </a>
 </p>
 </td>
 </tr>
