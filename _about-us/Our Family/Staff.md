@@ -180,7 +180,7 @@ variant: tiptap
 <p>Sharon Tan(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_li_ern_sharon@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_li_ern_sharon@moe.edu.sg </a>
+<p><a href="mailto:tan_li_ern_sharon@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_li_ern_sharon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -334,10 +334,10 @@ variant: tiptap
 <p>2 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Mei Lan (Ms)</p>
+<p>Norlindah Binte Mohd Taib (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_mei_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_mei_lan@moe.edu.sg</a>
+<p><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg" rel="noopener nofollow" target="_blank">norlindah_mohd_taib@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -346,10 +346,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norlindah Binte Mohd Taib (Mdm)</p>
+<p>Chia Yee Teng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg" rel="noopener nofollow" target="_blank">norlindah_mohd_taib@moe.edu.sg</a>
+<p><a href="mailto:chia_yee_teng@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_yee_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
