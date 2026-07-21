@@ -164,11 +164,11 @@ variant: tiptap
 <p>1 Goodness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Xin Rong</p>
+<p>Junaidah Binte Jumat</p>
 <p>(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_xin_rong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_xin_rong_a@moe.edu.sg</a>
+<p><a href="mailto:junaidah_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_jumat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -177,10 +177,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junaidah Binte Jumat (Ms)</p>
+<p>Sharon Tan(Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junaidah_jumat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junaidah_jumat@moe.edu.sg</a>
+<p><a href="mailto:tan_li_ern_sharon@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_li_ern_sharon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -334,10 +334,10 @@ variant: tiptap
 <p>2 Kindness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lam Mei Lan (Ms)</p>
+<p>Norlindah Binte Mohd Taib (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lam_mei_lan@moe.edu.sg" rel="noopener nofollow" target="_blank">lam_mei_lan@moe.edu.sg</a>
+<p><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg" rel="noopener nofollow" target="_blank">norlindah_mohd_taib@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -346,10 +346,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Norlindah Binte Mohd Taib (Mdm)</p>
+<p>Chia Yee Teng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kuhendran_varatharajasinga@moe.edu.sg" rel="noopener nofollow" target="_blank">norlindah_mohd_taib@moe.edu.sg</a>
+<p><a href="mailto:chia_yee_teng@moe.edu.sg" rel="noopener nofollow" target="_blank">chia_yee_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -910,7 +910,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Customer Support Officer (CSO)</p>
+<p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Cheng Choo</p>
@@ -922,25 +922,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Customer Support Officer (CSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Loh Yee Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_yee_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yee_koon@moe.edu.sg&nbsp;</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Customer Support Officer (CSO)</p>
+<p>Corporate Support Officer (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zarafha Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Zarafha_Ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">Zarafha_Ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer (CSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurlina Binte Abdul Sani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nurlina_Abdul_Sani@moe.edu.sg" rel="noopener nofollow" target="_blank">Nurlina_Abdul_Sani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
